@@ -1,0 +1,38 @@
+{
+    "objectID": "81f3ce447e2bed8d04194748ce06495c",
+    "name": "5675-5690 Umsatzsteuer",
+    "type": "Aufwand",
+    "code": "5675-5690",
+    "description": "Umsatzsteuer",
+    "categories": [
+        "5650 Sonstige Kosten Zweckbetrieb Sport",
+        "5500-5699 Sonstige betriebliche Aufwendungen",
+        "5280-5699 AUSGABEN / AUFWENDUNGEN",
+        "5000-5699 ZWECKBETRIEBE SPORT 1",
+        "5000-5889 ZWECKBETRIEBE SPORT",
+        "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl5": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5000-5889 ZWECKBETRIEBE SPORT > 5000-5699 ZWECKBETRIEBE SPORT 1 > 5280-5699 AUSGABEN / AUFWENDUNGEN > 5500-5699 Sonstige betriebliche Aufwendungen > 5650 Sonstige Kosten Zweckbetrieb Sport"
+        },
+        {
+            "lvl4": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5000-5889 ZWECKBETRIEBE SPORT > 5000-5699 ZWECKBETRIEBE SPORT 1 > 5280-5699 AUSGABEN / AUFWENDUNGEN > 5500-5699 Sonstige betriebliche Aufwendungen"
+        },
+        {
+            "lvl3": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5000-5889 ZWECKBETRIEBE SPORT > 5000-5699 ZWECKBETRIEBE SPORT 1 > 5280-5699 AUSGABEN / AUFWENDUNGEN"
+        },
+        {
+            "lvl2": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5000-5889 ZWECKBETRIEBE SPORT > 5000-5699 ZWECKBETRIEBE SPORT 1"
+        },
+        {
+            "lvl1": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5000-5889 ZWECKBETRIEBE SPORT"
+        },
+        {
+            "lvl0": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport"
+        }
+    ],
+    "leaf": false,
+    "placeholder": true,
+    "parent": "da0a29d71fd1bf6f6c7b97f5dff4c021"
+}

@@ -1,0 +1,26 @@
+{
+    "objectID": "4c9fa1e3c5f80da5178b29b4886cd4e6",
+    "name": "9802-9829 freie Konten f\u00fcr Werte",
+    "type": "Aktiva",
+    "code": "9802-9829",
+    "description": "freie Konten f\u00fcr Werte",
+    "categories": [
+        "9600-9849 Statistische Werte f\u00fcr BWA",
+        "9600-9998 WEITERE STATISTIK- UND VORTRAGSKONTEN",
+        "9 Statistik- & Vortragskonten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "9 Statistik- & Vortragskonten > 9600-9998 WEITERE STATISTIK- UND VORTRAGSKONTEN > 9600-9849 Statistische Werte f\u00fcr BWA"
+        },
+        {
+            "lvl1": "9 Statistik- & Vortragskonten > 9600-9998 WEITERE STATISTIK- UND VORTRAGSKONTEN"
+        },
+        {
+            "lvl0": "9 Statistik- & Vortragskonten"
+        }
+    ],
+    "leaf": false,
+    "placeholder": true,
+    "parent": "ce6ef6340d8c65efd124f5950fcbb6a8"
+}

@@ -1,0 +1,30 @@
+{
+    "objectID": "3700c8594d98f7a76e55bfc6a86676b7",
+    "name": "Sonstige eingeschr\u00e4nkt abziehbare Betriebsausgaben (abziehbarer Anteil)",
+    "type": "Aufwand",
+    "code": "6641",
+    "description": "",
+    "categories": [
+        "Werbekosten",
+        "6) Werbe- und Reisekosten",
+        "a) ordentliche betriebliche Aufwendungen",
+        "08. sonstige betriebliche Aufwendungen"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen > 6) Werbe- und Reisekosten > Werbekosten"
+        },
+        {
+            "lvl2": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen > 6) Werbe- und Reisekosten"
+        },
+        {
+            "lvl1": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen"
+        },
+        {
+            "lvl0": "08. sonstige betriebliche Aufwendungen"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "b79422d817942119d25d7a427466b48a"
+}

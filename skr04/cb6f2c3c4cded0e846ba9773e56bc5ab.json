@@ -1,0 +1,34 @@
+{
+    "objectID": "cb6f2c3c4cded0e846ba9773e56bc5ab",
+    "name": "USt-Forderungen laufendes Jahr",
+    "type": "Aktiva",
+    "code": "1421",
+    "description": "",
+    "categories": [
+        "Umsatzsteuerforderungen",
+        "04. Sonstige Verm\u00f6gensgegenst\u00e4nde",
+        "II. Forderungen und sonstige Verm\u00f6gensgegenst\u00e4nde",
+        "B. Umlaufverm\u00f6gen",
+        "Aktiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl4": "Aktiva > B. Umlaufverm\u00f6gen > II. Forderungen und sonstige Verm\u00f6gensgegenst\u00e4nde > 04. Sonstige Verm\u00f6gensgegenst\u00e4nde > Umsatzsteuerforderungen"
+        },
+        {
+            "lvl3": "Aktiva > B. Umlaufverm\u00f6gen > II. Forderungen und sonstige Verm\u00f6gensgegenst\u00e4nde > 04. Sonstige Verm\u00f6gensgegenst\u00e4nde"
+        },
+        {
+            "lvl2": "Aktiva > B. Umlaufverm\u00f6gen > II. Forderungen und sonstige Verm\u00f6gensgegenst\u00e4nde"
+        },
+        {
+            "lvl1": "Aktiva > B. Umlaufverm\u00f6gen"
+        },
+        {
+            "lvl0": "Aktiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "2edc2d5252d406f4753b00cd1261acc7"
+}

@@ -1,0 +1,21 @@
+{
+    "objectID": "5c008564ba99d0dfe6f20166adde5e6c",
+    "name": "1820 Sonderausgaben beschr\u00e4nkt abzugsf\u00e4hig",
+    "type": "Eigenkapital",
+    "code": "1820",
+    "description": "",
+    "categories": [
+        "Privatentnahmen/-einlagen",
+        "Privatkonten 1"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "Privatkonten 1 > Privatentnahmen/-einlagen"
+        },
+        {
+            "lvl0": "Privatkonten 1"
+        }
+    ],
+    "leaf": true,
+    "parent": "b9ae1b059749ea81c757a9adad39db1b"
+}

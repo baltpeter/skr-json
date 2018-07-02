@@ -1,0 +1,22 @@
+{
+    "objectID": "6477c35aec1f143e1fb994844d5aba23",
+    "name": "Gesetzlich soziale Aufwendungen",
+    "type": "Aufwand",
+    "code": "6110",
+    "description": "",
+    "categories": [
+        "b) soziale Abgaben und Aufwendungen f\u00fcr Altersversorgung und Unterst\u00fctzung",
+        "06. Personalaufwand"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "06. Personalaufwand > b) soziale Abgaben und Aufwendungen f\u00fcr Altersversorgung und Unterst\u00fctzung"
+        },
+        {
+            "lvl0": "06. Personalaufwand"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "a943872d0d0623064a3c76ccff77965e"
+}

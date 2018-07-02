@@ -1,0 +1,27 @@
+{
+    "objectID": "0f1fc240390aa0a9d5de03aa92742557",
+    "name": "9280 Gegenkonto zu 9281-9286",
+    "type": "Aktiva",
+    "code": "9280",
+    "description": "Gegenkonto zu 9281-9286",
+    "categories": [
+        "9280-9286 Statistische Konten f\u00fcr die im Anhang anzugebenden sonstigen finanziellen Verpflichtungen",
+        "9270-9485 STATISTISCHE KONTEN F\u00dcR IN DER BILANZ AUSZUWEISENDE HAFTUNGSVERH\u00c4LTNISSE",
+        "9 Statistik- & Vortragskonten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "9 Statistik- & Vortragskonten > 9270-9485 STATISTISCHE KONTEN F\u00dcR IN DER BILANZ AUSZUWEISENDE HAFTUNGSVERH\u00c4LTNISSE > 9280-9286 Statistische Konten f\u00fcr die im Anhang anzugebenden sonstigen finanziellen Verpflichtungen"
+        },
+        {
+            "lvl1": "9 Statistik- & Vortragskonten > 9270-9485 STATISTISCHE KONTEN F\u00dcR IN DER BILANZ AUSZUWEISENDE HAFTUNGSVERH\u00c4LTNISSE"
+        },
+        {
+            "lvl0": "9 Statistik- & Vortragskonten"
+        }
+    ],
+    "leaf": true,
+    "notes": "Konto f\u00fcr das Buchungsjahr 2017 neu eingef\u00fchrt.",
+    "placeholder": true,
+    "parent": "ff48df6cac1f010884501a56f27ff434"
+}

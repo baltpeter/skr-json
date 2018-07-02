@@ -1,0 +1,26 @@
+{
+    "objectID": "728db50b29cb2a5c199af6cf6c8a380a",
+    "name": "0675-0676+0680-0689 Forderungen / Verbindlichkeiten (verbundene Unternehmen)",
+    "type": "Forderung",
+    "code": "0675-0676+0680-0689",
+    "description": "Forderungen gegen verbundene Unternehmen oder Verbindlichkeiten gegen\u00fcber verbundenen Unternehmen",
+    "categories": [
+        "0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde",
+        "0600-0989 UMLAUFVERM\u00d6GEN",
+        "0 aktive Verm\u00f6gensposten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde"
+        },
+        {
+            "lvl1": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN"
+        },
+        {
+            "lvl0": "0 aktive Verm\u00f6gensposten"
+        }
+    ],
+    "leaf": false,
+    "placeholder": true,
+    "parent": "7c67e6354bb5a3e8a06595099386bee2"
+}

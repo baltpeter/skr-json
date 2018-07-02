@@ -1,0 +1,31 @@
+{
+    "objectID": "b566fed90b8c55e7c10aa06d3a2bc1da",
+    "name": "0531 Abl\u00f6se bezahlte Sportler",
+    "type": "Aktiva",
+    "code": "0531",
+    "description": "Abl\u00f6se bezahlte Sportler",
+    "categories": [
+        "0530 Rechtswerte",
+        "0500-0599 Finanzanlagen",
+        "0250-0599 ANDERE ANLAGEN, BETRIEBS- UND GESCH\u00c4FTSAUSSTATTUNG",
+        "0 aktive Verm\u00f6gensposten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "0 aktive Verm\u00f6gensposten > 0250-0599 ANDERE ANLAGEN, BETRIEBS- UND GESCH\u00c4FTSAUSSTATTUNG > 0500-0599 Finanzanlagen > 0530 Rechtswerte"
+        },
+        {
+            "lvl2": "0 aktive Verm\u00f6gensposten > 0250-0599 ANDERE ANLAGEN, BETRIEBS- UND GESCH\u00c4FTSAUSSTATTUNG > 0500-0599 Finanzanlagen"
+        },
+        {
+            "lvl1": "0 aktive Verm\u00f6gensposten > 0250-0599 ANDERE ANLAGEN, BETRIEBS- UND GESCH\u00c4FTSAUSSTATTUNG"
+        },
+        {
+            "lvl0": "0 aktive Verm\u00f6gensposten"
+        }
+    ],
+    "leaf": true,
+    "notes": "ACHTUNG! In der Version 2017 verschoben nach 0016!",
+    "placeholder": true,
+    "parent": "ba930960eab6e22275f17d44f88f27cd"
+}

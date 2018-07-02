@@ -1,0 +1,37 @@
+{
+    "objectID": "4836c4ac5dcfbf6f57a532f8c0d9285c",
+    "name": "7052 Eintrittsgelder",
+    "type": "Ertrag",
+    "code": "7052",
+    "description": "Eintrittsgelder 19% USt",
+    "categories": [
+        "7050 Einnahmen aus Fu\u00dfballspielen mit Lizenzspielern",
+        "7000-7150+7154-7199 Umsatzerl\u00f6se",
+        "7000-7199 EINNAHMEN / ERTR\u00c4GE",
+        "7000-7799 GESCH\u00c4FTSBETRIEBE SPORT",
+        "7000-7999 GESCH\u00c4FTSBETRIEBE SPORT",
+        "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl5": "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport > 7000-7999 GESCH\u00c4FTSBETRIEBE SPORT > 7000-7799 GESCH\u00c4FTSBETRIEBE SPORT > 7000-7199 EINNAHMEN / ERTR\u00c4GE > 7000-7150+7154-7199 Umsatzerl\u00f6se > 7050 Einnahmen aus Fu\u00dfballspielen mit Lizenzspielern"
+        },
+        {
+            "lvl4": "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport > 7000-7999 GESCH\u00c4FTSBETRIEBE SPORT > 7000-7799 GESCH\u00c4FTSBETRIEBE SPORT > 7000-7199 EINNAHMEN / ERTR\u00c4GE > 7000-7150+7154-7199 Umsatzerl\u00f6se"
+        },
+        {
+            "lvl3": "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport > 7000-7999 GESCH\u00c4FTSBETRIEBE SPORT > 7000-7799 GESCH\u00c4FTSBETRIEBE SPORT > 7000-7199 EINNAHMEN / ERTR\u00c4GE"
+        },
+        {
+            "lvl2": "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport > 7000-7999 GESCH\u00c4FTSBETRIEBE SPORT > 7000-7799 GESCH\u00c4FTSBETRIEBE SPORT"
+        },
+        {
+            "lvl1": "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport > 7000-7999 GESCH\u00c4FTSBETRIEBE SPORT"
+        },
+        {
+            "lvl0": "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport"
+        }
+    ],
+    "leaf": true,
+    "parent": "cbaaf099b02618e69c0b9fc990d47fa1"
+}

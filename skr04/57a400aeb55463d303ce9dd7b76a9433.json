@@ -1,0 +1,26 @@
+{
+    "objectID": "57a400aeb55463d303ce9dd7b76a9433",
+    "name": "Erhaltene Kautionen",
+    "type": "Verbindlichkeit",
+    "code": "3550",
+    "description": "",
+    "categories": [
+        "08. sonstige Verbindlichkeiten",
+        "C. Verbindlichkeiten",
+        "Passiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "Passiva > C. Verbindlichkeiten > 08. sonstige Verbindlichkeiten"
+        },
+        {
+            "lvl1": "Passiva > C. Verbindlichkeiten"
+        },
+        {
+            "lvl0": "Passiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": true,
+    "parent": "3f6c684bfaa3d0fc8b94368847566df3"
+}

@@ -1,0 +1,22 @@
+{
+    "objectID": "5bb07cd267ccdd792f4144087f4e96e6",
+    "name": "Erl\u00f6se aus Verk\u00e4ufen immaterieller Verm\u00f6gensgegenst\u00e4nde",
+    "type": "Aufwand",
+    "code": "6890",
+    "description": "bei Buchverlust",
+    "categories": [
+        "b) Verluste aus dem Abgang von Gegenst\u00e4nden des Anlageverm\u00f6gens",
+        "08. sonstige betriebliche Aufwendungen"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "08. sonstige betriebliche Aufwendungen > b) Verluste aus dem Abgang von Gegenst\u00e4nden des Anlageverm\u00f6gens"
+        },
+        {
+            "lvl0": "08. sonstige betriebliche Aufwendungen"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "47767b5fa390ff8a4dbb0fdf05a3ee3b"
+}

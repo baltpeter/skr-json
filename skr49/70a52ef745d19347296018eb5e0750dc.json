@@ -1,0 +1,22 @@
+{
+    "objectID": "70a52ef745d19347296018eb5e0750dc",
+    "name": "1195 Noch nicht satzungsgem\u00e4\u00df verwendete Spenden",
+    "type": "Fremdkapital",
+    "code": "1195",
+    "description": "Noch nicht satzungsgem\u00e4\u00df verwendete Spenden",
+    "categories": [
+        "1180-1199 SONDERPOSTEN",
+        "1 passive Verm\u00f6gensposten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "1 passive Verm\u00f6gensposten > 1180-1199 SONDERPOSTEN"
+        },
+        {
+            "lvl0": "1 passive Verm\u00f6gensposten"
+        }
+    ],
+    "leaf": true,
+    "notes": "Kontenbeschriftung in 2017 ge\u00e4ndert.",
+    "parent": "79838dac3d7a259a0d0226ba63c65a62"
+}

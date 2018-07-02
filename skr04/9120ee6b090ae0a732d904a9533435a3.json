@@ -1,0 +1,26 @@
+{
+    "objectID": "9120ee6b090ae0a732d904a9533435a3",
+    "name": "Sonstige Reparaturen und Instandhaltung",
+    "type": "Aufwand",
+    "code": "6490",
+    "description": "",
+    "categories": [
+        "4) Reparaturen und Instandhaltungen",
+        "a) ordentliche betriebliche Aufwendungen",
+        "08. sonstige betriebliche Aufwendungen"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen > 4) Reparaturen und Instandhaltungen"
+        },
+        {
+            "lvl1": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen"
+        },
+        {
+            "lvl0": "08. sonstige betriebliche Aufwendungen"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "5925fef34d2d43bd1a1fbe06d7cf5515"
+}

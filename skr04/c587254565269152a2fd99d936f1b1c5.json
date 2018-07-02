@@ -1,0 +1,30 @@
+{
+    "objectID": "c587254565269152a2fd99d936f1b1c5",
+    "name": "Verbindlichk. soziale Sicherheit (b. 1 J)",
+    "type": "Verbindlichkeit",
+    "code": "3741",
+    "description": "",
+    "categories": [
+        "Verbindlichkeiten im Rahmen der sozialen Sicherheit",
+        "08. sonstige Verbindlichkeiten",
+        "C. Verbindlichkeiten",
+        "Passiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "Passiva > C. Verbindlichkeiten > 08. sonstige Verbindlichkeiten > Verbindlichkeiten im Rahmen der sozialen Sicherheit"
+        },
+        {
+            "lvl2": "Passiva > C. Verbindlichkeiten > 08. sonstige Verbindlichkeiten"
+        },
+        {
+            "lvl1": "Passiva > C. Verbindlichkeiten"
+        },
+        {
+            "lvl0": "Passiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "c105052eb7f8cb231479a5e34e363e5a"
+}

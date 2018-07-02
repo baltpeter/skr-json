@@ -1,0 +1,34 @@
+{
+    "objectID": "f102ca47edf7326f8f0fc0402924f040",
+    "name": "Erhaltene Skonti 16% Vorsteuer",
+    "type": "Aufwand",
+    "code": "5735",
+    "description": "",
+    "categories": [
+        "Erhaltene Skonti",
+        "Nachl\u00e4sse",
+        "03. Statistische Konten E\u00dcR",
+        "a) Aufwendungen f\u00fcr Roh-, Hilfs- und Betriebsstoffe und f\u00fcr bezogene Waren",
+        "05. Materialaufwand"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl4": "05. Materialaufwand > a) Aufwendungen f\u00fcr Roh-, Hilfs- und Betriebsstoffe und f\u00fcr bezogene Waren > 03. Statistische Konten E\u00dcR > Nachl\u00e4sse > Erhaltene Skonti"
+        },
+        {
+            "lvl3": "05. Materialaufwand > a) Aufwendungen f\u00fcr Roh-, Hilfs- und Betriebsstoffe und f\u00fcr bezogene Waren > 03. Statistische Konten E\u00dcR > Nachl\u00e4sse"
+        },
+        {
+            "lvl2": "05. Materialaufwand > a) Aufwendungen f\u00fcr Roh-, Hilfs- und Betriebsstoffe und f\u00fcr bezogene Waren > 03. Statistische Konten E\u00dcR"
+        },
+        {
+            "lvl1": "05. Materialaufwand > a) Aufwendungen f\u00fcr Roh-, Hilfs- und Betriebsstoffe und f\u00fcr bezogene Waren"
+        },
+        {
+            "lvl0": "05. Materialaufwand"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "d94cb515db63aaf5eabdae9db2613f43"
+}

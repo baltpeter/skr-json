@@ -1,0 +1,30 @@
+{
+    "objectID": "6a0430051bb70dd6919ea708a2ab8509",
+    "name": "Ausleihungen an nahe stehende Personen",
+    "type": "Aktiva",
+    "code": "0970",
+    "description": "",
+    "categories": [
+        "06. Sonstige Ausleihungen",
+        "V. Finanzanlagen",
+        "A. Anlageverm\u00f6gen",
+        "Aktiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "Aktiva > A. Anlageverm\u00f6gen > V. Finanzanlagen > 06. Sonstige Ausleihungen"
+        },
+        {
+            "lvl2": "Aktiva > A. Anlageverm\u00f6gen > V. Finanzanlagen"
+        },
+        {
+            "lvl1": "Aktiva > A. Anlageverm\u00f6gen"
+        },
+        {
+            "lvl0": "Aktiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "2d8abf820f1272ea8674b7bd9df2b23e"
+}

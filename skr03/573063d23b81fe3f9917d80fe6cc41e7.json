@@ -1,0 +1,22 @@
+{
+    "objectID": "573063d23b81fe3f9917d80fe6cc41e7",
+    "name": "0420 B\u00fcroeinrichtung",
+    "type": "Aktiva",
+    "code": "0420",
+    "description": "",
+    "categories": [
+        "Anlage- u. Kapitalkonten 0",
+        "Aktiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "Aktiva > Anlage- u. Kapitalkonten 0"
+        },
+        {
+            "lvl0": "Aktiva"
+        }
+    ],
+    "leaf": true,
+    "tax-related": false,
+    "parent": "27356188a1963c1dbf943022441d095f"
+}

@@ -1,0 +1,26 @@
+{
+    "objectID": "b29be7b8d93caf0eb1d9c5830a85f868",
+    "name": "1145 Kapitalr\u00fccklage",
+    "type": "Fremdkapital",
+    "code": "1145",
+    "description": "Kapitalr\u00fccklage",
+    "categories": [
+        "1145-1149 Kapitalr\u00fccklagen",
+        "1000-1179 VERM\u00d6GEN / EIGENKAPITAL",
+        "1 passive Verm\u00f6gensposten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL > 1145-1149 Kapitalr\u00fccklagen"
+        },
+        {
+            "lvl1": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL"
+        },
+        {
+            "lvl0": "1 passive Verm\u00f6gensposten"
+        }
+    ],
+    "leaf": true,
+    "notes": "Nur GmbH und Stiftungen!",
+    "parent": "ec3e38658b62a68edd0809eca41f301d"
+}

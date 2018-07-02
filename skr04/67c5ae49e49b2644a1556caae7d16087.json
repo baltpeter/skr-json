@@ -1,0 +1,30 @@
+{
+    "objectID": "67c5ae49e49b2644a1556caae7d16087",
+    "name": "Verlustausgleichskonto",
+    "type": "Fremdkapital",
+    "code": "2060",
+    "description": "",
+    "categories": [
+        "II. Kapital / Teilhafter",
+        "a) Personengesellschaft",
+        "A. Eigenkapital",
+        "Passiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "Passiva > A. Eigenkapital > a) Personengesellschaft > II. Kapital / Teilhafter"
+        },
+        {
+            "lvl2": "Passiva > A. Eigenkapital > a) Personengesellschaft"
+        },
+        {
+            "lvl1": "Passiva > A. Eigenkapital"
+        },
+        {
+            "lvl0": "Passiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "9caf6e580a978dba2f91d63e21422abd"
+}

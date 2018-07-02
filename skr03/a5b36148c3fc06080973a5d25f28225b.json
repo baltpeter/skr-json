@@ -1,0 +1,21 @@
+{
+    "objectID": "a5b36148c3fc06080973a5d25f28225b",
+    "name": "4985 Werkzeuge und Kleinger\u00e4te",
+    "type": "Aufwand",
+    "code": "4985",
+    "description": "",
+    "categories": [
+        "verschiedene Kosten",
+        "Aufwendungen 2/4"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "Aufwendungen 2/4 > verschiedene Kosten"
+        },
+        {
+            "lvl0": "Aufwendungen 2/4"
+        }
+    ],
+    "leaf": true,
+    "parent": "d0c00095e4b00f9f25253307be05e885"
+}

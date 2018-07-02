@@ -1,0 +1,26 @@
+{
+    "objectID": "8849ae77228dd660bcdfd0becbfd9e7f",
+    "name": "Erhaltene Anzahlungen",
+    "type": "Verbindlichkeit",
+    "code": "3250",
+    "description": "",
+    "categories": [
+        "03. erhaltene Anzahlungen auf Bestellungen",
+        "C. Verbindlichkeiten",
+        "Passiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "Passiva > C. Verbindlichkeiten > 03. erhaltene Anzahlungen auf Bestellungen"
+        },
+        {
+            "lvl1": "Passiva > C. Verbindlichkeiten"
+        },
+        {
+            "lvl0": "Passiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": true,
+    "parent": "83d0177a3bf8ecab71f864adb04c678e"
+}

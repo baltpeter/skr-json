@@ -1,0 +1,26 @@
+{
+    "objectID": "3a065883b79587018565f5ef79e451bf",
+    "name": "Reparaturen und Instandhaltung von technischen Anlagen und Maschinen",
+    "type": "Aufwand",
+    "code": "6460",
+    "description": "",
+    "categories": [
+        "4) Reparaturen und Instandhaltungen",
+        "a) ordentliche betriebliche Aufwendungen",
+        "08. sonstige betriebliche Aufwendungen"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen > 4) Reparaturen und Instandhaltungen"
+        },
+        {
+            "lvl1": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen"
+        },
+        {
+            "lvl0": "08. sonstige betriebliche Aufwendungen"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "5925fef34d2d43bd1a1fbe06d7cf5515"
+}

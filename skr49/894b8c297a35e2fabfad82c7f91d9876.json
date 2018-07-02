@@ -1,0 +1,34 @@
+{
+    "objectID": "894b8c297a35e2fabfad82c7f91d9876",
+    "name": "8720 Soziale Abgaben",
+    "type": "Aufwand",
+    "code": "8720",
+    "description": "Gesetzliche soziale Aufwendungen",
+    "categories": [
+        "8710-8739 Personalaufwand",
+        "8650-8979 AUSGABEN / AUFWENDUNGEN",
+        "8500-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE 2",
+        "8000-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE",
+        "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl4": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe > 8000-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE > 8500-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE 2 > 8650-8979 AUSGABEN / AUFWENDUNGEN > 8710-8739 Personalaufwand"
+        },
+        {
+            "lvl3": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe > 8000-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE > 8500-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE 2 > 8650-8979 AUSGABEN / AUFWENDUNGEN"
+        },
+        {
+            "lvl2": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe > 8000-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE > 8500-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE 2"
+        },
+        {
+            "lvl1": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe > 8000-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE"
+        },
+        {
+            "lvl0": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe"
+        }
+    ],
+    "leaf": true,
+    "notes": "Sozialversicherungsbeitr\u00e4ge",
+    "parent": "677dc1f1fe6b0c4290a777ecf91f100f"
+}

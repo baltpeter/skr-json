@@ -1,0 +1,30 @@
+{
+    "objectID": "b67273f42938d1d39eed2849ca07ee2f",
+    "name": "Sonderausgaben beschr\u00e4nkt abzugsf\u00e4hig",
+    "type": "Fremdkapital",
+    "code": "2200",
+    "description": "",
+    "categories": [
+        "III. Privat Vollhafter/Einzelunternehmer",
+        "a) Personengesellschaft",
+        "A. Eigenkapital",
+        "Passiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "Passiva > A. Eigenkapital > a) Personengesellschaft > III. Privat Vollhafter/Einzelunternehmer"
+        },
+        {
+            "lvl2": "Passiva > A. Eigenkapital > a) Personengesellschaft"
+        },
+        {
+            "lvl1": "Passiva > A. Eigenkapital"
+        },
+        {
+            "lvl0": "Passiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "223774b3d08279ba3dde4eed5aadd74d"
+}

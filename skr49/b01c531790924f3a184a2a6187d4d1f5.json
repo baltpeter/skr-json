@@ -1,0 +1,37 @@
+{
+    "objectID": "b01c531790924f3a184a2a6187d4d1f5",
+    "name": "7102 Anteilige / verrechnete Einnahmen",
+    "type": "Ertrag",
+    "code": "7102",
+    "description": "Anteilige und verrechnete Einnahmen",
+    "categories": [
+        "7100 Sonstige Einnahmen Gesch\u00e4ftsbetrieb Sport 3",
+        "7000-7150+7154-7199 Umsatzerl\u00f6se",
+        "7000-7199 EINNAHMEN / ERTR\u00c4GE",
+        "7000-7799 GESCH\u00c4FTSBETRIEBE SPORT",
+        "7000-7999 GESCH\u00c4FTSBETRIEBE SPORT",
+        "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl5": "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport > 7000-7999 GESCH\u00c4FTSBETRIEBE SPORT > 7000-7799 GESCH\u00c4FTSBETRIEBE SPORT > 7000-7199 EINNAHMEN / ERTR\u00c4GE > 7000-7150+7154-7199 Umsatzerl\u00f6se > 7100 Sonstige Einnahmen Gesch\u00e4ftsbetrieb Sport 3"
+        },
+        {
+            "lvl4": "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport > 7000-7999 GESCH\u00c4FTSBETRIEBE SPORT > 7000-7799 GESCH\u00c4FTSBETRIEBE SPORT > 7000-7199 EINNAHMEN / ERTR\u00c4GE > 7000-7150+7154-7199 Umsatzerl\u00f6se"
+        },
+        {
+            "lvl3": "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport > 7000-7999 GESCH\u00c4FTSBETRIEBE SPORT > 7000-7799 GESCH\u00c4FTSBETRIEBE SPORT > 7000-7199 EINNAHMEN / ERTR\u00c4GE"
+        },
+        {
+            "lvl2": "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport > 7000-7999 GESCH\u00c4FTSBETRIEBE SPORT > 7000-7799 GESCH\u00c4FTSBETRIEBE SPORT"
+        },
+        {
+            "lvl1": "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport > 7000-7999 GESCH\u00c4FTSBETRIEBE SPORT"
+        },
+        {
+            "lvl0": "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport"
+        }
+    ],
+    "leaf": true,
+    "parent": "357fa0d5012be85199e10c68a5ad1152"
+}

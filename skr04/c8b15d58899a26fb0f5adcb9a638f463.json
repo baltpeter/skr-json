@@ -1,0 +1,30 @@
+{
+    "objectID": "c8b15d58899a26fb0f5adcb9a638f463",
+    "name": "Darlehen bis 1 Jahr",
+    "type": "Verbindlichkeit",
+    "code": "3561",
+    "description": "",
+    "categories": [
+        "Darlehen",
+        "08. sonstige Verbindlichkeiten",
+        "C. Verbindlichkeiten",
+        "Passiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "Passiva > C. Verbindlichkeiten > 08. sonstige Verbindlichkeiten > Darlehen"
+        },
+        {
+            "lvl2": "Passiva > C. Verbindlichkeiten > 08. sonstige Verbindlichkeiten"
+        },
+        {
+            "lvl1": "Passiva > C. Verbindlichkeiten"
+        },
+        {
+            "lvl0": "Passiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "934e168b36770e076b9d2eeaad400912"
+}

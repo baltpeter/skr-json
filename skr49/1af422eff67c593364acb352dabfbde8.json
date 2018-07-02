@@ -1,0 +1,39 @@
+{
+    "objectID": "1af422eff67c593364acb352dabfbde8",
+    "name": "5460 Anlagenabg\u00e4nge Restbuchwerte",
+    "type": "Aufwand",
+    "code": "5460",
+    "description": "VERATLTET!",
+    "categories": [
+        "5460-5469 Sonstige Kosten",
+        "5450-5499 Abschreibungen",
+        "5280-5699 AUSGABEN / AUFWENDUNGEN",
+        "5000-5699 ZWECKBETRIEBE SPORT 1",
+        "5000-5889 ZWECKBETRIEBE SPORT",
+        "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl5": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5000-5889 ZWECKBETRIEBE SPORT > 5000-5699 ZWECKBETRIEBE SPORT 1 > 5280-5699 AUSGABEN / AUFWENDUNGEN > 5450-5499 Abschreibungen > 5460-5469 Sonstige Kosten"
+        },
+        {
+            "lvl4": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5000-5889 ZWECKBETRIEBE SPORT > 5000-5699 ZWECKBETRIEBE SPORT 1 > 5280-5699 AUSGABEN / AUFWENDUNGEN > 5450-5499 Abschreibungen"
+        },
+        {
+            "lvl3": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5000-5889 ZWECKBETRIEBE SPORT > 5000-5699 ZWECKBETRIEBE SPORT 1 > 5280-5699 AUSGABEN / AUFWENDUNGEN"
+        },
+        {
+            "lvl2": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5000-5889 ZWECKBETRIEBE SPORT > 5000-5699 ZWECKBETRIEBE SPORT 1"
+        },
+        {
+            "lvl1": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5000-5889 ZWECKBETRIEBE SPORT"
+        },
+        {
+            "lvl0": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport"
+        }
+    ],
+    "leaf": true,
+    "notes": "In der Version 2017 nicht mehr enthalten!",
+    "placeholder": true,
+    "parent": "d213336558ee2f404ee567b6debeb897"
+}

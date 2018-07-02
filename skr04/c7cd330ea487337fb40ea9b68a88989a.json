@@ -1,0 +1,26 @@
+{
+    "objectID": "c7cd330ea487337fb40ea9b68a88989a",
+    "name": "Abschreibungen auf aktivierte geringwertige Wirtschaftsg\u00fcter",
+    "type": "Aufwand",
+    "code": "6262",
+    "description": "",
+    "categories": [
+        "Sofortabschreibungen geringwertiger Wirtschaftsg\u00fcter",
+        "a) auf immaterielle Verm\u00f6gensgegenst\u00e4nde des Anlageverm\u00f6gens und Sachanlagen",
+        "07. Abschreibungen"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "07. Abschreibungen > a) auf immaterielle Verm\u00f6gensgegenst\u00e4nde des Anlageverm\u00f6gens und Sachanlagen > Sofortabschreibungen geringwertiger Wirtschaftsg\u00fcter"
+        },
+        {
+            "lvl1": "07. Abschreibungen > a) auf immaterielle Verm\u00f6gensgegenst\u00e4nde des Anlageverm\u00f6gens und Sachanlagen"
+        },
+        {
+            "lvl0": "07. Abschreibungen"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "a7613509835f15ac7bf195a1d755a8c6"
+}

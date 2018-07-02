@@ -1,0 +1,18 @@
+{
+    "objectID": "8163fd4c7d3eca37779981b3fa479f0c",
+    "name": "Einstellung in die Einzelwertberichtigung zu Forderungen",
+    "type": "Aufwand",
+    "code": "6923",
+    "description": "",
+    "categories": [
+        "08. sonstige betriebliche Aufwendungen"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl0": "08. sonstige betriebliche Aufwendungen"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "cf7f94dcdeb53cd3d602ea87d83aba4e"
+}

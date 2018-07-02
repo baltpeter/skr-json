@@ -1,0 +1,34 @@
+{
+    "objectID": "0b8d9801f07d9bd24b83015a672487d1",
+    "name": "8834 Rechts- und Beratungskosten",
+    "type": "Aufwand",
+    "code": "8834",
+    "description": "Rechts- und Beratungskosten",
+    "categories": [
+        "8800 Sonstige betriebliche Aufwendungen",
+        "8650-8979 AUSGABEN / AUFWENDUNGEN",
+        "8500-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE 2",
+        "8000-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE",
+        "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl4": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe > 8000-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE > 8500-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE 2 > 8650-8979 AUSGABEN / AUFWENDUNGEN > 8800 Sonstige betriebliche Aufwendungen"
+        },
+        {
+            "lvl3": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe > 8000-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE > 8500-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE 2 > 8650-8979 AUSGABEN / AUFWENDUNGEN"
+        },
+        {
+            "lvl2": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe > 8000-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE > 8500-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE 2"
+        },
+        {
+            "lvl1": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe > 8000-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE"
+        },
+        {
+            "lvl0": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe"
+        }
+    ],
+    "leaf": true,
+    "notes": "ehemals nur \u201eSteuerberatungskosten\u201c",
+    "parent": "a911518a36e8ea91065f5ab3ea538b8a"
+}

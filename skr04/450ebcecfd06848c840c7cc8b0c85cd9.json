@@ -1,0 +1,30 @@
+{
+    "objectID": "450ebcecfd06848c840c7cc8b0c85cd9",
+    "name": "Gegenkonto 1221-1229, 1250-1257, 1270-1279, 1290-1297 bei Aufteilung Debitorenkonto",
+    "type": "Forderung",
+    "code": "1259",
+    "description": "",
+    "categories": [
+        "01. Forderungen aus Lieferungen und Leistungen",
+        "II. Forderungen und sonstige Verm\u00f6gensgegenst\u00e4nde",
+        "B. Umlaufverm\u00f6gen",
+        "Aktiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "Aktiva > B. Umlaufverm\u00f6gen > II. Forderungen und sonstige Verm\u00f6gensgegenst\u00e4nde > 01. Forderungen aus Lieferungen und Leistungen"
+        },
+        {
+            "lvl2": "Aktiva > B. Umlaufverm\u00f6gen > II. Forderungen und sonstige Verm\u00f6gensgegenst\u00e4nde"
+        },
+        {
+            "lvl1": "Aktiva > B. Umlaufverm\u00f6gen"
+        },
+        {
+            "lvl0": "Aktiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "3db9920658f7630cee64902f9698ebb3"
+}

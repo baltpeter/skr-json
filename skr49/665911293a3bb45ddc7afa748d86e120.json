@@ -1,0 +1,30 @@
+{
+    "objectID": "665911293a3bb45ddc7afa748d86e120",
+    "name": "6700-6779 Personalaufwand",
+    "type": "Aufwand",
+    "code": "6700-6779",
+    "description": "Personalaufwand",
+    "categories": [
+        "6670-6989 AUSGABEN / AUFWENDUNGEN",
+        "6500-6989 SONSTIGE ZWECKBETRIEBE 2",
+        "6000-6989 SONSTIGE ZWECKBETRIEBE",
+        "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE > 6500-6989 SONSTIGE ZWECKBETRIEBE 2 > 6670-6989 AUSGABEN / AUFWENDUNGEN"
+        },
+        {
+            "lvl2": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE > 6500-6989 SONSTIGE ZWECKBETRIEBE 2"
+        },
+        {
+            "lvl1": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE"
+        },
+        {
+            "lvl0": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe"
+        }
+    ],
+    "leaf": false,
+    "placeholder": true,
+    "parent": "8d0cd7dbf46c866eb339426ace9d192b"
+}

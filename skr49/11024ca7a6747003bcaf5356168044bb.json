@@ -1,0 +1,33 @@
+{
+    "objectID": "11024ca7a6747003bcaf5356168044bb",
+    "name": "6010 Eintrittsgelder",
+    "type": "Ertrag",
+    "code": "6010",
+    "description": "Eintrittsgelder",
+    "categories": [
+        "6000 Umsatzerl\u00f6se",
+        "6000-6099 EINNAHMEN / ERTR\u00c4GE",
+        "6000-6499 SONSTIGE ZWECKBETRIEBE 1",
+        "6000-6989 SONSTIGE ZWECKBETRIEBE",
+        "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl4": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE > 6000-6499 SONSTIGE ZWECKBETRIEBE 1 > 6000-6099 EINNAHMEN / ERTR\u00c4GE > 6000 Umsatzerl\u00f6se"
+        },
+        {
+            "lvl3": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE > 6000-6499 SONSTIGE ZWECKBETRIEBE 1 > 6000-6099 EINNAHMEN / ERTR\u00c4GE"
+        },
+        {
+            "lvl2": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE > 6000-6499 SONSTIGE ZWECKBETRIEBE 1"
+        },
+        {
+            "lvl1": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE"
+        },
+        {
+            "lvl0": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe"
+        }
+    ],
+    "leaf": true,
+    "parent": "2c6373b5fa2be93781b40e266490cb7e"
+}

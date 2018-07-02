@@ -1,0 +1,34 @@
+{
+    "objectID": "e766d1cb2c2e92805ecb25238c421e76",
+    "name": "Sonderposten mit R\u00fccklagenanteil nach Abschnitt 35 EStR",
+    "type": "Fremdkapital",
+    "code": "2982",
+    "description": "",
+    "categories": [
+        "Sonderposten mit R\u00fccklageanteil, steuerfreie R\u00fccklagen",
+        "III. Sonderposten mit R\u00fccklageanteil",
+        "c) alle",
+        "A. Eigenkapital",
+        "Passiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl4": "Passiva > A. Eigenkapital > c) alle > III. Sonderposten mit R\u00fccklageanteil > Sonderposten mit R\u00fccklageanteil, steuerfreie R\u00fccklagen"
+        },
+        {
+            "lvl3": "Passiva > A. Eigenkapital > c) alle > III. Sonderposten mit R\u00fccklageanteil"
+        },
+        {
+            "lvl2": "Passiva > A. Eigenkapital > c) alle"
+        },
+        {
+            "lvl1": "Passiva > A. Eigenkapital"
+        },
+        {
+            "lvl0": "Passiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "6033548eda9d17974781c8d9b2770f0c"
+}

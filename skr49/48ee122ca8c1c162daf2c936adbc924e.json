@@ -1,0 +1,19 @@
+{
+    "objectID": "48ee122ca8c1c162daf2c936adbc924e",
+    "name": "2500-2999 AUSGABEN",
+    "type": "Aufwand",
+    "code": "2500-2999",
+    "description": "Ausgaben ideeller Bereich",
+    "categories": [
+        "2 Erfolgskonten ideeller Bereich"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl0": "2 Erfolgskonten ideeller Bereich"
+        }
+    ],
+    "leaf": false,
+    "notes": "Nicht anzusetzende Ausgaben",
+    "placeholder": true,
+    "parent": "517f97cdac71813b1e092c9116486fc3"
+}

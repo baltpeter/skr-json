@@ -1,0 +1,13 @@
+{
+    "objectID": "1d27222a8423625bfe5a54fcf23df229",
+    "name": "1 passive Verm\u00f6gensposten",
+    "type": "Fremdkapital",
+    "code": "1",
+    "description": "Bestandskonten Passiva",
+    "categories": [],
+    "hierarchicalCategories": [],
+    "leaf": false,
+    "notes": "Klasse 1: Verm\u00f6gensposten\nUSt-Hinweis: keine USt",
+    "placeholder": true,
+    "parent": "f2f6eca8892ccc16d1e6126fa5fd012b"
+}

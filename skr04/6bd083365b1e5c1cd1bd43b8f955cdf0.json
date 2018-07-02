@@ -1,0 +1,26 @@
+{
+    "objectID": "6bd083365b1e5c1cd1bd43b8f955cdf0",
+    "name": "Verbindlichkeiten aus Betriebssteuern und -abgaben",
+    "type": "Verbindlichkeit",
+    "code": "3700",
+    "description": "",
+    "categories": [
+        "08. sonstige Verbindlichkeiten",
+        "C. Verbindlichkeiten",
+        "Passiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "Passiva > C. Verbindlichkeiten > 08. sonstige Verbindlichkeiten"
+        },
+        {
+            "lvl1": "Passiva > C. Verbindlichkeiten"
+        },
+        {
+            "lvl0": "Passiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": true,
+    "parent": "3f6c684bfaa3d0fc8b94368847566df3"
+}

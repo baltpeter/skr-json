@@ -1,0 +1,23 @@
+{
+    "objectID": "689ca6c7a0edd105ff57449b2772a06e",
+    "name": "9531 Sonderabschreibungen nach \u00a77g Abs. 1 und 2 EStG (f\u00fcr Kfz)",
+    "type": "Aktiva",
+    "code": "9531",
+    "description": "Sonderabschreibungen nach \u00a77g Abs. 1 und 2 EStG (f\u00fcr Kfz)",
+    "categories": [
+        "9500-9599 STATISTISCHE WERTE F\u00dcR ANLAGE E\u00dcR",
+        "9 Statistik- & Vortragskonten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "9 Statistik- & Vortragskonten > 9500-9599 STATISTISCHE WERTE F\u00dcR ANLAGE E\u00dcR"
+        },
+        {
+            "lvl0": "9 Statistik- & Vortragskonten"
+        }
+    ],
+    "leaf": true,
+    "notes": "Veraltet, in der Version 2017 nicht mehr enthalten!",
+    "placeholder": true,
+    "parent": "baac2841267ad2422440263668815280"
+}

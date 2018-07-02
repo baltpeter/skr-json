@@ -1,0 +1,30 @@
+{
+    "objectID": "2597402bbf96d0a7fc86a51e40841658",
+    "name": "Privateinlagen",
+    "type": "Fremdkapital",
+    "code": "2580",
+    "description": "",
+    "categories": [
+        "IV. Privat Teilhafter",
+        "a) Personengesellschaft",
+        "A. Eigenkapital",
+        "Passiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "Passiva > A. Eigenkapital > a) Personengesellschaft > IV. Privat Teilhafter"
+        },
+        {
+            "lvl2": "Passiva > A. Eigenkapital > a) Personengesellschaft"
+        },
+        {
+            "lvl1": "Passiva > A. Eigenkapital"
+        },
+        {
+            "lvl0": "Passiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "3260c1391626c6d4390a92d314f6d047"
+}

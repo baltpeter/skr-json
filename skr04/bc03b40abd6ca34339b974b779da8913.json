@@ -1,0 +1,27 @@
+{
+    "objectID": "bc03b40abd6ca34339b974b779da8913",
+    "name": "Fremdleistungen",
+    "type": "Aufwand",
+    "code": "5900",
+    "description": "",
+    "categories": [
+        "01. Fremdleistungen",
+        "b) Aufwendungen f\u00fcr bezogene Leistungen",
+        "05. Materialaufwand"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "05. Materialaufwand > b) Aufwendungen f\u00fcr bezogene Leistungen > 01. Fremdleistungen"
+        },
+        {
+            "lvl1": "05. Materialaufwand > b) Aufwendungen f\u00fcr bezogene Leistungen"
+        },
+        {
+            "lvl0": "05. Materialaufwand"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "tax-related": false,
+    "parent": "62133a447283b07ff0502169b12fbd1c"
+}

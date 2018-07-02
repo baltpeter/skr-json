@@ -1,0 +1,26 @@
+{
+    "objectID": "ba655bf306e798662d1d3a9444a82dd0",
+    "name": "Sonstige Verrechnungskonten",
+    "type": "Verbindlichkeit",
+    "code": "3630",
+    "description": "Interimskonto",
+    "categories": [
+        "08. sonstige Verbindlichkeiten",
+        "C. Verbindlichkeiten",
+        "Passiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "Passiva > C. Verbindlichkeiten > 08. sonstige Verbindlichkeiten"
+        },
+        {
+            "lvl1": "Passiva > C. Verbindlichkeiten"
+        },
+        {
+            "lvl0": "Passiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "3f6c684bfaa3d0fc8b94368847566df3"
+}

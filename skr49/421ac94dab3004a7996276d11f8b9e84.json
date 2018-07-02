@@ -1,0 +1,21 @@
+{
+    "objectID": "421ac94dab3004a7996276d11f8b9e84",
+    "name": "1210 Steuerr\u00fcckstellungen",
+    "type": "Fremdkapital",
+    "code": "1210",
+    "description": "Steuerr\u00fcckstellungen",
+    "categories": [
+        "1200-1229 R\u00dcCKSTELLUNGEN",
+        "1 passive Verm\u00f6gensposten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "1 passive Verm\u00f6gensposten > 1200-1229 R\u00dcCKSTELLUNGEN"
+        },
+        {
+            "lvl0": "1 passive Verm\u00f6gensposten"
+        }
+    ],
+    "leaf": true,
+    "parent": "e968c713799af36f34e0beed878b6e55"
+}

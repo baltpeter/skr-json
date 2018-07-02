@@ -1,0 +1,30 @@
+{
+    "objectID": "d93d9d3e569f450ba01b2c991e6e9082",
+    "name": "Steuerlich nicht abzugsf\u00e4hige Versp\u00e4tungszuschl\u00e4ge und Zwangsgelder",
+    "type": "Aufwand",
+    "code": "6437",
+    "description": "",
+    "categories": [
+        "Sonstige Abgaben",
+        "3) Versicherungen, Beitr\u00e4ge und Abgaben",
+        "a) ordentliche betriebliche Aufwendungen",
+        "08. sonstige betriebliche Aufwendungen"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen > 3) Versicherungen, Beitr\u00e4ge und Abgaben > Sonstige Abgaben"
+        },
+        {
+            "lvl2": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen > 3) Versicherungen, Beitr\u00e4ge und Abgaben"
+        },
+        {
+            "lvl1": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen"
+        },
+        {
+            "lvl0": "08. sonstige betriebliche Aufwendungen"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "8381436ba530342c0814bd870c67f727"
+}

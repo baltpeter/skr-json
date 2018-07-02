@@ -1,0 +1,29 @@
+{
+    "objectID": "2c41c4c1a2cf7bbf6f18a28fd6bb926e",
+    "name": "3210 Schenkungen",
+    "type": "Ertrag",
+    "code": "3210",
+    "description": "Schenkungen",
+    "categories": [
+        "3200 Steuerneutrale Einnahmen ideeller Bereich",
+        "3200-3399 Ideeller Bereich",
+        "3200-3899  ERTRAGSNEUTRALE POSTEN",
+        "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN > 3200-3399 Ideeller Bereich > 3200 Steuerneutrale Einnahmen ideeller Bereich"
+        },
+        {
+            "lvl2": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN > 3200-3399 Ideeller Bereich"
+        },
+        {
+            "lvl1": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN"
+        },
+        {
+            "lvl0": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
+        }
+    ],
+    "leaf": true,
+    "parent": "a780e7b18d12154c6db979c821b37c3f"
+}

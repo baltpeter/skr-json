@@ -1,0 +1,26 @@
+{
+    "objectID": "421272e226ee21875f24c597c6857abf",
+    "name": "Darlehen typisch stiller Gesellschafter",
+    "type": "Verbindlichkeit",
+    "code": "3520",
+    "description": "",
+    "categories": [
+        "08. sonstige Verbindlichkeiten",
+        "C. Verbindlichkeiten",
+        "Passiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "Passiva > C. Verbindlichkeiten > 08. sonstige Verbindlichkeiten"
+        },
+        {
+            "lvl1": "Passiva > C. Verbindlichkeiten"
+        },
+        {
+            "lvl0": "Passiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": true,
+    "parent": "3f6c684bfaa3d0fc8b94368847566df3"
+}

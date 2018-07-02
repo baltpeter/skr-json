@@ -1,0 +1,33 @@
+{
+    "objectID": "2d3231ef62093d6f350955dce158153a",
+    "name": "5787 Anlagenabg\u00e4nge Sachanlagen",
+    "type": "Ertrag",
+    "code": "5787",
+    "description": "Anlagenabg\u00e4nge Sachanlagen (Restbuchwert bei Buchgewinn)",
+    "categories": [
+        "5780 Sonstige betriebliche Ertr\u00e4ge",
+        "5700-5799 EINNAHMEN / ERTR\u00c4GE",
+        "5700-5999 ZWECKBETRIEBE SPORT 2",
+        "5000-5889 ZWECKBETRIEBE SPORT",
+        "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl4": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5000-5889 ZWECKBETRIEBE SPORT > 5700-5999 ZWECKBETRIEBE SPORT 2 > 5700-5799 EINNAHMEN / ERTR\u00c4GE > 5780 Sonstige betriebliche Ertr\u00e4ge"
+        },
+        {
+            "lvl3": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5000-5889 ZWECKBETRIEBE SPORT > 5700-5999 ZWECKBETRIEBE SPORT 2 > 5700-5799 EINNAHMEN / ERTR\u00c4GE"
+        },
+        {
+            "lvl2": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5000-5889 ZWECKBETRIEBE SPORT > 5700-5999 ZWECKBETRIEBE SPORT 2"
+        },
+        {
+            "lvl1": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5000-5889 ZWECKBETRIEBE SPORT"
+        },
+        {
+            "lvl0": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport"
+        }
+    ],
+    "leaf": true,
+    "parent": "910415d4770e4bf6cc733c8106be2983"
+}

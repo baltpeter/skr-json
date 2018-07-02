@@ -1,0 +1,38 @@
+{
+    "objectID": "e5e3f72c35a3bc81c5a3fd3d31452a3a",
+    "name": "5674 Rechts- und Beratungskosten",
+    "type": "Aufwand",
+    "code": "5674",
+    "description": "Rechts- und Beratungskosten",
+    "categories": [
+        "5650 Sonstige Kosten Zweckbetrieb Sport",
+        "5500-5699 Sonstige betriebliche Aufwendungen",
+        "5280-5699 AUSGABEN / AUFWENDUNGEN",
+        "5000-5699 ZWECKBETRIEBE SPORT 1",
+        "5000-5889 ZWECKBETRIEBE SPORT",
+        "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl5": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5000-5889 ZWECKBETRIEBE SPORT > 5000-5699 ZWECKBETRIEBE SPORT 1 > 5280-5699 AUSGABEN / AUFWENDUNGEN > 5500-5699 Sonstige betriebliche Aufwendungen > 5650 Sonstige Kosten Zweckbetrieb Sport"
+        },
+        {
+            "lvl4": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5000-5889 ZWECKBETRIEBE SPORT > 5000-5699 ZWECKBETRIEBE SPORT 1 > 5280-5699 AUSGABEN / AUFWENDUNGEN > 5500-5699 Sonstige betriebliche Aufwendungen"
+        },
+        {
+            "lvl3": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5000-5889 ZWECKBETRIEBE SPORT > 5000-5699 ZWECKBETRIEBE SPORT 1 > 5280-5699 AUSGABEN / AUFWENDUNGEN"
+        },
+        {
+            "lvl2": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5000-5889 ZWECKBETRIEBE SPORT > 5000-5699 ZWECKBETRIEBE SPORT 1"
+        },
+        {
+            "lvl1": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5000-5889 ZWECKBETRIEBE SPORT"
+        },
+        {
+            "lvl0": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport"
+        }
+    ],
+    "leaf": true,
+    "notes": "ehemals nur \u201eSteuerberatungskosten\u201c",
+    "parent": "da0a29d71fd1bf6f6c7b97f5dff4c021"
+}

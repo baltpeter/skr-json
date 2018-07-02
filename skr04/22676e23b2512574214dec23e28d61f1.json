@@ -1,0 +1,30 @@
+{
+    "objectID": "22676e23b2512574214dec23e28d61f1",
+    "name": "04. Andere Gewinnr\u00fccklagen",
+    "type": "Fremdkapital",
+    "code": "2960",
+    "description": "",
+    "categories": [
+        "I. Gewinnr\u00fccklagen",
+        "c) alle",
+        "A. Eigenkapital",
+        "Passiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "Passiva > A. Eigenkapital > c) alle > I. Gewinnr\u00fccklagen"
+        },
+        {
+            "lvl2": "Passiva > A. Eigenkapital > c) alle"
+        },
+        {
+            "lvl1": "Passiva > A. Eigenkapital"
+        },
+        {
+            "lvl0": "Passiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": true,
+    "parent": "ef9e2cde3ed8ea553ecd7266fab83db4"
+}

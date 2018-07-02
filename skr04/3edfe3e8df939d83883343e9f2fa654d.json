@@ -1,0 +1,34 @@
+{
+    "objectID": "3edfe3e8df939d83883343e9f2fa654d",
+    "name": "Verrechnungskonto erhaltene Anzahlungen bei Buchung \u00fcber Debitoren-Konto",
+    "type": "Aktiva",
+    "code": "1495",
+    "description": "",
+    "categories": [
+        "Verrechnungskonto Ist-Versteuerung",
+        "04. Sonstige Verm\u00f6gensgegenst\u00e4nde",
+        "II. Forderungen und sonstige Verm\u00f6gensgegenst\u00e4nde",
+        "B. Umlaufverm\u00f6gen",
+        "Aktiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl4": "Aktiva > B. Umlaufverm\u00f6gen > II. Forderungen und sonstige Verm\u00f6gensgegenst\u00e4nde > 04. Sonstige Verm\u00f6gensgegenst\u00e4nde > Verrechnungskonto Ist-Versteuerung"
+        },
+        {
+            "lvl3": "Aktiva > B. Umlaufverm\u00f6gen > II. Forderungen und sonstige Verm\u00f6gensgegenst\u00e4nde > 04. Sonstige Verm\u00f6gensgegenst\u00e4nde"
+        },
+        {
+            "lvl2": "Aktiva > B. Umlaufverm\u00f6gen > II. Forderungen und sonstige Verm\u00f6gensgegenst\u00e4nde"
+        },
+        {
+            "lvl1": "Aktiva > B. Umlaufverm\u00f6gen"
+        },
+        {
+            "lvl0": "Aktiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "615aed72631fcf503be61b24a11584b0"
+}

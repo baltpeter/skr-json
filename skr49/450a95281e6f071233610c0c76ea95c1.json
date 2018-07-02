@@ -1,0 +1,34 @@
+{
+    "objectID": "450a95281e6f071233610c0c76ea95c1",
+    "name": "0895 Forderungen aus Lieferungen und Leistungen zum allgemeinen Umsatzsteuersatz oder eines Kleinunternehmers",
+    "type": "Forderung",
+    "code": "0895",
+    "description": "Forderungen aus Lieferungen und Leistungen zum allgemeinen Umsatzsteuersatz oder eines Kleinunternehmers (E\u00dcR)",
+    "categories": [
+        "0895-0899 Forderungen aus Lieferungen und Leistungen (E\u00dcR)",
+        "0700 Sonstige Verm\u00f6gensgegenst\u00e4nde",
+        "0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde",
+        "0600-0989 UMLAUFVERM\u00d6GEN",
+        "0 aktive Verm\u00f6gensposten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl4": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde > 0700 Sonstige Verm\u00f6gensgegenst\u00e4nde > 0895-0899 Forderungen aus Lieferungen und Leistungen (E\u00dcR)"
+        },
+        {
+            "lvl3": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde > 0700 Sonstige Verm\u00f6gensgegenst\u00e4nde"
+        },
+        {
+            "lvl2": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde"
+        },
+        {
+            "lvl1": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN"
+        },
+        {
+            "lvl0": "0 aktive Verm\u00f6gensposten"
+        }
+    ],
+    "leaf": true,
+    "notes": "Einnahmen\u00fcberschu\u00dfrechnung",
+    "parent": "461611f89777815e9cace8da6461a6a4"
+}

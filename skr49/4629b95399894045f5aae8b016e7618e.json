@@ -1,0 +1,25 @@
+{
+    "objectID": "4629b95399894045f5aae8b016e7618e",
+    "name": "4343 Ertr\u00e4ge aus der Aufl\u00f6sung einer steuerlichen R\u00fccklage",
+    "type": "Ertrag",
+    "code": "4343",
+    "description": "Ertr\u00e4ge aus der Aufl\u00f6sung einer steuerlichen R\u00fccklage",
+    "categories": [
+        "4000 Steuerfreie Einnahmen gemeinn\u00fctziger Vereine aus Verm\u00f6gensverwaltung",
+        "4000-4399 EINNAHMEN GV",
+        "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4000-4399 EINNAHMEN GV > 4000 Steuerfreie Einnahmen gemeinn\u00fctziger Vereine aus Verm\u00f6gensverwaltung"
+        },
+        {
+            "lvl1": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4000-4399 EINNAHMEN GV"
+        },
+        {
+            "lvl0": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung"
+        }
+    ],
+    "leaf": true,
+    "parent": "a8fec022f04e0b1931e55598df13387f"
+}

@@ -1,0 +1,22 @@
+{
+    "objectID": "9743059255b8318a7eb5ba07b2dd3e0e",
+    "name": "IV. Kassenbestand, Bundesbankguthaben, Guthaben bei Kreditinstituten und Schecks",
+    "type": "Aktiva",
+    "code": -1,
+    "description": "1550-1899",
+    "categories": [
+        "B. Umlaufverm\u00f6gen",
+        "Aktiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "Aktiva > B. Umlaufverm\u00f6gen"
+        },
+        {
+            "lvl0": "Aktiva"
+        }
+    ],
+    "leaf": false,
+    "placeholder": true,
+    "parent": "3be1aa86d6868b006741b9af6777cf5f"
+}

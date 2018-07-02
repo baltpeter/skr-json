@@ -1,0 +1,26 @@
+{
+    "objectID": "b326baaf2f2f4605872301349800b078",
+    "name": "Verbindlichk.gegen\u00fcber verbundenen Unternehmen",
+    "type": "Verbindlichkeit",
+    "code": "3400",
+    "description": "",
+    "categories": [
+        "06. Verbindlichkeiten gegen\u00fcber verbundenen Untenehmen",
+        "C. Verbindlichkeiten",
+        "Passiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "Passiva > C. Verbindlichkeiten > 06. Verbindlichkeiten gegen\u00fcber verbundenen Untenehmen"
+        },
+        {
+            "lvl1": "Passiva > C. Verbindlichkeiten"
+        },
+        {
+            "lvl0": "Passiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": true,
+    "parent": "c0e507fe6c93db3fb2e93205c33d49db"
+}

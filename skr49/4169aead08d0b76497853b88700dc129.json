@@ -1,0 +1,30 @@
+{
+    "objectID": "4169aead08d0b76497853b88700dc129",
+    "name": "8901-8909 reserviert",
+    "type": "Aufwand",
+    "code": "8901-8909",
+    "description": "reserviert",
+    "categories": [
+        "8650-8979 AUSGABEN / AUFWENDUNGEN",
+        "8500-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE 2",
+        "8000-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE",
+        "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe > 8000-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE > 8500-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE 2 > 8650-8979 AUSGABEN / AUFWENDUNGEN"
+        },
+        {
+            "lvl2": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe > 8000-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE > 8500-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE 2"
+        },
+        {
+            "lvl1": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe > 8000-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE"
+        },
+        {
+            "lvl0": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe"
+        }
+    ],
+    "leaf": false,
+    "placeholder": true,
+    "parent": "0928639291214266572821b5db75e863"
+}

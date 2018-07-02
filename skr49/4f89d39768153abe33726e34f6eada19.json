@@ -1,0 +1,33 @@
+{
+    "objectID": "4f89d39768153abe33726e34f6eada19",
+    "name": "8024 Erl\u00f6se umsatzsteuerfrei \u00a74 Nr. 1-6 UStG",
+    "type": "Ertrag",
+    "code": "8024",
+    "description": "Erl\u00f6se umsatzsteuerfrei \u00a74 Nr. 1-6 UStG",
+    "categories": [
+        "8000 Einnahmen aus Umsatzerl\u00f6sen",
+        "8000-8149 EINNAHMEN / ERTR\u00c4GE",
+        "8000-8499 SONSTIGE GESCH\u00c4FTSBETRIEBE 1",
+        "8000-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE",
+        "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl4": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe > 8000-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE > 8000-8499 SONSTIGE GESCH\u00c4FTSBETRIEBE 1 > 8000-8149 EINNAHMEN / ERTR\u00c4GE > 8000 Einnahmen aus Umsatzerl\u00f6sen"
+        },
+        {
+            "lvl3": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe > 8000-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE > 8000-8499 SONSTIGE GESCH\u00c4FTSBETRIEBE 1 > 8000-8149 EINNAHMEN / ERTR\u00c4GE"
+        },
+        {
+            "lvl2": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe > 8000-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE > 8000-8499 SONSTIGE GESCH\u00c4FTSBETRIEBE 1"
+        },
+        {
+            "lvl1": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe > 8000-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE"
+        },
+        {
+            "lvl0": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe"
+        }
+    ],
+    "leaf": true,
+    "parent": "329409a81ddb8db0be40d25a1eb2177a"
+}

@@ -1,0 +1,22 @@
+{
+    "objectID": "20952264e13371af86eeacc6bdf5241e",
+    "name": "Diskontertr\u00e4ge aus verbundenen Unternehmen",
+    "type": "Ertrag",
+    "code": "7139",
+    "description": "",
+    "categories": [
+        "- davon aus verbundenen Unternehmen",
+        "11. sonstige Zinsen und \u00e4hnliche Ertr\u00e4ge"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "11. sonstige Zinsen und \u00e4hnliche Ertr\u00e4ge > - davon aus verbundenen Unternehmen"
+        },
+        {
+            "lvl0": "11. sonstige Zinsen und \u00e4hnliche Ertr\u00e4ge"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "59da6822833517f51e97d993249a13a8"
+}

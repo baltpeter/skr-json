@@ -1,0 +1,18 @@
+{
+    "objectID": "d4c9d630bdd7fffa3a7ab0aa5e69796e",
+    "name": "b) auf Verm\u00f6gensgegenst\u00e4nde des Umlaufverm\u00f6gens",
+    "type": "Aufwand",
+    "code": -1,
+    "description": "",
+    "categories": [
+        "07. Abschreibungen"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl0": "07. Abschreibungen"
+        }
+    ],
+    "leaf": false,
+    "placeholder": false,
+    "parent": "1b709a262ee2432eed07961dc6a92463"
+}

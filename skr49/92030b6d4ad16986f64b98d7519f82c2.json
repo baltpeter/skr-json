@@ -1,0 +1,22 @@
+{
+    "objectID": "92030b6d4ad16986f64b98d7519f82c2",
+    "name": "9088 Offene Posten aus 2018",
+    "type": "Aktiva",
+    "code": "9088",
+    "description": "Offene Posten aus 2018",
+    "categories": [
+        "9000-9249 STATISTISCHE KONTEN",
+        "9 Statistik- & Vortragskonten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "9 Statistik- & Vortragskonten > 9000-9249 STATISTISCHE KONTEN"
+        },
+        {
+            "lvl0": "9 Statistik- & Vortragskonten"
+        }
+    ],
+    "leaf": true,
+    "notes": "Konto f\u00fcr das Buchungsjahr 2018 neu eingef\u00fchrt.",
+    "parent": "ffca2686cb9963bea1089b796763dda0"
+}

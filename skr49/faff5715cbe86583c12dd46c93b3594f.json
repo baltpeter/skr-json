@@ -1,0 +1,46 @@
+{
+    "objectID": "faff5715cbe86583c12dd46c93b3594f",
+    "name": "6825 Km-Geld-Erstattung",
+    "type": "Aufwand",
+    "code": "6825",
+    "description": "Kilometergelderstattung Arbeitnehmer",
+    "categories": [
+        "6822 Reisekosten Arbeitnehmer Fahrtkosten",
+        "6820 Reisekosten Arbeitnehmer",
+        "6810 Reisekosten",
+        "6800 Sonstige betriebliche Aufwendungen",
+        "6670-6989 AUSGABEN / AUFWENDUNGEN",
+        "6500-6989 SONSTIGE ZWECKBETRIEBE 2",
+        "6000-6989 SONSTIGE ZWECKBETRIEBE",
+        "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl7": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE > 6500-6989 SONSTIGE ZWECKBETRIEBE 2 > 6670-6989 AUSGABEN / AUFWENDUNGEN > 6800 Sonstige betriebliche Aufwendungen > 6810 Reisekosten > 6820 Reisekosten Arbeitnehmer > 6822 Reisekosten Arbeitnehmer Fahrtkosten"
+        },
+        {
+            "lvl6": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE > 6500-6989 SONSTIGE ZWECKBETRIEBE 2 > 6670-6989 AUSGABEN / AUFWENDUNGEN > 6800 Sonstige betriebliche Aufwendungen > 6810 Reisekosten > 6820 Reisekosten Arbeitnehmer"
+        },
+        {
+            "lvl5": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE > 6500-6989 SONSTIGE ZWECKBETRIEBE 2 > 6670-6989 AUSGABEN / AUFWENDUNGEN > 6800 Sonstige betriebliche Aufwendungen > 6810 Reisekosten"
+        },
+        {
+            "lvl4": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE > 6500-6989 SONSTIGE ZWECKBETRIEBE 2 > 6670-6989 AUSGABEN / AUFWENDUNGEN > 6800 Sonstige betriebliche Aufwendungen"
+        },
+        {
+            "lvl3": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE > 6500-6989 SONSTIGE ZWECKBETRIEBE 2 > 6670-6989 AUSGABEN / AUFWENDUNGEN"
+        },
+        {
+            "lvl2": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE > 6500-6989 SONSTIGE ZWECKBETRIEBE 2"
+        },
+        {
+            "lvl1": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE"
+        },
+        {
+            "lvl0": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe"
+        }
+    ],
+    "leaf": true,
+    "notes": "ehemals allgemein \u201eKm-Geld-Erstattung\u201c",
+    "parent": "cc5e61dbcc677a71daf8d14d91ae7205"
+}

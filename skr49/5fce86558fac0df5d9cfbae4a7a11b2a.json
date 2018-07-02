@@ -1,0 +1,34 @@
+{
+    "objectID": "5fce86558fac0df5d9cfbae4a7a11b2a",
+    "name": "8150-8156+8168-8174 Ausgaben RHB / bezogene Waren",
+    "type": "Aufwand",
+    "code": "8150-8156+8168-8174",
+    "description": "Ausgaben f\u00fcr Roh-, Hilfs- und Betriebsstoffe und f\u00fcr bezogene Waren",
+    "categories": [
+        "8150-8200 Materialaufwand",
+        "8150-8499 AUSGABEN / AUFWENDUNGEN",
+        "8000-8499 SONSTIGE GESCH\u00c4FTSBETRIEBE 1",
+        "8000-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE",
+        "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl4": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe > 8000-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE > 8000-8499 SONSTIGE GESCH\u00c4FTSBETRIEBE 1 > 8150-8499 AUSGABEN / AUFWENDUNGEN > 8150-8200 Materialaufwand"
+        },
+        {
+            "lvl3": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe > 8000-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE > 8000-8499 SONSTIGE GESCH\u00c4FTSBETRIEBE 1 > 8150-8499 AUSGABEN / AUFWENDUNGEN"
+        },
+        {
+            "lvl2": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe > 8000-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE > 8000-8499 SONSTIGE GESCH\u00c4FTSBETRIEBE 1"
+        },
+        {
+            "lvl1": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe > 8000-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE"
+        },
+        {
+            "lvl0": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe"
+        }
+    ],
+    "leaf": false,
+    "placeholder": true,
+    "parent": "7ed26722ff840076f382496af68b8e5b"
+}

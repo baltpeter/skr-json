@@ -1,0 +1,34 @@
+{
+    "objectID": "0cc205dbbc3c9f5869cb01debe5ea6e8",
+    "name": "7873 Rechts- und Beratungskosten",
+    "type": "Aufwand",
+    "code": "7873",
+    "description": "Rechts- und Beratungskosten",
+    "categories": [
+        "7870 Verschiedene Kosten Teilbereich 7800",
+        "7850-7999 AUSGABEN / AUFWENDUNGEN",
+        "7800-7999 NEBENT\u00c4TIGKEITEN SPORT",
+        "7000-7999 GESCH\u00c4FTSBETRIEBE SPORT",
+        "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl4": "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport > 7000-7999 GESCH\u00c4FTSBETRIEBE SPORT > 7800-7999 NEBENT\u00c4TIGKEITEN SPORT > 7850-7999 AUSGABEN / AUFWENDUNGEN > 7870 Verschiedene Kosten Teilbereich 7800"
+        },
+        {
+            "lvl3": "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport > 7000-7999 GESCH\u00c4FTSBETRIEBE SPORT > 7800-7999 NEBENT\u00c4TIGKEITEN SPORT > 7850-7999 AUSGABEN / AUFWENDUNGEN"
+        },
+        {
+            "lvl2": "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport > 7000-7999 GESCH\u00c4FTSBETRIEBE SPORT > 7800-7999 NEBENT\u00c4TIGKEITEN SPORT"
+        },
+        {
+            "lvl1": "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport > 7000-7999 GESCH\u00c4FTSBETRIEBE SPORT"
+        },
+        {
+            "lvl0": "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport"
+        }
+    ],
+    "leaf": true,
+    "notes": "ehemals nur \u201eSteuerberatungskosten\u201c",
+    "parent": "8b24c79d0b41f0e7371f671113c135c0"
+}

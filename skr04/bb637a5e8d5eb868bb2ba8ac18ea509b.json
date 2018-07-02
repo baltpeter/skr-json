@@ -1,0 +1,22 @@
+{
+    "objectID": "bb637a5e8d5eb868bb2ba8ac18ea509b",
+    "name": "Erl\u00f6sschm\u00e4lerung EG-Lieferung 15% USt",
+    "type": "Ertrag",
+    "code": "4729",
+    "description": "",
+    "categories": [
+        "Erl\u00f6sschm\u00e4lerungen",
+        "01. Betriebliche Ertr\u00e4ge"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "01. Betriebliche Ertr\u00e4ge > Erl\u00f6sschm\u00e4lerungen"
+        },
+        {
+            "lvl0": "01. Betriebliche Ertr\u00e4ge"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "2210f6850f7a649cf982df696a48e4b7"
+}

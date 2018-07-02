@@ -1,0 +1,26 @@
+{
+    "objectID": "830b44d416a1a3595da7bbd123cdc3cb",
+    "name": "Verg\u00fctung an angestellte Mitunternehmer 15 EStG",
+    "type": "Aufwand",
+    "code": "6028",
+    "description": "",
+    "categories": [
+        "Geh\u00e4lter",
+        "a) L\u00f6hne und Geh\u00e4lter",
+        "06. Personalaufwand"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "06. Personalaufwand > a) L\u00f6hne und Geh\u00e4lter > Geh\u00e4lter"
+        },
+        {
+            "lvl1": "06. Personalaufwand > a) L\u00f6hne und Geh\u00e4lter"
+        },
+        {
+            "lvl0": "06. Personalaufwand"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "d7762789c469b9ba0c995ecac00fa353"
+}

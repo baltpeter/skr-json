@@ -1,0 +1,22 @@
+{
+    "objectID": "645ac69df0e23132e58e1801fc9cc19b",
+    "name": "\u00d6kosteuer",
+    "type": "Aufwand",
+    "code": "7678",
+    "description": "",
+    "categories": [
+        "Sonstige Steuern",
+        "19. sonstige Steuern"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "19. sonstige Steuern > Sonstige Steuern"
+        },
+        {
+            "lvl0": "19. sonstige Steuern"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "a5866629e278f3178e1a89e670c364f1"
+}

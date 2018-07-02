@@ -1,0 +1,23 @@
+{
+    "objectID": "deb1ab7acad94e5aaa6d92a9ed53e837",
+    "name": "1140-1144 Gezeichnetes Kapital",
+    "type": "Fremdkapital",
+    "code": "1140-1144",
+    "description": "Gezeichnetes Kapital einsxhlie\u00dflich nicth eingeforderter ausstehender Einlagen",
+    "categories": [
+        "1000-1179 VERM\u00d6GEN / EIGENKAPITAL",
+        "1 passive Verm\u00f6gensposten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL"
+        },
+        {
+            "lvl0": "1 passive Verm\u00f6gensposten"
+        }
+    ],
+    "leaf": false,
+    "notes": "Nur GmbH und Stiftungen!",
+    "placeholder": true,
+    "parent": "9025c2c9b2d259fc8b195e1a7b57e6f7"
+}

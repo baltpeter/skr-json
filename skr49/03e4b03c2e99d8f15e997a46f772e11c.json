@@ -1,0 +1,23 @@
+{
+    "objectID": "03e4b03c2e99d8f15e997a46f772e11c",
+    "name": "5000-5699 ZWECKBETRIEBE SPORT 1",
+    "type": "Ertrag",
+    "code": "5000-5699",
+    "description": "ZWECKBETRIEBE SPORT 1 (UST-PFLICHTIG)",
+    "categories": [
+        "5000-5889 ZWECKBETRIEBE SPORT",
+        "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5000-5889 ZWECKBETRIEBE SPORT"
+        },
+        {
+            "lvl0": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport"
+        }
+    ],
+    "leaf": false,
+    "notes": "Teilbereich 5000\nZweckbetriebe Sport 1\nertragsteuerfrei, jedoch umsatzsteuerpflichtig",
+    "placeholder": true,
+    "parent": "c242b06be4dce9cc4568a3f0db2155ac"
+}

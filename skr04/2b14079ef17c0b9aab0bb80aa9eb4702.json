@@ -1,0 +1,26 @@
+{
+    "objectID": "2b14079ef17c0b9aab0bb80aa9eb4702",
+    "name": "Haftungsverg\u00fctung an Mitunternehmer \u00a715 EStG",
+    "type": "Aufwand",
+    "code": "6824",
+    "description": "",
+    "categories": [
+        "8) verschiedene betriebliche Kosten",
+        "a) ordentliche betriebliche Aufwendungen",
+        "08. sonstige betriebliche Aufwendungen"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen > 8) verschiedene betriebliche Kosten"
+        },
+        {
+            "lvl1": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen"
+        },
+        {
+            "lvl0": "08. sonstige betriebliche Aufwendungen"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "34be7b6c3246314364ef3ad2c6aead4c"
+}

@@ -1,0 +1,25 @@
+{
+    "objectID": "29839ca5a3327bdd839fe667a96e893f",
+    "name": "1695 Verrechnungskonto geleistete Anzahlungen bei Buchung \u00fcber Kreditorenkonto",
+    "type": "Verbindlichkeit",
+    "code": "1695",
+    "description": "Verrechnungskonto geleistete Anzahlungen bei Buchung \u00fcber Kreditorenkonto",
+    "categories": [
+        "1600-1989 Sonstige Verbindlichkeiten oder sonstige Verm\u00f6gensgegenst\u00e4nde",
+        "1300-1989 VERBINDLICHKEITEN",
+        "1 passive Verm\u00f6gensposten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "1 passive Verm\u00f6gensposten > 1300-1989 VERBINDLICHKEITEN > 1600-1989 Sonstige Verbindlichkeiten oder sonstige Verm\u00f6gensgegenst\u00e4nde"
+        },
+        {
+            "lvl1": "1 passive Verm\u00f6gensposten > 1300-1989 VERBINDLICHKEITEN"
+        },
+        {
+            "lvl0": "1 passive Verm\u00f6gensposten"
+        }
+    ],
+    "leaf": true,
+    "parent": "0fe80f91a76383ae0b204bcfd1630cf9"
+}

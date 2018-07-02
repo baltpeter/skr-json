@@ -1,0 +1,34 @@
+{
+    "objectID": "2808a409d1fe0210b0d5ceb3f42435f7",
+    "name": "1038 R\u00fccklagen Zweckbetriebe bis 2018",
+    "type": "Fremdkapital",
+    "code": "1038",
+    "description": "R\u00fccklagen Zweckbetriebe bis 2018",
+    "categories": [
+        "1030-1039 R\u00fccklagen Zweckbetriebe",
+        "1000-1069 Gebundene R\u00fccklagen",
+        "1000-1079 Gewinnr\u00fccklagen",
+        "1000-1179 VERM\u00d6GEN / EIGENKAPITAL",
+        "1 passive Verm\u00f6gensposten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl4": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL > 1000-1079 Gewinnr\u00fccklagen > 1000-1069 Gebundene R\u00fccklagen > 1030-1039 R\u00fccklagen Zweckbetriebe"
+        },
+        {
+            "lvl3": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL > 1000-1079 Gewinnr\u00fccklagen > 1000-1069 Gebundene R\u00fccklagen"
+        },
+        {
+            "lvl2": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL > 1000-1079 Gewinnr\u00fccklagen"
+        },
+        {
+            "lvl1": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL"
+        },
+        {
+            "lvl0": "1 passive Verm\u00f6gensposten"
+        }
+    ],
+    "leaf": true,
+    "notes": "Ehemals \u201eR\u00fccklagen Zweckbetriebe bis 2008\u201c",
+    "parent": "5ec8bb9c6068fcb322960a4aef10bb99"
+}

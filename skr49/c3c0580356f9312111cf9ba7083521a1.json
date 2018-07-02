@@ -1,0 +1,21 @@
+{
+    "objectID": "c3c0580356f9312111cf9ba7083521a1",
+    "name": "0630 Geleistete Anzahlungen",
+    "type": "Aktiva",
+    "code": "0630",
+    "description": "Geleistete Anzahlungen auf Vorr\u00e4te",
+    "categories": [
+        "0600-0989 UMLAUFVERM\u00d6GEN",
+        "0 aktive Verm\u00f6gensposten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN"
+        },
+        {
+            "lvl0": "0 aktive Verm\u00f6gensposten"
+        }
+    ],
+    "leaf": true,
+    "parent": "0c37c40d2c6a59254c28e40326c5b971"
+}

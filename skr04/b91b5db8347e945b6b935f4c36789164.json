@@ -1,0 +1,30 @@
+{
+    "objectID": "b91b5db8347e945b6b935f4c36789164",
+    "name": "Anzahlungen auf Gesch\u00e4fts-, Firmenwert",
+    "type": "Aktiva",
+    "code": "0179",
+    "description": "",
+    "categories": [
+        "03. Geleistete Anzahlungen",
+        "III. Immaterielle Verm\u00f6gensgegenst\u00e4nde",
+        "A. Anlageverm\u00f6gen",
+        "Aktiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "Aktiva > A. Anlageverm\u00f6gen > III. Immaterielle Verm\u00f6gensgegenst\u00e4nde > 03. Geleistete Anzahlungen"
+        },
+        {
+            "lvl2": "Aktiva > A. Anlageverm\u00f6gen > III. Immaterielle Verm\u00f6gensgegenst\u00e4nde"
+        },
+        {
+            "lvl1": "Aktiva > A. Anlageverm\u00f6gen"
+        },
+        {
+            "lvl0": "Aktiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "ea0f8625843879d059e4d62a6b8dcb5b"
+}

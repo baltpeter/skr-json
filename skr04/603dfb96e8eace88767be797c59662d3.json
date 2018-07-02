@@ -1,0 +1,26 @@
+{
+    "objectID": "603dfb96e8eace88767be797c59662d3",
+    "name": "Gegenkonto bei Aufteilung Kto 3210-48",
+    "type": "Fremdkapital",
+    "code": "3249",
+    "description": "",
+    "categories": [
+        "02. Verbindlichkeiten gegen\u00fcber Kreditinstituten",
+        "C. Verbindlichkeiten",
+        "Passiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "Passiva > C. Verbindlichkeiten > 02. Verbindlichkeiten gegen\u00fcber Kreditinstituten"
+        },
+        {
+            "lvl1": "Passiva > C. Verbindlichkeiten"
+        },
+        {
+            "lvl0": "Passiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "815036103fbfcdc67d0fcee3c4bd7279"
+}

@@ -1,0 +1,22 @@
+{
+    "objectID": "fc97ca612c23df95481f1a141efa72ef",
+    "name": "03. Statistische Konten E\u00dcR",
+    "type": "Aufwand",
+    "code": -1,
+    "description": "",
+    "categories": [
+        "a) Aufwendungen f\u00fcr Roh-, Hilfs- und Betriebsstoffe und f\u00fcr bezogene Waren",
+        "05. Materialaufwand"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "05. Materialaufwand > a) Aufwendungen f\u00fcr Roh-, Hilfs- und Betriebsstoffe und f\u00fcr bezogene Waren"
+        },
+        {
+            "lvl0": "05. Materialaufwand"
+        }
+    ],
+    "leaf": false,
+    "placeholder": false,
+    "parent": "3cc4cb3a122624f62657777491c1ac38"
+}

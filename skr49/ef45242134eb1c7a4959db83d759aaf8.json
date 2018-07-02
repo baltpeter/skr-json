@@ -1,0 +1,33 @@
+{
+    "objectID": "ef45242134eb1c7a4959db83d759aaf8",
+    "name": "8200 Fremdleistungen",
+    "type": "Aufwand",
+    "code": "8200",
+    "description": "Aufwendungen f\u00fcr bezogene Leistungen",
+    "categories": [
+        "8150-8200 Materialaufwand",
+        "8150-8499 AUSGABEN / AUFWENDUNGEN",
+        "8000-8499 SONSTIGE GESCH\u00c4FTSBETRIEBE 1",
+        "8000-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE",
+        "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl4": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe > 8000-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE > 8000-8499 SONSTIGE GESCH\u00c4FTSBETRIEBE 1 > 8150-8499 AUSGABEN / AUFWENDUNGEN > 8150-8200 Materialaufwand"
+        },
+        {
+            "lvl3": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe > 8000-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE > 8000-8499 SONSTIGE GESCH\u00c4FTSBETRIEBE 1 > 8150-8499 AUSGABEN / AUFWENDUNGEN"
+        },
+        {
+            "lvl2": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe > 8000-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE > 8000-8499 SONSTIGE GESCH\u00c4FTSBETRIEBE 1"
+        },
+        {
+            "lvl1": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe > 8000-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE"
+        },
+        {
+            "lvl0": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe"
+        }
+    ],
+    "leaf": true,
+    "parent": "7ed26722ff840076f382496af68b8e5b"
+}

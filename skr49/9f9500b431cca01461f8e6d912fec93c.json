@@ -1,0 +1,37 @@
+{
+    "objectID": "9f9500b431cca01461f8e6d912fec93c",
+    "name": "7314 Aufwand f\u00fcr andere Vorteile",
+    "type": "Aufwand",
+    "code": "7314",
+    "description": "Aufwand f\u00fcr andere Vorteile",
+    "categories": [
+        "7300-7349 Entsch\u00e4digungen, Sportveranstaltungen",
+        "7300-7799 Sonstige betriebliche Aufwendungen",
+        "7200-7799 AUSGABEN / AUFWENDUNGEN",
+        "7000-7799 GESCH\u00c4FTSBETRIEBE SPORT",
+        "7000-7999 GESCH\u00c4FTSBETRIEBE SPORT",
+        "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl5": "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport > 7000-7999 GESCH\u00c4FTSBETRIEBE SPORT > 7000-7799 GESCH\u00c4FTSBETRIEBE SPORT > 7200-7799 AUSGABEN / AUFWENDUNGEN > 7300-7799 Sonstige betriebliche Aufwendungen > 7300-7349 Entsch\u00e4digungen, Sportveranstaltungen"
+        },
+        {
+            "lvl4": "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport > 7000-7999 GESCH\u00c4FTSBETRIEBE SPORT > 7000-7799 GESCH\u00c4FTSBETRIEBE SPORT > 7200-7799 AUSGABEN / AUFWENDUNGEN > 7300-7799 Sonstige betriebliche Aufwendungen"
+        },
+        {
+            "lvl3": "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport > 7000-7999 GESCH\u00c4FTSBETRIEBE SPORT > 7000-7799 GESCH\u00c4FTSBETRIEBE SPORT > 7200-7799 AUSGABEN / AUFWENDUNGEN"
+        },
+        {
+            "lvl2": "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport > 7000-7999 GESCH\u00c4FTSBETRIEBE SPORT > 7000-7799 GESCH\u00c4FTSBETRIEBE SPORT"
+        },
+        {
+            "lvl1": "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport > 7000-7999 GESCH\u00c4FTSBETRIEBE SPORT"
+        },
+        {
+            "lvl0": "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport"
+        }
+    ],
+    "leaf": true,
+    "parent": "7b7691840886e14487fad3fb0f6167e1"
+}

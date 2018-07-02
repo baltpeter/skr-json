@@ -1,0 +1,30 @@
+{
+    "objectID": "72418055ea860195954078a93ecafa54",
+    "name": "Nicht abziehbare Vorsteuer 7%",
+    "type": "Aufwand",
+    "code": "5610",
+    "description": "",
+    "categories": [
+        "Nicht abziehbare Vorsteuer",
+        "03. Statistische Konten E\u00dcR",
+        "a) Aufwendungen f\u00fcr Roh-, Hilfs- und Betriebsstoffe und f\u00fcr bezogene Waren",
+        "05. Materialaufwand"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "05. Materialaufwand > a) Aufwendungen f\u00fcr Roh-, Hilfs- und Betriebsstoffe und f\u00fcr bezogene Waren > 03. Statistische Konten E\u00dcR > Nicht abziehbare Vorsteuer"
+        },
+        {
+            "lvl2": "05. Materialaufwand > a) Aufwendungen f\u00fcr Roh-, Hilfs- und Betriebsstoffe und f\u00fcr bezogene Waren > 03. Statistische Konten E\u00dcR"
+        },
+        {
+            "lvl1": "05. Materialaufwand > a) Aufwendungen f\u00fcr Roh-, Hilfs- und Betriebsstoffe und f\u00fcr bezogene Waren"
+        },
+        {
+            "lvl0": "05. Materialaufwand"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "c8b4e4c777e6650af27bbed454f912aa"
+}

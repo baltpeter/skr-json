@@ -1,0 +1,22 @@
+{
+    "objectID": "a7934ed6bc0c227f56a8db770ce56d3c",
+    "name": "Verluste aus dem Abgang von Gegenst\u00e4nden des Umlaufverm\u00f6gens au\u00dfer Vorr\u00e4ten",
+    "type": "Aufwand",
+    "code": "6905",
+    "description": "",
+    "categories": [
+        "c) Verluste aus Wertminderungen oder aus dem Abgang von Gegenst\u00e4nden des Umlaufverm\u00f6gens und Einstellung in die Pauschalwertberichtigung zu Forderungen",
+        "08. sonstige betriebliche Aufwendungen"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "08. sonstige betriebliche Aufwendungen > c) Verluste aus Wertminderungen oder aus dem Abgang von Gegenst\u00e4nden des Umlaufverm\u00f6gens und Einstellung in die Pauschalwertberichtigung zu Forderungen"
+        },
+        {
+            "lvl0": "08. sonstige betriebliche Aufwendungen"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "d8494e8b7d4b2f51d181e5a3cb3b7b4a"
+}

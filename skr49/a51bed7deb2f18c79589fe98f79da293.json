@@ -1,0 +1,18 @@
+{
+    "objectID": "a51bed7deb2f18c79589fe98f79da293",
+    "name": "9490-9491 STATISTISCHE KONTEN F\u00dcR GEWINNZUSCHLAG",
+    "type": "Aktiva",
+    "code": "9490-9491",
+    "description": "STATISTISCHE KONTEN F\u00dcR GEWINNZUSCHLAG",
+    "categories": [
+        "9 Statistik- & Vortragskonten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl0": "9 Statistik- & Vortragskonten"
+        }
+    ],
+    "leaf": false,
+    "placeholder": true,
+    "parent": "3f14162b8e47da34d1705080f97af853"
+}

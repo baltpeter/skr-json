@@ -1,0 +1,22 @@
+{
+    "objectID": "a588283077bd935dede66d13b2ee478f",
+    "name": "0410 Gesch\u00e4ftsausstattung",
+    "type": "Aktiva",
+    "code": "0410",
+    "description": "",
+    "categories": [
+        "Anlage- u. Kapitalkonten 0",
+        "Aktiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "Aktiva > Anlage- u. Kapitalkonten 0"
+        },
+        {
+            "lvl0": "Aktiva"
+        }
+    ],
+    "leaf": true,
+    "tax-related": false,
+    "parent": "27356188a1963c1dbf943022441d095f"
+}

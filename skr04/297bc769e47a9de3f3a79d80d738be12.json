@@ -1,0 +1,26 @@
+{
+    "objectID": "297bc769e47a9de3f3a79d80d738be12",
+    "name": "Aufwendungen f\u00fcr Abraum- und Abfallbeseitigung",
+    "type": "Aufwand",
+    "code": "6859",
+    "description": "",
+    "categories": [
+        "8) verschiedene betriebliche Kosten",
+        "a) ordentliche betriebliche Aufwendungen",
+        "08. sonstige betriebliche Aufwendungen"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen > 8) verschiedene betriebliche Kosten"
+        },
+        {
+            "lvl1": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen"
+        },
+        {
+            "lvl0": "08. sonstige betriebliche Aufwendungen"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "34be7b6c3246314364ef3ad2c6aead4c"
+}

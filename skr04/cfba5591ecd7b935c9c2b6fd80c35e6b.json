@@ -1,0 +1,26 @@
+{
+    "objectID": "cfba5591ecd7b935c9c2b6fd80c35e6b",
+    "name": "Verm\u00f6gensteuerr\u00fcckstellung",
+    "type": "Fremdkapital",
+    "code": "3050",
+    "description": "",
+    "categories": [
+        "02. Steuerr\u00fcckstellungen",
+        "B. R\u00fcckstellungen",
+        "Passiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "Passiva > B. R\u00fcckstellungen > 02. Steuerr\u00fcckstellungen"
+        },
+        {
+            "lvl1": "Passiva > B. R\u00fcckstellungen"
+        },
+        {
+            "lvl0": "Passiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "1ce38539e501a14b6c9f1b6d7724c27b"
+}

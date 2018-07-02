@@ -1,0 +1,29 @@
+{
+    "objectID": "42c9a18ce6e774fb31306ac6d89f809f",
+    "name": "8850 Ertr\u00e4ge aus Beteiligungen",
+    "type": "Ertrag",
+    "code": "8850",
+    "description": "Ertr\u00e4ge aus Beteiligungen",
+    "categories": [
+        "8650-8979 AUSGABEN / AUFWENDUNGEN",
+        "8500-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE 2",
+        "8000-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE",
+        "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe > 8000-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE > 8500-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE 2 > 8650-8979 AUSGABEN / AUFWENDUNGEN"
+        },
+        {
+            "lvl2": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe > 8000-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE > 8500-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE 2"
+        },
+        {
+            "lvl1": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe > 8000-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE"
+        },
+        {
+            "lvl0": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe"
+        }
+    ],
+    "leaf": true,
+    "parent": "0928639291214266572821b5db75e863"
+}

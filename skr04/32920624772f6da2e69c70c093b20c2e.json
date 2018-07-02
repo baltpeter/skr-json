@@ -1,0 +1,18 @@
+{
+    "objectID": "32920624772f6da2e69c70c093b20c2e",
+    "name": "Ertr\u00e4ge aus der Aufl\u00f6sung von R\u00fcckstellungen",
+    "type": "Ertrag",
+    "code": "4930",
+    "description": "",
+    "categories": [
+        "04. Sonstige betriebliche Ertr\u00e4ge"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl0": "04. Sonstige betriebliche Ertr\u00e4ge"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "4c0c1557fe54e71d7ed717587a0c0b4d"
+}

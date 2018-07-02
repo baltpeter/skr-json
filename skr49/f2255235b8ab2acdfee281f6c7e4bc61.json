@@ -1,0 +1,25 @@
+{
+    "objectID": "f2255235b8ab2acdfee281f6c7e4bc61",
+    "name": "8980 Umgebuchte Einnahmen bisheriger Zweckbetriebe",
+    "type": "Ertrag",
+    "code": "8980",
+    "description": "Umgebuchte Einnahmen bisheriger Zweckbetriebe",
+    "categories": [
+        "8980-8989 Ertr\u00e4ge / Einnahmen",
+        "8980-8999 ERTRAGSSTEUERPFLICHTIG GEWORDENE ZWECKBETRIEBE",
+        "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe > 8980-8999 ERTRAGSSTEUERPFLICHTIG GEWORDENE ZWECKBETRIEBE > 8980-8989 Ertr\u00e4ge / Einnahmen"
+        },
+        {
+            "lvl1": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe > 8980-8999 ERTRAGSSTEUERPFLICHTIG GEWORDENE ZWECKBETRIEBE"
+        },
+        {
+            "lvl0": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe"
+        }
+    ],
+    "leaf": true,
+    "parent": "a78e3a1e5fc8c97f8e98c23da04a5e1d"
+}

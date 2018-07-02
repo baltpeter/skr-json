@@ -1,0 +1,33 @@
+{
+    "objectID": "a3884a9e83500dbbe4af247d5698492f",
+    "name": "6015 Einnahmen aus Programmverkauf",
+    "type": "Ertrag",
+    "code": "6015",
+    "description": "Einnahmen aus Programmverkauf",
+    "categories": [
+        "6000 Umsatzerl\u00f6se",
+        "6000-6099 EINNAHMEN / ERTR\u00c4GE",
+        "6000-6499 SONSTIGE ZWECKBETRIEBE 1",
+        "6000-6989 SONSTIGE ZWECKBETRIEBE",
+        "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl4": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE > 6000-6499 SONSTIGE ZWECKBETRIEBE 1 > 6000-6099 EINNAHMEN / ERTR\u00c4GE > 6000 Umsatzerl\u00f6se"
+        },
+        {
+            "lvl3": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE > 6000-6499 SONSTIGE ZWECKBETRIEBE 1 > 6000-6099 EINNAHMEN / ERTR\u00c4GE"
+        },
+        {
+            "lvl2": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE > 6000-6499 SONSTIGE ZWECKBETRIEBE 1"
+        },
+        {
+            "lvl1": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE"
+        },
+        {
+            "lvl0": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe"
+        }
+    ],
+    "leaf": true,
+    "parent": "2c6373b5fa2be93781b40e266490cb7e"
+}

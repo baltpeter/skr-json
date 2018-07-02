@@ -1,0 +1,22 @@
+{
+    "objectID": "f6fd8913356f3a5ba8def7ef3ce4376e",
+    "name": "Sonstige Ertr\u00e4ge unregelm\u00e4\u00dfig",
+    "type": "Ertrag",
+    "code": "4839",
+    "description": "",
+    "categories": [
+        "Sonstige betriebliche Ertr\u00e4ge",
+        "04. Sonstige betriebliche Ertr\u00e4ge"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "04. Sonstige betriebliche Ertr\u00e4ge > Sonstige betriebliche Ertr\u00e4ge"
+        },
+        {
+            "lvl0": "04. Sonstige betriebliche Ertr\u00e4ge"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "3e8610310df1d2b66689dead1545a65b"
+}

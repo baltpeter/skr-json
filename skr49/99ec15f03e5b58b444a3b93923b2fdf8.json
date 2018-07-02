@@ -1,0 +1,26 @@
+{
+    "objectID": "99ec15f03e5b58b444a3b93923b2fdf8",
+    "name": "3951 Verminderung des Kapitals aus realisierten Verm\u00f6gensumschichtungen",
+    "type": "Ertrag",
+    "code": "3951",
+    "description": "Verminderung des Kapitals aus realisierten Verm\u00f6gensumschichtungen",
+    "categories": [
+        "3950-3967 Ergebnisverwendung",
+        "3900-3999 ERGEBNISVERWENDUNGSRECHNUNG",
+        "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3900-3999 ERGEBNISVERWENDUNGSRECHNUNG > 3950-3967 Ergebnisverwendung"
+        },
+        {
+            "lvl1": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3900-3999 ERGEBNISVERWENDUNGSRECHNUNG"
+        },
+        {
+            "lvl0": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
+        }
+    ],
+    "leaf": true,
+    "notes": "verschoben von 3971\nehemals \u201eVerminderung des Stiftungskapitals aus realisierten Verm\u00f6gensumschichtungen\u201c\nKonto f\u00fcr das Buchungsjahr 2017 neu eingef\u00fchrt.",
+    "parent": "99ea548f62265618e1930a8c76d855fe"
+}

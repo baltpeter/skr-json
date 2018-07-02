@@ -1,0 +1,22 @@
+{
+    "objectID": "72f6fb081f9e61aa689f51a110c3458f",
+    "name": "07. Verbindlichkeiten gegen\u00fcber Unternehmen, mit denen ein Beteiligungsverh\u00e4ltnis besteht",
+    "type": "Verbindlichkeit",
+    "code": -1,
+    "description": "",
+    "categories": [
+        "C. Verbindlichkeiten",
+        "Passiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "Passiva > C. Verbindlichkeiten"
+        },
+        {
+            "lvl0": "Passiva"
+        }
+    ],
+    "leaf": false,
+    "placeholder": false,
+    "parent": "8755bf4081c942798c5ac5f34c5b1aac"
+}

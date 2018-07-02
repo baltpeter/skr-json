@@ -1,0 +1,33 @@
+{
+    "objectID": "096994d6c9e16d7f22a9fff201c43a98",
+    "name": "5800 Aufwendungen f\u00fcr Roh-, Hilfs- und Betriebsstoffe / bezogene Waren",
+    "type": "Aufwand",
+    "code": "5800",
+    "description": "Aufwendungen f\u00fcr Roh-, Hilfs- und Betriebsstoffe / bezogene Waren",
+    "categories": [
+        "5800-5819 Materialaufwand",
+        "5800-5899 AUSGABEN / AUFWENDUNGEN",
+        "5700-5999 ZWECKBETRIEBE SPORT 2",
+        "5000-5889 ZWECKBETRIEBE SPORT",
+        "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl4": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5000-5889 ZWECKBETRIEBE SPORT > 5700-5999 ZWECKBETRIEBE SPORT 2 > 5800-5899 AUSGABEN / AUFWENDUNGEN > 5800-5819 Materialaufwand"
+        },
+        {
+            "lvl3": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5000-5889 ZWECKBETRIEBE SPORT > 5700-5999 ZWECKBETRIEBE SPORT 2 > 5800-5899 AUSGABEN / AUFWENDUNGEN"
+        },
+        {
+            "lvl2": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5000-5889 ZWECKBETRIEBE SPORT > 5700-5999 ZWECKBETRIEBE SPORT 2"
+        },
+        {
+            "lvl1": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5000-5889 ZWECKBETRIEBE SPORT"
+        },
+        {
+            "lvl0": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport"
+        }
+    ],
+    "leaf": true,
+    "parent": "954b6a5329aa3638167f7493f51b5e20"
+}

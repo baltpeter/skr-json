@@ -1,0 +1,26 @@
+{
+    "objectID": "948b824b332b6b86f53a3b5dd6f56e3a",
+    "name": "(frei, in Bilanz kein Restlaufzeitvermerk)",
+    "type": "Verbindlichkeit",
+    "code": "3570",
+    "description": "",
+    "categories": [
+        "08. sonstige Verbindlichkeiten",
+        "C. Verbindlichkeiten",
+        "Passiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "Passiva > C. Verbindlichkeiten > 08. sonstige Verbindlichkeiten"
+        },
+        {
+            "lvl1": "Passiva > C. Verbindlichkeiten"
+        },
+        {
+            "lvl0": "Passiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "3f6c684bfaa3d0fc8b94368847566df3"
+}

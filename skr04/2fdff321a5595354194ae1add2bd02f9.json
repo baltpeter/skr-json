@@ -1,0 +1,22 @@
+{
+    "objectID": "2fdff321a5595354194ae1add2bd02f9",
+    "name": "Entnahme Unternehmer (Waren) 16% USt",
+    "type": "Ertrag",
+    "code": "4620",
+    "description": "",
+    "categories": [
+        "Unentgeltliche Wertabgaben",
+        "01. Betriebliche Ertr\u00e4ge"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "01. Betriebliche Ertr\u00e4ge > Unentgeltliche Wertabgaben"
+        },
+        {
+            "lvl0": "01. Betriebliche Ertr\u00e4ge"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "ce8895363d9f2d01b9f4f733ab7b02db"
+}

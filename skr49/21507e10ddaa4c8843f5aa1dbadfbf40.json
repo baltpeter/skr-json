@@ -1,0 +1,50 @@
+{
+    "objectID": "21507e10ddaa4c8843f5aa1dbadfbf40",
+    "name": "5595 Km-Geld-Erstattung",
+    "type": "Aufwand",
+    "code": "5595",
+    "description": "Kilometergelderstattung Arbeitnehmer",
+    "categories": [
+        "5592 Reisekosten Arbeitnehmer Fahrtkosten",
+        "5590 Reisekosten Arbeitnehmer",
+        "5580 Reisekostenerstattungen",
+        "5570 Allgemeine Kosten des Sportbetriebs",
+        "5500-5699 Sonstige betriebliche Aufwendungen",
+        "5280-5699 AUSGABEN / AUFWENDUNGEN",
+        "5000-5699 ZWECKBETRIEBE SPORT 1",
+        "5000-5889 ZWECKBETRIEBE SPORT",
+        "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl8": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5000-5889 ZWECKBETRIEBE SPORT > 5000-5699 ZWECKBETRIEBE SPORT 1 > 5280-5699 AUSGABEN / AUFWENDUNGEN > 5500-5699 Sonstige betriebliche Aufwendungen > 5570 Allgemeine Kosten des Sportbetriebs > 5580 Reisekostenerstattungen > 5590 Reisekosten Arbeitnehmer > 5592 Reisekosten Arbeitnehmer Fahrtkosten"
+        },
+        {
+            "lvl7": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5000-5889 ZWECKBETRIEBE SPORT > 5000-5699 ZWECKBETRIEBE SPORT 1 > 5280-5699 AUSGABEN / AUFWENDUNGEN > 5500-5699 Sonstige betriebliche Aufwendungen > 5570 Allgemeine Kosten des Sportbetriebs > 5580 Reisekostenerstattungen > 5590 Reisekosten Arbeitnehmer"
+        },
+        {
+            "lvl6": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5000-5889 ZWECKBETRIEBE SPORT > 5000-5699 ZWECKBETRIEBE SPORT 1 > 5280-5699 AUSGABEN / AUFWENDUNGEN > 5500-5699 Sonstige betriebliche Aufwendungen > 5570 Allgemeine Kosten des Sportbetriebs > 5580 Reisekostenerstattungen"
+        },
+        {
+            "lvl5": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5000-5889 ZWECKBETRIEBE SPORT > 5000-5699 ZWECKBETRIEBE SPORT 1 > 5280-5699 AUSGABEN / AUFWENDUNGEN > 5500-5699 Sonstige betriebliche Aufwendungen > 5570 Allgemeine Kosten des Sportbetriebs"
+        },
+        {
+            "lvl4": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5000-5889 ZWECKBETRIEBE SPORT > 5000-5699 ZWECKBETRIEBE SPORT 1 > 5280-5699 AUSGABEN / AUFWENDUNGEN > 5500-5699 Sonstige betriebliche Aufwendungen"
+        },
+        {
+            "lvl3": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5000-5889 ZWECKBETRIEBE SPORT > 5000-5699 ZWECKBETRIEBE SPORT 1 > 5280-5699 AUSGABEN / AUFWENDUNGEN"
+        },
+        {
+            "lvl2": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5000-5889 ZWECKBETRIEBE SPORT > 5000-5699 ZWECKBETRIEBE SPORT 1"
+        },
+        {
+            "lvl1": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5000-5889 ZWECKBETRIEBE SPORT"
+        },
+        {
+            "lvl0": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport"
+        }
+    ],
+    "leaf": true,
+    "notes": "ehemals allgemein \u201eKm-Geld-Erstattung\u201c",
+    "parent": "4977df4659bd60d296584a501e4f06c7"
+}

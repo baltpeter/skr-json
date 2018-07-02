@@ -1,0 +1,26 @@
+{
+    "objectID": "b9a03a4e2ef94b9339bf07e62ba503b5",
+    "name": "Damnum/Disagio",
+    "type": "Aktiva",
+    "code": "1940",
+    "description": "",
+    "categories": [
+        "Aktive Rechnungsabgrenzung",
+        "C. Rechnungsabgrenzungsposten Umlaufverm\u00f6gen",
+        "Aktiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "Aktiva > C. Rechnungsabgrenzungsposten Umlaufverm\u00f6gen > Aktive Rechnungsabgrenzung"
+        },
+        {
+            "lvl1": "Aktiva > C. Rechnungsabgrenzungsposten Umlaufverm\u00f6gen"
+        },
+        {
+            "lvl0": "Aktiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "4e5d0f817835ddf3b0e9e68135cb873c"
+}

@@ -1,0 +1,24 @@
+{
+    "objectID": "36b8db0579cb00c7b10e0fb28966aa57",
+    "name": "Erl\u00f6se aus Leistungen, f\u00fcr die der Leistungsempf\u00e4nger die Steuer nach \u00a713b UStG schuldet.",
+    "type": "Ertrag",
+    "code": "4337",
+    "description": "UstVa Zl. 41, Kz. 60",
+    "categories": [
+        "a) Umsatzerl\u00f6se",
+        "01. Betriebliche Ertr\u00e4ge"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "01. Betriebliche Ertr\u00e4ge > a) Umsatzerl\u00f6se"
+        },
+        {
+            "lvl0": "01. Betriebliche Ertr\u00e4ge"
+        }
+    ],
+    "leaf": true,
+    "notes": "Werklieferungen aus Ausland ...",
+    "placeholder": false,
+    "tax-related": false,
+    "parent": "0be35cece133442ae9f967be1626bc57"
+}

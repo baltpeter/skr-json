@@ -1,0 +1,18 @@
+{
+    "objectID": "18cd9d7d36213618539f9b644909b88c",
+    "name": "Ertr\u00e4ge aus der Aufl\u00f6sung von R\u00fcckstellungen f\u00fcr Steuern vom Einkommen und Ertrag",
+    "type": "Ertrag",
+    "code": "7644",
+    "description": "",
+    "categories": [
+        "18. Steuern vom Einkommen und vom Ertrag"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl0": "18. Steuern vom Einkommen und vom Ertrag"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "b1f254106f1e487b31aad762ad1cca11"
+}

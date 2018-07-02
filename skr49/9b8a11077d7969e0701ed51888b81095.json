@@ -1,0 +1,33 @@
+{
+    "objectID": "9b8a11077d7969e0701ed51888b81095",
+    "name": "6860 Anteilige Zinsaufwendungen",
+    "type": "Aufwand",
+    "code": "6860",
+    "description": "Anteilige Zinsaufwendungen",
+    "categories": [
+        "6950 Zinsen und \u00e4hnliche Aufwendungen",
+        "6670-6989 AUSGABEN / AUFWENDUNGEN",
+        "6500-6989 SONSTIGE ZWECKBETRIEBE 2",
+        "6000-6989 SONSTIGE ZWECKBETRIEBE",
+        "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl4": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE > 6500-6989 SONSTIGE ZWECKBETRIEBE 2 > 6670-6989 AUSGABEN / AUFWENDUNGEN > 6950 Zinsen und \u00e4hnliche Aufwendungen"
+        },
+        {
+            "lvl3": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE > 6500-6989 SONSTIGE ZWECKBETRIEBE 2 > 6670-6989 AUSGABEN / AUFWENDUNGEN"
+        },
+        {
+            "lvl2": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE > 6500-6989 SONSTIGE ZWECKBETRIEBE 2"
+        },
+        {
+            "lvl1": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE"
+        },
+        {
+            "lvl0": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe"
+        }
+    ],
+    "leaf": true,
+    "parent": "d07396da7aec7784a9cbde33d980773a"
+}

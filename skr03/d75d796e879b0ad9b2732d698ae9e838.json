@@ -1,0 +1,22 @@
+{
+    "objectID": "d75d796e879b0ad9b2732d698ae9e838",
+    "name": "8400 Erl\u00f6se USt. 19%",
+    "type": "Ertrag",
+    "code": "8400",
+    "description": "",
+    "categories": [
+        "Erl\u00f6skonten 8",
+        "Erl\u00f6se u. Ertr\u00e4ge 2/8"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "Erl\u00f6se u. Ertr\u00e4ge 2/8 > Erl\u00f6skonten 8"
+        },
+        {
+            "lvl0": "Erl\u00f6se u. Ertr\u00e4ge 2/8"
+        }
+    ],
+    "leaf": true,
+    "tax-related": false,
+    "parent": "fd04e181ab83b37b80a4609b0806e954"
+}

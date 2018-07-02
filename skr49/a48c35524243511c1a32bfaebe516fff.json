@@ -1,0 +1,29 @@
+{
+    "objectID": "a48c35524243511c1a32bfaebe516fff",
+    "name": "2507 Verrechnete kalkulatorische Abschreibungen",
+    "type": "Aufwand",
+    "code": "2507",
+    "description": "Verrechnete kalkulatorische Abschreibungen",
+    "categories": [
+        "2503 Kalkulatorische Abschreibungen",
+        "2510 \u00dcbrige Ausgaben",
+        "2500-2999 AUSGABEN",
+        "2 Erfolgskonten ideeller Bereich"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN > 2510 \u00dcbrige Ausgaben > 2503 Kalkulatorische Abschreibungen"
+        },
+        {
+            "lvl2": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN > 2510 \u00dcbrige Ausgaben"
+        },
+        {
+            "lvl1": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN"
+        },
+        {
+            "lvl0": "2 Erfolgskonten ideeller Bereich"
+        }
+    ],
+    "leaf": true,
+    "parent": "3e7cc0726990de6806dac81741eaa784"
+}

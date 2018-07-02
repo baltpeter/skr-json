@@ -1,0 +1,26 @@
+{
+    "objectID": "a6dd348289269e4b609ed06123b2a4cd",
+    "name": "Aufwandsr\u00fcckstellungen gem\u00e4\u00df \u00a7249 Abs. 2 HGB",
+    "type": "Fremdkapital",
+    "code": "3098",
+    "description": "",
+    "categories": [
+        "03. Sonstige R\u00fcckstellungen",
+        "B. R\u00fcckstellungen",
+        "Passiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "Passiva > B. R\u00fcckstellungen > 03. Sonstige R\u00fcckstellungen"
+        },
+        {
+            "lvl1": "Passiva > B. R\u00fcckstellungen"
+        },
+        {
+            "lvl0": "Passiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "984e3a4bbeb1a32db7dd6df9437e6ee1"
+}

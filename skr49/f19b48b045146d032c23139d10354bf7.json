@@ -1,0 +1,26 @@
+{
+    "objectID": "f19b48b045146d032c23139d10354bf7",
+    "name": "2423 Ertr\u00e4ge aus der Aufl\u00f6sung einer steuerlichen R\u00fccklage",
+    "type": "Ertrag",
+    "code": "2423",
+    "description": "Ertr\u00e4ge aus der Aufl\u00f6sung einer steuerlichen R\u00fccklage",
+    "categories": [
+        "2400 Sonstige Einnahmen ideeller Bereich",
+        "2000 EINNAHMEN",
+        "2 Erfolgskonten ideeller Bereich"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "2 Erfolgskonten ideeller Bereich > 2000 EINNAHMEN > 2400 Sonstige Einnahmen ideeller Bereich"
+        },
+        {
+            "lvl1": "2 Erfolgskonten ideeller Bereich > 2000 EINNAHMEN"
+        },
+        {
+            "lvl0": "2 Erfolgskonten ideeller Bereich"
+        }
+    ],
+    "leaf": true,
+    "notes": "Hie\u00df zuvor: \u201eErtr\u00e4ge aus der Aufl\u00f6sung von Sonderposten mit R\u00fccklageanteil\u201c",
+    "parent": "8c605e342aae45f2df00242e3c7ace6c"
+}

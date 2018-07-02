@@ -1,0 +1,42 @@
+{
+    "objectID": "56d30f50e5569ae8cbf1a31f8288368a",
+    "name": "8042 Verrechnungskonto Geldspielautomaten",
+    "type": "Ertrag",
+    "code": "8042",
+    "description": "Verrechnungskonto Geldspielautomaten",
+    "categories": [
+        "8011 Verrechnungskonto Geldspielautomaten",
+        "8010 Erl\u00f6se aus Geldspielautomaten",
+        "8000 Einnahmen aus Umsatzerl\u00f6sen",
+        "8000-8149 EINNAHMEN / ERTR\u00c4GE",
+        "8000-8499 SONSTIGE GESCH\u00c4FTSBETRIEBE 1",
+        "8000-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE",
+        "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl6": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe > 8000-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE > 8000-8499 SONSTIGE GESCH\u00c4FTSBETRIEBE 1 > 8000-8149 EINNAHMEN / ERTR\u00c4GE > 8000 Einnahmen aus Umsatzerl\u00f6sen > 8010 Erl\u00f6se aus Geldspielautomaten > 8011 Verrechnungskonto Geldspielautomaten"
+        },
+        {
+            "lvl5": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe > 8000-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE > 8000-8499 SONSTIGE GESCH\u00c4FTSBETRIEBE 1 > 8000-8149 EINNAHMEN / ERTR\u00c4GE > 8000 Einnahmen aus Umsatzerl\u00f6sen > 8010 Erl\u00f6se aus Geldspielautomaten"
+        },
+        {
+            "lvl4": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe > 8000-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE > 8000-8499 SONSTIGE GESCH\u00c4FTSBETRIEBE 1 > 8000-8149 EINNAHMEN / ERTR\u00c4GE > 8000 Einnahmen aus Umsatzerl\u00f6sen"
+        },
+        {
+            "lvl3": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe > 8000-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE > 8000-8499 SONSTIGE GESCH\u00c4FTSBETRIEBE 1 > 8000-8149 EINNAHMEN / ERTR\u00c4GE"
+        },
+        {
+            "lvl2": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe > 8000-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE > 8000-8499 SONSTIGE GESCH\u00c4FTSBETRIEBE 1"
+        },
+        {
+            "lvl1": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe > 8000-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE"
+        },
+        {
+            "lvl0": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe"
+        }
+    ],
+    "leaf": true,
+    "notes": "verschoben nach 8011",
+    "parent": "f17e2de596c31016b3d49512cd30ff7e"
+}

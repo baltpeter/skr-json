@@ -1,0 +1,18 @@
+{
+    "objectID": "cd2a7f93bd69dc46f7b43211b708a787",
+    "name": "Ertr\u00e4ge aus Zuschreibungen des anderen Anlageverm\u00f6gens 100 %/50 % steuerfrei",
+    "type": "Ertrag",
+    "code": "4914",
+    "description": "(inlndische Kap.Ges.)",
+    "categories": [
+        "04. Sonstige betriebliche Ertr\u00e4ge"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl0": "04. Sonstige betriebliche Ertr\u00e4ge"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "4c0c1557fe54e71d7ed717587a0c0b4d"
+}

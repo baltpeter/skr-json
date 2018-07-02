@@ -1,0 +1,26 @@
+{
+    "objectID": "edc1d6c73ae5b82d21fa87ec5ffd96a7",
+    "name": "Umsatzsteuer aus innergemeinschaftlichem Erwerb ohne Vorsteuerabzug",
+    "type": "Verbindlichkeit",
+    "code": "3809",
+    "description": "",
+    "categories": [
+        "10. Umsatzsteuer",
+        "C. Verbindlichkeiten",
+        "Passiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "Passiva > C. Verbindlichkeiten > 10. Umsatzsteuer"
+        },
+        {
+            "lvl1": "Passiva > C. Verbindlichkeiten"
+        },
+        {
+            "lvl0": "Passiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "a4ca09669a36f58cc3081d5ecff9cdb6"
+}

@@ -1,0 +1,29 @@
+{
+    "objectID": "72be9beb785ec5d68fea58b35aa2912b",
+    "name": "0675 Gegenkonto 0653-0654, 0661-0664, 0670-0672, 0675-0679, 0687-0689, 0697-0699 bei Aufteilung Debitorenkonto",
+    "type": "Forderung",
+    "code": "0675",
+    "description": "Gegenkonto 0653-0654, 0661-0664, 0670-0672, 0675-0679, 0687-0689, 0697-0699 bei Aufteilung Debitorenkonto",
+    "categories": [
+        "0650-0674 Forderungen aus Lieferungen und Leistungen",
+        "0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde",
+        "0600-0989 UMLAUFVERM\u00d6GEN",
+        "0 aktive Verm\u00f6gensposten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde > 0650-0674 Forderungen aus Lieferungen und Leistungen"
+        },
+        {
+            "lvl2": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde"
+        },
+        {
+            "lvl1": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN"
+        },
+        {
+            "lvl0": "0 aktive Verm\u00f6gensposten"
+        }
+    ],
+    "leaf": true,
+    "parent": "9b9ec8f3d837eea8bdc4fecf5e65c339"
+}

@@ -1,0 +1,33 @@
+{
+    "objectID": "2533662548256f90534c2027f926e9f5",
+    "name": "7861 Anteilige Kostenumlage f\u00fcr Sportst\u00e4tten",
+    "type": "Aufwand",
+    "code": "7861",
+    "description": "Anteilige Kostenumlage f\u00fcr Sportst\u00e4tten",
+    "categories": [
+        "7860 Ausgaben zur Sportst\u00e4ttenvermietung",
+        "7850-7999 AUSGABEN / AUFWENDUNGEN",
+        "7800-7999 NEBENT\u00c4TIGKEITEN SPORT",
+        "7000-7999 GESCH\u00c4FTSBETRIEBE SPORT",
+        "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl4": "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport > 7000-7999 GESCH\u00c4FTSBETRIEBE SPORT > 7800-7999 NEBENT\u00c4TIGKEITEN SPORT > 7850-7999 AUSGABEN / AUFWENDUNGEN > 7860 Ausgaben zur Sportst\u00e4ttenvermietung"
+        },
+        {
+            "lvl3": "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport > 7000-7999 GESCH\u00c4FTSBETRIEBE SPORT > 7800-7999 NEBENT\u00c4TIGKEITEN SPORT > 7850-7999 AUSGABEN / AUFWENDUNGEN"
+        },
+        {
+            "lvl2": "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport > 7000-7999 GESCH\u00c4FTSBETRIEBE SPORT > 7800-7999 NEBENT\u00c4TIGKEITEN SPORT"
+        },
+        {
+            "lvl1": "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport > 7000-7999 GESCH\u00c4FTSBETRIEBE SPORT"
+        },
+        {
+            "lvl0": "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport"
+        }
+    ],
+    "leaf": true,
+    "parent": "644c930fd8f46c95ed12e0d088fa322b"
+}

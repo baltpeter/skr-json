@@ -1,0 +1,37 @@
+{
+    "objectID": "2de8aa83fdd3ff8d4dc01f70e40d845e",
+    "name": "5555 Miete, Pacht",
+    "type": "Aufwand",
+    "code": "5555",
+    "description": "Miete, Pacht",
+    "categories": [
+        "5550 Kosten der Sportanlagen",
+        "5500-5699 Sonstige betriebliche Aufwendungen",
+        "5280-5699 AUSGABEN / AUFWENDUNGEN",
+        "5000-5699 ZWECKBETRIEBE SPORT 1",
+        "5000-5889 ZWECKBETRIEBE SPORT",
+        "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl5": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5000-5889 ZWECKBETRIEBE SPORT > 5000-5699 ZWECKBETRIEBE SPORT 1 > 5280-5699 AUSGABEN / AUFWENDUNGEN > 5500-5699 Sonstige betriebliche Aufwendungen > 5550 Kosten der Sportanlagen"
+        },
+        {
+            "lvl4": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5000-5889 ZWECKBETRIEBE SPORT > 5000-5699 ZWECKBETRIEBE SPORT 1 > 5280-5699 AUSGABEN / AUFWENDUNGEN > 5500-5699 Sonstige betriebliche Aufwendungen"
+        },
+        {
+            "lvl3": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5000-5889 ZWECKBETRIEBE SPORT > 5000-5699 ZWECKBETRIEBE SPORT 1 > 5280-5699 AUSGABEN / AUFWENDUNGEN"
+        },
+        {
+            "lvl2": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5000-5889 ZWECKBETRIEBE SPORT > 5000-5699 ZWECKBETRIEBE SPORT 1"
+        },
+        {
+            "lvl1": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5000-5889 ZWECKBETRIEBE SPORT"
+        },
+        {
+            "lvl0": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport"
+        }
+    ],
+    "leaf": true,
+    "parent": "a6192838d798d9b908ccb0f1cb62a5d0"
+}

@@ -1,0 +1,18 @@
+{
+    "objectID": "4f552b822559c82eaa816d0049f70064",
+    "name": "Ertragskonten 2",
+    "type": "Ertrag",
+    "code": -1,
+    "description": "",
+    "categories": [
+        "Erl\u00f6se u. Ertr\u00e4ge 2/8"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl0": "Erl\u00f6se u. Ertr\u00e4ge 2/8"
+        }
+    ],
+    "leaf": false,
+    "placeholder": true,
+    "parent": "3f31fc649f19b5201f22f7648c3f7107"
+}

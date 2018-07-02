@@ -1,0 +1,33 @@
+{
+    "objectID": "671035da1a83c9ea40677b99286ebd7c",
+    "name": "6832 Wasser",
+    "type": "Aufwand",
+    "code": "6832",
+    "description": "Wasser",
+    "categories": [
+        "6800 Sonstige betriebliche Aufwendungen",
+        "6670-6989 AUSGABEN / AUFWENDUNGEN",
+        "6500-6989 SONSTIGE ZWECKBETRIEBE 2",
+        "6000-6989 SONSTIGE ZWECKBETRIEBE",
+        "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl4": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE > 6500-6989 SONSTIGE ZWECKBETRIEBE 2 > 6670-6989 AUSGABEN / AUFWENDUNGEN > 6800 Sonstige betriebliche Aufwendungen"
+        },
+        {
+            "lvl3": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE > 6500-6989 SONSTIGE ZWECKBETRIEBE 2 > 6670-6989 AUSGABEN / AUFWENDUNGEN"
+        },
+        {
+            "lvl2": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE > 6500-6989 SONSTIGE ZWECKBETRIEBE 2"
+        },
+        {
+            "lvl1": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE"
+        },
+        {
+            "lvl0": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe"
+        }
+    ],
+    "leaf": true,
+    "parent": "010033103ba9255acf68473e914f1791"
+}

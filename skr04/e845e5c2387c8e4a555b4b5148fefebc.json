@@ -1,0 +1,34 @@
+{
+    "objectID": "e845e5c2387c8e4a555b4b5148fefebc",
+    "name": "Forderungen aus L+L gg. verbund. UN > 1J",
+    "type": "Forderung",
+    "code": "1275",
+    "description": "",
+    "categories": [
+        "Forderungen aus L+L gg. verbundene UN",
+        "02. Forderungen gegen verbundene Unternehmen",
+        "II. Forderungen und sonstige Verm\u00f6gensgegenst\u00e4nde",
+        "B. Umlaufverm\u00f6gen",
+        "Aktiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl4": "Aktiva > B. Umlaufverm\u00f6gen > II. Forderungen und sonstige Verm\u00f6gensgegenst\u00e4nde > 02. Forderungen gegen verbundene Unternehmen > Forderungen aus L+L gg. verbundene UN"
+        },
+        {
+            "lvl3": "Aktiva > B. Umlaufverm\u00f6gen > II. Forderungen und sonstige Verm\u00f6gensgegenst\u00e4nde > 02. Forderungen gegen verbundene Unternehmen"
+        },
+        {
+            "lvl2": "Aktiva > B. Umlaufverm\u00f6gen > II. Forderungen und sonstige Verm\u00f6gensgegenst\u00e4nde"
+        },
+        {
+            "lvl1": "Aktiva > B. Umlaufverm\u00f6gen"
+        },
+        {
+            "lvl0": "Aktiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "7fa441383b425d01688d980afa0e2159"
+}

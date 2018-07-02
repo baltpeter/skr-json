@@ -1,0 +1,34 @@
+{
+    "objectID": "7b2c1a17aabc3268fca1f751840c6a9d",
+    "name": "Forderg.a. Lieferungen/Leistungen > 1 J",
+    "type": "Forderung",
+    "code": "1225",
+    "description": "",
+    "categories": [
+        "Forderungen nach \u00a711 Abs. 1 Satz 2 EStG f\u00fcr \u00a74/3",
+        "01. Forderungen aus Lieferungen und Leistungen",
+        "II. Forderungen und sonstige Verm\u00f6gensgegenst\u00e4nde",
+        "B. Umlaufverm\u00f6gen",
+        "Aktiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl4": "Aktiva > B. Umlaufverm\u00f6gen > II. Forderungen und sonstige Verm\u00f6gensgegenst\u00e4nde > 01. Forderungen aus Lieferungen und Leistungen > Forderungen nach \u00a711 Abs. 1 Satz 2 EStG f\u00fcr \u00a74/3"
+        },
+        {
+            "lvl3": "Aktiva > B. Umlaufverm\u00f6gen > II. Forderungen und sonstige Verm\u00f6gensgegenst\u00e4nde > 01. Forderungen aus Lieferungen und Leistungen"
+        },
+        {
+            "lvl2": "Aktiva > B. Umlaufverm\u00f6gen > II. Forderungen und sonstige Verm\u00f6gensgegenst\u00e4nde"
+        },
+        {
+            "lvl1": "Aktiva > B. Umlaufverm\u00f6gen"
+        },
+        {
+            "lvl0": "Aktiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "fd124dab720d156a374f1386a565d9d0"
+}

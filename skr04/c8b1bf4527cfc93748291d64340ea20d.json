@@ -1,0 +1,30 @@
+{
+    "objectID": "c8b1bf4527cfc93748291d64340ea20d",
+    "name": "Verbindlichkeiten aus Lieferungen und Leistungen ohne Vorsteuer",
+    "type": "Verbindlichkeit",
+    "code": "3307",
+    "description": "E\u00dcR",
+    "categories": [
+        "Verbindlichkeiten aus Lieferungen und Leistungen (Kreditoren)",
+        "04. Verbindlichkeiten aus Lieferungen und Leistungen",
+        "C. Verbindlichkeiten",
+        "Passiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "Passiva > C. Verbindlichkeiten > 04. Verbindlichkeiten aus Lieferungen und Leistungen > Verbindlichkeiten aus Lieferungen und Leistungen (Kreditoren)"
+        },
+        {
+            "lvl2": "Passiva > C. Verbindlichkeiten > 04. Verbindlichkeiten aus Lieferungen und Leistungen"
+        },
+        {
+            "lvl1": "Passiva > C. Verbindlichkeiten"
+        },
+        {
+            "lvl0": "Passiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "a7e6f09fcbf7fab4f58b31620ea09a18"
+}

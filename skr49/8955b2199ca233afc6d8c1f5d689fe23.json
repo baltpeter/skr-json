@@ -1,0 +1,29 @@
+{
+    "objectID": "8955b2199ca233afc6d8c1f5d689fe23",
+    "name": "3984 Ertr\u00e4ge aus der Kapitalherabsetzung",
+    "type": "Ertrag",
+    "code": "3984",
+    "description": "Ertr\u00e4ge aus der Kapitalherabsetzung",
+    "categories": [
+        "3980-3989 Ergebnisverwendung (GmbHs)",
+        "3968-3988 Ergebnisverwendung (Stiftungen & GmbHs)",
+        "3900-3999 ERGEBNISVERWENDUNGSRECHNUNG",
+        "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3900-3999 ERGEBNISVERWENDUNGSRECHNUNG > 3968-3988 Ergebnisverwendung (Stiftungen & GmbHs) > 3980-3989 Ergebnisverwendung (GmbHs)"
+        },
+        {
+            "lvl2": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3900-3999 ERGEBNISVERWENDUNGSRECHNUNG > 3968-3988 Ergebnisverwendung (Stiftungen & GmbHs)"
+        },
+        {
+            "lvl1": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3900-3999 ERGEBNISVERWENDUNGSRECHNUNG"
+        },
+        {
+            "lvl0": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
+        }
+    ],
+    "leaf": true,
+    "parent": "503b475a143f854fb30218487f913493"
+}

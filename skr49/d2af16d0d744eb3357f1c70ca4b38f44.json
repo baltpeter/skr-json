@@ -1,0 +1,29 @@
+{
+    "objectID": "d2af16d0d744eb3357f1c70ca4b38f44",
+    "name": "0070 Grundst\u00fccksgleiche Rechte",
+    "type": "Aktiva",
+    "code": "0070",
+    "description": "Grundst\u00fccksgleiche Rechte (Erbbaurecht, Dauerwohnrecht, unbebaute Grundst\u00fccke)",
+    "categories": [
+        "0050-0099 Grundst\u00fccke, grundst\u00fccksgleiche Rechte",
+        "0050-0249 Sachanlagen",
+        "0010-0249 ANLAGEVERM\u00d6GEN",
+        "0 aktive Verm\u00f6gensposten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "0 aktive Verm\u00f6gensposten > 0010-0249 ANLAGEVERM\u00d6GEN > 0050-0249 Sachanlagen > 0050-0099 Grundst\u00fccke, grundst\u00fccksgleiche Rechte"
+        },
+        {
+            "lvl2": "0 aktive Verm\u00f6gensposten > 0010-0249 ANLAGEVERM\u00d6GEN > 0050-0249 Sachanlagen"
+        },
+        {
+            "lvl1": "0 aktive Verm\u00f6gensposten > 0010-0249 ANLAGEVERM\u00d6GEN"
+        },
+        {
+            "lvl0": "0 aktive Verm\u00f6gensposten"
+        }
+    ],
+    "leaf": true,
+    "parent": "22f46af8febc1730a47ff6ab392f81fb"
+}

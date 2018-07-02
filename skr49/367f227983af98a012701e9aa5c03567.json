@@ -1,0 +1,37 @@
+{
+    "objectID": "367f227983af98a012701e9aa5c03567",
+    "name": "6510 Eintrittsgelder 0%",
+    "type": "Ertrag",
+    "code": "6510",
+    "description": "Eintrittsgelder 0% USt",
+    "categories": [
+        "6505 Umsatzerl\u00f6se 0%",
+        "6500 Umsatzerl\u00f6se",
+        "6500-6669 EINNAHMEN / ERTR\u00c4GE",
+        "6500-6989 SONSTIGE ZWECKBETRIEBE 2",
+        "6000-6989 SONSTIGE ZWECKBETRIEBE",
+        "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl5": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE > 6500-6989 SONSTIGE ZWECKBETRIEBE 2 > 6500-6669 EINNAHMEN / ERTR\u00c4GE > 6500 Umsatzerl\u00f6se > 6505 Umsatzerl\u00f6se 0%"
+        },
+        {
+            "lvl4": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE > 6500-6989 SONSTIGE ZWECKBETRIEBE 2 > 6500-6669 EINNAHMEN / ERTR\u00c4GE > 6500 Umsatzerl\u00f6se"
+        },
+        {
+            "lvl3": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE > 6500-6989 SONSTIGE ZWECKBETRIEBE 2 > 6500-6669 EINNAHMEN / ERTR\u00c4GE"
+        },
+        {
+            "lvl2": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE > 6500-6989 SONSTIGE ZWECKBETRIEBE 2"
+        },
+        {
+            "lvl1": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE"
+        },
+        {
+            "lvl0": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe"
+        }
+    ],
+    "leaf": true,
+    "parent": "a9aef7304805dfd8010c169186e1d338"
+}

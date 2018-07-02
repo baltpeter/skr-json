@@ -1,0 +1,31 @@
+{
+    "objectID": "871188ec82d324b942df1d74248516ca",
+    "name": "Ausstehende Einlagen auf das gezeichnete Kapital, nicht eingefordert",
+    "type": "Fremdkapital",
+    "code": "2910",
+    "description": "Passivausweis, von gezeichnetem Kapital offen abgesetzt; eingeforderte ausstehende Einlagen s. Konto 1298",
+    "categories": [
+        "I. Gezeichnetes Kapital",
+        "b) Kapitalgesellschaft",
+        "A. Eigenkapital",
+        "Passiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "Passiva > A. Eigenkapital > b) Kapitalgesellschaft > I. Gezeichnetes Kapital"
+        },
+        {
+            "lvl2": "Passiva > A. Eigenkapital > b) Kapitalgesellschaft"
+        },
+        {
+            "lvl1": "Passiva > A. Eigenkapital"
+        },
+        {
+            "lvl0": "Passiva"
+        }
+    ],
+    "leaf": true,
+    "notes": "Aktivausweis: 0001",
+    "placeholder": false,
+    "parent": "5eeae8dd31cc6836e2af04d1e3bf00fd"
+}

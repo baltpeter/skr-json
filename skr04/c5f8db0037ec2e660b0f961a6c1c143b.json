@@ -1,0 +1,26 @@
+{
+    "objectID": "c5f8db0037ec2e660b0f961a6c1c143b",
+    "name": "Abschreibungen auf den Gesch\u00e4fts- oder Firmenwert",
+    "type": "Aufwand",
+    "code": "6205",
+    "description": "",
+    "categories": [
+        "Abschreibungen auf immaterielle Verm\u00f6gensgegenst\u00e4nde",
+        "a) auf immaterielle Verm\u00f6gensgegenst\u00e4nde des Anlageverm\u00f6gens und Sachanlagen",
+        "07. Abschreibungen"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "07. Abschreibungen > a) auf immaterielle Verm\u00f6gensgegenst\u00e4nde des Anlageverm\u00f6gens und Sachanlagen > Abschreibungen auf immaterielle Verm\u00f6gensgegenst\u00e4nde"
+        },
+        {
+            "lvl1": "07. Abschreibungen > a) auf immaterielle Verm\u00f6gensgegenst\u00e4nde des Anlageverm\u00f6gens und Sachanlagen"
+        },
+        {
+            "lvl0": "07. Abschreibungen"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "8e1b717f577f8c5207766572a74b82c1"
+}

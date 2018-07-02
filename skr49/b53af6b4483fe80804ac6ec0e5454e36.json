@@ -1,0 +1,34 @@
+{
+    "objectID": "b53af6b4483fe80804ac6ec0e5454e36",
+    "name": "6342 Literatur, Zeitschriften, B\u00fccher",
+    "type": "Aufwand",
+    "code": "6342",
+    "description": "Literatur, Zeitschriften, B\u00fccher",
+    "categories": [
+        "6300 Sonstige betriebliche Aufwendungen",
+        "6170-6499 AUSGABEN / AUFWENDUNGEN",
+        "6000-6499 SONSTIGE ZWECKBETRIEBE 1",
+        "6000-6989 SONSTIGE ZWECKBETRIEBE",
+        "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl4": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE > 6000-6499 SONSTIGE ZWECKBETRIEBE 1 > 6170-6499 AUSGABEN / AUFWENDUNGEN > 6300 Sonstige betriebliche Aufwendungen"
+        },
+        {
+            "lvl3": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE > 6000-6499 SONSTIGE ZWECKBETRIEBE 1 > 6170-6499 AUSGABEN / AUFWENDUNGEN"
+        },
+        {
+            "lvl2": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE > 6000-6499 SONSTIGE ZWECKBETRIEBE 1"
+        },
+        {
+            "lvl1": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE"
+        },
+        {
+            "lvl0": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe"
+        }
+    ],
+    "leaf": true,
+    "notes": "Fachliteratur",
+    "parent": "2dae553aa2bcd613b49ee3380564bb62"
+}

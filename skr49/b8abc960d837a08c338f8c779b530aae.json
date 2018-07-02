@@ -1,0 +1,29 @@
+{
+    "objectID": "b8abc960d837a08c338f8c779b530aae",
+    "name": "0660 Forderungen zu Einnahmen \u00a711 Abs. 1 S. 2 EStG",
+    "type": "Forderung",
+    "code": "0660",
+    "description": "Forderungen nach \u00a711 Absatz 1 Satz 2 EStG f\u00fcr \u00a74 Absatz 3 EStG",
+    "categories": [
+        "0650-0674 Forderungen aus Lieferungen und Leistungen",
+        "0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde",
+        "0600-0989 UMLAUFVERM\u00d6GEN",
+        "0 aktive Verm\u00f6gensposten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde > 0650-0674 Forderungen aus Lieferungen und Leistungen"
+        },
+        {
+            "lvl2": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde"
+        },
+        {
+            "lvl1": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN"
+        },
+        {
+            "lvl0": "0 aktive Verm\u00f6gensposten"
+        }
+    ],
+    "leaf": true,
+    "parent": "9b9ec8f3d837eea8bdc4fecf5e65c339"
+}

@@ -1,0 +1,33 @@
+{
+    "objectID": "e8b10e336b7201e1cdb9e97705988c16",
+    "name": "6854 Anlagenabg\u00e4nge Sachanlagen",
+    "type": "Ertrag",
+    "code": "6854",
+    "description": "Anlagenabg\u00e4nge Sachanlagen (Restbuchwert bei Buchgewinn)",
+    "categories": [
+        "6560 Sonstige betriebliche Ertr\u00e4ge",
+        "6500-6669 EINNAHMEN / ERTR\u00c4GE",
+        "6500-6989 SONSTIGE ZWECKBETRIEBE 2",
+        "6000-6989 SONSTIGE ZWECKBETRIEBE",
+        "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl4": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE > 6500-6989 SONSTIGE ZWECKBETRIEBE 2 > 6500-6669 EINNAHMEN / ERTR\u00c4GE > 6560 Sonstige betriebliche Ertr\u00e4ge"
+        },
+        {
+            "lvl3": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE > 6500-6989 SONSTIGE ZWECKBETRIEBE 2 > 6500-6669 EINNAHMEN / ERTR\u00c4GE"
+        },
+        {
+            "lvl2": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE > 6500-6989 SONSTIGE ZWECKBETRIEBE 2"
+        },
+        {
+            "lvl1": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE"
+        },
+        {
+            "lvl0": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe"
+        }
+    ],
+    "leaf": true,
+    "parent": "71247a60b8c245e52e7ec859f0bb083a"
+}

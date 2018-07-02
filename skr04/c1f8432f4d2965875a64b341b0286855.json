@@ -1,0 +1,22 @@
+{
+    "objectID": "c1f8432f4d2965875a64b341b0286855",
+    "name": "Au\u00dferordentliche Ertr\u00e4ge finanzwirksam",
+    "type": "Ertrag",
+    "code": "7401",
+    "description": "",
+    "categories": [
+        "Au\u00dferordentliche Ertr\u00e4ge",
+        "15. au\u00dferordentliche Ertr\u00e4ge"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "15. au\u00dferordentliche Ertr\u00e4ge > Au\u00dferordentliche Ertr\u00e4ge"
+        },
+        {
+            "lvl0": "15. au\u00dferordentliche Ertr\u00e4ge"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "3304df4516d13eb81a9926d96019e1c4"
+}

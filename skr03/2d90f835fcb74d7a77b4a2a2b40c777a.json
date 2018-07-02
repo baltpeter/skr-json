@@ -1,0 +1,21 @@
+{
+    "objectID": "2d90f835fcb74d7a77b4a2a2b40c777a",
+    "name": "4610 Werbekosten",
+    "type": "Aufwand",
+    "code": "4610",
+    "description": "",
+    "categories": [
+        "Werbe-/Reisekosten",
+        "Aufwendungen 2/4"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "Aufwendungen 2/4 > Werbe-/Reisekosten"
+        },
+        {
+            "lvl0": "Aufwendungen 2/4"
+        }
+    ],
+    "leaf": true,
+    "parent": "a657ade965a1429d44d830d3832bf9aa"
+}

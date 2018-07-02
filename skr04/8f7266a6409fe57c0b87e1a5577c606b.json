@@ -1,0 +1,18 @@
+{
+    "objectID": "8f7266a6409fe57c0b87e1a5577c606b",
+    "name": "Bestandsver\u00e4nderung Auftr\u00e4ge in Arbeit",
+    "type": "Ertrag",
+    "code": "4818",
+    "description": "",
+    "categories": [
+        "02. Erh\u00f6hung oder Verminderung des Bestandes an fertigen und unfertigen Erzeugnissen"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl0": "02. Erh\u00f6hung oder Verminderung des Bestandes an fertigen und unfertigen Erzeugnissen"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "1e39012da3dcba7d9581752aa72fdac3"
+}

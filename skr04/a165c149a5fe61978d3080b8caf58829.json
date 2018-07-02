@@ -1,0 +1,22 @@
+{
+    "objectID": "a165c149a5fe61978d3080b8caf58829",
+    "name": "Verluste aus der Ver\u00e4u\u00dferung von Anteilen an Kapitalgesellschaften 100 %/50 % nicht abzugsf\u00e4hig",
+    "type": "Aufwand",
+    "code": "6903",
+    "description": "inl\u00e4ndische Kap.Ges.",
+    "categories": [
+        "b) Verluste aus dem Abgang von Gegenst\u00e4nden des Anlageverm\u00f6gens",
+        "08. sonstige betriebliche Aufwendungen"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "08. sonstige betriebliche Aufwendungen > b) Verluste aus dem Abgang von Gegenst\u00e4nden des Anlageverm\u00f6gens"
+        },
+        {
+            "lvl0": "08. sonstige betriebliche Aufwendungen"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "47767b5fa390ff8a4dbb0fdf05a3ee3b"
+}

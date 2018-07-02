@@ -1,0 +1,18 @@
+{
+    "objectID": "0cbbda72c8bf044330d0c777172ff62e",
+    "name": "Versicherungsentsch\u00e4digungen",
+    "type": "Ertrag",
+    "code": "4970",
+    "description": "",
+    "categories": [
+        "04. Sonstige betriebliche Ertr\u00e4ge"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl0": "04. Sonstige betriebliche Ertr\u00e4ge"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "4c0c1557fe54e71d7ed717587a0c0b4d"
+}

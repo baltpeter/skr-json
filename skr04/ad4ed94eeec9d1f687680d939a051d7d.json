@@ -1,0 +1,26 @@
+{
+    "objectID": "ad4ed94eeec9d1f687680d939a051d7d",
+    "name": "Gesch\u00e4ftsf\u00fchrergeh\u00e4lter",
+    "type": "Aufwand",
+    "code": "6027",
+    "description": "",
+    "categories": [
+        "Geh\u00e4lter",
+        "a) L\u00f6hne und Geh\u00e4lter",
+        "06. Personalaufwand"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "06. Personalaufwand > a) L\u00f6hne und Geh\u00e4lter > Geh\u00e4lter"
+        },
+        {
+            "lvl1": "06. Personalaufwand > a) L\u00f6hne und Geh\u00e4lter"
+        },
+        {
+            "lvl0": "06. Personalaufwand"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "d7762789c469b9ba0c995ecac00fa353"
+}

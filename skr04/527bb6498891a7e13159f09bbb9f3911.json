@@ -1,0 +1,30 @@
+{
+    "objectID": "527bb6498891a7e13159f09bbb9f3911",
+    "name": "Heizung f\u00fcr Geb\u00e4ude, die nicht zum Betriebsverm\u00f6gen gehren",
+    "type": "Aufwand",
+    "code": "6323",
+    "description": "",
+    "categories": [
+        "Heizung",
+        "1) Raumkosten",
+        "a) ordentliche betriebliche Aufwendungen",
+        "08. sonstige betriebliche Aufwendungen"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen > 1) Raumkosten > Heizung"
+        },
+        {
+            "lvl2": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen > 1) Raumkosten"
+        },
+        {
+            "lvl1": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen"
+        },
+        {
+            "lvl0": "08. sonstige betriebliche Aufwendungen"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "d2f7a41bc5988a84c15d409a7a1ac7c4"
+}

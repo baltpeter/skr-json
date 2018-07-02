@@ -1,0 +1,30 @@
+{
+    "objectID": "d3c439cf5a19d1e6b4684a69531ba36d",
+    "name": "Partiarische Darlehen (g. 5 Jahre)",
+    "type": "Verbindlichkeit",
+    "code": "3547",
+    "description": "",
+    "categories": [
+        "Partiarische Darlehen",
+        "08. sonstige Verbindlichkeiten",
+        "C. Verbindlichkeiten",
+        "Passiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "Passiva > C. Verbindlichkeiten > 08. sonstige Verbindlichkeiten > Partiarische Darlehen"
+        },
+        {
+            "lvl2": "Passiva > C. Verbindlichkeiten > 08. sonstige Verbindlichkeiten"
+        },
+        {
+            "lvl1": "Passiva > C. Verbindlichkeiten"
+        },
+        {
+            "lvl0": "Passiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "040967754f9301f1256ae5b221fc765c"
+}

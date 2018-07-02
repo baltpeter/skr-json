@@ -1,0 +1,25 @@
+{
+    "objectID": "c1533bf28755c263d8b38289cf77c894",
+    "name": "0265 Pflegemaschinen",
+    "type": "Aktiva",
+    "code": "0265",
+    "description": "Pflegemaschinen",
+    "categories": [
+        "0250-0299 Fahrzeuge, Transportmittel",
+        "0250-0599 ANDERE ANLAGEN, BETRIEBS- UND GESCH\u00c4FTSAUSSTATTUNG",
+        "0 aktive Verm\u00f6gensposten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "0 aktive Verm\u00f6gensposten > 0250-0599 ANDERE ANLAGEN, BETRIEBS- UND GESCH\u00c4FTSAUSSTATTUNG > 0250-0299 Fahrzeuge, Transportmittel"
+        },
+        {
+            "lvl1": "0 aktive Verm\u00f6gensposten > 0250-0599 ANDERE ANLAGEN, BETRIEBS- UND GESCH\u00c4FTSAUSSTATTUNG"
+        },
+        {
+            "lvl0": "0 aktive Verm\u00f6gensposten"
+        }
+    ],
+    "leaf": true,
+    "parent": "650a376df3f56a8998ad27d125ca6b69"
+}

@@ -1,0 +1,30 @@
+{
+    "objectID": "dc29abc5eed61a436087ded71d6cd991",
+    "name": "3590 Umsatzsteuer auf unentgeltliche Wertabgaben",
+    "type": "Aufwand",
+    "code": "3590",
+    "description": "Umsatzsteuer auf unentgeltliche Wertabgaben",
+    "categories": [
+        "3550 Nicht abziehbare Ausgaben Bereich 5000",
+        "3500-3599 Zweckbetriebe Sport",
+        "3200-3899  ERTRAGSNEUTRALE POSTEN",
+        "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN > 3500-3599 Zweckbetriebe Sport > 3550 Nicht abziehbare Ausgaben Bereich 5000"
+        },
+        {
+            "lvl2": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN > 3500-3599 Zweckbetriebe Sport"
+        },
+        {
+            "lvl1": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN"
+        },
+        {
+            "lvl0": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
+        }
+    ],
+    "leaf": true,
+    "notes": "\u00a73 Abs. 1b, Abs. 9a UStG",
+    "parent": "ec36a283e2e95169640a489b94cbdd59"
+}

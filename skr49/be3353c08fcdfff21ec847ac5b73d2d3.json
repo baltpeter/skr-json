@@ -1,0 +1,29 @@
+{
+    "objectID": "be3353c08fcdfff21ec847ac5b73d2d3",
+    "name": "8890 Zinsen und \u00e4hnliche Aufwendungen",
+    "type": "Aufwand",
+    "code": "8890",
+    "description": "Zinsen und \u00e4hnliche Aufwendungen",
+    "categories": [
+        "8650-8979 AUSGABEN / AUFWENDUNGEN",
+        "8500-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE 2",
+        "8000-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE",
+        "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe > 8000-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE > 8500-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE 2 > 8650-8979 AUSGABEN / AUFWENDUNGEN"
+        },
+        {
+            "lvl2": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe > 8000-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE > 8500-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE 2"
+        },
+        {
+            "lvl1": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe > 8000-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE"
+        },
+        {
+            "lvl0": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe"
+        }
+    ],
+    "leaf": true,
+    "parent": "0928639291214266572821b5db75e863"
+}

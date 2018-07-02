@@ -1,0 +1,33 @@
+{
+    "objectID": "e8c81fbbe4bbb8273a1726d112deaf4d",
+    "name": "6250 Soziale Abgaben",
+    "type": "Aufwand",
+    "code": "6250",
+    "description": "Gesetzliche soziale Aufwendungen",
+    "categories": [
+        "6200-6279 Personalaufwand",
+        "6170-6499 AUSGABEN / AUFWENDUNGEN",
+        "6000-6499 SONSTIGE ZWECKBETRIEBE 1",
+        "6000-6989 SONSTIGE ZWECKBETRIEBE",
+        "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl4": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE > 6000-6499 SONSTIGE ZWECKBETRIEBE 1 > 6170-6499 AUSGABEN / AUFWENDUNGEN > 6200-6279 Personalaufwand"
+        },
+        {
+            "lvl3": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE > 6000-6499 SONSTIGE ZWECKBETRIEBE 1 > 6170-6499 AUSGABEN / AUFWENDUNGEN"
+        },
+        {
+            "lvl2": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE > 6000-6499 SONSTIGE ZWECKBETRIEBE 1"
+        },
+        {
+            "lvl1": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE"
+        },
+        {
+            "lvl0": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe"
+        }
+    ],
+    "leaf": true,
+    "parent": "76a527fe8ba9dc795a8bccc9f5ada5f3"
+}

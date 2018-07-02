@@ -1,0 +1,22 @@
+{
+    "objectID": "3931c679d22ec4e1e3c22f47fc33a998",
+    "name": "Abschreibungen auf Finanzanlagen aufgrund steuerlicher Sondervorschriften",
+    "type": "Aufwand",
+    "code": "7250",
+    "description": "",
+    "categories": [
+        "Abschreibungen auf Finanzanlagen",
+        "12. Abschreibungen auf Finanzanlagen und auf Wertpapiere des Umlaufverm\u00f6gens"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "12. Abschreibungen auf Finanzanlagen und auf Wertpapiere des Umlaufverm\u00f6gens > Abschreibungen auf Finanzanlagen"
+        },
+        {
+            "lvl0": "12. Abschreibungen auf Finanzanlagen und auf Wertpapiere des Umlaufverm\u00f6gens"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "330db1de3813d4b598b2646016d5bab4"
+}

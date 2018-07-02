@@ -1,0 +1,22 @@
+{
+    "objectID": "dac7d570edd203341ce4d39c2517f750",
+    "name": "K\u00f6rperschaftsteuer f\u00fcr Vorjahre",
+    "type": "Aufwand",
+    "code": "7603",
+    "description": "",
+    "categories": [
+        "K\u00f6rperschaftsteuer",
+        "18. Steuern vom Einkommen und vom Ertrag"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "18. Steuern vom Einkommen und vom Ertrag > K\u00f6rperschaftsteuer"
+        },
+        {
+            "lvl0": "18. Steuern vom Einkommen und vom Ertrag"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "f00e5e2126e3acdb3789807e0596a497"
+}

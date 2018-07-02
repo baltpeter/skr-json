@@ -1,0 +1,30 @@
+{
+    "objectID": "fb6b60df79981f6556f67d5f7913b16d",
+    "name": "4906 Abziehbare Vorsteuer",
+    "type": "Aufwand",
+    "code": "4906",
+    "description": "Abziehbare Vorsteuer",
+    "categories": [
+        "4904-4907 Umsatzsteuer",
+        "4510 Ausgaben Bereich 4000",
+        "4500-4999 AUSGABEN / WERBUNGSKOSTEN",
+        "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4500-4999 AUSGABEN / WERBUNGSKOSTEN > 4510 Ausgaben Bereich 4000 > 4904-4907 Umsatzsteuer"
+        },
+        {
+            "lvl2": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4500-4999 AUSGABEN / WERBUNGSKOSTEN > 4510 Ausgaben Bereich 4000"
+        },
+        {
+            "lvl1": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4500-4999 AUSGABEN / WERBUNGSKOSTEN"
+        },
+        {
+            "lvl0": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung"
+        }
+    ],
+    "leaf": true,
+    "notes": "Nur f\u00fcr \u00dcberschussrechner!",
+    "parent": "b6df49eb2d52683b0384bbcb21020f71"
+}

@@ -1,0 +1,26 @@
+{
+    "objectID": "8a9ad6b49648d5e0627601f031c094b9",
+    "name": "Steuerzahlungen an andere EG-L\u00e4nder",
+    "type": "Verbindlichkeit",
+    "code": "3854",
+    "description": "",
+    "categories": [
+        "10. Umsatzsteuer",
+        "C. Verbindlichkeiten",
+        "Passiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "Passiva > C. Verbindlichkeiten > 10. Umsatzsteuer"
+        },
+        {
+            "lvl1": "Passiva > C. Verbindlichkeiten"
+        },
+        {
+            "lvl0": "Passiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "a4ca09669a36f58cc3081d5ecff9cdb6"
+}

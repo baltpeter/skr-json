@@ -1,0 +1,27 @@
+{
+    "objectID": "9b9ec8f3d837eea8bdc4fecf5e65c339",
+    "name": "0650-0674 Forderungen aus Lieferungen und Leistungen",
+    "type": "Forderung",
+    "code": "0650-0674",
+    "description": "Forderungen aus Lieferungen und Leistungen oder sonstige Verbindlichkeiten",
+    "categories": [
+        "0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde",
+        "0600-0989 UMLAUFVERM\u00d6GEN",
+        "0 aktive Verm\u00f6gensposten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde"
+        },
+        {
+            "lvl1": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN"
+        },
+        {
+            "lvl0": "0 aktive Verm\u00f6gensposten"
+        }
+    ],
+    "leaf": false,
+    "notes": "Manche dieser Konten k\u00f6nnen \u201eins Minus gehen\u201c, daher \u201esonstige Verbindlichkeiten\u201c.\nForderungen aus Lieferungen und Leistungen:\n0665-0668\n0673\nForderungen aus Lieferungen und Leistungen oder sonstige Verbindlichkeiten:\n0650-0663\n0670-0672\n0674",
+    "placeholder": true,
+    "parent": "7c67e6354bb5a3e8a06595099386bee2"
+}

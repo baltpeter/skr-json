@@ -1,0 +1,22 @@
+{
+    "objectID": "dcc9df0c20ead56ac1dc766fd4aaf6b1",
+    "name": "09. Lohn- und Gehaltsverrechnungskonto",
+    "type": "Verbindlichkeit",
+    "code": "3790",
+    "description": "",
+    "categories": [
+        "C. Verbindlichkeiten",
+        "Passiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "Passiva > C. Verbindlichkeiten"
+        },
+        {
+            "lvl0": "Passiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": true,
+    "parent": "8755bf4081c942798c5ac5f34c5b1aac"
+}

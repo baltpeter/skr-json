@@ -1,0 +1,22 @@
+{
+    "objectID": "6691583e74356457af663428b0554d55",
+    "name": "2660-2663 Raumkosten",
+    "type": "Aufwand",
+    "code": "2660-2663",
+    "description": "Raumkosten",
+    "categories": [
+        "2500-2999 AUSGABEN",
+        "2 Erfolgskonten ideeller Bereich"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN"
+        },
+        {
+            "lvl0": "2 Erfolgskonten ideeller Bereich"
+        }
+    ],
+    "leaf": false,
+    "placeholder": true,
+    "parent": "48ee122ca8c1c162daf2c936adbc924e"
+}

@@ -1,0 +1,38 @@
+{
+    "objectID": "a8fe603a0071e3b34ad450a679f17224",
+    "name": "7402 Anteilige Personalkosten",
+    "type": "Aufwand",
+    "code": "7402",
+    "description": "Anteilige Personalkosten",
+    "categories": [
+        "7400 Allgemeine Kosten des Sportbetriebs",
+        "7300-7799 Sonstige betriebliche Aufwendungen",
+        "7200-7799 AUSGABEN / AUFWENDUNGEN",
+        "7000-7799 GESCH\u00c4FTSBETRIEBE SPORT",
+        "7000-7999 GESCH\u00c4FTSBETRIEBE SPORT",
+        "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl5": "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport > 7000-7999 GESCH\u00c4FTSBETRIEBE SPORT > 7000-7799 GESCH\u00c4FTSBETRIEBE SPORT > 7200-7799 AUSGABEN / AUFWENDUNGEN > 7300-7799 Sonstige betriebliche Aufwendungen > 7400 Allgemeine Kosten des Sportbetriebs"
+        },
+        {
+            "lvl4": "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport > 7000-7999 GESCH\u00c4FTSBETRIEBE SPORT > 7000-7799 GESCH\u00c4FTSBETRIEBE SPORT > 7200-7799 AUSGABEN / AUFWENDUNGEN > 7300-7799 Sonstige betriebliche Aufwendungen"
+        },
+        {
+            "lvl3": "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport > 7000-7999 GESCH\u00c4FTSBETRIEBE SPORT > 7000-7799 GESCH\u00c4FTSBETRIEBE SPORT > 7200-7799 AUSGABEN / AUFWENDUNGEN"
+        },
+        {
+            "lvl2": "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport > 7000-7999 GESCH\u00c4FTSBETRIEBE SPORT > 7000-7799 GESCH\u00c4FTSBETRIEBE SPORT"
+        },
+        {
+            "lvl1": "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport > 7000-7999 GESCH\u00c4FTSBETRIEBE SPORT"
+        },
+        {
+            "lvl0": "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport"
+        }
+    ],
+    "leaf": true,
+    "notes": "Veraltet, in der Version 2017 nicht mehr enthalten!",
+    "parent": "5d0cdb9fcbc16b383a39337673081810"
+}

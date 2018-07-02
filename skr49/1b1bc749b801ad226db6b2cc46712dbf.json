@@ -1,0 +1,26 @@
+{
+    "objectID": "1b1bc749b801ad226db6b2cc46712dbf",
+    "name": "3964 Erh\u00f6hung des nutzungsgebundenen Kapitals",
+    "type": "Ertrag",
+    "code": "3964",
+    "description": "Erh\u00f6hung des nutzungsgebundenen Kapitals",
+    "categories": [
+        "3950-3967 Ergebnisverwendung",
+        "3900-3999 ERGEBNISVERWENDUNGSRECHNUNG",
+        "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3900-3999 ERGEBNISVERWENDUNGSRECHNUNG > 3950-3967 Ergebnisverwendung"
+        },
+        {
+            "lvl1": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3900-3999 ERGEBNISVERWENDUNGSRECHNUNG"
+        },
+        {
+            "lvl0": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
+        }
+    ],
+    "leaf": true,
+    "notes": "Konto f\u00fcr das Buchungsjahr 2017 neu eingef\u00fchrt.",
+    "parent": "99ea548f62265618e1930a8c76d855fe"
+}

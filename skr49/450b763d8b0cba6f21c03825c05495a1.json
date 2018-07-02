@@ -1,0 +1,25 @@
+{
+    "objectID": "450b763d8b0cba6f21c03825c05495a1",
+    "name": "3400 Steuerneutrale Einnahmen Bereich 4000",
+    "type": "Ertrag",
+    "code": "3400",
+    "description": "Steuerneutrale Einnahmen Bereich 4000",
+    "categories": [
+        "3400-3499 Verm\u00f6gensverwaltung",
+        "3200-3899  ERTRAGSNEUTRALE POSTEN",
+        "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN > 3400-3499 Verm\u00f6gensverwaltung"
+        },
+        {
+            "lvl1": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN"
+        },
+        {
+            "lvl0": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
+        }
+    ],
+    "leaf": true,
+    "parent": "b914ab0aa307dc39252eee7daacab0fe"
+}

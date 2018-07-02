@@ -1,0 +1,30 @@
+{
+    "objectID": "ebf182d076a4b447f0c5f1bb2b566934",
+    "name": "Darlehen atyp. stiller Gesellsch. (g. 5 J)",
+    "type": "Verbindlichkeit",
+    "code": "3537",
+    "description": "",
+    "categories": [
+        "Darlehen atypisch stiller Gesellschafter",
+        "08. sonstige Verbindlichkeiten",
+        "C. Verbindlichkeiten",
+        "Passiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "Passiva > C. Verbindlichkeiten > 08. sonstige Verbindlichkeiten > Darlehen atypisch stiller Gesellschafter"
+        },
+        {
+            "lvl2": "Passiva > C. Verbindlichkeiten > 08. sonstige Verbindlichkeiten"
+        },
+        {
+            "lvl1": "Passiva > C. Verbindlichkeiten"
+        },
+        {
+            "lvl0": "Passiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "3b9d74efc7a3e88f81321be0efbe5863"
+}

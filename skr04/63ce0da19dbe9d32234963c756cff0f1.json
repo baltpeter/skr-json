@@ -1,0 +1,30 @@
+{
+    "objectID": "63ce0da19dbe9d32234963c756cff0f1",
+    "name": "Erhaltene Anzahlungen 16% USt",
+    "type": "Verbindlichkeit",
+    "code": "3270",
+    "description": "",
+    "categories": [
+        "Erhaltene Anzahlungen",
+        "03. erhaltene Anzahlungen auf Bestellungen",
+        "C. Verbindlichkeiten",
+        "Passiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "Passiva > C. Verbindlichkeiten > 03. erhaltene Anzahlungen auf Bestellungen > Erhaltene Anzahlungen"
+        },
+        {
+            "lvl2": "Passiva > C. Verbindlichkeiten > 03. erhaltene Anzahlungen auf Bestellungen"
+        },
+        {
+            "lvl1": "Passiva > C. Verbindlichkeiten"
+        },
+        {
+            "lvl0": "Passiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "8849ae77228dd660bcdfd0becbfd9e7f"
+}

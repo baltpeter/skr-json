@@ -1,0 +1,37 @@
+{
+    "objectID": "6912610e3e485666db39a94a36ca9849",
+    "name": "7812 Einnahmen Sportger\u00e4te-Werberechte 19 % USt",
+    "type": "Ertrag",
+    "code": "7812",
+    "description": "Einnahmen Sportger\u00e4te-Werberechte 19% USt im wirtschaftlichen Gesch\u00e4ftsbetrieb",
+    "categories": [
+        "7810 Einnahmen aus \u00fcbertragenen Werberechten",
+        "7800-7829 Kommerzielle Werbung",
+        "7800-7849 EINNAHMEN / ERTR\u00c4GE",
+        "7800-7999 NEBENT\u00c4TIGKEITEN SPORT",
+        "7000-7999 GESCH\u00c4FTSBETRIEBE SPORT",
+        "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl5": "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport > 7000-7999 GESCH\u00c4FTSBETRIEBE SPORT > 7800-7999 NEBENT\u00c4TIGKEITEN SPORT > 7800-7849 EINNAHMEN / ERTR\u00c4GE > 7800-7829 Kommerzielle Werbung > 7810 Einnahmen aus \u00fcbertragenen Werberechten"
+        },
+        {
+            "lvl4": "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport > 7000-7999 GESCH\u00c4FTSBETRIEBE SPORT > 7800-7999 NEBENT\u00c4TIGKEITEN SPORT > 7800-7849 EINNAHMEN / ERTR\u00c4GE > 7800-7829 Kommerzielle Werbung"
+        },
+        {
+            "lvl3": "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport > 7000-7999 GESCH\u00c4FTSBETRIEBE SPORT > 7800-7999 NEBENT\u00c4TIGKEITEN SPORT > 7800-7849 EINNAHMEN / ERTR\u00c4GE"
+        },
+        {
+            "lvl2": "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport > 7000-7999 GESCH\u00c4FTSBETRIEBE SPORT > 7800-7999 NEBENT\u00c4TIGKEITEN SPORT"
+        },
+        {
+            "lvl1": "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport > 7000-7999 GESCH\u00c4FTSBETRIEBE SPORT"
+        },
+        {
+            "lvl0": "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport"
+        }
+    ],
+    "leaf": true,
+    "parent": "82081d7b6f257051d6cf9a5975161bfa"
+}

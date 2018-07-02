@@ -1,0 +1,21 @@
+{
+    "objectID": "910d6c057660045a9958fb5a57ffc899",
+    "name": "0400 Betriebsausstattung",
+    "type": "Aktiva",
+    "code": "0400",
+    "description": "",
+    "categories": [
+        "Anlage- u. Kapitalkonten 0",
+        "Aktiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "Aktiva > Anlage- u. Kapitalkonten 0"
+        },
+        {
+            "lvl0": "Aktiva"
+        }
+    ],
+    "leaf": true,
+    "parent": "27356188a1963c1dbf943022441d095f"
+}

@@ -1,0 +1,30 @@
+{
+    "objectID": "156c86a0302635048cc5fe68ac686eac",
+    "name": "Verbindlichkeiten gegen\u00fcber Gesellschaftern f\u00fcr offene Aussch\u00fcttungen",
+    "type": "Verbindlichkeit",
+    "code": "3519",
+    "description": "",
+    "categories": [
+        "Verbindlichkeiten gegen\u00fcber Gesellschaftern",
+        "08. sonstige Verbindlichkeiten",
+        "C. Verbindlichkeiten",
+        "Passiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "Passiva > C. Verbindlichkeiten > 08. sonstige Verbindlichkeiten > Verbindlichkeiten gegen\u00fcber Gesellschaftern"
+        },
+        {
+            "lvl2": "Passiva > C. Verbindlichkeiten > 08. sonstige Verbindlichkeiten"
+        },
+        {
+            "lvl1": "Passiva > C. Verbindlichkeiten"
+        },
+        {
+            "lvl0": "Passiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "3c6fad03081857dacd8a1b210903521b"
+}

@@ -1,0 +1,37 @@
+{
+    "objectID": "8452a197b8c6a9a9a0c8feb46fec1fd2",
+    "name": "7404 Verwaltungskosten",
+    "type": "Aufwand",
+    "code": "7404",
+    "description": "Verwaltungskosten",
+    "categories": [
+        "7400 Allgemeine Kosten des Sportbetriebs",
+        "7300-7799 Sonstige betriebliche Aufwendungen",
+        "7200-7799 AUSGABEN / AUFWENDUNGEN",
+        "7000-7799 GESCH\u00c4FTSBETRIEBE SPORT",
+        "7000-7999 GESCH\u00c4FTSBETRIEBE SPORT",
+        "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl5": "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport > 7000-7999 GESCH\u00c4FTSBETRIEBE SPORT > 7000-7799 GESCH\u00c4FTSBETRIEBE SPORT > 7200-7799 AUSGABEN / AUFWENDUNGEN > 7300-7799 Sonstige betriebliche Aufwendungen > 7400 Allgemeine Kosten des Sportbetriebs"
+        },
+        {
+            "lvl4": "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport > 7000-7999 GESCH\u00c4FTSBETRIEBE SPORT > 7000-7799 GESCH\u00c4FTSBETRIEBE SPORT > 7200-7799 AUSGABEN / AUFWENDUNGEN > 7300-7799 Sonstige betriebliche Aufwendungen"
+        },
+        {
+            "lvl3": "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport > 7000-7999 GESCH\u00c4FTSBETRIEBE SPORT > 7000-7799 GESCH\u00c4FTSBETRIEBE SPORT > 7200-7799 AUSGABEN / AUFWENDUNGEN"
+        },
+        {
+            "lvl2": "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport > 7000-7999 GESCH\u00c4FTSBETRIEBE SPORT > 7000-7799 GESCH\u00c4FTSBETRIEBE SPORT"
+        },
+        {
+            "lvl1": "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport > 7000-7999 GESCH\u00c4FTSBETRIEBE SPORT"
+        },
+        {
+            "lvl0": "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport"
+        }
+    ],
+    "leaf": true,
+    "parent": "5d0cdb9fcbc16b383a39337673081810"
+}

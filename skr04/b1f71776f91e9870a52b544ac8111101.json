@@ -1,0 +1,18 @@
+{
+    "objectID": "b1f71776f91e9870a52b544ac8111101",
+    "name": "Saldenvortr\u00e4ge Debitoren",
+    "type": "Eigenkapital",
+    "code": "9008",
+    "description": "",
+    "categories": [
+        "Anfangsbestand"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl0": "Anfangsbestand"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "e57d948c9a884e179bd090118b9212f8"
+}

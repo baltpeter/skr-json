@@ -1,0 +1,30 @@
+{
+    "objectID": "783f70a4db20eb5d3f72feaa22671dbc",
+    "name": "3974 Entnahmen aus der Ansparr\u00fccklage",
+    "type": "Ertrag",
+    "code": "3974",
+    "description": "Entnahmen aus der Ansparr\u00fccklage",
+    "categories": [
+        "3970-3979 Ergebnisverwendung (Stiftungen)",
+        "3968-3988 Ergebnisverwendung (Stiftungen & GmbHs)",
+        "3900-3999 ERGEBNISVERWENDUNGSRECHNUNG",
+        "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3900-3999 ERGEBNISVERWENDUNGSRECHNUNG > 3968-3988 Ergebnisverwendung (Stiftungen & GmbHs) > 3970-3979 Ergebnisverwendung (Stiftungen)"
+        },
+        {
+            "lvl2": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3900-3999 ERGEBNISVERWENDUNGSRECHNUNG > 3968-3988 Ergebnisverwendung (Stiftungen & GmbHs)"
+        },
+        {
+            "lvl1": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3900-3999 ERGEBNISVERWENDUNGSRECHNUNG"
+        },
+        {
+            "lvl0": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
+        }
+    ],
+    "leaf": true,
+    "notes": "\u00a762 Abs. 4 AO",
+    "parent": "47d66f1dfeaf8465f4761cfdc1d3fb1b"
+}

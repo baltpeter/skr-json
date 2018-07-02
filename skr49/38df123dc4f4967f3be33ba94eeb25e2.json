@@ -1,0 +1,43 @@
+{
+    "objectID": "38df123dc4f4967f3be33ba94eeb25e2",
+    "name": "5533 Reisekosten Nicht-Arbeitnehmer",
+    "type": "Aufwand",
+    "code": "5533",
+    "description": "Reisekostenerstattung an Nicht-Arbeitnehmer",
+    "categories": [
+        "5500-5509+5524-5533 Reisekosten",
+        "5500-5549 Entsch\u00e4digungen, Sportveranstaltungen",
+        "5500-5699 Sonstige betriebliche Aufwendungen",
+        "5280-5699 AUSGABEN / AUFWENDUNGEN",
+        "5000-5699 ZWECKBETRIEBE SPORT 1",
+        "5000-5889 ZWECKBETRIEBE SPORT",
+        "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl6": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5000-5889 ZWECKBETRIEBE SPORT > 5000-5699 ZWECKBETRIEBE SPORT 1 > 5280-5699 AUSGABEN / AUFWENDUNGEN > 5500-5699 Sonstige betriebliche Aufwendungen > 5500-5549 Entsch\u00e4digungen, Sportveranstaltungen > 5500-5509+5524-5533 Reisekosten"
+        },
+        {
+            "lvl5": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5000-5889 ZWECKBETRIEBE SPORT > 5000-5699 ZWECKBETRIEBE SPORT 1 > 5280-5699 AUSGABEN / AUFWENDUNGEN > 5500-5699 Sonstige betriebliche Aufwendungen > 5500-5549 Entsch\u00e4digungen, Sportveranstaltungen"
+        },
+        {
+            "lvl4": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5000-5889 ZWECKBETRIEBE SPORT > 5000-5699 ZWECKBETRIEBE SPORT 1 > 5280-5699 AUSGABEN / AUFWENDUNGEN > 5500-5699 Sonstige betriebliche Aufwendungen"
+        },
+        {
+            "lvl3": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5000-5889 ZWECKBETRIEBE SPORT > 5000-5699 ZWECKBETRIEBE SPORT 1 > 5280-5699 AUSGABEN / AUFWENDUNGEN"
+        },
+        {
+            "lvl2": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5000-5889 ZWECKBETRIEBE SPORT > 5000-5699 ZWECKBETRIEBE SPORT 1"
+        },
+        {
+            "lvl1": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5000-5889 ZWECKBETRIEBE SPORT"
+        },
+        {
+            "lvl0": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport"
+        }
+    ],
+    "leaf": true,
+    "notes": "In der Version 2017 nicht mehr enthalten!",
+    "placeholder": true,
+    "parent": "d82bd49e44c6400bc00b2cd32b643980"
+}

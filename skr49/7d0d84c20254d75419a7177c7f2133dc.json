@@ -1,0 +1,37 @@
+{
+    "objectID": "7d0d84c20254d75419a7177c7f2133dc",
+    "name": "5740 Sport Jugendhilfe",
+    "type": "Ertrag",
+    "code": "5740",
+    "description": "Sport Jugendhilfe 0% im Sinne von \u00a74 Nr. 25a+b UStG",
+    "categories": [
+        "5740-5749 Umsatzerl\u00f6se aus Sportunterricht Jugendhilfe",
+        "5700-5769+5784 Umsatzerl\u00f6se",
+        "5700-5799 EINNAHMEN / ERTR\u00c4GE",
+        "5700-5999 ZWECKBETRIEBE SPORT 2",
+        "5000-5889 ZWECKBETRIEBE SPORT",
+        "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl5": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5000-5889 ZWECKBETRIEBE SPORT > 5700-5999 ZWECKBETRIEBE SPORT 2 > 5700-5799 EINNAHMEN / ERTR\u00c4GE > 5700-5769+5784 Umsatzerl\u00f6se > 5740-5749 Umsatzerl\u00f6se aus Sportunterricht Jugendhilfe"
+        },
+        {
+            "lvl4": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5000-5889 ZWECKBETRIEBE SPORT > 5700-5999 ZWECKBETRIEBE SPORT 2 > 5700-5799 EINNAHMEN / ERTR\u00c4GE > 5700-5769+5784 Umsatzerl\u00f6se"
+        },
+        {
+            "lvl3": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5000-5889 ZWECKBETRIEBE SPORT > 5700-5999 ZWECKBETRIEBE SPORT 2 > 5700-5799 EINNAHMEN / ERTR\u00c4GE"
+        },
+        {
+            "lvl2": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5000-5889 ZWECKBETRIEBE SPORT > 5700-5999 ZWECKBETRIEBE SPORT 2"
+        },
+        {
+            "lvl1": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5000-5889 ZWECKBETRIEBE SPORT"
+        },
+        {
+            "lvl0": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport"
+        }
+    ],
+    "leaf": true,
+    "parent": "0b67d1a852571b7d8c4c844669f58622"
+}

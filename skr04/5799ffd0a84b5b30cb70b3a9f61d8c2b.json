@@ -1,0 +1,22 @@
+{
+    "objectID": "5799ffd0a84b5b30cb70b3a9f61d8c2b",
+    "name": "Forderungsverluste aus steuerfreien EG-Lieferunge",
+    "type": "Aufwand",
+    "code": "6932",
+    "description": "\u00fcbliche H\u00f6he",
+    "categories": [
+        "Forderungsverluste",
+        "08. sonstige betriebliche Aufwendungen"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "08. sonstige betriebliche Aufwendungen > Forderungsverluste"
+        },
+        {
+            "lvl0": "08. sonstige betriebliche Aufwendungen"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "18243e4b412ad0a904dc36d08b20f695"
+}

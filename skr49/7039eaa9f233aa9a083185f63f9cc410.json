@@ -1,0 +1,29 @@
+{
+    "objectID": "7039eaa9f233aa9a083185f63f9cc410",
+    "name": "4907 Nicht abziehbare Vorsteuer",
+    "type": "Aufwand",
+    "code": "4907",
+    "description": "Nicht abziehbare Vorsteuer",
+    "categories": [
+        "4904-4907 Umsatzsteuer",
+        "4510 Ausgaben Bereich 4000",
+        "4500-4999 AUSGABEN / WERBUNGSKOSTEN",
+        "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4500-4999 AUSGABEN / WERBUNGSKOSTEN > 4510 Ausgaben Bereich 4000 > 4904-4907 Umsatzsteuer"
+        },
+        {
+            "lvl2": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4500-4999 AUSGABEN / WERBUNGSKOSTEN > 4510 Ausgaben Bereich 4000"
+        },
+        {
+            "lvl1": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4500-4999 AUSGABEN / WERBUNGSKOSTEN"
+        },
+        {
+            "lvl0": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung"
+        }
+    ],
+    "leaf": true,
+    "parent": "b6df49eb2d52683b0384bbcb21020f71"
+}

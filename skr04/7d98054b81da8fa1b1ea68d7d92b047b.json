@@ -1,0 +1,22 @@
+{
+    "objectID": "7d98054b81da8fa1b1ea68d7d92b047b",
+    "name": "Entnahmen aus der Kapitalr\u00fccklage",
+    "type": "Eigenkapital",
+    "code": "7730",
+    "description": "",
+    "categories": [
+        "01. Gewinn-/Verlustvortrag nach Verwendung",
+        "21. Ver\u00e4nderungen Vortr\u00e4ge und R\u00fccklagen"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "21. Ver\u00e4nderungen Vortr\u00e4ge und R\u00fccklagen > 01. Gewinn-/Verlustvortrag nach Verwendung"
+        },
+        {
+            "lvl0": "21. Ver\u00e4nderungen Vortr\u00e4ge und R\u00fccklagen"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "644e496fc6f9e01e389755e3bd69d80d"
+}

@@ -1,0 +1,30 @@
+{
+    "objectID": "b96f86315d7eaf9afa781af6f7986327",
+    "name": "Nachtr\u00e4glich abziehbare Vorsteuer, \u00a715a UStG, unbewegliche Wirtschaftsg\u00fcter",
+    "type": "Aktiva",
+    "code": "1398",
+    "description": "",
+    "categories": [
+        "04. Sonstige Verm\u00f6gensgegenst\u00e4nde",
+        "II. Forderungen und sonstige Verm\u00f6gensgegenst\u00e4nde",
+        "B. Umlaufverm\u00f6gen",
+        "Aktiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "Aktiva > B. Umlaufverm\u00f6gen > II. Forderungen und sonstige Verm\u00f6gensgegenst\u00e4nde > 04. Sonstige Verm\u00f6gensgegenst\u00e4nde"
+        },
+        {
+            "lvl2": "Aktiva > B. Umlaufverm\u00f6gen > II. Forderungen und sonstige Verm\u00f6gensgegenst\u00e4nde"
+        },
+        {
+            "lvl1": "Aktiva > B. Umlaufverm\u00f6gen"
+        },
+        {
+            "lvl0": "Aktiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "c36cd806a8bad4266ed2395be7f90d0c"
+}

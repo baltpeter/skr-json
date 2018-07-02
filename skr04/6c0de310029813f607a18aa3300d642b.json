@@ -1,0 +1,18 @@
+{
+    "objectID": "6c0de310029813f607a18aa3300d642b",
+    "name": "Erl\u00f6se Sachanlageverk\u00e4ufe",
+    "type": "Ertrag",
+    "code": "4849",
+    "description": "(bei Buchgewinn)",
+    "categories": [
+        "04. Sonstige betriebliche Ertr\u00e4ge"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl0": "04. Sonstige betriebliche Ertr\u00e4ge"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "4c0c1557fe54e71d7ed717587a0c0b4d"
+}

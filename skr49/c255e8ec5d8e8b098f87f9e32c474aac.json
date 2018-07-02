@@ -1,0 +1,38 @@
+{
+    "objectID": "c255e8ec5d8e8b098f87f9e32c474aac",
+    "name": "0760 Nachtr\u00e4glich abziehbare Vorsteuer \u00a715a Abs. 1 UStG, bewegliche Wirtschaftsg\u00fcter",
+    "type": "Forderung",
+    "code": "0760",
+    "description": "Nachtr\u00e4glich abziehbare Vorsteuer, \u00a715a Absatz 1 UStG, bewegliche Wirtschaftsg\u00fcter",
+    "categories": [
+        "0755-0760 Zur\u00fcckzuzahlende und nachtr\u00e4glich abziehbare Vorsteuer",
+        "0730-0866 Umsatzsteuer-Konten",
+        "0700 Sonstige Verm\u00f6gensgegenst\u00e4nde",
+        "0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde",
+        "0600-0989 UMLAUFVERM\u00d6GEN",
+        "0 aktive Verm\u00f6gensposten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl5": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde > 0700 Sonstige Verm\u00f6gensgegenst\u00e4nde > 0730-0866 Umsatzsteuer-Konten > 0755-0760 Zur\u00fcckzuzahlende und nachtr\u00e4glich abziehbare Vorsteuer"
+        },
+        {
+            "lvl4": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde > 0700 Sonstige Verm\u00f6gensgegenst\u00e4nde > 0730-0866 Umsatzsteuer-Konten"
+        },
+        {
+            "lvl3": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde > 0700 Sonstige Verm\u00f6gensgegenst\u00e4nde"
+        },
+        {
+            "lvl2": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde"
+        },
+        {
+            "lvl1": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN"
+        },
+        {
+            "lvl0": "0 aktive Verm\u00f6gensposten"
+        }
+    ],
+    "leaf": true,
+    "notes": "\u00dcberschussrechner \u2013 keine Zuordnung",
+    "parent": "acb4f18572adc7941b7be8b70806b8fb"
+}

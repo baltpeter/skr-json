@@ -1,0 +1,23 @@
+{
+    "objectID": "9cbf14bcb94ec5ba207d4294c766f36b",
+    "name": "9535 Umsatzsteuer in den Forderungen zum allgemeinen Umsatzsteuersatz",
+    "type": "Forderung",
+    "code": "9535",
+    "description": "Umsatzsteuer in den Forderungen zum allgemeinen Umsatzsteuersatz",
+    "categories": [
+        "9500-9599 STATISTISCHE WERTE F\u00dcR ANLAGE E\u00dcR",
+        "9 Statistik- & Vortragskonten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "9 Statistik- & Vortragskonten > 9500-9599 STATISTISCHE WERTE F\u00dcR ANLAGE E\u00dcR"
+        },
+        {
+            "lvl0": "9 Statistik- & Vortragskonten"
+        }
+    ],
+    "leaf": true,
+    "notes": "Veraltet, in der Version 2017 nicht mehr enthalten!",
+    "placeholder": true,
+    "parent": "baac2841267ad2422440263668815280"
+}

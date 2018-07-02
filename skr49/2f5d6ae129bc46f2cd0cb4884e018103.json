@@ -1,0 +1,21 @@
+{
+    "objectID": "2f5d6ae129bc46f2cd0cb4884e018103",
+    "name": "1180 Sonderposten mit R\u00fccklageanteil",
+    "type": "Fremdkapital",
+    "code": "1180",
+    "description": "Sonderposten mit R\u00fccklageanteil",
+    "categories": [
+        "1180-1199 SONDERPOSTEN",
+        "1 passive Verm\u00f6gensposten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "1 passive Verm\u00f6gensposten > 1180-1199 SONDERPOSTEN"
+        },
+        {
+            "lvl0": "1 passive Verm\u00f6gensposten"
+        }
+    ],
+    "leaf": true,
+    "parent": "79838dac3d7a259a0d0226ba63c65a62"
+}

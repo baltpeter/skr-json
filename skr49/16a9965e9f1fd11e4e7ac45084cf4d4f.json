@@ -1,0 +1,31 @@
+{
+    "objectID": "16a9965e9f1fd11e4e7ac45084cf4d4f",
+    "name": "0533 Abl\u00f6se unbezahlte Sportler <2556\u20ac",
+    "type": "Aktiva",
+    "code": "0533",
+    "description": "Abl\u00f6se unbezahlte Sportler bis 2556 Euro",
+    "categories": [
+        "0530 Rechtswerte",
+        "0500-0599 Finanzanlagen",
+        "0250-0599 ANDERE ANLAGEN, BETRIEBS- UND GESCH\u00c4FTSAUSSTATTUNG",
+        "0 aktive Verm\u00f6gensposten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "0 aktive Verm\u00f6gensposten > 0250-0599 ANDERE ANLAGEN, BETRIEBS- UND GESCH\u00c4FTSAUSSTATTUNG > 0500-0599 Finanzanlagen > 0530 Rechtswerte"
+        },
+        {
+            "lvl2": "0 aktive Verm\u00f6gensposten > 0250-0599 ANDERE ANLAGEN, BETRIEBS- UND GESCH\u00c4FTSAUSSTATTUNG > 0500-0599 Finanzanlagen"
+        },
+        {
+            "lvl1": "0 aktive Verm\u00f6gensposten > 0250-0599 ANDERE ANLAGEN, BETRIEBS- UND GESCH\u00c4FTSAUSSTATTUNG"
+        },
+        {
+            "lvl0": "0 aktive Verm\u00f6gensposten"
+        }
+    ],
+    "leaf": true,
+    "notes": "ACHTUNG! In der Version 2017 verschoben nach 0017!",
+    "placeholder": true,
+    "parent": "ba930960eab6e22275f17d44f88f27cd"
+}

@@ -1,0 +1,30 @@
+{
+    "objectID": "5775385240b2a2569f1ffc71cf2e6845",
+    "name": "0650 Forderungen aus Lieferungen und Leistungen",
+    "type": "Forderung",
+    "code": "0650",
+    "description": "Forderungen aus Lieferungen und Leistungen",
+    "categories": [
+        "0650-0674 Forderungen aus Lieferungen und Leistungen",
+        "0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde",
+        "0600-0989 UMLAUFVERM\u00d6GEN",
+        "0 aktive Verm\u00f6gensposten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde > 0650-0674 Forderungen aus Lieferungen und Leistungen"
+        },
+        {
+            "lvl2": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde"
+        },
+        {
+            "lvl1": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN"
+        },
+        {
+            "lvl0": "0 aktive Verm\u00f6gensposten"
+        }
+    ],
+    "leaf": true,
+    "notes": "Sammelkonto",
+    "parent": "9b9ec8f3d837eea8bdc4fecf5e65c339"
+}

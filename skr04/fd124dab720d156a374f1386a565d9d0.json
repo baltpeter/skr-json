@@ -1,0 +1,30 @@
+{
+    "objectID": "fd124dab720d156a374f1386a565d9d0",
+    "name": "Forderungen nach \u00a711 Abs. 1 Satz 2 EStG f\u00fcr \u00a74/3",
+    "type": "Forderung",
+    "code": "1220",
+    "description": "",
+    "categories": [
+        "01. Forderungen aus Lieferungen und Leistungen",
+        "II. Forderungen und sonstige Verm\u00f6gensgegenst\u00e4nde",
+        "B. Umlaufverm\u00f6gen",
+        "Aktiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "Aktiva > B. Umlaufverm\u00f6gen > II. Forderungen und sonstige Verm\u00f6gensgegenst\u00e4nde > 01. Forderungen aus Lieferungen und Leistungen"
+        },
+        {
+            "lvl2": "Aktiva > B. Umlaufverm\u00f6gen > II. Forderungen und sonstige Verm\u00f6gensgegenst\u00e4nde"
+        },
+        {
+            "lvl1": "Aktiva > B. Umlaufverm\u00f6gen"
+        },
+        {
+            "lvl0": "Aktiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": true,
+    "parent": "3db9920658f7630cee64902f9698ebb3"
+}

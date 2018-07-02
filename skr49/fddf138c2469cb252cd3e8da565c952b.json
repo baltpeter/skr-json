@@ -1,0 +1,23 @@
+{
+    "objectID": "fddf138c2469cb252cd3e8da565c952b",
+    "name": "9510 Erl\u00f6se zum allgemeinen Umsatzsteuersatz",
+    "type": "Aktiva",
+    "code": "9510",
+    "description": "Erl\u00f6se zum allgemeinen Umsatzsteuersatz",
+    "categories": [
+        "9500-9599 STATISTISCHE WERTE F\u00dcR ANLAGE E\u00dcR",
+        "9 Statistik- & Vortragskonten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "9 Statistik- & Vortragskonten > 9500-9599 STATISTISCHE WERTE F\u00dcR ANLAGE E\u00dcR"
+        },
+        {
+            "lvl0": "9 Statistik- & Vortragskonten"
+        }
+    ],
+    "leaf": true,
+    "notes": "Veraltet, in der Version 2017 nicht mehr enthalten!",
+    "placeholder": true,
+    "parent": "baac2841267ad2422440263668815280"
+}

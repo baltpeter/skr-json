@@ -1,0 +1,25 @@
+{
+    "objectID": "029fc31da76ddc0d69b79a814c82757c",
+    "name": "9970 Investitionsabzugsbetrag \u00a77g Abs. 1 EStG, (Soll)",
+    "type": "Aktiva",
+    "code": "9970",
+    "description": "Investitionsabzugsbetrag \u00a77g Abs. 1 EStG, au\u00dferbilanziell (Soll)",
+    "categories": [
+        "9966-9975 Statistische Konten f\u00fcr den au\u00dferhalb der Bilanz zu ber\u00fccksichtigenden Investitionsabzugsbetrag",
+        "9600-9998 WEITERE STATISTIK- UND VORTRAGSKONTEN",
+        "9 Statistik- & Vortragskonten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "9 Statistik- & Vortragskonten > 9600-9998 WEITERE STATISTIK- UND VORTRAGSKONTEN > 9966-9975 Statistische Konten f\u00fcr den au\u00dferhalb der Bilanz zu ber\u00fccksichtigenden Investitionsabzugsbetrag"
+        },
+        {
+            "lvl1": "9 Statistik- & Vortragskonten > 9600-9998 WEITERE STATISTIK- UND VORTRAGSKONTEN"
+        },
+        {
+            "lvl0": "9 Statistik- & Vortragskonten"
+        }
+    ],
+    "leaf": true,
+    "parent": "332ab057b6da4c93c7c19853adaf07b2"
+}

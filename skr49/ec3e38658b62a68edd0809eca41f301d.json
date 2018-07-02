@@ -1,0 +1,23 @@
+{
+    "objectID": "ec3e38658b62a68edd0809eca41f301d",
+    "name": "1145-1149 Kapitalr\u00fccklagen",
+    "type": "Fremdkapital",
+    "code": "1145-1149",
+    "description": "Kapitalr\u00fccklagen und Nachschusskapital",
+    "categories": [
+        "1000-1179 VERM\u00d6GEN / EIGENKAPITAL",
+        "1 passive Verm\u00f6gensposten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL"
+        },
+        {
+            "lvl0": "1 passive Verm\u00f6gensposten"
+        }
+    ],
+    "leaf": false,
+    "notes": "Nur GmbH und Stiftungen!",
+    "placeholder": true,
+    "parent": "9025c2c9b2d259fc8b195e1a7b57e6f7"
+}

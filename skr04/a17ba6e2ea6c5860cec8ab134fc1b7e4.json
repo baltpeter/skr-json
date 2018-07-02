@@ -1,0 +1,30 @@
+{
+    "objectID": "a17ba6e2ea6c5860cec8ab134fc1b7e4",
+    "name": "Umsatzsteuer aus innergemeinschaftlichem Erwerb 15%/16%",
+    "type": "Verbindlichkeit",
+    "code": "3803",
+    "description": "",
+    "categories": [
+        "Umsatzsteuer aus innergemeinschaftlichem Erwerb",
+        "10. Umsatzsteuer",
+        "C. Verbindlichkeiten",
+        "Passiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "Passiva > C. Verbindlichkeiten > 10. Umsatzsteuer > Umsatzsteuer aus innergemeinschaftlichem Erwerb"
+        },
+        {
+            "lvl2": "Passiva > C. Verbindlichkeiten > 10. Umsatzsteuer"
+        },
+        {
+            "lvl1": "Passiva > C. Verbindlichkeiten"
+        },
+        {
+            "lvl0": "Passiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "e726cf1027d9589c65f0681a73fbc8c8"
+}

@@ -1,0 +1,22 @@
+{
+    "objectID": "eb1011daa10992671560e011a2b3cc48",
+    "name": "2500-2502 Abschreibungen",
+    "type": "Aufwand",
+    "code": "2500-2502",
+    "description": "Abschreibungen",
+    "categories": [
+        "2500-2999 AUSGABEN",
+        "2 Erfolgskonten ideeller Bereich"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN"
+        },
+        {
+            "lvl0": "2 Erfolgskonten ideeller Bereich"
+        }
+    ],
+    "leaf": false,
+    "placeholder": true,
+    "parent": "48ee122ca8c1c162daf2c936adbc924e"
+}

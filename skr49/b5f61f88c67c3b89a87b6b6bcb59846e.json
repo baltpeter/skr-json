@@ -1,0 +1,37 @@
+{
+    "objectID": "b5f61f88c67c3b89a87b6b6bcb59846e",
+    "name": "6780 Abschreibungen Anlageverm\u00f6gen",
+    "type": "Aufwand",
+    "code": "6780",
+    "description": "Abschreibungen auf Sachanlagen",
+    "categories": [
+        "6780-6789 Immaterielle Verm\u00f6gensgegenst\u00e4nde und Sachanlagen",
+        "6780-6790 Abschreibungen",
+        "6670-6989 AUSGABEN / AUFWENDUNGEN",
+        "6500-6989 SONSTIGE ZWECKBETRIEBE 2",
+        "6000-6989 SONSTIGE ZWECKBETRIEBE",
+        "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl5": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE > 6500-6989 SONSTIGE ZWECKBETRIEBE 2 > 6670-6989 AUSGABEN / AUFWENDUNGEN > 6780-6790 Abschreibungen > 6780-6789 Immaterielle Verm\u00f6gensgegenst\u00e4nde und Sachanlagen"
+        },
+        {
+            "lvl4": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE > 6500-6989 SONSTIGE ZWECKBETRIEBE 2 > 6670-6989 AUSGABEN / AUFWENDUNGEN > 6780-6790 Abschreibungen"
+        },
+        {
+            "lvl3": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE > 6500-6989 SONSTIGE ZWECKBETRIEBE 2 > 6670-6989 AUSGABEN / AUFWENDUNGEN"
+        },
+        {
+            "lvl2": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE > 6500-6989 SONSTIGE ZWECKBETRIEBE 2"
+        },
+        {
+            "lvl1": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE"
+        },
+        {
+            "lvl0": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe"
+        }
+    ],
+    "leaf": true,
+    "parent": "28a726569d04e6da3a5453248e6b33e3"
+}

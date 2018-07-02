@@ -1,0 +1,19 @@
+{
+    "objectID": "c242b06be4dce9cc4568a3f0db2155ac",
+    "name": "5000-5889 ZWECKBETRIEBE SPORT",
+    "type": "Ertrag",
+    "code": "5000-5889",
+    "description": "ZWECKBETRIEBE SPORT",
+    "categories": [
+        "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl0": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport"
+        }
+    ],
+    "leaf": false,
+    "notes": "Ertragsteuerfreie Zweckbetriebe sind:\na) Standardfall des \u00a767a Abs. 1 AO, wenn Zweckbetriebsgrenze 45000 EUR (ab 2013) Jahresbruttoeinnahmen nicht \u00fcberschritten wird (bei nachtr\u00e4glichem \u00dcberschreiten vgl. TB 8980)\nb) Optionsfall des \u00a767a Abs. 3 S. 1 AO \u201eunbezahlter Sport\u201c ohne Einnahmebegrenzung",
+    "placeholder": true,
+    "parent": "4831ca6e38b687c1197a27ef5309bebe"
+}

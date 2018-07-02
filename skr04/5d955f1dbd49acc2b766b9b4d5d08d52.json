@@ -1,0 +1,31 @@
+{
+    "objectID": "5d955f1dbd49acc2b766b9b4d5d08d52",
+    "name": "Geleistete Anzahlungen 7% Vorsteuer",
+    "type": "Aktiva",
+    "code": "1181",
+    "description": "",
+    "categories": [
+        "04. Geleistete Anzahlungen auf Vorr\u00e4te",
+        "I. Vorr\u00e4te",
+        "B. Umlaufverm\u00f6gen",
+        "Aktiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "Aktiva > B. Umlaufverm\u00f6gen > I. Vorr\u00e4te > 04. Geleistete Anzahlungen auf Vorr\u00e4te"
+        },
+        {
+            "lvl2": "Aktiva > B. Umlaufverm\u00f6gen > I. Vorr\u00e4te"
+        },
+        {
+            "lvl1": "Aktiva > B. Umlaufverm\u00f6gen"
+        },
+        {
+            "lvl0": "Aktiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "tax-related": false,
+    "parent": "4b94caba6927babf0af628999af0e00d"
+}

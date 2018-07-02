@@ -1,0 +1,26 @@
+{
+    "objectID": "befe5923fea74625dab2455eac3187fc",
+    "name": "2150 Aufnahmegeb\u00fchren <300\u20ac",
+    "type": "Ertrag",
+    "code": "2150",
+    "description": "Aufnahmegeb\u00fchren bis 300 Euro",
+    "categories": [
+        "2150-2170 Aufnahmegeb\u00fchren",
+        "2000 EINNAHMEN",
+        "2 Erfolgskonten ideeller Bereich"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "2 Erfolgskonten ideeller Bereich > 2000 EINNAHMEN > 2150-2170 Aufnahmegeb\u00fchren"
+        },
+        {
+            "lvl1": "2 Erfolgskonten ideeller Bereich > 2000 EINNAHMEN"
+        },
+        {
+            "lvl0": "2 Erfolgskonten ideeller Bereich"
+        }
+    ],
+    "leaf": true,
+    "notes": "Betr\u00e4ge aus \u00a718 ErbStG bzw. AEAO zu \u00a752 AO Nr. 1.1.\n(ehemals 256\u20ac!)",
+    "parent": "a807884eb209047cebcee510b4892d3b"
+}

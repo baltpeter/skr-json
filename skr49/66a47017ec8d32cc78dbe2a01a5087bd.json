@@ -1,0 +1,22 @@
+{
+    "objectID": "66a47017ec8d32cc78dbe2a01a5087bd",
+    "name": "2560-2564 Reisekosten",
+    "type": "Aufwand",
+    "code": "2560-2564",
+    "description": "Reisekosten",
+    "categories": [
+        "2500-2999 AUSGABEN",
+        "2 Erfolgskonten ideeller Bereich"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN"
+        },
+        {
+            "lvl0": "2 Erfolgskonten ideeller Bereich"
+        }
+    ],
+    "leaf": false,
+    "notes": "Ich lasse hier in der \u201eZwischenebene\u201c ausnahmsweise Buchungen zu, weil alle Unterkonten \u201eArbeitnehmer\u201c betreffen.",
+    "parent": "48ee122ca8c1c162daf2c936adbc924e"
+}

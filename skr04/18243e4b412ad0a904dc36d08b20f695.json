@@ -1,0 +1,18 @@
+{
+    "objectID": "18243e4b412ad0a904dc36d08b20f695",
+    "name": "Forderungsverluste",
+    "type": "Aufwand",
+    "code": "6930",
+    "description": "\u00fcbliche H\u00f6he",
+    "categories": [
+        "08. sonstige betriebliche Aufwendungen"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl0": "08. sonstige betriebliche Aufwendungen"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "cf7f94dcdeb53cd3d602ea87d83aba4e"
+}

@@ -1,0 +1,21 @@
+{
+    "objectID": "da32c57362eea9aa4caa86c7a74f83e1",
+    "name": "9079 Offene Posten aus 2009",
+    "type": "Aktiva",
+    "code": "9079",
+    "description": "Offene Posten aus 2009",
+    "categories": [
+        "9000-9249 STATISTISCHE KONTEN",
+        "9 Statistik- & Vortragskonten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "9 Statistik- & Vortragskonten > 9000-9249 STATISTISCHE KONTEN"
+        },
+        {
+            "lvl0": "9 Statistik- & Vortragskonten"
+        }
+    ],
+    "leaf": true,
+    "parent": "ffca2686cb9963bea1089b796763dda0"
+}

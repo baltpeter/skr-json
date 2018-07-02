@@ -1,0 +1,19 @@
+{
+    "objectID": "baac2841267ad2422440263668815280",
+    "name": "9500-9599 STATISTISCHE WERTE F\u00dcR ANLAGE E\u00dcR",
+    "type": "Aktiva",
+    "code": "9500-9599",
+    "description": "STATISTISCHE WERTE F\u00dcR ANLAGE E\u00dcR",
+    "categories": [
+        "9 Statistik- & Vortragskonten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl0": "9 Statistik- & Vortragskonten"
+        }
+    ],
+    "leaf": false,
+    "notes": "ACHTUNG! Die Konten 9500-9599 sind in den Versionen f\u00fcr 2017 und 2018 nicht mehr vorhanden! Daher habe ich die ehemaligen Unterkategorien \u201eStatistische Werte f\u00fcr BWA\u201c, \u201eErgebnisvortr\u00e4ge des laufenden Jahres\u201c und \u201eStatistische Konten f\u00fcr den au\u00dferhalb der Bilanz zu ber\u00fccksichtigenden Investitionsabzugsbetrag nach \u00a77g EStG\u201c in einen neuen Zweig verschoben, da sie weiterhin existieren, aber nicht unter die Haupt\u00fcberschrift \u201eSTATISTISCHE KONTEN F\u00dcR GEWINNZUSCHLAG\u201c passen.",
+    "placeholder": true,
+    "parent": "3f14162b8e47da34d1705080f97af853"
+}

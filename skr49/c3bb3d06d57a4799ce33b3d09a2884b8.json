@@ -1,0 +1,34 @@
+{
+    "objectID": "c3bb3d06d57a4799ce33b3d09a2884b8",
+    "name": "1018 R\u00fccklagen ideeller Bereich bis 2018",
+    "type": "Fremdkapital",
+    "code": "1018",
+    "description": "R\u00fccklagen ideeller Bereich bis 2018",
+    "categories": [
+        "1010-1019 R\u00fccklagen ideeller Bereich",
+        "1000-1069 Gebundene R\u00fccklagen",
+        "1000-1079 Gewinnr\u00fccklagen",
+        "1000-1179 VERM\u00d6GEN / EIGENKAPITAL",
+        "1 passive Verm\u00f6gensposten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl4": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL > 1000-1079 Gewinnr\u00fccklagen > 1000-1069 Gebundene R\u00fccklagen > 1010-1019 R\u00fccklagen ideeller Bereich"
+        },
+        {
+            "lvl3": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL > 1000-1079 Gewinnr\u00fccklagen > 1000-1069 Gebundene R\u00fccklagen"
+        },
+        {
+            "lvl2": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL > 1000-1079 Gewinnr\u00fccklagen"
+        },
+        {
+            "lvl1": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL"
+        },
+        {
+            "lvl0": "1 passive Verm\u00f6gensposten"
+        }
+    ],
+    "leaf": true,
+    "notes": "Ehemals \u201eR\u00fccklagen ideeller Bereich bis 2008\u201c",
+    "parent": "6bf23feea9eac016d8b6d85cf039a67c"
+}

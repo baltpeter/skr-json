@@ -1,0 +1,26 @@
+{
+    "objectID": "d826f913b7ff16ec6e61a00eb4f6876f",
+    "name": "Bestandsver\u00e4nderungen",
+    "type": "Aufwand",
+    "code": "5880",
+    "description": "",
+    "categories": [
+        "03. Statistische Konten E\u00dcR",
+        "a) Aufwendungen f\u00fcr Roh-, Hilfs- und Betriebsstoffe und f\u00fcr bezogene Waren",
+        "05. Materialaufwand"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "05. Materialaufwand > a) Aufwendungen f\u00fcr Roh-, Hilfs- und Betriebsstoffe und f\u00fcr bezogene Waren > 03. Statistische Konten E\u00dcR"
+        },
+        {
+            "lvl1": "05. Materialaufwand > a) Aufwendungen f\u00fcr Roh-, Hilfs- und Betriebsstoffe und f\u00fcr bezogene Waren"
+        },
+        {
+            "lvl0": "05. Materialaufwand"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "fc97ca612c23df95481f1a141efa72ef"
+}

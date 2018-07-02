@@ -1,0 +1,29 @@
+{
+    "objectID": "df18f1d42d4a78b0ee6bb83007705658",
+    "name": "3652 Geschenke nicht abzugsf\u00e4hig",
+    "type": "Aufwand",
+    "code": "3652",
+    "description": "Geschenke nicht abzugsf\u00e4hig",
+    "categories": [
+        "3650 Nicht abziehbare Ausgaben Bereich 6000",
+        "3600-3699 Sonstige Zweckbetriebe",
+        "3200-3899  ERTRAGSNEUTRALE POSTEN",
+        "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN > 3600-3699 Sonstige Zweckbetriebe > 3650 Nicht abziehbare Ausgaben Bereich 6000"
+        },
+        {
+            "lvl2": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN > 3600-3699 Sonstige Zweckbetriebe"
+        },
+        {
+            "lvl1": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN"
+        },
+        {
+            "lvl0": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
+        }
+    ],
+    "leaf": true,
+    "parent": "f3bc0afdde1ae993b827c599afd7bb09"
+}

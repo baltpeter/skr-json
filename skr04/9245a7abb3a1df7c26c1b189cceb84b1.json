@@ -1,0 +1,26 @@
+{
+    "objectID": "9245a7abb3a1df7c26c1b189cceb84b1",
+    "name": "Kasse",
+    "type": "Bargeld",
+    "code": "1600",
+    "description": "",
+    "categories": [
+        "IV. Kassenbestand, Bundesbankguthaben, Guthaben bei Kreditinstituten und Schecks",
+        "B. Umlaufverm\u00f6gen",
+        "Aktiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "Aktiva > B. Umlaufverm\u00f6gen > IV. Kassenbestand, Bundesbankguthaben, Guthaben bei Kreditinstituten und Schecks"
+        },
+        {
+            "lvl1": "Aktiva > B. Umlaufverm\u00f6gen"
+        },
+        {
+            "lvl0": "Aktiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": true,
+    "parent": "9743059255b8318a7eb5ba07b2dd3e0e"
+}

@@ -1,0 +1,18 @@
+{
+    "objectID": "a664c82b645a6bb5f7e7ca1d686fe7bc",
+    "name": "Anrechenbarer Solidarit\u00e4tszuschlag auf Zinsabschlagsteuer",
+    "type": "Aufwand",
+    "code": "7638",
+    "description": "",
+    "categories": [
+        "18. Steuern vom Einkommen und vom Ertrag"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl0": "18. Steuern vom Einkommen und vom Ertrag"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "b1f254106f1e487b31aad762ad1cca11"
+}

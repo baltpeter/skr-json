@@ -1,0 +1,29 @@
+{
+    "objectID": "10e591d5d3f474100ba7b920a0c578da",
+    "name": "2563 Reisekosten Arbeitnehmer Fahrtkosten",
+    "type": "Aufwand",
+    "code": "2563",
+    "description": "Reisekosten Arbeitnehmer Fahrtkosten",
+    "categories": [
+        "2561 Reisekosten Arbeitnehmer",
+        "2560-2564 Reisekosten",
+        "2500-2999 AUSGABEN",
+        "2 Erfolgskonten ideeller Bereich"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN > 2560-2564 Reisekosten > 2561 Reisekosten Arbeitnehmer"
+        },
+        {
+            "lvl2": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN > 2560-2564 Reisekosten"
+        },
+        {
+            "lvl1": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN"
+        },
+        {
+            "lvl0": "2 Erfolgskonten ideeller Bereich"
+        }
+    ],
+    "leaf": true,
+    "parent": "bcecff6d25f7d197b75e072b175c15bf"
+}

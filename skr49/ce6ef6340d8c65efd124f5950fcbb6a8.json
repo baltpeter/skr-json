@@ -1,0 +1,22 @@
+{
+    "objectID": "ce6ef6340d8c65efd124f5950fcbb6a8",
+    "name": "9600-9849 Statistische Werte f\u00fcr BWA",
+    "type": "Aktiva",
+    "code": "9600-9849",
+    "description": "Statistische Werte f\u00fcr BWA",
+    "categories": [
+        "9600-9998 WEITERE STATISTIK- UND VORTRAGSKONTEN",
+        "9 Statistik- & Vortragskonten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "9 Statistik- & Vortragskonten > 9600-9998 WEITERE STATISTIK- UND VORTRAGSKONTEN"
+        },
+        {
+            "lvl0": "9 Statistik- & Vortragskonten"
+        }
+    ],
+    "leaf": false,
+    "placeholder": true,
+    "parent": "cafd8ada4152cfeb9eb49cdeff92764e"
+}

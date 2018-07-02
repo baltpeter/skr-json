@@ -1,0 +1,25 @@
+{
+    "objectID": "2a001d28bc02fe4dcc31658f5c1208f8",
+    "name": "0310 Sportger\u00e4te",
+    "type": "Aktiva",
+    "code": "0310",
+    "description": "Sportger\u00e4te",
+    "categories": [
+        "0300 Vereinsausstattung",
+        "0250-0599 ANDERE ANLAGEN, BETRIEBS- UND GESCH\u00c4FTSAUSSTATTUNG",
+        "0 aktive Verm\u00f6gensposten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "0 aktive Verm\u00f6gensposten > 0250-0599 ANDERE ANLAGEN, BETRIEBS- UND GESCH\u00c4FTSAUSSTATTUNG > 0300 Vereinsausstattung"
+        },
+        {
+            "lvl1": "0 aktive Verm\u00f6gensposten > 0250-0599 ANDERE ANLAGEN, BETRIEBS- UND GESCH\u00c4FTSAUSSTATTUNG"
+        },
+        {
+            "lvl0": "0 aktive Verm\u00f6gensposten"
+        }
+    ],
+    "leaf": true,
+    "parent": "3fbd54ad3e051bfe7ab9ae141ffa21f8"
+}

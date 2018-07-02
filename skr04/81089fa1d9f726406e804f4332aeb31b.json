@@ -1,0 +1,26 @@
+{
+    "objectID": "81089fa1d9f726406e804f4332aeb31b",
+    "name": "Versicherungen f\u00fcr Geb\u00e4ude, die zum Betriebsverm\u00f6gen geh\u00f6ren",
+    "type": "Aufwand",
+    "code": "6405",
+    "description": "",
+    "categories": [
+        "3) Versicherungen, Beitr\u00e4ge und Abgaben",
+        "a) ordentliche betriebliche Aufwendungen",
+        "08. sonstige betriebliche Aufwendungen"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen > 3) Versicherungen, Beitr\u00e4ge und Abgaben"
+        },
+        {
+            "lvl1": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen"
+        },
+        {
+            "lvl0": "08. sonstige betriebliche Aufwendungen"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "3bbae153acee96659c0f329905f34f51"
+}

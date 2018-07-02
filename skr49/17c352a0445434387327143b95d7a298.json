@@ -1,0 +1,26 @@
+{
+    "objectID": "17c352a0445434387327143b95d7a298",
+    "name": "1144 Nicht eingeforderte ausstehende Einlagen",
+    "type": "Fremdkapital",
+    "code": "1144",
+    "description": "Ausstehende Einlagen auf das gezeichnete Kapital, nicht eingefordert",
+    "categories": [
+        "1140-1144 Gezeichnetes Kapital",
+        "1000-1179 VERM\u00d6GEN / EIGENKAPITAL",
+        "1 passive Verm\u00f6gensposten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL > 1140-1144 Gezeichnetes Kapital"
+        },
+        {
+            "lvl1": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL"
+        },
+        {
+            "lvl0": "1 passive Verm\u00f6gensposten"
+        }
+    ],
+    "leaf": true,
+    "notes": "Passivausweis, vom gezeichneten Kapital offen abgesetzt; eingeforderte ausstehende Einlagen siehe Konto 0640.\nNur GmbH und Stiftungen!",
+    "parent": "deb1ab7acad94e5aaa6d92a9ed53e837"
+}

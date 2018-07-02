@@ -1,0 +1,25 @@
+{
+    "objectID": "bcecff6d25f7d197b75e072b175c15bf",
+    "name": "2561 Reisekosten Arbeitnehmer",
+    "type": "Aufwand",
+    "code": "2561",
+    "description": "Reisekosten Arbeitnehmer",
+    "categories": [
+        "2560-2564 Reisekosten",
+        "2500-2999 AUSGABEN",
+        "2 Erfolgskonten ideeller Bereich"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN > 2560-2564 Reisekosten"
+        },
+        {
+            "lvl1": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN"
+        },
+        {
+            "lvl0": "2 Erfolgskonten ideeller Bereich"
+        }
+    ],
+    "leaf": true,
+    "parent": "66a47017ec8d32cc78dbe2a01a5087bd"
+}

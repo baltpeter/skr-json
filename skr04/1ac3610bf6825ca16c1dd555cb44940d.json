@@ -1,0 +1,26 @@
+{
+    "objectID": "1ac3610bf6825ca16c1dd555cb44940d",
+    "name": "Umsatzsteuer aus im Inland steuerpflichtigen EG-Lieferungen",
+    "type": "Verbindlichkeit",
+    "code": "3807",
+    "description": "",
+    "categories": [
+        "10. Umsatzsteuer",
+        "C. Verbindlichkeiten",
+        "Passiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "Passiva > C. Verbindlichkeiten > 10. Umsatzsteuer"
+        },
+        {
+            "lvl1": "Passiva > C. Verbindlichkeiten"
+        },
+        {
+            "lvl0": "Passiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "a4ca09669a36f58cc3081d5ecff9cdb6"
+}

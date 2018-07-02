@@ -1,0 +1,34 @@
+{
+    "objectID": "1e91c7a26f23697d69657a5ee2b127b7",
+    "name": "Kapitalr\u00fccklage durch Ausgabe von Anteilen \u00fcber Nennbetrag",
+    "type": "Fremdkapital",
+    "code": "2925",
+    "description": "",
+    "categories": [
+        "Kapitalr\u00fccklage",
+        "II. Kapitalr\u00fccklage",
+        "b) Kapitalgesellschaft",
+        "A. Eigenkapital",
+        "Passiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl4": "Passiva > A. Eigenkapital > b) Kapitalgesellschaft > II. Kapitalr\u00fccklage > Kapitalr\u00fccklage"
+        },
+        {
+            "lvl3": "Passiva > A. Eigenkapital > b) Kapitalgesellschaft > II. Kapitalr\u00fccklage"
+        },
+        {
+            "lvl2": "Passiva > A. Eigenkapital > b) Kapitalgesellschaft"
+        },
+        {
+            "lvl1": "Passiva > A. Eigenkapital"
+        },
+        {
+            "lvl0": "Passiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "cb5efff60ddac9ff1f8ce3c4334e118b"
+}

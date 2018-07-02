@@ -1,0 +1,26 @@
+{
+    "objectID": "90d8a02427219e5b4e373d3240d96572",
+    "name": "08. R\u00fcckdeckungsanspr\u00fcche aus Lebensversicherungen zum langfristigen Verbleib",
+    "type": "Aktiva",
+    "code": "0990",
+    "description": "",
+    "categories": [
+        "V. Finanzanlagen",
+        "A. Anlageverm\u00f6gen",
+        "Aktiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "Aktiva > A. Anlageverm\u00f6gen > V. Finanzanlagen"
+        },
+        {
+            "lvl1": "Aktiva > A. Anlageverm\u00f6gen"
+        },
+        {
+            "lvl0": "Aktiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "0c02303d139190b2cfded19f03caa096"
+}

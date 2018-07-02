@@ -1,0 +1,29 @@
+{
+    "objectID": "98b7e97b2ddf6b388b68cab5dde3f988",
+    "name": "0945 Bank",
+    "type": "Bank",
+    "code": "0945",
+    "description": "Bank",
+    "categories": [
+        "0940-0960 Bank",
+        "0920-0960 Kasse, Bank",
+        "0600-0989 UMLAUFVERM\u00d6GEN",
+        "0 aktive Verm\u00f6gensposten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0920-0960 Kasse, Bank > 0940-0960 Bank"
+        },
+        {
+            "lvl2": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0920-0960 Kasse, Bank"
+        },
+        {
+            "lvl1": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN"
+        },
+        {
+            "lvl0": "0 aktive Verm\u00f6gensposten"
+        }
+    ],
+    "leaf": true,
+    "parent": "f62463255c79769f0b41ec2560f17c2d"
+}

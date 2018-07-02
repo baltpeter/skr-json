@@ -1,0 +1,30 @@
+{
+    "objectID": "3b14113fb70353a4a1fe4abb007446c7",
+    "name": "Ausstehende Einlagen auf das gezeichnete Kapital, eingefordert (Aktivausweis)",
+    "type": "Aktiva",
+    "code": "0040",
+    "description": "",
+    "categories": [
+        "a) Kapitalgesellschaft",
+        "I. Ausstehende Einlagen",
+        "A. Anlageverm\u00f6gen",
+        "Aktiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "Aktiva > A. Anlageverm\u00f6gen > I. Ausstehende Einlagen > a) Kapitalgesellschaft"
+        },
+        {
+            "lvl2": "Aktiva > A. Anlageverm\u00f6gen > I. Ausstehende Einlagen"
+        },
+        {
+            "lvl1": "Aktiva > A. Anlageverm\u00f6gen"
+        },
+        {
+            "lvl0": "Aktiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "cb112e9d5b6bf4ca0149302b9b35722b"
+}

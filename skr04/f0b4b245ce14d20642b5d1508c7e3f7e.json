@@ -1,0 +1,34 @@
+{
+    "objectID": "f0b4b245ce14d20642b5d1508c7e3f7e",
+    "name": "Anspr\u00fcche aus R\u00fcckdeckungsversicherungen",
+    "type": "Aktiva",
+    "code": "1378",
+    "description": "",
+    "categories": [
+        "Durchlaufende Posten",
+        "04. Sonstige Verm\u00f6gensgegenst\u00e4nde",
+        "II. Forderungen und sonstige Verm\u00f6gensgegenst\u00e4nde",
+        "B. Umlaufverm\u00f6gen",
+        "Aktiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl4": "Aktiva > B. Umlaufverm\u00f6gen > II. Forderungen und sonstige Verm\u00f6gensgegenst\u00e4nde > 04. Sonstige Verm\u00f6gensgegenst\u00e4nde > Durchlaufende Posten"
+        },
+        {
+            "lvl3": "Aktiva > B. Umlaufverm\u00f6gen > II. Forderungen und sonstige Verm\u00f6gensgegenst\u00e4nde > 04. Sonstige Verm\u00f6gensgegenst\u00e4nde"
+        },
+        {
+            "lvl2": "Aktiva > B. Umlaufverm\u00f6gen > II. Forderungen und sonstige Verm\u00f6gensgegenst\u00e4nde"
+        },
+        {
+            "lvl1": "Aktiva > B. Umlaufverm\u00f6gen"
+        },
+        {
+            "lvl0": "Aktiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "36d6cf6d83f677d8d421d6a0a4d42c70"
+}

@@ -1,0 +1,29 @@
+{
+    "objectID": "5292e871f0d0c9489f050c1d41c4b9bd",
+    "name": "4122 Vermietung Betriebsvorrichtungen l\u00e4ngere Dauer 7% USt",
+    "type": "Ertrag",
+    "code": "4122",
+    "description": "Vermietung Betriebsvorrichtungen l\u00e4ngere Dauer 7% USt",
+    "categories": [
+        "4120 Einnahmen aus Vermietung f\u00fcr l\u00e4ngere Dauer",
+        "4110-4122 Miet- und Pachtertr\u00e4ge",
+        "4000-4399 EINNAHMEN GV",
+        "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4000-4399 EINNAHMEN GV > 4110-4122 Miet- und Pachtertr\u00e4ge > 4120 Einnahmen aus Vermietung f\u00fcr l\u00e4ngere Dauer"
+        },
+        {
+            "lvl2": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4000-4399 EINNAHMEN GV > 4110-4122 Miet- und Pachtertr\u00e4ge"
+        },
+        {
+            "lvl1": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4000-4399 EINNAHMEN GV"
+        },
+        {
+            "lvl0": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung"
+        }
+    ],
+    "leaf": true,
+    "parent": "61971eca5e4adb6763986db714f0c323"
+}

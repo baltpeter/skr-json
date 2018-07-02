@@ -1,0 +1,34 @@
+{
+    "objectID": "40e2617c6709193672f928315d574c00",
+    "name": "1015 R\u00fccklagen ideeller Bereich bis 2025",
+    "type": "Fremdkapital",
+    "code": "1015",
+    "description": "R\u00fccklagen ideeller Bereich bis 2025",
+    "categories": [
+        "1010-1019 R\u00fccklagen ideeller Bereich",
+        "1000-1069 Gebundene R\u00fccklagen",
+        "1000-1079 Gewinnr\u00fccklagen",
+        "1000-1179 VERM\u00d6GEN / EIGENKAPITAL",
+        "1 passive Verm\u00f6gensposten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl4": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL > 1000-1079 Gewinnr\u00fccklagen > 1000-1069 Gebundene R\u00fccklagen > 1010-1019 R\u00fccklagen ideeller Bereich"
+        },
+        {
+            "lvl3": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL > 1000-1079 Gewinnr\u00fccklagen > 1000-1069 Gebundene R\u00fccklagen"
+        },
+        {
+            "lvl2": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL > 1000-1079 Gewinnr\u00fccklagen"
+        },
+        {
+            "lvl1": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL"
+        },
+        {
+            "lvl0": "1 passive Verm\u00f6gensposten"
+        }
+    ],
+    "leaf": true,
+    "notes": "ehemals \u201eR\u00fccklagen ideeller Bereich bis 2015\u201c\nKontenbeschriftung in 2018 ge\u00e4ndert.",
+    "parent": "6bf23feea9eac016d8b6d85cf039a67c"
+}

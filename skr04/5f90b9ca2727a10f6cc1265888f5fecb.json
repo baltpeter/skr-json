@@ -1,0 +1,30 @@
+{
+    "objectID": "5f90b9ca2727a10f6cc1265888f5fecb",
+    "name": "Au\u00dfergew\u00f6hnliche Belastungen",
+    "type": "Fremdkapital",
+    "code": "2280",
+    "description": "",
+    "categories": [
+        "III. Privat Vollhafter/Einzelunternehmer",
+        "a) Personengesellschaft",
+        "A. Eigenkapital",
+        "Passiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "Passiva > A. Eigenkapital > a) Personengesellschaft > III. Privat Vollhafter/Einzelunternehmer"
+        },
+        {
+            "lvl2": "Passiva > A. Eigenkapital > a) Personengesellschaft"
+        },
+        {
+            "lvl1": "Passiva > A. Eigenkapital"
+        },
+        {
+            "lvl0": "Passiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "223774b3d08279ba3dde4eed5aadd74d"
+}

@@ -1,0 +1,30 @@
+{
+    "objectID": "32b9678b389940f682903a025aaa11e9",
+    "name": "Umsatzsteuer nach \u00a713a UStG",
+    "type": "Verbindlichkeit",
+    "code": "3839",
+    "description": "aus der Auslagerung von Gegenst\u00e4nden aus einem Umsatzsteuerlager",
+    "categories": [
+        "Umsatzsteuervorauszahlungen",
+        "10. Umsatzsteuer",
+        "C. Verbindlichkeiten",
+        "Passiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "Passiva > C. Verbindlichkeiten > 10. Umsatzsteuer > Umsatzsteuervorauszahlungen"
+        },
+        {
+            "lvl2": "Passiva > C. Verbindlichkeiten > 10. Umsatzsteuer"
+        },
+        {
+            "lvl1": "Passiva > C. Verbindlichkeiten"
+        },
+        {
+            "lvl0": "Passiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "b0b8449ed3962e5c8932ad6ca1e29792"
+}

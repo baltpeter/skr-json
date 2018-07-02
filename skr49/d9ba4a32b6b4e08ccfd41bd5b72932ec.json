@@ -1,0 +1,26 @@
+{
+    "objectID": "d9ba4a32b6b4e08ccfd41bd5b72932ec",
+    "name": "1158 Andere Gewinnr\u00fccklagen",
+    "type": "Fremdkapital",
+    "code": "1158",
+    "description": "Andere Gewinnr\u00fccklagen",
+    "categories": [
+        "1150-1159 Gewinnr\u00fccklagen",
+        "1000-1179 VERM\u00d6GEN / EIGENKAPITAL",
+        "1 passive Verm\u00f6gensposten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL > 1150-1159 Gewinnr\u00fccklagen"
+        },
+        {
+            "lvl1": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL"
+        },
+        {
+            "lvl0": "1 passive Verm\u00f6gensposten"
+        }
+    ],
+    "leaf": true,
+    "notes": "Nur GmbH!\nFalls Sie die R\u00fccklagen nach dem Zeitpunkt der Aufl\u00f6sung differenziert ausweisen m\u00f6chten, buchen Sie bitte auf den Konten ab 1000.",
+    "parent": "9ec6da0328c8bd00d4f916ddc6a543ce"
+}

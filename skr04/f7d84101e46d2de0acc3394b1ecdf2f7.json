@@ -1,0 +1,18 @@
+{
+    "objectID": "f7d84101e46d2de0acc3394b1ecdf2f7",
+    "name": "- davon aus verbundenen Unternehmen",
+    "type": "Ertrag",
+    "code": -1,
+    "description": "",
+    "categories": [
+        "10. Ertr\u00e4ge aus anderen Wertpapieren und Ausleihungen des Finanzanlageverm\u00f6gens"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl0": "10. Ertr\u00e4ge aus anderen Wertpapieren und Ausleihungen des Finanzanlageverm\u00f6gens"
+        }
+    ],
+    "leaf": false,
+    "placeholder": false,
+    "parent": "a4dfbe8fc2ff45d59632ba7d387d5eaa"
+}

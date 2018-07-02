@@ -1,0 +1,18 @@
+{
+    "objectID": "a5866629e278f3178e1a89e670c364f1",
+    "name": "Sonstige Steuern",
+    "type": "Aufwand",
+    "code": "7650",
+    "description": "",
+    "categories": [
+        "19. sonstige Steuern"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl0": "19. sonstige Steuern"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "14317143371642d28f1085f244e92164"
+}

@@ -1,0 +1,22 @@
+{
+    "objectID": "e3f4c5fc49f7e76a617315ac789570f9",
+    "name": "Freiwillige soziale Aufwendungen, lohnsteuerpflichtig",
+    "type": "Aufwand",
+    "code": "6060",
+    "description": "",
+    "categories": [
+        "a) L\u00f6hne und Geh\u00e4lter",
+        "06. Personalaufwand"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "06. Personalaufwand > a) L\u00f6hne und Geh\u00e4lter"
+        },
+        {
+            "lvl0": "06. Personalaufwand"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "603fcd641f765110cac07fca1a8d47f1"
+}

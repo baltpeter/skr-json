@@ -1,0 +1,25 @@
+{
+    "objectID": "1ef29cc0231a4b507c57fc696011d356",
+    "name": "0500 Anteile an verbundenen Unternehmen",
+    "type": "Aktiva",
+    "code": "0500",
+    "description": "Anteile an verbundenen Unternehmen (Anlageverm\u00f6gen)",
+    "categories": [
+        "0500-0599 Finanzanlagen",
+        "0250-0599 ANDERE ANLAGEN, BETRIEBS- UND GESCH\u00c4FTSAUSSTATTUNG",
+        "0 aktive Verm\u00f6gensposten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "0 aktive Verm\u00f6gensposten > 0250-0599 ANDERE ANLAGEN, BETRIEBS- UND GESCH\u00c4FTSAUSSTATTUNG > 0500-0599 Finanzanlagen"
+        },
+        {
+            "lvl1": "0 aktive Verm\u00f6gensposten > 0250-0599 ANDERE ANLAGEN, BETRIEBS- UND GESCH\u00c4FTSAUSSTATTUNG"
+        },
+        {
+            "lvl0": "0 aktive Verm\u00f6gensposten"
+        }
+    ],
+    "leaf": true,
+    "parent": "9b22a764fb8f194502ac416a2f185c45"
+}

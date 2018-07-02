@@ -1,0 +1,26 @@
+{
+    "objectID": "8af1fdb5c5c8456eddb0b21f186dfe05",
+    "name": "Abschreibungen auf Umlaufverm\u00f6gen, steuerrechtlich bedingt",
+    "type": "Aufwand",
+    "code": "6272",
+    "description": "soweit un\u00fcblich hoch",
+    "categories": [
+        "Abschreibung auf Verm\u00f6gensgegenst\u00e4nde des Umlaufverm\u00f6gens",
+        "b) auf Verm\u00f6gensgegenst\u00e4nde des Umlaufverm\u00f6gens",
+        "07. Abschreibungen"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "07. Abschreibungen > b) auf Verm\u00f6gensgegenst\u00e4nde des Umlaufverm\u00f6gens > Abschreibung auf Verm\u00f6gensgegenst\u00e4nde des Umlaufverm\u00f6gens"
+        },
+        {
+            "lvl1": "07. Abschreibungen > b) auf Verm\u00f6gensgegenst\u00e4nde des Umlaufverm\u00f6gens"
+        },
+        {
+            "lvl0": "07. Abschreibungen"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "8dc682285b0be36b0b50f9ca20f8d834"
+}

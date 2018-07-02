@@ -1,0 +1,33 @@
+{
+    "objectID": "a423c7950bf90532f6d15030f83820c5",
+    "name": "2930 Innergemeinschaftlicher Erwerb ohne Vorsteuerabzug 7% USt",
+    "type": "Aufwand",
+    "code": "2930",
+    "description": "Innergemeinschaftlicher Erwerb ohne Vorsteuer und 7% Umsatzsteuer",
+    "categories": [
+        "2930-2945 Innergemeinschaftlicher Erwerb",
+        "2903-2945 Umsatzsteuer-Konten",
+        "2510 \u00dcbrige Ausgaben",
+        "2500-2999 AUSGABEN",
+        "2 Erfolgskonten ideeller Bereich"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl4": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN > 2510 \u00dcbrige Ausgaben > 2903-2945 Umsatzsteuer-Konten > 2930-2945 Innergemeinschaftlicher Erwerb"
+        },
+        {
+            "lvl3": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN > 2510 \u00dcbrige Ausgaben > 2903-2945 Umsatzsteuer-Konten"
+        },
+        {
+            "lvl2": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN > 2510 \u00dcbrige Ausgaben"
+        },
+        {
+            "lvl1": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN"
+        },
+        {
+            "lvl0": "2 Erfolgskonten ideeller Bereich"
+        }
+    ],
+    "leaf": true,
+    "parent": "61971a78c1376fead9b9bc03a73ae410"
+}

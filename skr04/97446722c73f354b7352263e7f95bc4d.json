@@ -1,0 +1,22 @@
+{
+    "objectID": "97446722c73f354b7352263e7f95bc4d",
+    "name": "Forderungsverluste aus im Inland steuerpflichtigen EG-Lieferungen 7% USt",
+    "type": "Aufwand",
+    "code": "6933",
+    "description": "\u00fcbliche H\u00f6he",
+    "categories": [
+        "Forderungsverluste",
+        "08. sonstige betriebliche Aufwendungen"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "08. sonstige betriebliche Aufwendungen > Forderungsverluste"
+        },
+        {
+            "lvl0": "08. sonstige betriebliche Aufwendungen"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "18243e4b412ad0a904dc36d08b20f695"
+}

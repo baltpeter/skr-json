@@ -1,0 +1,26 @@
+{
+    "objectID": "739921ce2c6e443ea26363b7ec336047",
+    "name": "3966 Einstellungen in R\u00fccklagen zum Erwerb von Gesellschaftsrechten gem. \u00a762 Abs. 1 Nr. 4 AO",
+    "type": "Aufwand",
+    "code": "3966",
+    "description": "Einstellungen in R\u00fccklagen zum Erwerb von Gesellschaftsrechten gem\u00e4\u00df \u00a762 Abs. 1 Nr. 4 AO",
+    "categories": [
+        "3950-3967 Ergebnisverwendung",
+        "3900-3999 ERGEBNISVERWENDUNGSRECHNUNG",
+        "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3900-3999 ERGEBNISVERWENDUNGSRECHNUNG > 3950-3967 Ergebnisverwendung"
+        },
+        {
+            "lvl1": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3900-3999 ERGEBNISVERWENDUNGSRECHNUNG"
+        },
+        {
+            "lvl0": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
+        }
+    ],
+    "leaf": true,
+    "notes": "(ehemals gem\u00e4\u00df \u00a758 Nr. 7b AO)",
+    "parent": "99ea548f62265618e1930a8c76d855fe"
+}

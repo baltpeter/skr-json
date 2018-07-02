@@ -1,0 +1,18 @@
+{
+    "objectID": "9adef6f318a931fbb8519a823e2c20e8",
+    "name": "Raumkosten",
+    "type": "Aufwand",
+    "code": -1,
+    "description": "",
+    "categories": [
+        "Aufwendungen 2/4"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl0": "Aufwendungen 2/4"
+        }
+    ],
+    "leaf": false,
+    "placeholder": true,
+    "parent": "be324e400d3b67510f89afd18de776e3"
+}

@@ -1,0 +1,26 @@
+{
+    "objectID": "db0fce38f062541db4f23a2c7bfeac22",
+    "name": "Verbindlichkeiten im Rahmen der sozialen Sicherheit",
+    "type": "Verbindlichkeit",
+    "code": "3796",
+    "description": "f\u00fcr \u00a74/3 EStG",
+    "categories": [
+        "09. Lohn- und Gehaltsverrechnungskonto",
+        "C. Verbindlichkeiten",
+        "Passiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "Passiva > C. Verbindlichkeiten > 09. Lohn- und Gehaltsverrechnungskonto"
+        },
+        {
+            "lvl1": "Passiva > C. Verbindlichkeiten"
+        },
+        {
+            "lvl0": "Passiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "dcc9df0c20ead56ac1dc766fd4aaf6b1"
+}

@@ -1,0 +1,22 @@
+{
+    "objectID": "52d5cfa2b900633443c2fde2773aa09a",
+    "name": "Passive Rechnungsabgrenzung",
+    "type": "Fremdkapital",
+    "code": "3900",
+    "description": "",
+    "categories": [
+        "D. Rechnungsabgrenzungsposten Fremdkapital",
+        "Passiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "Passiva > D. Rechnungsabgrenzungsposten Fremdkapital"
+        },
+        {
+            "lvl0": "Passiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "ca4f3be70076340cc2702f8863077d48"
+}

@@ -1,0 +1,22 @@
+{
+    "objectID": "2e014ae18903126be1305c97fba9731e",
+    "name": "Kalkulatorischer Lohn f\u00fcr unentgeltliche Mitarbeiter",
+    "type": "Aufwand",
+    "code": "6979",
+    "description": "",
+    "categories": [
+        "e) Kalkulatorische Kosten",
+        "08. sonstige betriebliche Aufwendungen"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "08. sonstige betriebliche Aufwendungen > e) Kalkulatorische Kosten"
+        },
+        {
+            "lvl0": "08. sonstige betriebliche Aufwendungen"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "69ea025cd488b1084c9fed0d584800e2"
+}

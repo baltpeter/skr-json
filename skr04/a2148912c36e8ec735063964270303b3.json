@@ -1,0 +1,30 @@
+{
+    "objectID": "a2148912c36e8ec735063964270303b3",
+    "name": "Verbindlichkeiten aus Lieferungen und Leistungen ohne Kontokorrent - Restlaufzeit > 5 Jahre",
+    "type": "Verbindlichkeit",
+    "code": "3338",
+    "description": "",
+    "categories": [
+        "Verbindlichkeiten aus Lieferungen und Leistungen ohne Kontokorrent",
+        "04. Verbindlichkeiten aus Lieferungen und Leistungen",
+        "C. Verbindlichkeiten",
+        "Passiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "Passiva > C. Verbindlichkeiten > 04. Verbindlichkeiten aus Lieferungen und Leistungen > Verbindlichkeiten aus Lieferungen und Leistungen ohne Kontokorrent"
+        },
+        {
+            "lvl2": "Passiva > C. Verbindlichkeiten > 04. Verbindlichkeiten aus Lieferungen und Leistungen"
+        },
+        {
+            "lvl1": "Passiva > C. Verbindlichkeiten"
+        },
+        {
+            "lvl0": "Passiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "a3d3131caad56df23167362ec6ab406a"
+}

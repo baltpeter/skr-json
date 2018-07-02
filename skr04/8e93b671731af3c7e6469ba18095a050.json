@@ -1,0 +1,31 @@
+{
+    "objectID": "8e93b671731af3c7e6469ba18095a050",
+    "name": "Nicht abzugsf\u00e4hige Betriebsausgaben aus Werbe-, Repr\u00e4sentations- und Reisekosten (nicht abziehbarer Anteil)",
+    "type": "Aufwand",
+    "code": "6645",
+    "description": "",
+    "categories": [
+        "Werbekosten",
+        "6) Werbe- und Reisekosten",
+        "a) ordentliche betriebliche Aufwendungen",
+        "08. sonstige betriebliche Aufwendungen"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen > 6) Werbe- und Reisekosten > Werbekosten"
+        },
+        {
+            "lvl2": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen > 6) Werbe- und Reisekosten"
+        },
+        {
+            "lvl1": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen"
+        },
+        {
+            "lvl0": "08. sonstige betriebliche Aufwendungen"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "tax-related": false,
+    "parent": "b79422d817942119d25d7a427466b48a"
+}

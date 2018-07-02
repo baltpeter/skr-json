@@ -1,0 +1,18 @@
+{
+    "objectID": "c4d63e3d1d38c5ad373635a0498a3295",
+    "name": "5990-5999 ERGEBNISUMBUCHUNG NACH 8980",
+    "type": "Ertrag",
+    "code": "5990-5999",
+    "description": "Ergebnisumbuchung nach 8980",
+    "categories": [
+        "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl0": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport"
+        }
+    ],
+    "leaf": false,
+    "placeholder": true,
+    "parent": "4831ca6e38b687c1197a27ef5309bebe"
+}

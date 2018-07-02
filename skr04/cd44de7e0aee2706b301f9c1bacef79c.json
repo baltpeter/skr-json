@@ -1,0 +1,26 @@
+{
+    "objectID": "cd44de7e0aee2706b301f9c1bacef79c",
+    "name": "Grundsteuer f\u00fcr Geb\u00e4ude, die nicht zum Betriebsverm\u00f6gen geh\u00f6ren",
+    "type": "Aufwand",
+    "code": "7684",
+    "description": "",
+    "categories": [
+        "Grundsteuer",
+        "Sonstige Steuern",
+        "19. sonstige Steuern"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "19. sonstige Steuern > Sonstige Steuern > Grundsteuer"
+        },
+        {
+            "lvl1": "19. sonstige Steuern > Sonstige Steuern"
+        },
+        {
+            "lvl0": "19. sonstige Steuern"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "9cba85054f28605b1ab51a2bb2c975a5"
+}

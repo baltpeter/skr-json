@@ -1,0 +1,38 @@
+{
+    "objectID": "8ddea02d48b610fc66b1a9db55986f9b",
+    "name": "0839 Aufzuteilende Vorsteuer \u00a7\u00a7 13a/b UStG",
+    "type": "Aktiva",
+    "code": "0839",
+    "description": "Aufzuteilende Vorsteuer nach \u00a7\u00a7 13a & 13b UStG",
+    "categories": [
+        "0825 Aufzuteilende Vorsteuer",
+        "0730-0866 Umsatzsteuer-Konten",
+        "0700 Sonstige Verm\u00f6gensgegenst\u00e4nde",
+        "0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde",
+        "0600-0989 UMLAUFVERM\u00d6GEN",
+        "0 aktive Verm\u00f6gensposten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl5": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde > 0700 Sonstige Verm\u00f6gensgegenst\u00e4nde > 0730-0866 Umsatzsteuer-Konten > 0825 Aufzuteilende Vorsteuer"
+        },
+        {
+            "lvl4": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde > 0700 Sonstige Verm\u00f6gensgegenst\u00e4nde > 0730-0866 Umsatzsteuer-Konten"
+        },
+        {
+            "lvl3": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde > 0700 Sonstige Verm\u00f6gensgegenst\u00e4nde"
+        },
+        {
+            "lvl2": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde"
+        },
+        {
+            "lvl1": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN"
+        },
+        {
+            "lvl0": "0 aktive Verm\u00f6gensposten"
+        }
+    ],
+    "leaf": true,
+    "notes": "Sammelkonto\n\u00dcberschu\u00dfrechner \u2013 keine Zuordnung",
+    "parent": "0af4b7bbc2a07c6c1ffb91ce77372bfb"
+}

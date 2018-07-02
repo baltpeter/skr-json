@@ -1,0 +1,18 @@
+{
+    "objectID": "cafd8ada4152cfeb9eb49cdeff92764e",
+    "name": "9600-9998 WEITERE STATISTIK- UND VORTRAGSKONTEN",
+    "type": "Aktiva",
+    "code": "9600-9998",
+    "description": "Weitere Statistik-und Vortragskonten",
+    "categories": [
+        "9 Statistik- & Vortragskonten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl0": "9 Statistik- & Vortragskonten"
+        }
+    ],
+    "leaf": false,
+    "notes": "Diese stehen in der aktuellen Version des Kontenrahmens unterhalb von \u201eSTATISTISCHE KONTEN F\u00dcR GEWINNZUSCHLAG\u201c, der ehemalige Bereich \u201eSTATISTISCHE WERTE F\u00dcR ANLAGE E\u00dcR\u201c ist weggefallen, ohne da\u00df im Datev-Dokument eine passende Haupt\u00fcberschrift eingef\u00fcgt wurde.",
+    "parent": "3f14162b8e47da34d1705080f97af853"
+}

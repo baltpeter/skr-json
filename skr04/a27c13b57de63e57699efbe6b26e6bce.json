@@ -1,0 +1,34 @@
+{
+    "objectID": "a27c13b57de63e57699efbe6b26e6bce",
+    "name": "Forderungen gegen Personal (g. 1Jahr)",
+    "type": "Forderung",
+    "code": "1345",
+    "description": "",
+    "categories": [
+        "Forderungen gegen Personal aus Lohn- und Gehaltsabrechnung",
+        "04. Sonstige Verm\u00f6gensgegenst\u00e4nde",
+        "II. Forderungen und sonstige Verm\u00f6gensgegenst\u00e4nde",
+        "B. Umlaufverm\u00f6gen",
+        "Aktiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl4": "Aktiva > B. Umlaufverm\u00f6gen > II. Forderungen und sonstige Verm\u00f6gensgegenst\u00e4nde > 04. Sonstige Verm\u00f6gensgegenst\u00e4nde > Forderungen gegen Personal aus Lohn- und Gehaltsabrechnung"
+        },
+        {
+            "lvl3": "Aktiva > B. Umlaufverm\u00f6gen > II. Forderungen und sonstige Verm\u00f6gensgegenst\u00e4nde > 04. Sonstige Verm\u00f6gensgegenst\u00e4nde"
+        },
+        {
+            "lvl2": "Aktiva > B. Umlaufverm\u00f6gen > II. Forderungen und sonstige Verm\u00f6gensgegenst\u00e4nde"
+        },
+        {
+            "lvl1": "Aktiva > B. Umlaufverm\u00f6gen"
+        },
+        {
+            "lvl0": "Aktiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "4517b3561a7ff696c0662a257ed40cdd"
+}

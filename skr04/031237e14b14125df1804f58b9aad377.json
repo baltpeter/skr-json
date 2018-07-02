@@ -1,0 +1,26 @@
+{
+    "objectID": "031237e14b14125df1804f58b9aad377",
+    "name": "Pensionsr\u00fcckstellungen",
+    "type": "Fremdkapital",
+    "code": "3010",
+    "description": "",
+    "categories": [
+        "01. R\u00fcckstellungen f\u00fcr Pensionen und \u00e4hnliche Verpflichtungen",
+        "B. R\u00fcckstellungen",
+        "Passiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "Passiva > B. R\u00fcckstellungen > 01. R\u00fcckstellungen f\u00fcr Pensionen und \u00e4hnliche Verpflichtungen"
+        },
+        {
+            "lvl1": "Passiva > B. R\u00fcckstellungen"
+        },
+        {
+            "lvl0": "Passiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "f689ef292ca4019d4d8f52f19d5b5ede"
+}

@@ -1,0 +1,29 @@
+{
+    "objectID": "2303501515174e2ea062d66d877d0ea1",
+    "name": "1318 Anleihen >5 Jahre, konvertibel",
+    "type": "Verbindlichkeit",
+    "code": "1318",
+    "description": "Konvertible Anleihen \u2013 Restlaufzeit mehr als 5 Jahre",
+    "categories": [
+        "1315 Anleihen, konvertibel",
+        "1300-1318 Anleihen",
+        "1300-1989 VERBINDLICHKEITEN",
+        "1 passive Verm\u00f6gensposten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "1 passive Verm\u00f6gensposten > 1300-1989 VERBINDLICHKEITEN > 1300-1318 Anleihen > 1315 Anleihen, konvertibel"
+        },
+        {
+            "lvl2": "1 passive Verm\u00f6gensposten > 1300-1989 VERBINDLICHKEITEN > 1300-1318 Anleihen"
+        },
+        {
+            "lvl1": "1 passive Verm\u00f6gensposten > 1300-1989 VERBINDLICHKEITEN"
+        },
+        {
+            "lvl0": "1 passive Verm\u00f6gensposten"
+        }
+    ],
+    "leaf": true,
+    "parent": "45d44f2949c685fae839a3e181bb2744"
+}

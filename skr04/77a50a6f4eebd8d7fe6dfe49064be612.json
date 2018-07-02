@@ -1,0 +1,22 @@
+{
+    "objectID": "77a50a6f4eebd8d7fe6dfe49064be612",
+    "name": "05. Verbindlichkeiten aus der Annahme gezogener Wechsel und der Ausstellung eigener Wechsel",
+    "type": "Verbindlichkeit",
+    "code": -1,
+    "description": "",
+    "categories": [
+        "C. Verbindlichkeiten",
+        "Passiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "Passiva > C. Verbindlichkeiten"
+        },
+        {
+            "lvl0": "Passiva"
+        }
+    ],
+    "leaf": false,
+    "placeholder": true,
+    "parent": "8755bf4081c942798c5ac5f34c5b1aac"
+}

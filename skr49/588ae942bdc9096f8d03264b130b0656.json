@@ -1,0 +1,23 @@
+{
+    "objectID": "588ae942bdc9096f8d03264b130b0656",
+    "name": "8000-8499 SONSTIGE GESCH\u00c4FTSBETRIEBE 1",
+    "type": "Ertrag",
+    "code": "8000-8499",
+    "description": "SONSTIGE GESCH\u00c4FTSBETRIEBE 1",
+    "categories": [
+        "8000-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE",
+        "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe > 8000-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE"
+        },
+        {
+            "lvl0": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe"
+        }
+    ],
+    "leaf": false,
+    "notes": "Teilbereich 8000\nsonstige Gesch\u00e4ftsbetriebe 1\nertragsteuerpflichtig",
+    "placeholder": true,
+    "parent": "18e29c8b57540181a849137d1f2aa0d9"
+}

@@ -1,0 +1,18 @@
+{
+    "objectID": "ffca2686cb9963bea1089b796763dda0",
+    "name": "9000-9249 STATISTISCHE KONTEN",
+    "type": "Aktiva",
+    "code": "9000-9249",
+    "description": "STATISTISCHE KONTEN",
+    "categories": [
+        "9 Statistik- & Vortragskonten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl0": "9 Statistik- & Vortragskonten"
+        }
+    ],
+    "leaf": false,
+    "placeholder": true,
+    "parent": "3f14162b8e47da34d1705080f97af853"
+}

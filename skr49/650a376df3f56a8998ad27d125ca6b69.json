@@ -1,0 +1,22 @@
+{
+    "objectID": "650a376df3f56a8998ad27d125ca6b69",
+    "name": "0250-0299 Fahrzeuge, Transportmittel",
+    "type": "Aktiva",
+    "code": "0250-0299",
+    "description": "Fahrzeuge, Transportmittel",
+    "categories": [
+        "0250-0599 ANDERE ANLAGEN, BETRIEBS- UND GESCH\u00c4FTSAUSSTATTUNG",
+        "0 aktive Verm\u00f6gensposten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "0 aktive Verm\u00f6gensposten > 0250-0599 ANDERE ANLAGEN, BETRIEBS- UND GESCH\u00c4FTSAUSSTATTUNG"
+        },
+        {
+            "lvl0": "0 aktive Verm\u00f6gensposten"
+        }
+    ],
+    "leaf": false,
+    "placeholder": true,
+    "parent": "0a4482e8dafad43f53d659a8e8be2181"
+}

@@ -1,0 +1,29 @@
+{
+    "objectID": "9dc79f204426f5388b9846470279f67c",
+    "name": "1302 Anleihen 1\u20135 Jahre, nicht konvertibel",
+    "type": "Verbindlichkeit",
+    "code": "1302",
+    "description": "Nicht konvertible Anleihen \u2013 Restlaufzeit 1 bis 5 Jahre",
+    "categories": [
+        "1300 Anleihen, nicht konvertibel",
+        "1300-1318 Anleihen",
+        "1300-1989 VERBINDLICHKEITEN",
+        "1 passive Verm\u00f6gensposten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "1 passive Verm\u00f6gensposten > 1300-1989 VERBINDLICHKEITEN > 1300-1318 Anleihen > 1300 Anleihen, nicht konvertibel"
+        },
+        {
+            "lvl2": "1 passive Verm\u00f6gensposten > 1300-1989 VERBINDLICHKEITEN > 1300-1318 Anleihen"
+        },
+        {
+            "lvl1": "1 passive Verm\u00f6gensposten > 1300-1989 VERBINDLICHKEITEN"
+        },
+        {
+            "lvl0": "1 passive Verm\u00f6gensposten"
+        }
+    ],
+    "leaf": true,
+    "parent": "2f133e66ac195bbdb4faaeb3c1dccbc8"
+}

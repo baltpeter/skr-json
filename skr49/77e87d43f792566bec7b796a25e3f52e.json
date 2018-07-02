@@ -1,0 +1,21 @@
+{
+    "objectID": "77e87d43f792566bec7b796a25e3f52e",
+    "name": "8990 Umgebuchte Ausgaben bisheriger Zweckbetriebe",
+    "type": "Aufwand",
+    "code": "8990",
+    "description": "Umgebuchte Ausgaben bisheriger Zweckbetriebe",
+    "categories": [
+        "8980-8999 ERTRAGSSTEUERPFLICHTIG GEWORDENE ZWECKBETRIEBE",
+        "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe > 8980-8999 ERTRAGSSTEUERPFLICHTIG GEWORDENE ZWECKBETRIEBE"
+        },
+        {
+            "lvl0": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe"
+        }
+    ],
+    "leaf": true,
+    "parent": "781fe2f0b28bdd98d8e87d7c4e03d5ff"
+}

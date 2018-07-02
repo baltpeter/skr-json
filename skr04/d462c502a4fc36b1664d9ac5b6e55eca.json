@@ -1,0 +1,22 @@
+{
+    "objectID": "d462c502a4fc36b1664d9ac5b6e55eca",
+    "name": "Steuerlich abzugsf\u00e4hige, andere Nebenleistungen zu Steuern",
+    "type": "Aufwand",
+    "code": "7303",
+    "description": "",
+    "categories": [
+        "Zinsen und \u00e4hnliche Aufwendungen",
+        "13. Zinsen und \u00e4hnliche Aufwendungen"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "13. Zinsen und \u00e4hnliche Aufwendungen > Zinsen und \u00e4hnliche Aufwendungen"
+        },
+        {
+            "lvl0": "13. Zinsen und \u00e4hnliche Aufwendungen"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "8077a61128333def2454214ea7b6df5c"
+}

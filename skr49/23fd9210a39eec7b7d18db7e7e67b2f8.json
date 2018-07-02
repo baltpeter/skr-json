@@ -1,0 +1,21 @@
+{
+    "objectID": "23fd9210a39eec7b7d18db7e7e67b2f8",
+    "name": "1200 Pensionsr\u00fcckstellungen",
+    "type": "Fremdkapital",
+    "code": "1200",
+    "description": "R\u00fcckstellungen f\u00fcr Pensionen und \u00e4hnliche Verpflichtungen",
+    "categories": [
+        "1200-1229 R\u00dcCKSTELLUNGEN",
+        "1 passive Verm\u00f6gensposten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "1 passive Verm\u00f6gensposten > 1200-1229 R\u00dcCKSTELLUNGEN"
+        },
+        {
+            "lvl0": "1 passive Verm\u00f6gensposten"
+        }
+    ],
+    "leaf": true,
+    "parent": "e968c713799af36f34e0beed878b6e55"
+}

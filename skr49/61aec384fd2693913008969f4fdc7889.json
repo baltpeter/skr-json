@@ -1,0 +1,25 @@
+{
+    "objectID": "61aec384fd2693913008969f4fdc7889",
+    "name": "1331 Erhaltene Anzahlungen auf Bestellungen <1 Jahr",
+    "type": "Verbindlichkeit",
+    "code": "1331",
+    "description": "Erhaltene Anzahlungen auf Bestellungen \u2013 Restlaufzeit bis 1 Jahr",
+    "categories": [
+        "1330 Erhaltene Anzahlungen auf Bestellungen",
+        "1300-1989 VERBINDLICHKEITEN",
+        "1 passive Verm\u00f6gensposten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "1 passive Verm\u00f6gensposten > 1300-1989 VERBINDLICHKEITEN > 1330 Erhaltene Anzahlungen auf Bestellungen"
+        },
+        {
+            "lvl1": "1 passive Verm\u00f6gensposten > 1300-1989 VERBINDLICHKEITEN"
+        },
+        {
+            "lvl0": "1 passive Verm\u00f6gensposten"
+        }
+    ],
+    "leaf": true,
+    "parent": "cf78661dd1827bb5a3e647dea89dbdd3"
+}

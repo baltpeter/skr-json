@@ -1,0 +1,35 @@
+{
+    "objectID": "5e0b123fbdd511d8a7aa1b3447698ca7",
+    "name": "Au\u00dfenanlagen",
+    "type": "Aktiva",
+    "code": "0310",
+    "description": "",
+    "categories": [
+        "Wohnbauten",
+        "01. Grundst\u00fccke, grundst\u00fccksgleiche Rechte und Bauten einschlie\u00dflich der Bauten auf fremden Grundst\u00fccken",
+        "IV. Sachanlagen",
+        "A. Anlageverm\u00f6gen",
+        "Aktiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl4": "Aktiva > A. Anlageverm\u00f6gen > IV. Sachanlagen > 01. Grundst\u00fccke, grundst\u00fccksgleiche Rechte und Bauten einschlie\u00dflich der Bauten auf fremden Grundst\u00fccken > Wohnbauten"
+        },
+        {
+            "lvl3": "Aktiva > A. Anlageverm\u00f6gen > IV. Sachanlagen > 01. Grundst\u00fccke, grundst\u00fccksgleiche Rechte und Bauten einschlie\u00dflich der Bauten auf fremden Grundst\u00fccken"
+        },
+        {
+            "lvl2": "Aktiva > A. Anlageverm\u00f6gen > IV. Sachanlagen"
+        },
+        {
+            "lvl1": "Aktiva > A. Anlageverm\u00f6gen"
+        },
+        {
+            "lvl0": "Aktiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "tax-related": false,
+    "parent": "f48445e107dc1620cd4fda6f6b144ad4"
+}

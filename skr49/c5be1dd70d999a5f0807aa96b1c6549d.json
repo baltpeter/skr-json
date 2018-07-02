@@ -1,0 +1,41 @@
+{
+    "objectID": "c5be1dd70d999a5f0807aa96b1c6549d",
+    "name": "5849 Verrechnete kalkulatorische Abschreibungen",
+    "type": "Aufwand",
+    "code": "5849",
+    "description": "Verrechnete kalkulatorische Abschreibungen",
+    "categories": [
+        "5848 Kalkulatorische Abschreibungen",
+        "5848+5849 Sonstige Kosten",
+        "5840-5859 Abschreibungen",
+        "5800-5899 AUSGABEN / AUFWENDUNGEN",
+        "5700-5999 ZWECKBETRIEBE SPORT 2",
+        "5000-5889 ZWECKBETRIEBE SPORT",
+        "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl6": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5000-5889 ZWECKBETRIEBE SPORT > 5700-5999 ZWECKBETRIEBE SPORT 2 > 5800-5899 AUSGABEN / AUFWENDUNGEN > 5840-5859 Abschreibungen > 5848+5849 Sonstige Kosten > 5848 Kalkulatorische Abschreibungen"
+        },
+        {
+            "lvl5": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5000-5889 ZWECKBETRIEBE SPORT > 5700-5999 ZWECKBETRIEBE SPORT 2 > 5800-5899 AUSGABEN / AUFWENDUNGEN > 5840-5859 Abschreibungen > 5848+5849 Sonstige Kosten"
+        },
+        {
+            "lvl4": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5000-5889 ZWECKBETRIEBE SPORT > 5700-5999 ZWECKBETRIEBE SPORT 2 > 5800-5899 AUSGABEN / AUFWENDUNGEN > 5840-5859 Abschreibungen"
+        },
+        {
+            "lvl3": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5000-5889 ZWECKBETRIEBE SPORT > 5700-5999 ZWECKBETRIEBE SPORT 2 > 5800-5899 AUSGABEN / AUFWENDUNGEN"
+        },
+        {
+            "lvl2": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5000-5889 ZWECKBETRIEBE SPORT > 5700-5999 ZWECKBETRIEBE SPORT 2"
+        },
+        {
+            "lvl1": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5000-5889 ZWECKBETRIEBE SPORT"
+        },
+        {
+            "lvl0": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport"
+        }
+    ],
+    "leaf": true,
+    "parent": "b85a6dae6d6bedc222ca86776d67f234"
+}

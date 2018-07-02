@@ -1,0 +1,21 @@
+{
+    "objectID": "865ef8797e8aaca48c2f5de7905975d5",
+    "name": "1185 Nutzungsgebundenes Kapital",
+    "type": "Fremdkapital",
+    "code": "1185",
+    "description": "Nutzungsgebundenes Kapital",
+    "categories": [
+        "1180-1199 SONDERPOSTEN",
+        "1 passive Verm\u00f6gensposten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "1 passive Verm\u00f6gensposten > 1180-1199 SONDERPOSTEN"
+        },
+        {
+            "lvl0": "1 passive Verm\u00f6gensposten"
+        }
+    ],
+    "leaf": true,
+    "parent": "79838dac3d7a259a0d0226ba63c65a62"
+}

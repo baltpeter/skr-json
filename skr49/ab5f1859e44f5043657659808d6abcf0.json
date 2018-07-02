@@ -1,0 +1,29 @@
+{
+    "objectID": "ab5f1859e44f5043657659808d6abcf0",
+    "name": "0915 Sonstige Wertpapiere",
+    "type": "Aktiva",
+    "code": "0915",
+    "description": "Sonstige Wertpapiere",
+    "categories": [
+        "0910-0919 Sonstige Wertpapiere",
+        "0900-0919 Wertpapiere",
+        "0600-0989 UMLAUFVERM\u00d6GEN",
+        "0 aktive Verm\u00f6gensposten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0900-0919 Wertpapiere > 0910-0919 Sonstige Wertpapiere"
+        },
+        {
+            "lvl2": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0900-0919 Wertpapiere"
+        },
+        {
+            "lvl1": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN"
+        },
+        {
+            "lvl0": "0 aktive Verm\u00f6gensposten"
+        }
+    ],
+    "leaf": true,
+    "parent": "4f990498fef1e40775c72fddbfc1e92e"
+}

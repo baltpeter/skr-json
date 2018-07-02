@@ -1,0 +1,27 @@
+{
+    "objectID": "9fe27132e2d85345f37a9c94620b7e05",
+    "name": "1100-1105 Stiftungskapital",
+    "type": "Fremdkapital",
+    "code": "1100-1105",
+    "description": "Stiftungskapital",
+    "categories": [
+        "1100-1125 Stiftungsverm\u00f6gen",
+        "1000-1179 VERM\u00d6GEN / EIGENKAPITAL",
+        "1 passive Verm\u00f6gensposten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL > 1100-1125 Stiftungsverm\u00f6gen"
+        },
+        {
+            "lvl1": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL"
+        },
+        {
+            "lvl0": "1 passive Verm\u00f6gensposten"
+        }
+    ],
+    "leaf": false,
+    "notes": "Nur f\u00fcr Stiftungen!",
+    "placeholder": true,
+    "parent": "b064f0344c982abd459f17ce593f2fc4"
+}

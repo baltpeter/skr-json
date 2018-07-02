@@ -1,0 +1,22 @@
+{
+    "objectID": "187525b967b669624823c158eca38554",
+    "name": "Erl\u00f6se aus Verk\u00e4ufen Sachanlageverm\u00f6gen 16% USt",
+    "type": "Aufwand",
+    "code": "6885",
+    "description": "bei Buchverlust",
+    "categories": [
+        "b) Verluste aus dem Abgang von Gegenst\u00e4nden des Anlageverm\u00f6gens",
+        "08. sonstige betriebliche Aufwendungen"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "08. sonstige betriebliche Aufwendungen > b) Verluste aus dem Abgang von Gegenst\u00e4nden des Anlageverm\u00f6gens"
+        },
+        {
+            "lvl0": "08. sonstige betriebliche Aufwendungen"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "47767b5fa390ff8a4dbb0fdf05a3ee3b"
+}

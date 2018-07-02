@@ -1,0 +1,19 @@
+{
+    "objectID": "27356188a1963c1dbf943022441d095f",
+    "name": "Anlage- u. Kapitalkonten 0",
+    "type": "Aktiva",
+    "code": -1,
+    "description": "",
+    "categories": [
+        "Aktiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl0": "Aktiva"
+        }
+    ],
+    "leaf": false,
+    "placeholder": true,
+    "tax-related": false,
+    "parent": "fc3b1f110a6686f3d40bb0c41c0f8de0"
+}

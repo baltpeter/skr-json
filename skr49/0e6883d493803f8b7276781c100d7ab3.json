@@ -1,0 +1,29 @@
+{
+    "objectID": "0e6883d493803f8b7276781c100d7ab3",
+    "name": "0701 Sonstige Verm\u00f6gensgegenst\u00e4nde <1 Jahr",
+    "type": "Aktiva",
+    "code": "0701",
+    "description": "Sonstige Verm\u00f6gensgegenst\u00e4nde \u2013 Restlaufzeit bis 1 Jahr",
+    "categories": [
+        "0700 Sonstige Verm\u00f6gensgegenst\u00e4nde",
+        "0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde",
+        "0600-0989 UMLAUFVERM\u00d6GEN",
+        "0 aktive Verm\u00f6gensposten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde > 0700 Sonstige Verm\u00f6gensgegenst\u00e4nde"
+        },
+        {
+            "lvl2": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde"
+        },
+        {
+            "lvl1": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN"
+        },
+        {
+            "lvl0": "0 aktive Verm\u00f6gensposten"
+        }
+    ],
+    "leaf": true,
+    "parent": "b4e1c6e30e0113e2548d3670a919b4a6"
+}

@@ -1,0 +1,37 @@
+{
+    "objectID": "1974e49dd9151c75b8b09a0c25c0e98f",
+    "name": "5020 Eintrittsgelder sonstiger sportlicher Veranstaltungen",
+    "type": "Ertrag",
+    "code": "5020",
+    "description": "Eintrittsgelder aus sonstigen sportlichen Veranstaltungen 7% USt",
+    "categories": [
+        "5000 Eintrittsgelder Sport 1",
+        "5000-5120 Umsatzerl\u00f6se",
+        "5000-5279 EINNAHMEN / ERTR\u00c4GE",
+        "5000-5699 ZWECKBETRIEBE SPORT 1",
+        "5000-5889 ZWECKBETRIEBE SPORT",
+        "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl5": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5000-5889 ZWECKBETRIEBE SPORT > 5000-5699 ZWECKBETRIEBE SPORT 1 > 5000-5279 EINNAHMEN / ERTR\u00c4GE > 5000-5120 Umsatzerl\u00f6se > 5000 Eintrittsgelder Sport 1"
+        },
+        {
+            "lvl4": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5000-5889 ZWECKBETRIEBE SPORT > 5000-5699 ZWECKBETRIEBE SPORT 1 > 5000-5279 EINNAHMEN / ERTR\u00c4GE > 5000-5120 Umsatzerl\u00f6se"
+        },
+        {
+            "lvl3": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5000-5889 ZWECKBETRIEBE SPORT > 5000-5699 ZWECKBETRIEBE SPORT 1 > 5000-5279 EINNAHMEN / ERTR\u00c4GE"
+        },
+        {
+            "lvl2": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5000-5889 ZWECKBETRIEBE SPORT > 5000-5699 ZWECKBETRIEBE SPORT 1"
+        },
+        {
+            "lvl1": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5000-5889 ZWECKBETRIEBE SPORT"
+        },
+        {
+            "lvl0": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport"
+        }
+    ],
+    "leaf": true,
+    "parent": "a84c71448cad5dfe8480fe08e39f938f"
+}

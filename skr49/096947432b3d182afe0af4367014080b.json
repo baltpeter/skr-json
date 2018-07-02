@@ -1,0 +1,19 @@
+{
+    "objectID": "096947432b3d182afe0af4367014080b",
+    "name": "7000-7999 GESCH\u00c4FTSBETRIEBE SPORT",
+    "type": "Ertrag",
+    "code": "7000-7999",
+    "description": "GESCH\u00c4FTSBETRIEBE SPORT",
+    "categories": [
+        "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl0": "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport"
+        }
+    ],
+    "leaf": false,
+    "notes": "Ertragsteuerpflichtige Gesch\u00e4ftsbetriebe Sport sind:\na) Standardfall des \u00a767a Abs. 1 S. 1 AO f\u00fcr gV, wenn Zweckbetriebsgrenze 45000 EUR (ab 2013) Jahresbruttoeinnahmen \u00fcberschritten wird\nb) Optionsfall des \u00a767a Abs. 3 S. 2 AO \u201ebezahlter Sport\u201c f\u00fcr gV\nc) Sportliche Veranstaltungen aller Art ngV",
+    "placeholder": true,
+    "parent": "d0aa5ac2a8ac8832cbaf0ce83c4429df"
+}

@@ -1,0 +1,26 @@
+{
+    "objectID": "46ffb83de61205686c1ccc5a000f8a65",
+    "name": "0200-0249 Technische Anlagen und Maschinen",
+    "type": "Aktiva",
+    "code": "0200-0249",
+    "description": "Technische Anlagen und Maschinen",
+    "categories": [
+        "0050-0249 Sachanlagen",
+        "0010-0249 ANLAGEVERM\u00d6GEN",
+        "0 aktive Verm\u00f6gensposten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "0 aktive Verm\u00f6gensposten > 0010-0249 ANLAGEVERM\u00d6GEN > 0050-0249 Sachanlagen"
+        },
+        {
+            "lvl1": "0 aktive Verm\u00f6gensposten > 0010-0249 ANLAGEVERM\u00d6GEN"
+        },
+        {
+            "lvl0": "0 aktive Verm\u00f6gensposten"
+        }
+    ],
+    "leaf": false,
+    "placeholder": true,
+    "parent": "0ed43f1031b629ca67048a8eeb0ca76b"
+}

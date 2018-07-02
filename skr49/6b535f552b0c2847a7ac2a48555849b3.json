@@ -1,0 +1,21 @@
+{
+    "objectID": "6b535f552b0c2847a7ac2a48555849b3",
+    "name": "1220 Sonstige R\u00fcckstellungen",
+    "type": "Fremdkapital",
+    "code": "1220",
+    "description": "Sonstige R\u00fcckstellungen",
+    "categories": [
+        "1200-1229 R\u00dcCKSTELLUNGEN",
+        "1 passive Verm\u00f6gensposten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "1 passive Verm\u00f6gensposten > 1200-1229 R\u00dcCKSTELLUNGEN"
+        },
+        {
+            "lvl0": "1 passive Verm\u00f6gensposten"
+        }
+    ],
+    "leaf": true,
+    "parent": "e968c713799af36f34e0beed878b6e55"
+}

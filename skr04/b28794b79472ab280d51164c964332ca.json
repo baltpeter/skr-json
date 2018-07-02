@@ -1,0 +1,26 @@
+{
+    "objectID": "b28794b79472ab280d51164c964332ca",
+    "name": "01. Roh-, Hilfs- und Betriebsstoffe (Bestand)",
+    "type": "Aktiva",
+    "code": "1000",
+    "description": "",
+    "categories": [
+        "I. Vorr\u00e4te",
+        "B. Umlaufverm\u00f6gen",
+        "Aktiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "Aktiva > B. Umlaufverm\u00f6gen > I. Vorr\u00e4te"
+        },
+        {
+            "lvl1": "Aktiva > B. Umlaufverm\u00f6gen"
+        },
+        {
+            "lvl0": "Aktiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": true,
+    "parent": "693674f6bcdd8dfbc525267340f4771b"
+}

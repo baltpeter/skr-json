@@ -1,0 +1,22 @@
+{
+    "objectID": "2c48f1ac4c9e5b5c1538185a0fac4086",
+    "name": "Forderungsverluste aus im Inland steuerpflichtigen EGLieferungen 15% USt",
+    "type": "Aufwand",
+    "code": "6939",
+    "description": "\u00fcbliche H\u00f6he",
+    "categories": [
+        "Forderungsverluste",
+        "08. sonstige betriebliche Aufwendungen"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "08. sonstige betriebliche Aufwendungen > Forderungsverluste"
+        },
+        {
+            "lvl0": "08. sonstige betriebliche Aufwendungen"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "18243e4b412ad0a904dc36d08b20f695"
+}

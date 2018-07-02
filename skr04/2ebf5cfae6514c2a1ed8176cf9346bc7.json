@@ -1,0 +1,22 @@
+{
+    "objectID": "2ebf5cfae6514c2a1ed8176cf9346bc7",
+    "name": "Verrechnete kalkulatorische Abschreibungen",
+    "type": "Aufwand",
+    "code": "6986",
+    "description": "",
+    "categories": [
+        "e) Kalkulatorische Kosten",
+        "08. sonstige betriebliche Aufwendungen"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "08. sonstige betriebliche Aufwendungen > e) Kalkulatorische Kosten"
+        },
+        {
+            "lvl0": "08. sonstige betriebliche Aufwendungen"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "69ea025cd488b1084c9fed0d584800e2"
+}

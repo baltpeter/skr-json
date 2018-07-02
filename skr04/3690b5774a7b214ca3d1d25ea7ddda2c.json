@@ -1,0 +1,30 @@
+{
+    "objectID": "3690b5774a7b214ca3d1d25ea7ddda2c",
+    "name": "Reisekosten Arbeitnehmer Verpflegungsmehraufwand",
+    "type": "Aufwand",
+    "code": "6664",
+    "description": "",
+    "categories": [
+        "Reisekosten Arbeitnehmer",
+        "6) Werbe- und Reisekosten",
+        "a) ordentliche betriebliche Aufwendungen",
+        "08. sonstige betriebliche Aufwendungen"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen > 6) Werbe- und Reisekosten > Reisekosten Arbeitnehmer"
+        },
+        {
+            "lvl2": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen > 6) Werbe- und Reisekosten"
+        },
+        {
+            "lvl1": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen"
+        },
+        {
+            "lvl0": "08. sonstige betriebliche Aufwendungen"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "03ce1f9501fb243d08288bb02a9f431e"
+}

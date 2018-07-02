@@ -1,0 +1,37 @@
+{
+    "objectID": "3fedc20a4f35ffce66097c7dc6011bf4",
+    "name": "5874 Sonstige Kosten Jugendhilfe",
+    "type": "Aufwand",
+    "code": "5874",
+    "description": "Sonstige Kosten Jugendhilfe",
+    "categories": [
+        "5870 Sonstige Kosten",
+        "5860-5889 Sonstige betriebliche Aufwendungen",
+        "5800-5899 AUSGABEN / AUFWENDUNGEN",
+        "5700-5999 ZWECKBETRIEBE SPORT 2",
+        "5000-5889 ZWECKBETRIEBE SPORT",
+        "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl5": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5000-5889 ZWECKBETRIEBE SPORT > 5700-5999 ZWECKBETRIEBE SPORT 2 > 5800-5899 AUSGABEN / AUFWENDUNGEN > 5860-5889 Sonstige betriebliche Aufwendungen > 5870 Sonstige Kosten"
+        },
+        {
+            "lvl4": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5000-5889 ZWECKBETRIEBE SPORT > 5700-5999 ZWECKBETRIEBE SPORT 2 > 5800-5899 AUSGABEN / AUFWENDUNGEN > 5860-5889 Sonstige betriebliche Aufwendungen"
+        },
+        {
+            "lvl3": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5000-5889 ZWECKBETRIEBE SPORT > 5700-5999 ZWECKBETRIEBE SPORT 2 > 5800-5899 AUSGABEN / AUFWENDUNGEN"
+        },
+        {
+            "lvl2": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5000-5889 ZWECKBETRIEBE SPORT > 5700-5999 ZWECKBETRIEBE SPORT 2"
+        },
+        {
+            "lvl1": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5000-5889 ZWECKBETRIEBE SPORT"
+        },
+        {
+            "lvl0": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport"
+        }
+    ],
+    "leaf": true,
+    "parent": "6539ace9e8007ac839c7d62b3670ce10"
+}

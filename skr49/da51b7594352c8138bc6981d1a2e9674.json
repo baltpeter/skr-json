@@ -1,0 +1,34 @@
+{
+    "objectID": "da51b7594352c8138bc6981d1a2e9674",
+    "name": "4974 Kilometergelderstattung Arbeitnehmer",
+    "type": "Aufwand",
+    "code": "4974",
+    "description": "Kilometergelderstattung Arbeitnehmer",
+    "categories": [
+        "4973 Reisekosten Arbeitnehmer Fahrtkosten",
+        "4970 Reisekosten Arbeitnehmer",
+        "4510 Ausgaben Bereich 4000",
+        "4500-4999 AUSGABEN / WERBUNGSKOSTEN",
+        "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl4": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4500-4999 AUSGABEN / WERBUNGSKOSTEN > 4510 Ausgaben Bereich 4000 > 4970 Reisekosten Arbeitnehmer > 4973 Reisekosten Arbeitnehmer Fahrtkosten"
+        },
+        {
+            "lvl3": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4500-4999 AUSGABEN / WERBUNGSKOSTEN > 4510 Ausgaben Bereich 4000 > 4970 Reisekosten Arbeitnehmer"
+        },
+        {
+            "lvl2": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4500-4999 AUSGABEN / WERBUNGSKOSTEN > 4510 Ausgaben Bereich 4000"
+        },
+        {
+            "lvl1": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4500-4999 AUSGABEN / WERBUNGSKOSTEN"
+        },
+        {
+            "lvl0": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung"
+        }
+    ],
+    "leaf": true,
+    "notes": "Konto f\u00fcr das Buchungsjahr 2017 neu eingef\u00fchrt.",
+    "parent": "1558d1bd1b940604392ab081ab0874b0"
+}

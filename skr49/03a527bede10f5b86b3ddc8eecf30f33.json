@@ -1,0 +1,29 @@
+{
+    "objectID": "03a527bede10f5b86b3ddc8eecf30f33",
+    "name": "1601 Verbindlichkeiten <1 Jahr gegen\u00fcber Gesellschaftern",
+    "type": "Verbindlichkeit",
+    "code": "1601",
+    "description": "Verbindlichkeiten gegen\u00fcber Gesellschaftern \u2013 Restlaufzeit bis 1 Jahr",
+    "categories": [
+        "1600 Verbindlichkeiten gegen\u00fcber Gesellschaftern",
+        "1600-1989 Sonstige Verbindlichkeiten oder sonstige Verm\u00f6gensgegenst\u00e4nde",
+        "1300-1989 VERBINDLICHKEITEN",
+        "1 passive Verm\u00f6gensposten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "1 passive Verm\u00f6gensposten > 1300-1989 VERBINDLICHKEITEN > 1600-1989 Sonstige Verbindlichkeiten oder sonstige Verm\u00f6gensgegenst\u00e4nde > 1600 Verbindlichkeiten gegen\u00fcber Gesellschaftern"
+        },
+        {
+            "lvl2": "1 passive Verm\u00f6gensposten > 1300-1989 VERBINDLICHKEITEN > 1600-1989 Sonstige Verbindlichkeiten oder sonstige Verm\u00f6gensgegenst\u00e4nde"
+        },
+        {
+            "lvl1": "1 passive Verm\u00f6gensposten > 1300-1989 VERBINDLICHKEITEN"
+        },
+        {
+            "lvl0": "1 passive Verm\u00f6gensposten"
+        }
+    ],
+    "leaf": true,
+    "parent": "7b77f8c679dbf233500e31d3c50345c1"
+}

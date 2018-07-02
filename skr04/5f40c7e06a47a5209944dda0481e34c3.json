@@ -1,0 +1,34 @@
+{
+    "objectID": "5f40c7e06a47a5209944dda0481e34c3",
+    "name": "Konzessionen",
+    "type": "Aktiva",
+    "code": "0110",
+    "description": "",
+    "categories": [
+        "Konzessionen und gewerbl.Schutzrechte",
+        "01. Konzessionen, gewerbliche Schutzrechte und \u00e4hnliche Rechte und Werte sowie Lizenzen an solchen Rechten und Werten",
+        "III. Immaterielle Verm\u00f6gensgegenst\u00e4nde",
+        "A. Anlageverm\u00f6gen",
+        "Aktiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl4": "Aktiva > A. Anlageverm\u00f6gen > III. Immaterielle Verm\u00f6gensgegenst\u00e4nde > 01. Konzessionen, gewerbliche Schutzrechte und \u00e4hnliche Rechte und Werte sowie Lizenzen an solchen Rechten und Werten > Konzessionen und gewerbl.Schutzrechte"
+        },
+        {
+            "lvl3": "Aktiva > A. Anlageverm\u00f6gen > III. Immaterielle Verm\u00f6gensgegenst\u00e4nde > 01. Konzessionen, gewerbliche Schutzrechte und \u00e4hnliche Rechte und Werte sowie Lizenzen an solchen Rechten und Werten"
+        },
+        {
+            "lvl2": "Aktiva > A. Anlageverm\u00f6gen > III. Immaterielle Verm\u00f6gensgegenst\u00e4nde"
+        },
+        {
+            "lvl1": "Aktiva > A. Anlageverm\u00f6gen"
+        },
+        {
+            "lvl0": "Aktiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "05140533502d0be13e2a07b5b78f826d"
+}

@@ -1,0 +1,30 @@
+{
+    "objectID": "fee36472b54a600058b36d82223e7bfa",
+    "name": "TZ-Verbindlichkeit. Kreditinstitut(b.1J)",
+    "type": "Verbindlichkeit",
+    "code": "3181",
+    "description": "",
+    "categories": [
+        "TZ-Verbindlichkeit. gg. Kreditinstituten",
+        "02. Verbindlichkeiten gegen\u00fcber Kreditinstituten",
+        "C. Verbindlichkeiten",
+        "Passiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "Passiva > C. Verbindlichkeiten > 02. Verbindlichkeiten gegen\u00fcber Kreditinstituten > TZ-Verbindlichkeit. gg. Kreditinstituten"
+        },
+        {
+            "lvl2": "Passiva > C. Verbindlichkeiten > 02. Verbindlichkeiten gegen\u00fcber Kreditinstituten"
+        },
+        {
+            "lvl1": "Passiva > C. Verbindlichkeiten"
+        },
+        {
+            "lvl0": "Passiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "347c9d781d57484ed9db61bd43358a91"
+}

@@ -1,0 +1,30 @@
+{
+    "objectID": "bdb9d5c4b48848675cbfcafa7d02da2b",
+    "name": "Verbindl. Betriebsst. und -abgaben (g. 5 J)",
+    "type": "Verbindlichkeit",
+    "code": "3715",
+    "description": "",
+    "categories": [
+        "Verbindlichkeiten aus Betriebssteuern und -abgaben",
+        "08. sonstige Verbindlichkeiten",
+        "C. Verbindlichkeiten",
+        "Passiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "Passiva > C. Verbindlichkeiten > 08. sonstige Verbindlichkeiten > Verbindlichkeiten aus Betriebssteuern und -abgaben"
+        },
+        {
+            "lvl2": "Passiva > C. Verbindlichkeiten > 08. sonstige Verbindlichkeiten"
+        },
+        {
+            "lvl1": "Passiva > C. Verbindlichkeiten"
+        },
+        {
+            "lvl0": "Passiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "6bd083365b1e5c1cd1bd43b8f955cdf0"
+}

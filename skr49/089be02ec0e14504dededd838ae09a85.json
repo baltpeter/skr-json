@@ -1,0 +1,25 @@
+{
+    "objectID": "089be02ec0e14504dededd838ae09a85",
+    "name": "9652 Umsatzsteuer Klasse 8",
+    "type": "Aktiva",
+    "code": "9652",
+    "description": "Umsatzsteuer Klasse 8",
+    "categories": [
+        "9600-9849 Statistische Werte f\u00fcr BWA",
+        "9600-9998 WEITERE STATISTIK- UND VORTRAGSKONTEN",
+        "9 Statistik- & Vortragskonten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "9 Statistik- & Vortragskonten > 9600-9998 WEITERE STATISTIK- UND VORTRAGSKONTEN > 9600-9849 Statistische Werte f\u00fcr BWA"
+        },
+        {
+            "lvl1": "9 Statistik- & Vortragskonten > 9600-9998 WEITERE STATISTIK- UND VORTRAGSKONTEN"
+        },
+        {
+            "lvl0": "9 Statistik- & Vortragskonten"
+        }
+    ],
+    "leaf": true,
+    "parent": "ce6ef6340d8c65efd124f5950fcbb6a8"
+}

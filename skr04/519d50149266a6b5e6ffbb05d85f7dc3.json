@@ -1,0 +1,26 @@
+{
+    "objectID": "519d50149266a6b5e6ffbb05d85f7dc3",
+    "name": "Wechselverbindlichkeiten",
+    "type": "Verbindlichkeit",
+    "code": "3350",
+    "description": "",
+    "categories": [
+        "05. Verbindlichkeiten aus der Annahme gezogener Wechsel und der Ausstellung eigener Wechsel",
+        "C. Verbindlichkeiten",
+        "Passiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "Passiva > C. Verbindlichkeiten > 05. Verbindlichkeiten aus der Annahme gezogener Wechsel und der Ausstellung eigener Wechsel"
+        },
+        {
+            "lvl1": "Passiva > C. Verbindlichkeiten"
+        },
+        {
+            "lvl0": "Passiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": true,
+    "parent": "77a50a6f4eebd8d7fe6dfe49064be612"
+}

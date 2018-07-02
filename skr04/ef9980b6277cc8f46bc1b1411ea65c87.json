@@ -1,0 +1,13 @@
+{
+    "objectID": "ef9980b6277cc8f46bc1b1411ea65c87",
+    "name": "01. Betriebliche Ertr\u00e4ge",
+    "type": "Ertrag",
+    "code": -1,
+    "description": "",
+    "categories": [],
+    "hierarchicalCategories": [],
+    "leaf": false,
+    "placeholder": false,
+    "tax-related": false,
+    "parent": "1972cce2e2364f95b2b0bc014502661d"
+}

@@ -1,0 +1,26 @@
+{
+    "objectID": "919e23f97a18a15ffafc63f6e7350222",
+    "name": "Fremdleistungen und Fremdarbeiten",
+    "type": "Aufwand",
+    "code": "6303",
+    "description": "",
+    "categories": [
+        "sonstige betriebliche Aufwendungen",
+        "a) ordentliche betriebliche Aufwendungen",
+        "08. sonstige betriebliche Aufwendungen"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen > sonstige betriebliche Aufwendungen"
+        },
+        {
+            "lvl1": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen"
+        },
+        {
+            "lvl0": "08. sonstige betriebliche Aufwendungen"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "a68fab40b7f841b6f098a05d45916099"
+}

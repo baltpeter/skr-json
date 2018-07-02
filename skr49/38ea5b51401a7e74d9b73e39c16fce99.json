@@ -1,0 +1,23 @@
+{
+    "objectID": "38ea5b51401a7e74d9b73e39c16fce99",
+    "name": "9516 Wareneinkauf zum erm\u00e4\u00dfigten Umsatzsteuersatz",
+    "type": "Aktiva",
+    "code": "9516",
+    "description": "Wareneinkauf zum erm\u00e4\u00dfigten Umsatzsteuersatz",
+    "categories": [
+        "9500-9599 STATISTISCHE WERTE F\u00dcR ANLAGE E\u00dcR",
+        "9 Statistik- & Vortragskonten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "9 Statistik- & Vortragskonten > 9500-9599 STATISTISCHE WERTE F\u00dcR ANLAGE E\u00dcR"
+        },
+        {
+            "lvl0": "9 Statistik- & Vortragskonten"
+        }
+    ],
+    "leaf": true,
+    "notes": "Veraltet, in der Version 2017 nicht mehr enthalten!",
+    "placeholder": true,
+    "parent": "baac2841267ad2422440263668815280"
+}

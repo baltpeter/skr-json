@@ -1,0 +1,29 @@
+{
+    "objectID": "3ea3c19f946d2eb217f14eecb4efc4a6",
+    "name": "0260 Anh\u00e4nger",
+    "type": "Aktiva",
+    "code": "0260",
+    "description": "Anh\u00e4nger",
+    "categories": [
+        "0250 Kraftfahrzeuge, Transportmittel",
+        "0250-0299 Fahrzeuge, Transportmittel",
+        "0250-0599 ANDERE ANLAGEN, BETRIEBS- UND GESCH\u00c4FTSAUSSTATTUNG",
+        "0 aktive Verm\u00f6gensposten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "0 aktive Verm\u00f6gensposten > 0250-0599 ANDERE ANLAGEN, BETRIEBS- UND GESCH\u00c4FTSAUSSTATTUNG > 0250-0299 Fahrzeuge, Transportmittel > 0250 Kraftfahrzeuge, Transportmittel"
+        },
+        {
+            "lvl2": "0 aktive Verm\u00f6gensposten > 0250-0599 ANDERE ANLAGEN, BETRIEBS- UND GESCH\u00c4FTSAUSSTATTUNG > 0250-0299 Fahrzeuge, Transportmittel"
+        },
+        {
+            "lvl1": "0 aktive Verm\u00f6gensposten > 0250-0599 ANDERE ANLAGEN, BETRIEBS- UND GESCH\u00c4FTSAUSSTATTUNG"
+        },
+        {
+            "lvl0": "0 aktive Verm\u00f6gensposten"
+        }
+    ],
+    "leaf": true,
+    "parent": "65a94f30181a2f57e72ed66f413678e3"
+}

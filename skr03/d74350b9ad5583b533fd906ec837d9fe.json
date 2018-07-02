@@ -1,0 +1,21 @@
+{
+    "objectID": "d74350b9ad5583b533fd906ec837d9fe",
+    "name": "4190 Aushilfsl\u00f6hne",
+    "type": "Aufwand",
+    "code": "4190",
+    "description": "",
+    "categories": [
+        "Personalkosten",
+        "Aufwendungen 2/4"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "Aufwendungen 2/4 > Personalkosten"
+        },
+        {
+            "lvl0": "Aufwendungen 2/4"
+        }
+    ],
+    "leaf": true,
+    "parent": "43953979cf408743814cb6887d5ec022"
+}

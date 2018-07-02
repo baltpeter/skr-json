@@ -1,0 +1,26 @@
+{
+    "objectID": "563d13e91ec6cd4b98f370d8b3e7ed41",
+    "name": "4965-4967 Raumkosten",
+    "type": "Aufwand",
+    "code": "4965-4967",
+    "description": "Raumkosten",
+    "categories": [
+        "4510 Ausgaben Bereich 4000",
+        "4500-4999 AUSGABEN / WERBUNGSKOSTEN",
+        "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4500-4999 AUSGABEN / WERBUNGSKOSTEN > 4510 Ausgaben Bereich 4000"
+        },
+        {
+            "lvl1": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4500-4999 AUSGABEN / WERBUNGSKOSTEN"
+        },
+        {
+            "lvl0": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung"
+        }
+    ],
+    "leaf": false,
+    "placeholder": true,
+    "parent": "01f25b36390c5ee24774bf6498916a9a"
+}

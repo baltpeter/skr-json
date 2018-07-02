@@ -1,0 +1,41 @@
+{
+    "objectID": "ccce27f7b7d75028e54b0070905eb20a",
+    "name": "6205 Personalkosten \u00dcbungsleiter",
+    "type": "Aufwand",
+    "code": "6205",
+    "description": "Personalkosten \u00dcbungsleiter",
+    "categories": [
+        "6200 L\u00f6hne und Geh\u00e4lter",
+        "6200-6219+6255+6260 L\u00f6hne und Geh\u00e4lter",
+        "6200-6279 Personalaufwand",
+        "6170-6499 AUSGABEN / AUFWENDUNGEN",
+        "6000-6499 SONSTIGE ZWECKBETRIEBE 1",
+        "6000-6989 SONSTIGE ZWECKBETRIEBE",
+        "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl6": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE > 6000-6499 SONSTIGE ZWECKBETRIEBE 1 > 6170-6499 AUSGABEN / AUFWENDUNGEN > 6200-6279 Personalaufwand > 6200-6219+6255+6260 L\u00f6hne und Geh\u00e4lter > 6200 L\u00f6hne und Geh\u00e4lter"
+        },
+        {
+            "lvl5": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE > 6000-6499 SONSTIGE ZWECKBETRIEBE 1 > 6170-6499 AUSGABEN / AUFWENDUNGEN > 6200-6279 Personalaufwand > 6200-6219+6255+6260 L\u00f6hne und Geh\u00e4lter"
+        },
+        {
+            "lvl4": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE > 6000-6499 SONSTIGE ZWECKBETRIEBE 1 > 6170-6499 AUSGABEN / AUFWENDUNGEN > 6200-6279 Personalaufwand"
+        },
+        {
+            "lvl3": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE > 6000-6499 SONSTIGE ZWECKBETRIEBE 1 > 6170-6499 AUSGABEN / AUFWENDUNGEN"
+        },
+        {
+            "lvl2": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE > 6000-6499 SONSTIGE ZWECKBETRIEBE 1"
+        },
+        {
+            "lvl1": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE"
+        },
+        {
+            "lvl0": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe"
+        }
+    ],
+    "leaf": true,
+    "parent": "ef7c7bc7b8c11fb604576ab599b974ee"
+}

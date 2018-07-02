@@ -1,0 +1,22 @@
+{
+    "objectID": "a78e3a1e5fc8c97f8e98c23da04a5e1d",
+    "name": "8980-8989 Ertr\u00e4ge / Einnahmen",
+    "type": "Ertrag",
+    "code": "8980-8989",
+    "description": "Ertr\u00e4ge / Einnahmen",
+    "categories": [
+        "8980-8999 ERTRAGSSTEUERPFLICHTIG GEWORDENE ZWECKBETRIEBE",
+        "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe > 8980-8999 ERTRAGSSTEUERPFLICHTIG GEWORDENE ZWECKBETRIEBE"
+        },
+        {
+            "lvl0": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe"
+        }
+    ],
+    "leaf": false,
+    "placeholder": true,
+    "parent": "781fe2f0b28bdd98d8e87d7c4e03d5ff"
+}

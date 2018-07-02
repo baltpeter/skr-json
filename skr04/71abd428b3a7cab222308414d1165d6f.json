@@ -1,0 +1,22 @@
+{
+    "objectID": "71abd428b3a7cab222308414d1165d6f",
+    "name": "Kalkulatorische Abschreibungen",
+    "type": "Aufwand",
+    "code": "6976",
+    "description": "",
+    "categories": [
+        "e) Kalkulatorische Kosten",
+        "08. sonstige betriebliche Aufwendungen"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "08. sonstige betriebliche Aufwendungen > e) Kalkulatorische Kosten"
+        },
+        {
+            "lvl0": "08. sonstige betriebliche Aufwendungen"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "69ea025cd488b1084c9fed0d584800e2"
+}

@@ -1,0 +1,23 @@
+{
+    "objectID": "51cd5ec969172e0d6310e5bae680e2d7",
+    "name": "7800-7999 NEBENT\u00c4TIGKEITEN SPORT",
+    "type": "Ertrag",
+    "code": "7800-7999",
+    "description": "GESCH\u00c4FTSBETRIEBE NEBENT\u00c4TIGKEITEN SPORT",
+    "categories": [
+        "7000-7999 GESCH\u00c4FTSBETRIEBE SPORT",
+        "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport > 7000-7999 GESCH\u00c4FTSBETRIEBE SPORT"
+        },
+        {
+            "lvl0": "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport"
+        }
+    ],
+    "leaf": false,
+    "notes": "Teilbereich 7800\nGesch\u00e4ftsbetriebe Nebent\u00e4tigkeiten Sport\nertragsteuerpflichtig",
+    "placeholder": true,
+    "parent": "096947432b3d182afe0af4367014080b"
+}

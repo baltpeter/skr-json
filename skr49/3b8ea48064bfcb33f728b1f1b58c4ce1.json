@@ -1,0 +1,29 @@
+{
+    "objectID": "3b8ea48064bfcb33f728b1f1b58c4ce1",
+    "name": "3863 Nicht abzugsf\u00e4hige Bewirtungskosten",
+    "type": "Aufwand",
+    "code": "3863",
+    "description": "Nicht abzugsf\u00e4hige Bewirtungskosten",
+    "categories": [
+        "3850 Nicht abziehb. Ausg. zu Bereich 8000",
+        "3800-3899 Sonstige wirtschaftliche Gesch\u00e4ftsbetriebe",
+        "3200-3899  ERTRAGSNEUTRALE POSTEN",
+        "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN > 3800-3899 Sonstige wirtschaftliche Gesch\u00e4ftsbetriebe > 3850 Nicht abziehb. Ausg. zu Bereich 8000"
+        },
+        {
+            "lvl2": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN > 3800-3899 Sonstige wirtschaftliche Gesch\u00e4ftsbetriebe"
+        },
+        {
+            "lvl1": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN"
+        },
+        {
+            "lvl0": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
+        }
+    ],
+    "leaf": true,
+    "parent": "eec0aff4d3550b569235bba703f86358"
+}

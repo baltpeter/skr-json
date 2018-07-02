@@ -1,0 +1,18 @@
+{
+    "objectID": "eaeae472049fad366c28d8f3597486de",
+    "name": "Ertr\u00e4ge aus der Aufl\u00f6sung von Sonderposten mit R\u00fccklageanteil (aus der W\u00e4hrungsumstellung auf den Euro)",
+    "type": "Ertrag",
+    "code": "4938",
+    "description": "",
+    "categories": [
+        "04. Sonstige betriebliche Ertr\u00e4ge"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl0": "04. Sonstige betriebliche Ertr\u00e4ge"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "4c0c1557fe54e71d7ed717587a0c0b4d"
+}

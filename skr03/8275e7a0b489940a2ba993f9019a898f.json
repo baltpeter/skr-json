@@ -1,0 +1,22 @@
+{
+    "objectID": "8275e7a0b489940a2ba993f9019a898f",
+    "name": "0027 EDV-Software",
+    "type": "Aktiva",
+    "code": "0027",
+    "description": "",
+    "categories": [
+        "Anlage- u. Kapitalkonten 0",
+        "Aktiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "Aktiva > Anlage- u. Kapitalkonten 0"
+        },
+        {
+            "lvl0": "Aktiva"
+        }
+    ],
+    "leaf": true,
+    "tax-related": false,
+    "parent": "27356188a1963c1dbf943022441d095f"
+}

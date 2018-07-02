@@ -1,0 +1,26 @@
+{
+    "objectID": "a7e6f09fcbf7fab4f58b31620ea09a18",
+    "name": "Verbindlichkeiten aus Lieferungen und Leistungen (Kreditoren)",
+    "type": "Verbindlichkeit",
+    "code": "3300",
+    "description": "Sammelkonto Kreditoren",
+    "categories": [
+        "04. Verbindlichkeiten aus Lieferungen und Leistungen",
+        "C. Verbindlichkeiten",
+        "Passiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "Passiva > C. Verbindlichkeiten > 04. Verbindlichkeiten aus Lieferungen und Leistungen"
+        },
+        {
+            "lvl1": "Passiva > C. Verbindlichkeiten"
+        },
+        {
+            "lvl0": "Passiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": true,
+    "parent": "e98ae511eab7e00712870af910a33ce0"
+}

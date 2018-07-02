@@ -1,0 +1,22 @@
+{
+    "objectID": "f40038a15e50f1e799367827fee722f2",
+    "name": "Zinsen und \u00e4hnliche Aufwendungen an verbundene Unternehmen 100 %/50 % nicht abzugsf\u00e4hig",
+    "type": "Aufwand",
+    "code": "7351",
+    "description": "inl\u00e4ndische Kap.Ges.",
+    "categories": [
+        "- davon an verbundene Unternehmen",
+        "13. Zinsen und \u00e4hnliche Aufwendungen"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "13. Zinsen und \u00e4hnliche Aufwendungen > - davon an verbundene Unternehmen"
+        },
+        {
+            "lvl0": "13. Zinsen und \u00e4hnliche Aufwendungen"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "1d2e4fdc63afeae1c59bf9b936518804"
+}

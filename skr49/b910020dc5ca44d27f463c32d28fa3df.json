@@ -1,0 +1,33 @@
+{
+    "objectID": "b910020dc5ca44d27f463c32d28fa3df",
+    "name": "7833 Stundenweise Vermietung von Tennispl\u00e4tzen",
+    "type": "Ertrag",
+    "code": "7833",
+    "description": "Stundenweise Vermietung von Tennispl\u00e4tzen 19% USt",
+    "categories": [
+        "7830 Kurzfristige Vermietung von Sportst\u00e4tten an Nichtmitglieder",
+        "7800-7849 EINNAHMEN / ERTR\u00c4GE",
+        "7800-7999 NEBENT\u00c4TIGKEITEN SPORT",
+        "7000-7999 GESCH\u00c4FTSBETRIEBE SPORT",
+        "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl4": "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport > 7000-7999 GESCH\u00c4FTSBETRIEBE SPORT > 7800-7999 NEBENT\u00c4TIGKEITEN SPORT > 7800-7849 EINNAHMEN / ERTR\u00c4GE > 7830 Kurzfristige Vermietung von Sportst\u00e4tten an Nichtmitglieder"
+        },
+        {
+            "lvl3": "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport > 7000-7999 GESCH\u00c4FTSBETRIEBE SPORT > 7800-7999 NEBENT\u00c4TIGKEITEN SPORT > 7800-7849 EINNAHMEN / ERTR\u00c4GE"
+        },
+        {
+            "lvl2": "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport > 7000-7999 GESCH\u00c4FTSBETRIEBE SPORT > 7800-7999 NEBENT\u00c4TIGKEITEN SPORT"
+        },
+        {
+            "lvl1": "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport > 7000-7999 GESCH\u00c4FTSBETRIEBE SPORT"
+        },
+        {
+            "lvl0": "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport"
+        }
+    ],
+    "leaf": true,
+    "parent": "a7916577770744ecd59b39afb44596fd"
+}

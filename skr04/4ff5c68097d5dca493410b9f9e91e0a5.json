@@ -1,0 +1,18 @@
+{
+    "objectID": "4ff5c68097d5dca493410b9f9e91e0a5",
+    "name": "Anlagenabg\u00e4nge Finanzanlagen 100 %/50 % steuerfrei",
+    "type": "Ertrag",
+    "code": "4858",
+    "description": "(Restbuchwert bei Buchgewinn)",
+    "categories": [
+        "04. Sonstige betriebliche Ertr\u00e4ge"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl0": "04. Sonstige betriebliche Ertr\u00e4ge"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "4c0c1557fe54e71d7ed717587a0c0b4d"
+}

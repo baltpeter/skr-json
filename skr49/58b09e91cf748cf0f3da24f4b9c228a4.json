@@ -1,0 +1,41 @@
+{
+    "objectID": "58b09e91cf748cf0f3da24f4b9c228a4",
+    "name": "8334 Bewirtungskosten",
+    "type": "Aufwand",
+    "code": "8334",
+    "description": "Bewirtungskosten",
+    "categories": [
+        "8330 Werbe- und Reisekosten",
+        "8300-8314+8318-8339 Sonstige betriebliche Aufwendungen",
+        "8300-8499 Sonstige betriebliche Ertr\u00e4ge und Aufwendungen",
+        "8150-8499 AUSGABEN / AUFWENDUNGEN",
+        "8000-8499 SONSTIGE GESCH\u00c4FTSBETRIEBE 1",
+        "8000-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE",
+        "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl6": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe > 8000-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE > 8000-8499 SONSTIGE GESCH\u00c4FTSBETRIEBE 1 > 8150-8499 AUSGABEN / AUFWENDUNGEN > 8300-8499 Sonstige betriebliche Ertr\u00e4ge und Aufwendungen > 8300-8314+8318-8339 Sonstige betriebliche Aufwendungen > 8330 Werbe- und Reisekosten"
+        },
+        {
+            "lvl5": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe > 8000-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE > 8000-8499 SONSTIGE GESCH\u00c4FTSBETRIEBE 1 > 8150-8499 AUSGABEN / AUFWENDUNGEN > 8300-8499 Sonstige betriebliche Ertr\u00e4ge und Aufwendungen > 8300-8314+8318-8339 Sonstige betriebliche Aufwendungen"
+        },
+        {
+            "lvl4": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe > 8000-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE > 8000-8499 SONSTIGE GESCH\u00c4FTSBETRIEBE 1 > 8150-8499 AUSGABEN / AUFWENDUNGEN > 8300-8499 Sonstige betriebliche Ertr\u00e4ge und Aufwendungen"
+        },
+        {
+            "lvl3": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe > 8000-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE > 8000-8499 SONSTIGE GESCH\u00c4FTSBETRIEBE 1 > 8150-8499 AUSGABEN / AUFWENDUNGEN"
+        },
+        {
+            "lvl2": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe > 8000-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE > 8000-8499 SONSTIGE GESCH\u00c4FTSBETRIEBE 1"
+        },
+        {
+            "lvl1": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe > 8000-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE"
+        },
+        {
+            "lvl0": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe"
+        }
+    ],
+    "leaf": true,
+    "parent": "fd037298dda44bdd3b599d7b2cbd286c"
+}

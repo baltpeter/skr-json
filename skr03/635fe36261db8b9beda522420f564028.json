@@ -1,0 +1,21 @@
+{
+    "objectID": "635fe36261db8b9beda522420f564028",
+    "name": "1790 Umsatzsteuer Vorjahr",
+    "type": "Fremdkapital",
+    "code": "1790",
+    "description": "",
+    "categories": [
+        "Umsatzsteuer",
+        "Passiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "Passiva > Umsatzsteuer"
+        },
+        {
+            "lvl0": "Passiva"
+        }
+    ],
+    "leaf": true,
+    "parent": "dea7f32e6a447d2d1cd7048932c98265"
+}

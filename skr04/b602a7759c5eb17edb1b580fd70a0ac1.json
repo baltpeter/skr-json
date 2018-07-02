@@ -1,0 +1,34 @@
+{
+    "objectID": "b602a7759c5eb17edb1b580fd70a0ac1",
+    "name": "Grundst\u00fccksgleiche Rechte",
+    "type": "Aktiva",
+    "code": "0220",
+    "description": "(Erbbaurecht, Dauerwohnrecht)",
+    "categories": [
+        "Grundst\u00fccke und grundst\u00fccksgleiche Rechte ohne Bauten",
+        "01. Grundst\u00fccke, grundst\u00fccksgleiche Rechte und Bauten einschlie\u00dflich der Bauten auf fremden Grundst\u00fccken",
+        "IV. Sachanlagen",
+        "A. Anlageverm\u00f6gen",
+        "Aktiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl4": "Aktiva > A. Anlageverm\u00f6gen > IV. Sachanlagen > 01. Grundst\u00fccke, grundst\u00fccksgleiche Rechte und Bauten einschlie\u00dflich der Bauten auf fremden Grundst\u00fccken > Grundst\u00fccke und grundst\u00fccksgleiche Rechte ohne Bauten"
+        },
+        {
+            "lvl3": "Aktiva > A. Anlageverm\u00f6gen > IV. Sachanlagen > 01. Grundst\u00fccke, grundst\u00fccksgleiche Rechte und Bauten einschlie\u00dflich der Bauten auf fremden Grundst\u00fccken"
+        },
+        {
+            "lvl2": "Aktiva > A. Anlageverm\u00f6gen > IV. Sachanlagen"
+        },
+        {
+            "lvl1": "Aktiva > A. Anlageverm\u00f6gen"
+        },
+        {
+            "lvl0": "Aktiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "ac73b8fb60a236482d3932e1bc6f3509"
+}

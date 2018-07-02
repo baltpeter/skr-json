@@ -1,0 +1,30 @@
+{
+    "objectID": "44a957e1f40949df9f6c2c3fdf7be2c2",
+    "name": "Darlehen typ. stiller Gesellsch. (g. 5 J)",
+    "type": "Verbindlichkeit",
+    "code": "3527",
+    "description": "",
+    "categories": [
+        "Darlehen typisch stiller Gesellschafter",
+        "08. sonstige Verbindlichkeiten",
+        "C. Verbindlichkeiten",
+        "Passiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "Passiva > C. Verbindlichkeiten > 08. sonstige Verbindlichkeiten > Darlehen typisch stiller Gesellschafter"
+        },
+        {
+            "lvl2": "Passiva > C. Verbindlichkeiten > 08. sonstige Verbindlichkeiten"
+        },
+        {
+            "lvl1": "Passiva > C. Verbindlichkeiten"
+        },
+        {
+            "lvl0": "Passiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "421272e226ee21875f24c597c6857abf"
+}

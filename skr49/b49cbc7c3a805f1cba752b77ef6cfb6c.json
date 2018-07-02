@@ -1,0 +1,37 @@
+{
+    "objectID": "b49cbc7c3a805f1cba752b77ef6cfb6c",
+    "name": "8012 Einnahmen aus Werbung Reklamefl\u00e4chen",
+    "type": "Ertrag",
+    "code": "8012",
+    "description": "Einnahmen aus Werbung Reklamefl\u00e4chen",
+    "categories": [
+        "8012-8016 Werbung",
+        "8000 Einnahmen aus Umsatzerl\u00f6sen",
+        "8000-8149 EINNAHMEN / ERTR\u00c4GE",
+        "8000-8499 SONSTIGE GESCH\u00c4FTSBETRIEBE 1",
+        "8000-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE",
+        "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl5": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe > 8000-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE > 8000-8499 SONSTIGE GESCH\u00c4FTSBETRIEBE 1 > 8000-8149 EINNAHMEN / ERTR\u00c4GE > 8000 Einnahmen aus Umsatzerl\u00f6sen > 8012-8016 Werbung"
+        },
+        {
+            "lvl4": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe > 8000-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE > 8000-8499 SONSTIGE GESCH\u00c4FTSBETRIEBE 1 > 8000-8149 EINNAHMEN / ERTR\u00c4GE > 8000 Einnahmen aus Umsatzerl\u00f6sen"
+        },
+        {
+            "lvl3": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe > 8000-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE > 8000-8499 SONSTIGE GESCH\u00c4FTSBETRIEBE 1 > 8000-8149 EINNAHMEN / ERTR\u00c4GE"
+        },
+        {
+            "lvl2": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe > 8000-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE > 8000-8499 SONSTIGE GESCH\u00c4FTSBETRIEBE 1"
+        },
+        {
+            "lvl1": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe > 8000-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE"
+        },
+        {
+            "lvl0": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe"
+        }
+    ],
+    "leaf": true,
+    "parent": "2c1a02678826c22e58cf637680cbc1e4"
+}

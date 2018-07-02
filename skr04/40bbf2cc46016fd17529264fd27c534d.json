@@ -1,0 +1,18 @@
+{
+    "objectID": "40bbf2cc46016fd17529264fd27c534d",
+    "name": "Zinsaufwendungen f\u00fcr langfristige Verbindlichkeiten",
+    "type": "Aufwand",
+    "code": "7320",
+    "description": "(l\u00e4nger als 1 Jahr)",
+    "categories": [
+        "13. Zinsen und \u00e4hnliche Aufwendungen"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl0": "13. Zinsen und \u00e4hnliche Aufwendungen"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "1848323dfe915f8ed2a24bc00fef1e16"
+}

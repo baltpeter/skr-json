@@ -1,0 +1,23 @@
+{
+    "objectID": "8066b5381c1d130f28fbdce6288725f8",
+    "name": "9541 Vorsteuer in den Verbindlichkeiten zum erm\u00e4\u00dfigten Umsatzsteuersatz",
+    "type": "Verbindlichkeit",
+    "code": "9541",
+    "description": "Vorsteuer in den Verbindlichkeiten zum erm\u00e4\u00dfigten Umsatzsteuersatz",
+    "categories": [
+        "9500-9599 STATISTISCHE WERTE F\u00dcR ANLAGE E\u00dcR",
+        "9 Statistik- & Vortragskonten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "9 Statistik- & Vortragskonten > 9500-9599 STATISTISCHE WERTE F\u00dcR ANLAGE E\u00dcR"
+        },
+        {
+            "lvl0": "9 Statistik- & Vortragskonten"
+        }
+    ],
+    "leaf": true,
+    "notes": "Veraltet, in der Version 2017 nicht mehr enthalten!",
+    "placeholder": true,
+    "parent": "baac2841267ad2422440263668815280"
+}

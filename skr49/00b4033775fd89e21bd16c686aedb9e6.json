@@ -1,0 +1,42 @@
+{
+    "objectID": "00b4033775fd89e21bd16c686aedb9e6",
+    "name": "7506 Aufzuteilende Vorsteuer",
+    "type": "Aufwand",
+    "code": "7506",
+    "description": "Aufzuteilende Vorsteuer",
+    "categories": [
+        "7504-7509 Umsatzsteuer",
+        "7500 Verschiedene Kosten Teilbereich 7001",
+        "7300-7799 Sonstige betriebliche Aufwendungen",
+        "7200-7799 AUSGABEN / AUFWENDUNGEN",
+        "7000-7799 GESCH\u00c4FTSBETRIEBE SPORT",
+        "7000-7999 GESCH\u00c4FTSBETRIEBE SPORT",
+        "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl6": "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport > 7000-7999 GESCH\u00c4FTSBETRIEBE SPORT > 7000-7799 GESCH\u00c4FTSBETRIEBE SPORT > 7200-7799 AUSGABEN / AUFWENDUNGEN > 7300-7799 Sonstige betriebliche Aufwendungen > 7500 Verschiedene Kosten Teilbereich 7001 > 7504-7509 Umsatzsteuer"
+        },
+        {
+            "lvl5": "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport > 7000-7999 GESCH\u00c4FTSBETRIEBE SPORT > 7000-7799 GESCH\u00c4FTSBETRIEBE SPORT > 7200-7799 AUSGABEN / AUFWENDUNGEN > 7300-7799 Sonstige betriebliche Aufwendungen > 7500 Verschiedene Kosten Teilbereich 7001"
+        },
+        {
+            "lvl4": "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport > 7000-7999 GESCH\u00c4FTSBETRIEBE SPORT > 7000-7799 GESCH\u00c4FTSBETRIEBE SPORT > 7200-7799 AUSGABEN / AUFWENDUNGEN > 7300-7799 Sonstige betriebliche Aufwendungen"
+        },
+        {
+            "lvl3": "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport > 7000-7999 GESCH\u00c4FTSBETRIEBE SPORT > 7000-7799 GESCH\u00c4FTSBETRIEBE SPORT > 7200-7799 AUSGABEN / AUFWENDUNGEN"
+        },
+        {
+            "lvl2": "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport > 7000-7999 GESCH\u00c4FTSBETRIEBE SPORT > 7000-7799 GESCH\u00c4FTSBETRIEBE SPORT"
+        },
+        {
+            "lvl1": "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport > 7000-7999 GESCH\u00c4FTSBETRIEBE SPORT"
+        },
+        {
+            "lvl0": "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport"
+        }
+    ],
+    "leaf": true,
+    "notes": "Nur f\u00fcr \u00dcberschussrechner!",
+    "parent": "3e54e2e1b8edbe93e0a1406bab8c033a"
+}

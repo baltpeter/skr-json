@@ -1,0 +1,37 @@
+{
+    "objectID": "5cfba9dd3e11247d8e001b01f7955d87",
+    "name": "6377 Nicht abziehbare Vorsteuer",
+    "type": "Aufwand",
+    "code": "6377",
+    "description": "Nicht abziehbare Vorsteuer",
+    "categories": [
+        "6365-6380 Umsatzsteuer",
+        "6300 Sonstige betriebliche Aufwendungen",
+        "6170-6499 AUSGABEN / AUFWENDUNGEN",
+        "6000-6499 SONSTIGE ZWECKBETRIEBE 1",
+        "6000-6989 SONSTIGE ZWECKBETRIEBE",
+        "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl5": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE > 6000-6499 SONSTIGE ZWECKBETRIEBE 1 > 6170-6499 AUSGABEN / AUFWENDUNGEN > 6300 Sonstige betriebliche Aufwendungen > 6365-6380 Umsatzsteuer"
+        },
+        {
+            "lvl4": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE > 6000-6499 SONSTIGE ZWECKBETRIEBE 1 > 6170-6499 AUSGABEN / AUFWENDUNGEN > 6300 Sonstige betriebliche Aufwendungen"
+        },
+        {
+            "lvl3": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE > 6000-6499 SONSTIGE ZWECKBETRIEBE 1 > 6170-6499 AUSGABEN / AUFWENDUNGEN"
+        },
+        {
+            "lvl2": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE > 6000-6499 SONSTIGE ZWECKBETRIEBE 1"
+        },
+        {
+            "lvl1": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE"
+        },
+        {
+            "lvl0": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe"
+        }
+    ],
+    "leaf": true,
+    "parent": "e42a14b3a73e807f38a4918565ab6c8f"
+}

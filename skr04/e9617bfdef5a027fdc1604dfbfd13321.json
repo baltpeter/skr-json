@@ -1,0 +1,30 @@
+{
+    "objectID": "e9617bfdef5a027fdc1604dfbfd13321",
+    "name": "Gesch\u00e4fts-, Fabrik- und andere Bauten im Bau auf fremden Grundst\u00fccken",
+    "type": "Aktiva",
+    "code": "0740",
+    "description": "",
+    "categories": [
+        "04. Geleistete Anzahlungen und Anlagen im Bau",
+        "IV. Sachanlagen",
+        "A. Anlageverm\u00f6gen",
+        "Aktiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "Aktiva > A. Anlageverm\u00f6gen > IV. Sachanlagen > 04. Geleistete Anzahlungen und Anlagen im Bau"
+        },
+        {
+            "lvl2": "Aktiva > A. Anlageverm\u00f6gen > IV. Sachanlagen"
+        },
+        {
+            "lvl1": "Aktiva > A. Anlageverm\u00f6gen"
+        },
+        {
+            "lvl0": "Aktiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "494f8637752cd509f107671d632d4179"
+}

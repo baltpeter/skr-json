@@ -1,0 +1,33 @@
+{
+    "objectID": "7385b023620fa01143048886de09fa88",
+    "name": "0654 Forderungen aus L&L ohne KK > 1 Jahr",
+    "type": "Forderung",
+    "code": "0654",
+    "description": "Forderungen aus Lieferungen und Leistungen ohne Kontokorrent mit Restlaufzeit bis zu einem Jahr",
+    "categories": [
+        "0652 Forderungen aus Lieferungen und Leistungen ohne Kontokorrent",
+        "0650-0674 Forderungen aus Lieferungen und Leistungen",
+        "0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde",
+        "0600-0989 UMLAUFVERM\u00d6GEN",
+        "0 aktive Verm\u00f6gensposten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl4": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde > 0650-0674 Forderungen aus Lieferungen und Leistungen > 0652 Forderungen aus Lieferungen und Leistungen ohne Kontokorrent"
+        },
+        {
+            "lvl3": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde > 0650-0674 Forderungen aus Lieferungen und Leistungen"
+        },
+        {
+            "lvl2": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde"
+        },
+        {
+            "lvl1": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN"
+        },
+        {
+            "lvl0": "0 aktive Verm\u00f6gensposten"
+        }
+    ],
+    "leaf": true,
+    "parent": "e4c3772266aec0a9531b5912121acb00"
+}

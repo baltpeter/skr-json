@@ -1,0 +1,25 @@
+{
+    "objectID": "55f68f8abe2496a22a2e940fb44b3ee6",
+    "name": "4900 Sonstige Kosten Verm\u00f6gensverwaltung",
+    "type": "Aufwand",
+    "code": "4900",
+    "description": "Sonstige Kosten Verm\u00f6gensverwaltung",
+    "categories": [
+        "4510 Ausgaben Bereich 4000",
+        "4500-4999 AUSGABEN / WERBUNGSKOSTEN",
+        "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4500-4999 AUSGABEN / WERBUNGSKOSTEN > 4510 Ausgaben Bereich 4000"
+        },
+        {
+            "lvl1": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4500-4999 AUSGABEN / WERBUNGSKOSTEN"
+        },
+        {
+            "lvl0": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung"
+        }
+    ],
+    "leaf": true,
+    "parent": "01f25b36390c5ee24774bf6498916a9a"
+}

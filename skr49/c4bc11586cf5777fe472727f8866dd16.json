@@ -1,0 +1,29 @@
+{
+    "objectID": "c4bc11586cf5777fe472727f8866dd16",
+    "name": "9243 Investitionsverbindlichkeiten aus K\u00e4ufen von Finanzanlagen bei Leistungsverbindlichkeiten",
+    "type": "Aktiva",
+    "code": "9243",
+    "description": "Investitionsverbindlichkeiten aus K\u00e4ufen von Finanzanlagen bei Leistungsverbindlichkeiten",
+    "categories": [
+        "9240 Investitionsverbindlichkeiten bei den Leistungsverbindlichkeiten",
+        "9240-9249 Statistische Konten f\u00fcr die Kapitalflussrechnung",
+        "9000-9249 STATISTISCHE KONTEN",
+        "9 Statistik- & Vortragskonten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "9 Statistik- & Vortragskonten > 9000-9249 STATISTISCHE KONTEN > 9240-9249 Statistische Konten f\u00fcr die Kapitalflussrechnung > 9240 Investitionsverbindlichkeiten bei den Leistungsverbindlichkeiten"
+        },
+        {
+            "lvl2": "9 Statistik- & Vortragskonten > 9000-9249 STATISTISCHE KONTEN > 9240-9249 Statistische Konten f\u00fcr die Kapitalflussrechnung"
+        },
+        {
+            "lvl1": "9 Statistik- & Vortragskonten > 9000-9249 STATISTISCHE KONTEN"
+        },
+        {
+            "lvl0": "9 Statistik- & Vortragskonten"
+        }
+    ],
+    "leaf": true,
+    "parent": "87b293e2c0e31f042dc4c2a397e9a350"
+}

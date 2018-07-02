@@ -1,0 +1,26 @@
+{
+    "objectID": "e25b8c9cdc42518311a80a1a2db11b54",
+    "name": "02. Ausleihungen an verbundene Unternehmen",
+    "type": "Aktiva",
+    "code": "0810",
+    "description": "",
+    "categories": [
+        "V. Finanzanlagen",
+        "A. Anlageverm\u00f6gen",
+        "Aktiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "Aktiva > A. Anlageverm\u00f6gen > V. Finanzanlagen"
+        },
+        {
+            "lvl1": "Aktiva > A. Anlageverm\u00f6gen"
+        },
+        {
+            "lvl0": "Aktiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "0c02303d139190b2cfded19f03caa096"
+}

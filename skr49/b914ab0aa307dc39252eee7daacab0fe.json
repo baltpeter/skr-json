@@ -1,0 +1,22 @@
+{
+    "objectID": "b914ab0aa307dc39252eee7daacab0fe",
+    "name": "3400-3499 Verm\u00f6gensverwaltung",
+    "type": "Ertrag",
+    "code": "3400-3499",
+    "description": "Verm\u00f6gensverwaltung",
+    "categories": [
+        "3200-3899  ERTRAGSNEUTRALE POSTEN",
+        "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN"
+        },
+        {
+            "lvl0": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
+        }
+    ],
+    "leaf": false,
+    "placeholder": true,
+    "parent": "4cab17561d5837bb03169cd54a4fd601"
+}

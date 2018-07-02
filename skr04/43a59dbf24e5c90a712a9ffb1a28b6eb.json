@@ -1,0 +1,22 @@
+{
+    "objectID": "43a59dbf24e5c90a712a9ffb1a28b6eb",
+    "name": "Beitr\u00e4ge zur Berufsgenossenschaft",
+    "type": "Aufwand",
+    "code": "6120",
+    "description": "",
+    "categories": [
+        "b) soziale Abgaben und Aufwendungen f\u00fcr Altersversorgung und Unterst\u00fctzung",
+        "06. Personalaufwand"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "06. Personalaufwand > b) soziale Abgaben und Aufwendungen f\u00fcr Altersversorgung und Unterst\u00fctzung"
+        },
+        {
+            "lvl0": "06. Personalaufwand"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "a943872d0d0623064a3c76ccff77965e"
+}

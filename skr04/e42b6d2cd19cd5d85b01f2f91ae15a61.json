@@ -1,0 +1,18 @@
+{
+    "objectID": "e42b6d2cd19cd5d85b01f2f91ae15a61",
+    "name": "Ertr\u00e4ge aus Kursdifferenzen",
+    "type": "Ertrag",
+    "code": "4840",
+    "description": "",
+    "categories": [
+        "04. Sonstige betriebliche Ertr\u00e4ge"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl0": "04. Sonstige betriebliche Ertr\u00e4ge"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "4c0c1557fe54e71d7ed717587a0c0b4d"
+}

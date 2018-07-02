@@ -1,0 +1,38 @@
+{
+    "objectID": "9d80aa421f02f034bff4d768609c1f59",
+    "name": "5836 Beitr\u00e4ge zur Berufsgenossenschaft",
+    "type": "Aufwand",
+    "code": "5836",
+    "description": "Beitr\u00e4ge zur Berufsgenossenschaft",
+    "categories": [
+        "5830+5835-5836 Soziale Abgaben",
+        "5820-5839 Personalaufwand",
+        "5800-5899 AUSGABEN / AUFWENDUNGEN",
+        "5700-5999 ZWECKBETRIEBE SPORT 2",
+        "5000-5889 ZWECKBETRIEBE SPORT",
+        "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl5": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5000-5889 ZWECKBETRIEBE SPORT > 5700-5999 ZWECKBETRIEBE SPORT 2 > 5800-5899 AUSGABEN / AUFWENDUNGEN > 5820-5839 Personalaufwand > 5830+5835-5836 Soziale Abgaben"
+        },
+        {
+            "lvl4": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5000-5889 ZWECKBETRIEBE SPORT > 5700-5999 ZWECKBETRIEBE SPORT 2 > 5800-5899 AUSGABEN / AUFWENDUNGEN > 5820-5839 Personalaufwand"
+        },
+        {
+            "lvl3": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5000-5889 ZWECKBETRIEBE SPORT > 5700-5999 ZWECKBETRIEBE SPORT 2 > 5800-5899 AUSGABEN / AUFWENDUNGEN"
+        },
+        {
+            "lvl2": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5000-5889 ZWECKBETRIEBE SPORT > 5700-5999 ZWECKBETRIEBE SPORT 2"
+        },
+        {
+            "lvl1": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5000-5889 ZWECKBETRIEBE SPORT"
+        },
+        {
+            "lvl0": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport"
+        }
+    ],
+    "leaf": true,
+    "notes": "Konto f\u00fcr das Buchungsjahr 2018 neu eingef\u00fchrt.",
+    "parent": "288f8572d2d60310be4f4bb12d0a4742"
+}

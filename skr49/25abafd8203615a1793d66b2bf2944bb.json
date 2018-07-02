@@ -1,0 +1,25 @@
+{
+    "objectID": "25abafd8203615a1793d66b2bf2944bb",
+    "name": "2554 Aufwandsentsch\u00e4digungen \u00dcbungsleiter",
+    "type": "Aufwand",
+    "code": "2554",
+    "description": "Aufwandsentsch\u00e4digungen \u00dcbungsleiter",
+    "categories": [
+        "2550-2559 Personalkosten",
+        "2500-2999 AUSGABEN",
+        "2 Erfolgskonten ideeller Bereich"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN > 2550-2559 Personalkosten"
+        },
+        {
+            "lvl1": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN"
+        },
+        {
+            "lvl0": "2 Erfolgskonten ideeller Bereich"
+        }
+    ],
+    "leaf": true,
+    "parent": "6ccdcab3780ae380541cf6c351785151"
+}

@@ -1,0 +1,39 @@
+{
+    "objectID": "99e05a2c532b363839e02666ffa94bff",
+    "name": "2940 Innergemeinschaftlicher Erwerb ohne Vorsteuerabzug 7% USt",
+    "type": "Aufwand",
+    "code": "2940",
+    "description": "VERALTET!",
+    "categories": [
+        "2930 Innergemeinschaftlicher Erwerb ohne Vorsteuerabzug 7% USt",
+        "2930-2945 Innergemeinschaftlicher Erwerb",
+        "2903-2945 Umsatzsteuer-Konten",
+        "2510 \u00dcbrige Ausgaben",
+        "2500-2999 AUSGABEN",
+        "2 Erfolgskonten ideeller Bereich"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl5": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN > 2510 \u00dcbrige Ausgaben > 2903-2945 Umsatzsteuer-Konten > 2930-2945 Innergemeinschaftlicher Erwerb > 2930 Innergemeinschaftlicher Erwerb ohne Vorsteuerabzug 7% USt"
+        },
+        {
+            "lvl4": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN > 2510 \u00dcbrige Ausgaben > 2903-2945 Umsatzsteuer-Konten > 2930-2945 Innergemeinschaftlicher Erwerb"
+        },
+        {
+            "lvl3": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN > 2510 \u00dcbrige Ausgaben > 2903-2945 Umsatzsteuer-Konten"
+        },
+        {
+            "lvl2": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN > 2510 \u00dcbrige Ausgaben"
+        },
+        {
+            "lvl1": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN"
+        },
+        {
+            "lvl0": "2 Erfolgskonten ideeller Bereich"
+        }
+    ],
+    "leaf": true,
+    "notes": "F\u00fcr den \u00dcbergang von 16% auf 19% MwSt.",
+    "placeholder": true,
+    "parent": "a423c7950bf90532f6d15030f83820c5"
+}

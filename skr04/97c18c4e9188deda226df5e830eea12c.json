@@ -1,0 +1,26 @@
+{
+    "objectID": "97c18c4e9188deda226df5e830eea12c",
+    "name": "K\u00f6rperschaftsteuerr\u00fcckstellung",
+    "type": "Fremdkapital",
+    "code": "3040",
+    "description": "",
+    "categories": [
+        "02. Steuerr\u00fcckstellungen",
+        "B. R\u00fcckstellungen",
+        "Passiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "Passiva > B. R\u00fcckstellungen > 02. Steuerr\u00fcckstellungen"
+        },
+        {
+            "lvl1": "Passiva > B. R\u00fcckstellungen"
+        },
+        {
+            "lvl0": "Passiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "1ce38539e501a14b6c9f1b6d7724c27b"
+}

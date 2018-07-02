@@ -1,0 +1,29 @@
+{
+    "objectID": "2aae629ea969e168f668913bd25f09b4",
+    "name": "0039 Anzahlungen auf immaterielle Verm\u00f6gensgegenst\u00e4nde",
+    "type": "Aktiva",
+    "code": "0039",
+    "description": "Geleistete Anzahlungen auf immaterielleVerm\u00f6gensgegenst\u00e4nde",
+    "categories": [
+        "0038-0039 Geleistete Anzahlungen",
+        "0010-0049 Immaterielle Verm\u00f6gensgegenst\u00e4nde",
+        "0010-0249 ANLAGEVERM\u00d6GEN",
+        "0 aktive Verm\u00f6gensposten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "0 aktive Verm\u00f6gensposten > 0010-0249 ANLAGEVERM\u00d6GEN > 0010-0049 Immaterielle Verm\u00f6gensgegenst\u00e4nde > 0038-0039 Geleistete Anzahlungen"
+        },
+        {
+            "lvl2": "0 aktive Verm\u00f6gensposten > 0010-0249 ANLAGEVERM\u00d6GEN > 0010-0049 Immaterielle Verm\u00f6gensgegenst\u00e4nde"
+        },
+        {
+            "lvl1": "0 aktive Verm\u00f6gensposten > 0010-0249 ANLAGEVERM\u00d6GEN"
+        },
+        {
+            "lvl0": "0 aktive Verm\u00f6gensposten"
+        }
+    ],
+    "leaf": true,
+    "parent": "61196055f04cd567208a3a828d895627"
+}

@@ -1,0 +1,13 @@
+{
+    "objectID": "2a7f03fcafd653d38af9386128acd234",
+    "name": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung",
+    "type": "Ertrag",
+    "code": "4",
+    "description": "Steuerbeg\u00fcnstigte Einnahmen und Werbungskosten von Vereinen aus Verm\u00f6gensverwaltung",
+    "categories": [],
+    "hierarchicalCategories": [],
+    "leaf": false,
+    "notes": "Klasse 4: Ergebnisposten (T\u00e4tigkeitsbereich 4000)\nSteuerbeg\u00fcnstigte Einnahmen und Werbungskosten gemeinn\u00fctziger Vereine und nicht gemeinn\u00fctziger Vereine aus Verm\u00f6gensverwaltung\nUSt-Hinweis: 0%/7%/19%; USt-Vorsteuerabzug m\u00f6glich",
+    "placeholder": true,
+    "parent": "f2f6eca8892ccc16d1e6126fa5fd012b"
+}

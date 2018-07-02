@@ -1,0 +1,26 @@
+{
+    "objectID": "31f7c5cead72323f6eb941e78cfa0633",
+    "name": "Transportversicherungen",
+    "type": "Aufwand",
+    "code": "6760",
+    "description": "",
+    "categories": [
+        "7) Kosten der Warenabgabe",
+        "a) ordentliche betriebliche Aufwendungen",
+        "08. sonstige betriebliche Aufwendungen"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen > 7) Kosten der Warenabgabe"
+        },
+        {
+            "lvl1": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen"
+        },
+        {
+            "lvl0": "08. sonstige betriebliche Aufwendungen"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "f426b343a06164be037f65c82153a874"
+}

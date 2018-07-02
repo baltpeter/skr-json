@@ -1,0 +1,34 @@
+{
+    "objectID": "367939ac7ad26f3cb3f6a6860b9b2003",
+    "name": "7874 Einstellungen in steuerliche R\u00fccklagen",
+    "type": "Aufwand",
+    "code": "7874",
+    "description": "Einstellungen in steuerliche R\u00fccklagen",
+    "categories": [
+        "7870 Verschiedene Kosten Teilbereich 7800",
+        "7850-7999 AUSGABEN / AUFWENDUNGEN",
+        "7800-7999 NEBENT\u00c4TIGKEITEN SPORT",
+        "7000-7999 GESCH\u00c4FTSBETRIEBE SPORT",
+        "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl4": "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport > 7000-7999 GESCH\u00c4FTSBETRIEBE SPORT > 7800-7999 NEBENT\u00c4TIGKEITEN SPORT > 7850-7999 AUSGABEN / AUFWENDUNGEN > 7870 Verschiedene Kosten Teilbereich 7800"
+        },
+        {
+            "lvl3": "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport > 7000-7999 GESCH\u00c4FTSBETRIEBE SPORT > 7800-7999 NEBENT\u00c4TIGKEITEN SPORT > 7850-7999 AUSGABEN / AUFWENDUNGEN"
+        },
+        {
+            "lvl2": "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport > 7000-7999 GESCH\u00c4FTSBETRIEBE SPORT > 7800-7999 NEBENT\u00c4TIGKEITEN SPORT"
+        },
+        {
+            "lvl1": "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport > 7000-7999 GESCH\u00c4FTSBETRIEBE SPORT"
+        },
+        {
+            "lvl0": "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport"
+        }
+    ],
+    "leaf": true,
+    "notes": "Konto f\u00fcr das Buchungsjahr 2006 neu eingef\u00fchrt.\ndamals: \u201eEinstellungen in Sonderposten mit R\u00fccklageanteil\u201c",
+    "parent": "8b24c79d0b41f0e7371f671113c135c0"
+}

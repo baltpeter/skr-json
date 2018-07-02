@@ -1,0 +1,30 @@
+{
+    "objectID": "61971a78c1376fead9b9bc03a73ae410",
+    "name": "2930-2945 Innergemeinschaftlicher Erwerb",
+    "type": "Aufwand",
+    "code": "2930-2945",
+    "description": "Innergemeinschaftlicher Erwerb",
+    "categories": [
+        "2903-2945 Umsatzsteuer-Konten",
+        "2510 \u00dcbrige Ausgaben",
+        "2500-2999 AUSGABEN",
+        "2 Erfolgskonten ideeller Bereich"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN > 2510 \u00dcbrige Ausgaben > 2903-2945 Umsatzsteuer-Konten"
+        },
+        {
+            "lvl2": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN > 2510 \u00dcbrige Ausgaben"
+        },
+        {
+            "lvl1": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN"
+        },
+        {
+            "lvl0": "2 Erfolgskonten ideeller Bereich"
+        }
+    ],
+    "leaf": false,
+    "placeholder": true,
+    "parent": "c8039ffb5f63d52dbc5a464062e625bf"
+}

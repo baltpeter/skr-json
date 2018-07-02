@@ -1,0 +1,25 @@
+{
+    "objectID": "d9a192f4871dde44ae065fc4b03dacc1",
+    "name": "4152 Kursgewinne aus Wertpapieren",
+    "type": "Ertrag",
+    "code": "4152",
+    "description": "Kursgewinne aus Wertpapieren 0% USt",
+    "categories": [
+        "4150-4153 Zins- und Kursertr\u00e4ge",
+        "4000-4399 EINNAHMEN GV",
+        "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4000-4399 EINNAHMEN GV > 4150-4153 Zins- und Kursertr\u00e4ge"
+        },
+        {
+            "lvl1": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4000-4399 EINNAHMEN GV"
+        },
+        {
+            "lvl0": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung"
+        }
+    ],
+    "leaf": true,
+    "parent": "27f9ec1c2631c1a3911506388d8f0805"
+}

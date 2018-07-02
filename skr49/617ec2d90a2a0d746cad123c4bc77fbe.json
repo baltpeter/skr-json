@@ -1,0 +1,25 @@
+{
+    "objectID": "617ec2d90a2a0d746cad123c4bc77fbe",
+    "name": "0560 Darlehen",
+    "type": "Aktiva",
+    "code": "0560",
+    "description": "Darlehen",
+    "categories": [
+        "0550 Sonstige Ausleihungen",
+        "0250-0599 ANDERE ANLAGEN, BETRIEBS- UND GESCH\u00c4FTSAUSSTATTUNG",
+        "0 aktive Verm\u00f6gensposten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "0 aktive Verm\u00f6gensposten > 0250-0599 ANDERE ANLAGEN, BETRIEBS- UND GESCH\u00c4FTSAUSSTATTUNG > 0550 Sonstige Ausleihungen"
+        },
+        {
+            "lvl1": "0 aktive Verm\u00f6gensposten > 0250-0599 ANDERE ANLAGEN, BETRIEBS- UND GESCH\u00c4FTSAUSSTATTUNG"
+        },
+        {
+            "lvl0": "0 aktive Verm\u00f6gensposten"
+        }
+    ],
+    "leaf": true,
+    "parent": "84cfe3a6dac0e5c7c1ba14b443f393ea"
+}

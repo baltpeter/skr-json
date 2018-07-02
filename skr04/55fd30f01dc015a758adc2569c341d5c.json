@@ -1,0 +1,22 @@
+{
+    "objectID": "55fd30f01dc015a758adc2569c341d5c",
+    "name": "Abgef\u00fchrte Gewinne aufgrund eines Gewinn- oder Teilgewinnabf\u00fchrungsvertrags",
+    "type": "Aufwand",
+    "code": "7394",
+    "description": "",
+    "categories": [
+        "Aufwendungen aus Verlust\u00fcbernahme und aufgrund einer Gewinngemeinschaft, eines Gewinn- oder Teilgewinnabf\u00fchrungsvertrags abgef\u00fchrte Gewinne",
+        "13. Zinsen und \u00e4hnliche Aufwendungen"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "13. Zinsen und \u00e4hnliche Aufwendungen > Aufwendungen aus Verlust\u00fcbernahme und aufgrund einer Gewinngemeinschaft, eines Gewinn- oder Teilgewinnabf\u00fchrungsvertrags abgef\u00fchrte Gewinne"
+        },
+        {
+            "lvl0": "13. Zinsen und \u00e4hnliche Aufwendungen"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "61f884f026b5cec86f75f7b9b25ea945"
+}

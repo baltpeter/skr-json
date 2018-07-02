@@ -1,0 +1,22 @@
+{
+    "objectID": "0412205ed5ffe3729f9cc5f108e85164",
+    "name": "Au\u00dferordentliche Aufwendungen nicht finanzwirksam",
+    "type": "Aufwand",
+    "code": "7550",
+    "description": "",
+    "categories": [
+        "Au\u00dferordentliche Aufwendungen",
+        "16. au\u00dferordentliche Aufwendungen"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "16. au\u00dferordentliche Aufwendungen > Au\u00dferordentliche Aufwendungen"
+        },
+        {
+            "lvl0": "16. au\u00dferordentliche Aufwendungen"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "a425bb1a0869b8059903e0e1e4e6e7d7"
+}

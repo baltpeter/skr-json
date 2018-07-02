@@ -1,0 +1,30 @@
+{
+    "objectID": "747b5cd3365a7858a97b20068a6206a0",
+    "name": "Forderungen gg. verbundene UN < 1 J",
+    "type": "Forderung",
+    "code": "1261",
+    "description": "",
+    "categories": [
+        "02. Forderungen gegen verbundene Unternehmen",
+        "II. Forderungen und sonstige Verm\u00f6gensgegenst\u00e4nde",
+        "B. Umlaufverm\u00f6gen",
+        "Aktiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "Aktiva > B. Umlaufverm\u00f6gen > II. Forderungen und sonstige Verm\u00f6gensgegenst\u00e4nde > 02. Forderungen gegen verbundene Unternehmen"
+        },
+        {
+            "lvl2": "Aktiva > B. Umlaufverm\u00f6gen > II. Forderungen und sonstige Verm\u00f6gensgegenst\u00e4nde"
+        },
+        {
+            "lvl1": "Aktiva > B. Umlaufverm\u00f6gen"
+        },
+        {
+            "lvl0": "Aktiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "2206ddc60ecf97df41c9a90d71fdd94d"
+}

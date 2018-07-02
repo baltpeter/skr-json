@@ -1,0 +1,18 @@
+{
+    "objectID": "8bcd67f293fbb107bf8263d34cb6c114",
+    "name": "- davon aus verbundenen Unternehmen",
+    "type": "Ertrag",
+    "code": -1,
+    "description": "",
+    "categories": [
+        "09. Ertr\u00e4ge aus Beteiligungen"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl0": "09. Ertr\u00e4ge aus Beteiligungen"
+        }
+    ],
+    "leaf": false,
+    "placeholder": false,
+    "parent": "077d47ff0c858e8c31c31e0203042482"
+}

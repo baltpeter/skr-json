@@ -1,0 +1,26 @@
+{
+    "objectID": "3c6fad03081857dacd8a1b210903521b",
+    "name": "Verbindlichkeiten gegen\u00fcber Gesellschaftern",
+    "type": "Verbindlichkeit",
+    "code": "3510",
+    "description": "",
+    "categories": [
+        "08. sonstige Verbindlichkeiten",
+        "C. Verbindlichkeiten",
+        "Passiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "Passiva > C. Verbindlichkeiten > 08. sonstige Verbindlichkeiten"
+        },
+        {
+            "lvl1": "Passiva > C. Verbindlichkeiten"
+        },
+        {
+            "lvl0": "Passiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": true,
+    "parent": "3f6c684bfaa3d0fc8b94368847566df3"
+}

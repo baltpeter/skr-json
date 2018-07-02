@@ -1,0 +1,18 @@
+{
+    "objectID": "accaec28a4afcf3c82570da4c9343c2d",
+    "name": "Reparatur/Instandhaltung",
+    "type": "Aufwand",
+    "code": -1,
+    "description": "",
+    "categories": [
+        "Aufwendungen 2/4"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl0": "Aufwendungen 2/4"
+        }
+    ],
+    "leaf": false,
+    "placeholder": true,
+    "parent": "be324e400d3b67510f89afd18de776e3"
+}

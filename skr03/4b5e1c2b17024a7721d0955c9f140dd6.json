@@ -1,0 +1,21 @@
+{
+    "objectID": "4b5e1c2b17024a7721d0955c9f140dd6",
+    "name": "1780 Umsatzsteuer-Vorauszahlung",
+    "type": "Fremdkapital",
+    "code": "1780",
+    "description": "",
+    "categories": [
+        "Umsatzsteuer",
+        "Passiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "Passiva > Umsatzsteuer"
+        },
+        {
+            "lvl0": "Passiva"
+        }
+    ],
+    "leaf": true,
+    "parent": "dea7f32e6a447d2d1cd7048932c98265"
+}

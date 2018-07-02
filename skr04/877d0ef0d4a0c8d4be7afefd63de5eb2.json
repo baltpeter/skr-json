@@ -1,0 +1,30 @@
+{
+    "objectID": "877d0ef0d4a0c8d4be7afefd63de5eb2",
+    "name": "Wechsel aus Lieferung und Leistung",
+    "type": "Aktiva",
+    "code": "1230",
+    "description": "",
+    "categories": [
+        "01. Forderungen aus Lieferungen und Leistungen",
+        "II. Forderungen und sonstige Verm\u00f6gensgegenst\u00e4nde",
+        "B. Umlaufverm\u00f6gen",
+        "Aktiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "Aktiva > B. Umlaufverm\u00f6gen > II. Forderungen und sonstige Verm\u00f6gensgegenst\u00e4nde > 01. Forderungen aus Lieferungen und Leistungen"
+        },
+        {
+            "lvl2": "Aktiva > B. Umlaufverm\u00f6gen > II. Forderungen und sonstige Verm\u00f6gensgegenst\u00e4nde"
+        },
+        {
+            "lvl1": "Aktiva > B. Umlaufverm\u00f6gen"
+        },
+        {
+            "lvl0": "Aktiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "3db9920658f7630cee64902f9698ebb3"
+}

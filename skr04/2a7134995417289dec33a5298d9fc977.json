@@ -1,0 +1,22 @@
+{
+    "objectID": "2a7134995417289dec33a5298d9fc977",
+    "name": "Zins\u00e4hnliche Ertr\u00e4ge aus verbundenen Unternehmen",
+    "type": "Ertrag",
+    "code": "7129",
+    "description": "",
+    "categories": [
+        "- davon aus verbundenen Unternehmen",
+        "11. sonstige Zinsen und \u00e4hnliche Ertr\u00e4ge"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "11. sonstige Zinsen und \u00e4hnliche Ertr\u00e4ge > - davon aus verbundenen Unternehmen"
+        },
+        {
+            "lvl0": "11. sonstige Zinsen und \u00e4hnliche Ertr\u00e4ge"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "59da6822833517f51e97d993249a13a8"
+}

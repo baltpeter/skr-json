@@ -1,0 +1,22 @@
+{
+    "objectID": "865103769caad0200af84b6a2b0449eb",
+    "name": "Zuwendungen, Spenden an Stiftungen f\u00fcr gemeinn\u00fctzige Zwecke i.S.d. \u00a752 Abs. 2 Nr. 1-3 AO",
+    "type": "Aufwand",
+    "code": "6395",
+    "description": "",
+    "categories": [
+        "d) sonstige Aufwendungen im Rahmen der gew\u00f6hnlichen Gesch\u00e4ftst\u00e4tigkeit",
+        "08. sonstige betriebliche Aufwendungen"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "08. sonstige betriebliche Aufwendungen > d) sonstige Aufwendungen im Rahmen der gew\u00f6hnlichen Gesch\u00e4ftst\u00e4tigkeit"
+        },
+        {
+            "lvl0": "08. sonstige betriebliche Aufwendungen"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "1c9b01f1444a088f0922b24a8c1a4ba9"
+}

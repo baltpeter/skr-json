@@ -1,0 +1,21 @@
+{
+    "objectID": "dda3ae53573975cd05fab1d3cdf40806",
+    "name": "4670 Reisekosten Unternehmer",
+    "type": "Aufwand",
+    "code": "4670",
+    "description": "",
+    "categories": [
+        "Werbe-/Reisekosten",
+        "Aufwendungen 2/4"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "Aufwendungen 2/4 > Werbe-/Reisekosten"
+        },
+        {
+            "lvl0": "Aufwendungen 2/4"
+        }
+    ],
+    "leaf": true,
+    "parent": "a657ade965a1429d44d830d3832bf9aa"
+}

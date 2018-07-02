@@ -1,0 +1,22 @@
+{
+    "objectID": "848635d39fccb98111217947eca94efe",
+    "name": "Erl\u00f6se Abfallverwertung",
+    "type": "Ertrag",
+    "code": "4510",
+    "description": "",
+    "categories": [
+        "a) Umsatzerl\u00f6se",
+        "01. Betriebliche Ertr\u00e4ge"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "01. Betriebliche Ertr\u00e4ge > a) Umsatzerl\u00f6se"
+        },
+        {
+            "lvl0": "01. Betriebliche Ertr\u00e4ge"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "0be35cece133442ae9f967be1626bc57"
+}

@@ -1,0 +1,29 @@
+{
+    "objectID": "f59ea1786d0011cfc85f62f0ef1ce8c9",
+    "name": "1731 Lohn- und Gehaltsverrechnung \u00a711 Abs. 2 S. 2 EStG f\u00fcr \u00a74 Abs. 3 EStG",
+    "type": "Fremdkapital",
+    "code": "1731",
+    "description": "Lohn- und Gehaltsverrechnung \u00a711 Absatz 2 Satz 2 EStG f\u00fcr \u00a74 Absatz 3 EStG",
+    "categories": [
+        "1730 Lohn- und Gehaltsverrechnungskonto",
+        "1600-1989 Sonstige Verbindlichkeiten oder sonstige Verm\u00f6gensgegenst\u00e4nde",
+        "1300-1989 VERBINDLICHKEITEN",
+        "1 passive Verm\u00f6gensposten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "1 passive Verm\u00f6gensposten > 1300-1989 VERBINDLICHKEITEN > 1600-1989 Sonstige Verbindlichkeiten oder sonstige Verm\u00f6gensgegenst\u00e4nde > 1730 Lohn- und Gehaltsverrechnungskonto"
+        },
+        {
+            "lvl2": "1 passive Verm\u00f6gensposten > 1300-1989 VERBINDLICHKEITEN > 1600-1989 Sonstige Verbindlichkeiten oder sonstige Verm\u00f6gensgegenst\u00e4nde"
+        },
+        {
+            "lvl1": "1 passive Verm\u00f6gensposten > 1300-1989 VERBINDLICHKEITEN"
+        },
+        {
+            "lvl0": "1 passive Verm\u00f6gensposten"
+        }
+    ],
+    "leaf": true,
+    "parent": "c6b87b9cee3313e9801443dc0531ca84"
+}

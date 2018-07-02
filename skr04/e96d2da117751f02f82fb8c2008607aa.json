@@ -1,0 +1,30 @@
+{
+    "objectID": "e96d2da117751f02f82fb8c2008607aa",
+    "name": "Ausleihungen an Gesellschafter",
+    "type": "Aktiva",
+    "code": "0960",
+    "description": "",
+    "categories": [
+        "06. Sonstige Ausleihungen",
+        "V. Finanzanlagen",
+        "A. Anlageverm\u00f6gen",
+        "Aktiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "Aktiva > A. Anlageverm\u00f6gen > V. Finanzanlagen > 06. Sonstige Ausleihungen"
+        },
+        {
+            "lvl2": "Aktiva > A. Anlageverm\u00f6gen > V. Finanzanlagen"
+        },
+        {
+            "lvl1": "Aktiva > A. Anlageverm\u00f6gen"
+        },
+        {
+            "lvl0": "Aktiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "2d8abf820f1272ea8674b7bd9df2b23e"
+}

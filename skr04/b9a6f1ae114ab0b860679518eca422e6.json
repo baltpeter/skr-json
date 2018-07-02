@@ -1,0 +1,23 @@
+{
+    "objectID": "b9a6f1ae114ab0b860679518eca422e6",
+    "name": "Entnahmen aus der R\u00fccklage f\u00fcr eigene Anteile",
+    "type": "Eigenkapital",
+    "code": "7740",
+    "description": "",
+    "categories": [
+        "02. Entnahmen aus Gewinnr\u00fccklagen",
+        "21. Ver\u00e4nderungen Vortr\u00e4ge und R\u00fccklagen"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "21. Ver\u00e4nderungen Vortr\u00e4ge und R\u00fccklagen > 02. Entnahmen aus Gewinnr\u00fccklagen"
+        },
+        {
+            "lvl0": "21. Ver\u00e4nderungen Vortr\u00e4ge und R\u00fccklagen"
+        }
+    ],
+    "leaf": true,
+    "notes": "Aufwandskonten?",
+    "placeholder": false,
+    "parent": "e250efca9681cba74a7eb7f31361d9af"
+}

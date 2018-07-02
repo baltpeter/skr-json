@@ -1,0 +1,18 @@
+{
+    "objectID": "def48fc49fcbfcb147a97ad39b9d8928",
+    "name": "4400-4499 EINNAHMEN NGV",
+    "type": "Ertrag",
+    "code": "4400-4499",
+    "description": "Ertragsteuerpflichtige Einnahmen nicht gemeinn\u00fctziger Vereine (ngV)",
+    "categories": [
+        "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl0": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung"
+        }
+    ],
+    "leaf": false,
+    "placeholder": true,
+    "parent": "2a7f03fcafd653d38af9386128acd234"
+}

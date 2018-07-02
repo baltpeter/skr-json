@@ -1,0 +1,18 @@
+{
+    "objectID": "e968c713799af36f34e0beed878b6e55",
+    "name": "1200-1229 R\u00dcCKSTELLUNGEN",
+    "type": "Fremdkapital",
+    "code": "1200-1229",
+    "description": "R\u00fcckstellungen",
+    "categories": [
+        "1 passive Verm\u00f6gensposten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl0": "1 passive Verm\u00f6gensposten"
+        }
+    ],
+    "leaf": false,
+    "placeholder": true,
+    "parent": "1d27222a8423625bfe5a54fcf23df229"
+}

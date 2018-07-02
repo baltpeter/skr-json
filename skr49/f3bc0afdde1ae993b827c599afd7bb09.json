@@ -1,0 +1,25 @@
+{
+    "objectID": "f3bc0afdde1ae993b827c599afd7bb09",
+    "name": "3650 Nicht abziehbare Ausgaben Bereich 6000",
+    "type": "Aufwand",
+    "code": "3650",
+    "description": "Nicht abziehbare Ausgaben Bereich 6000",
+    "categories": [
+        "3600-3699 Sonstige Zweckbetriebe",
+        "3200-3899  ERTRAGSNEUTRALE POSTEN",
+        "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN > 3600-3699 Sonstige Zweckbetriebe"
+        },
+        {
+            "lvl1": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN"
+        },
+        {
+            "lvl0": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
+        }
+    ],
+    "leaf": true,
+    "parent": "bac74b941374b6ecc83833a2493e4d43"
+}

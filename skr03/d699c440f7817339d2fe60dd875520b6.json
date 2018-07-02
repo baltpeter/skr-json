@@ -1,0 +1,21 @@
+{
+    "objectID": "d699c440f7817339d2fe60dd875520b6",
+    "name": "1771 Umsatzsteuer 7%",
+    "type": "Fremdkapital",
+    "code": "1771",
+    "description": "",
+    "categories": [
+        "Umsatzsteuer",
+        "Passiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "Passiva > Umsatzsteuer"
+        },
+        {
+            "lvl0": "Passiva"
+        }
+    ],
+    "leaf": true,
+    "parent": "dea7f32e6a447d2d1cd7048932c98265"
+}

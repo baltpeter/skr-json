@@ -1,0 +1,33 @@
+{
+    "objectID": "b711404d46d3074c5a816e45843a471d",
+    "name": "3854 Solidarit\u00e4tszuschlag zur KSt",
+    "type": "Aufwand",
+    "code": "3854",
+    "description": "Solidarit\u00e4tszuschlag zur K\u00f6rperschaftsteuer",
+    "categories": [
+        "3853-3857+3864-3890 Steuern",
+        "3850 Nicht abziehb. Ausg. zu Bereich 8000",
+        "3800-3899 Sonstige wirtschaftliche Gesch\u00e4ftsbetriebe",
+        "3200-3899  ERTRAGSNEUTRALE POSTEN",
+        "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl4": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN > 3800-3899 Sonstige wirtschaftliche Gesch\u00e4ftsbetriebe > 3850 Nicht abziehb. Ausg. zu Bereich 8000 > 3853-3857+3864-3890 Steuern"
+        },
+        {
+            "lvl3": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN > 3800-3899 Sonstige wirtschaftliche Gesch\u00e4ftsbetriebe > 3850 Nicht abziehb. Ausg. zu Bereich 8000"
+        },
+        {
+            "lvl2": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN > 3800-3899 Sonstige wirtschaftliche Gesch\u00e4ftsbetriebe"
+        },
+        {
+            "lvl1": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN"
+        },
+        {
+            "lvl0": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
+        }
+    ],
+    "leaf": true,
+    "parent": "3789bb15f7f5346c912672c9fdf913e9"
+}

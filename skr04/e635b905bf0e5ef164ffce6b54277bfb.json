@@ -1,0 +1,30 @@
+{
+    "objectID": "e635b905bf0e5ef164ffce6b54277bfb",
+    "name": "Verbindlichk. soziale Sicherheit (1-5 J)",
+    "type": "Verbindlichkeit",
+    "code": "3750",
+    "description": "",
+    "categories": [
+        "Verbindlichkeiten im Rahmen der sozialen Sicherheit",
+        "08. sonstige Verbindlichkeiten",
+        "C. Verbindlichkeiten",
+        "Passiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "Passiva > C. Verbindlichkeiten > 08. sonstige Verbindlichkeiten > Verbindlichkeiten im Rahmen der sozialen Sicherheit"
+        },
+        {
+            "lvl2": "Passiva > C. Verbindlichkeiten > 08. sonstige Verbindlichkeiten"
+        },
+        {
+            "lvl1": "Passiva > C. Verbindlichkeiten"
+        },
+        {
+            "lvl0": "Passiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "c105052eb7f8cb231479a5e34e363e5a"
+}

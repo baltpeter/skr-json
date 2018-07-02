@@ -1,0 +1,23 @@
+{
+    "objectID": "d82172869e46fba2cc67cfa626c64912",
+    "name": "9540 Vorsteuer in den Verbindlichkeiten zum allgemeinen Umsatzsteuersatz",
+    "type": "Verbindlichkeit",
+    "code": "9540",
+    "description": "Vorsteuer in den Verbindlichkeiten zum allgemeinen Umsatzsteuersatz",
+    "categories": [
+        "9500-9599 STATISTISCHE WERTE F\u00dcR ANLAGE E\u00dcR",
+        "9 Statistik- & Vortragskonten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "9 Statistik- & Vortragskonten > 9500-9599 STATISTISCHE WERTE F\u00dcR ANLAGE E\u00dcR"
+        },
+        {
+            "lvl0": "9 Statistik- & Vortragskonten"
+        }
+    ],
+    "leaf": true,
+    "notes": "Veraltet, in der Version 2017 nicht mehr enthalten!",
+    "placeholder": true,
+    "parent": "baac2841267ad2422440263668815280"
+}

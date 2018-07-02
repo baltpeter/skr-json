@@ -1,0 +1,30 @@
+{
+    "objectID": "d94cb515db63aaf5eabdae9db2613f43",
+    "name": "Erhaltene Skonti",
+    "type": "Aufwand",
+    "code": "5730",
+    "description": "",
+    "categories": [
+        "Nachl\u00e4sse",
+        "03. Statistische Konten E\u00dcR",
+        "a) Aufwendungen f\u00fcr Roh-, Hilfs- und Betriebsstoffe und f\u00fcr bezogene Waren",
+        "05. Materialaufwand"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "05. Materialaufwand > a) Aufwendungen f\u00fcr Roh-, Hilfs- und Betriebsstoffe und f\u00fcr bezogene Waren > 03. Statistische Konten E\u00dcR > Nachl\u00e4sse"
+        },
+        {
+            "lvl2": "05. Materialaufwand > a) Aufwendungen f\u00fcr Roh-, Hilfs- und Betriebsstoffe und f\u00fcr bezogene Waren > 03. Statistische Konten E\u00dcR"
+        },
+        {
+            "lvl1": "05. Materialaufwand > a) Aufwendungen f\u00fcr Roh-, Hilfs- und Betriebsstoffe und f\u00fcr bezogene Waren"
+        },
+        {
+            "lvl0": "05. Materialaufwand"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "af24e50ccea7ed9d9b7ec2c1c3351487"
+}

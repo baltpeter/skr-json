@@ -1,0 +1,25 @@
+{
+    "objectID": "a1b23ee9535275bf1aa9ec04b78088a8",
+    "name": "4498 Umgebuchte Einnahmen wegen Verlust Gemeinn\u00fctzigkeit",
+    "type": "Ertrag",
+    "code": "4498",
+    "description": "Umgebuchte Einnahmen wegen Verlusts der Gemeinn\u00fctzigkeit",
+    "categories": [
+        "4400 Steuerpflichtige Einnahmen",
+        "4400-4499 EINNAHMEN NGV",
+        "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4400-4499 EINNAHMEN NGV > 4400 Steuerpflichtige Einnahmen"
+        },
+        {
+            "lvl1": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4400-4499 EINNAHMEN NGV"
+        },
+        {
+            "lvl0": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung"
+        }
+    ],
+    "leaf": true,
+    "parent": "381598618cc0baf4bd0acca9cb0ad79b"
+}

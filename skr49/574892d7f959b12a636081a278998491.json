@@ -1,0 +1,34 @@
+{
+    "objectID": "574892d7f959b12a636081a278998491",
+    "name": "0899 Gegenkonto 0895-0898 bei Aufteilung der Forderungen nach Steuers\u00e4tzen",
+    "type": "Forderung",
+    "code": "0899",
+    "description": "Gegenkonto 0895-0898 bei Aufteilung der Forderungen nach Steuers\u00e4tzen (E\u00dcR)",
+    "categories": [
+        "0895-0899 Forderungen aus Lieferungen und Leistungen (E\u00dcR)",
+        "0700 Sonstige Verm\u00f6gensgegenst\u00e4nde",
+        "0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde",
+        "0600-0989 UMLAUFVERM\u00d6GEN",
+        "0 aktive Verm\u00f6gensposten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl4": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde > 0700 Sonstige Verm\u00f6gensgegenst\u00e4nde > 0895-0899 Forderungen aus Lieferungen und Leistungen (E\u00dcR)"
+        },
+        {
+            "lvl3": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde > 0700 Sonstige Verm\u00f6gensgegenst\u00e4nde"
+        },
+        {
+            "lvl2": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde"
+        },
+        {
+            "lvl1": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN"
+        },
+        {
+            "lvl0": "0 aktive Verm\u00f6gensposten"
+        }
+    ],
+    "leaf": true,
+    "notes": "Einnahmen\u00fcberschu\u00dfrechnung",
+    "parent": "461611f89777815e9cace8da6461a6a4"
+}

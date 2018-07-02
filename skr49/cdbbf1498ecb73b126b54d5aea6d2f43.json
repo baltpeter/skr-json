@@ -1,0 +1,22 @@
+{
+    "objectID": "cdbbf1498ecb73b126b54d5aea6d2f43",
+    "name": "1000-1079 Gewinnr\u00fccklagen",
+    "type": "Fremdkapital",
+    "code": "1000-1079",
+    "description": "Gewinnr\u00fccklagen",
+    "categories": [
+        "1000-1179 VERM\u00d6GEN / EIGENKAPITAL",
+        "1 passive Verm\u00f6gensposten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL"
+        },
+        {
+            "lvl0": "1 passive Verm\u00f6gensposten"
+        }
+    ],
+    "leaf": false,
+    "placeholder": true,
+    "parent": "9025c2c9b2d259fc8b195e1a7b57e6f7"
+}

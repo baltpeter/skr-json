@@ -1,0 +1,21 @@
+{
+    "objectID": "d89a53718b4753ac5407b38ab43f1339",
+    "name": "1830 Sonderausgaben unbeschr\u00e4nkt abzugsf\u00e4hig",
+    "type": "Eigenkapital",
+    "code": "1830",
+    "description": "",
+    "categories": [
+        "Privatentnahmen/-einlagen",
+        "Privatkonten 1"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "Privatkonten 1 > Privatentnahmen/-einlagen"
+        },
+        {
+            "lvl0": "Privatkonten 1"
+        }
+    ],
+    "leaf": true,
+    "parent": "b9ae1b059749ea81c757a9adad39db1b"
+}

@@ -1,0 +1,26 @@
+{
+    "objectID": "3f77e9140f7ff39061e3b050e41eb2ec",
+    "name": "Verbindlichkeiten f\u00fcr Verbrauchsteuern",
+    "type": "Verbindlichkeit",
+    "code": "3761",
+    "description": "",
+    "categories": [
+        "08. sonstige Verbindlichkeiten",
+        "C. Verbindlichkeiten",
+        "Passiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "Passiva > C. Verbindlichkeiten > 08. sonstige Verbindlichkeiten"
+        },
+        {
+            "lvl1": "Passiva > C. Verbindlichkeiten"
+        },
+        {
+            "lvl0": "Passiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "3f6c684bfaa3d0fc8b94368847566df3"
+}

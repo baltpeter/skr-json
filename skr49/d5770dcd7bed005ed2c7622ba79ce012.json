@@ -1,0 +1,25 @@
+{
+    "objectID": "d5770dcd7bed005ed2c7622ba79ce012",
+    "name": "9882 Ergebnisse Bereich 2000 und Teilbereich 3200",
+    "type": "Aktiva",
+    "code": "9882",
+    "description": "Ergebnisse Bereich 2000 und Teilbereich 3200",
+    "categories": [
+        "9850-9889 Ergebnisvortr\u00e4ge des laufenden Jahres",
+        "9600-9998 WEITERE STATISTIK- UND VORTRAGSKONTEN",
+        "9 Statistik- & Vortragskonten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "9 Statistik- & Vortragskonten > 9600-9998 WEITERE STATISTIK- UND VORTRAGSKONTEN > 9850-9889 Ergebnisvortr\u00e4ge des laufenden Jahres"
+        },
+        {
+            "lvl1": "9 Statistik- & Vortragskonten > 9600-9998 WEITERE STATISTIK- UND VORTRAGSKONTEN"
+        },
+        {
+            "lvl0": "9 Statistik- & Vortragskonten"
+        }
+    ],
+    "leaf": true,
+    "parent": "427ace262e6e2482b79ede6a3f56b07d"
+}

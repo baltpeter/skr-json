@@ -1,0 +1,30 @@
+{
+    "objectID": "6497f0814f90faad6a9530e309796765",
+    "name": "0910 Finanzwechsel",
+    "type": "Aktiva",
+    "code": "0910",
+    "description": "Finanzwechsel",
+    "categories": [
+        "0910-0919 Sonstige Wertpapiere",
+        "0900-0919 Wertpapiere",
+        "0600-0989 UMLAUFVERM\u00d6GEN",
+        "0 aktive Verm\u00f6gensposten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0900-0919 Wertpapiere > 0910-0919 Sonstige Wertpapiere"
+        },
+        {
+            "lvl2": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0900-0919 Wertpapiere"
+        },
+        {
+            "lvl1": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN"
+        },
+        {
+            "lvl0": "0 aktive Verm\u00f6gensposten"
+        }
+    ],
+    "leaf": true,
+    "notes": "Hie\u00df zuvor \u201eBesitzwechsel\u201c.",
+    "parent": "4f990498fef1e40775c72fddbfc1e92e"
+}

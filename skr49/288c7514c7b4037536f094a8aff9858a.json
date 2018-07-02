@@ -1,0 +1,23 @@
+{
+    "objectID": "288c7514c7b4037536f094a8aff9858a",
+    "name": "6000-6499 SONSTIGE ZWECKBETRIEBE 1",
+    "type": "Ertrag",
+    "code": "6000-6499",
+    "description": "SONSTIGE ZWECKBETRIEBE 1 (UST-PFLICHTIG)",
+    "categories": [
+        "6000-6989 SONSTIGE ZWECKBETRIEBE",
+        "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE"
+        },
+        {
+            "lvl0": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe"
+        }
+    ],
+    "leaf": false,
+    "notes": "Teilbereich 6000/6001\nsonstige Zweckbetriebe 1 / Zweckbetriebe Kultur 1: kulturelle Veranstaltungen und Einrichtungen\nertragsteuerfrei jedoch umsatzsteuerpflichtig",
+    "placeholder": true,
+    "parent": "101369a9f7f4ed7a21cd543dcd27ab0b"
+}

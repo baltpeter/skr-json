@@ -1,0 +1,26 @@
+{
+    "objectID": "36fbb1b1ad375d67b895a61dcbe13264",
+    "name": "Pacht",
+    "type": "Aufwand",
+    "code": "6315",
+    "description": "",
+    "categories": [
+        "1) Raumkosten",
+        "a) ordentliche betriebliche Aufwendungen",
+        "08. sonstige betriebliche Aufwendungen"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen > 1) Raumkosten"
+        },
+        {
+            "lvl1": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen"
+        },
+        {
+            "lvl0": "08. sonstige betriebliche Aufwendungen"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "70f081631b2bf13005c3453c6d235c6a"
+}

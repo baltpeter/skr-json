@@ -1,0 +1,34 @@
+{
+    "objectID": "c1cb4b2dedaa7d3ec82d435ced329a2b",
+    "name": "Kapitalr\u00fccklage durch Zuzahlungen gegen Gew\u00e4hrung eines Vorzugs f\u00fcr Anteile",
+    "type": "Fremdkapital",
+    "code": "2927",
+    "description": "",
+    "categories": [
+        "Kapitalr\u00fccklage",
+        "II. Kapitalr\u00fccklage",
+        "b) Kapitalgesellschaft",
+        "A. Eigenkapital",
+        "Passiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl4": "Passiva > A. Eigenkapital > b) Kapitalgesellschaft > II. Kapitalr\u00fccklage > Kapitalr\u00fccklage"
+        },
+        {
+            "lvl3": "Passiva > A. Eigenkapital > b) Kapitalgesellschaft > II. Kapitalr\u00fccklage"
+        },
+        {
+            "lvl2": "Passiva > A. Eigenkapital > b) Kapitalgesellschaft"
+        },
+        {
+            "lvl1": "Passiva > A. Eigenkapital"
+        },
+        {
+            "lvl0": "Passiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "cb5efff60ddac9ff1f8ce3c4334e118b"
+}

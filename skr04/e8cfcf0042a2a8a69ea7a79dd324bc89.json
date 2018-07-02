@@ -1,0 +1,34 @@
+{
+    "objectID": "e8cfcf0042a2a8a69ea7a79dd324bc89",
+    "name": "Gesetzliche R\u00fccklage 0% Vorbelastung (steuerliches Einlagekonto)",
+    "type": "Fremdkapital",
+    "code": "2932",
+    "description": "",
+    "categories": [
+        "01. Gesetzliche R\u00fccklage",
+        "I. Gewinnr\u00fccklagen",
+        "c) alle",
+        "A. Eigenkapital",
+        "Passiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl4": "Passiva > A. Eigenkapital > c) alle > I. Gewinnr\u00fccklagen > 01. Gesetzliche R\u00fccklage"
+        },
+        {
+            "lvl3": "Passiva > A. Eigenkapital > c) alle > I. Gewinnr\u00fccklagen"
+        },
+        {
+            "lvl2": "Passiva > A. Eigenkapital > c) alle"
+        },
+        {
+            "lvl1": "Passiva > A. Eigenkapital"
+        },
+        {
+            "lvl0": "Passiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "b3dead9027abe209e92e83b2ff7bac25"
+}

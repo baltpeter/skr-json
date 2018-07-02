@@ -1,0 +1,30 @@
+{
+    "objectID": "bb6736ebde2593cc171ae60fc09b0201",
+    "name": "Gegenkonto 3470-3499 bei Aufteilung Kreditoren-Konto",
+    "type": "Fremdkapital",
+    "code": "3349",
+    "description": "",
+    "categories": [
+        "Verbindlichkeiten aus Lieferungen und Leistungen gegen\u00fcber Gesellschaftern",
+        "04. Verbindlichkeiten aus Lieferungen und Leistungen",
+        "C. Verbindlichkeiten",
+        "Passiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "Passiva > C. Verbindlichkeiten > 04. Verbindlichkeiten aus Lieferungen und Leistungen > Verbindlichkeiten aus Lieferungen und Leistungen gegen\u00fcber Gesellschaftern"
+        },
+        {
+            "lvl2": "Passiva > C. Verbindlichkeiten > 04. Verbindlichkeiten aus Lieferungen und Leistungen"
+        },
+        {
+            "lvl1": "Passiva > C. Verbindlichkeiten"
+        },
+        {
+            "lvl0": "Passiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "3d9c9c78c393e8a808e2e585fac0d4d5"
+}

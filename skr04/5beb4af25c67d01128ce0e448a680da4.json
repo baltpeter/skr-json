@@ -1,0 +1,34 @@
+{
+    "objectID": "5beb4af25c67d01128ce0e448a680da4",
+    "name": "Forderg. L+L gg.UN m.Beteiligg.verh. > 1 J",
+    "type": "Forderung",
+    "code": "1295",
+    "description": "",
+    "categories": [
+        "Forderg. L+L gg.UN m. Beteiligungsverh.",
+        "03. Forderungen gegen Unternehmen, mit denen ein Beteiligungsverh\u00e4ltnis besteht",
+        "II. Forderungen und sonstige Verm\u00f6gensgegenst\u00e4nde",
+        "B. Umlaufverm\u00f6gen",
+        "Aktiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl4": "Aktiva > B. Umlaufverm\u00f6gen > II. Forderungen und sonstige Verm\u00f6gensgegenst\u00e4nde > 03. Forderungen gegen Unternehmen, mit denen ein Beteiligungsverh\u00e4ltnis besteht > Forderg. L+L gg.UN m. Beteiligungsverh."
+        },
+        {
+            "lvl3": "Aktiva > B. Umlaufverm\u00f6gen > II. Forderungen und sonstige Verm\u00f6gensgegenst\u00e4nde > 03. Forderungen gegen Unternehmen, mit denen ein Beteiligungsverh\u00e4ltnis besteht"
+        },
+        {
+            "lvl2": "Aktiva > B. Umlaufverm\u00f6gen > II. Forderungen und sonstige Verm\u00f6gensgegenst\u00e4nde"
+        },
+        {
+            "lvl1": "Aktiva > B. Umlaufverm\u00f6gen"
+        },
+        {
+            "lvl0": "Aktiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "d2b31319d77dff392a7d723099c32c4e"
+}

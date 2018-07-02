@@ -1,0 +1,22 @@
+{
+    "objectID": "07eceb470a85c5a8e8e015ec75732dc8",
+    "name": "Kalkulatorische Miete und Pacht",
+    "type": "Aufwand",
+    "code": "6972",
+    "description": "",
+    "categories": [
+        "e) Kalkulatorische Kosten",
+        "08. sonstige betriebliche Aufwendungen"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "08. sonstige betriebliche Aufwendungen > e) Kalkulatorische Kosten"
+        },
+        {
+            "lvl0": "08. sonstige betriebliche Aufwendungen"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "69ea025cd488b1084c9fed0d584800e2"
+}

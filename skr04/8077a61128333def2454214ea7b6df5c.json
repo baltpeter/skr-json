@@ -1,0 +1,18 @@
+{
+    "objectID": "8077a61128333def2454214ea7b6df5c",
+    "name": "Zinsen und \u00e4hnliche Aufwendungen",
+    "type": "Aufwand",
+    "code": "7300",
+    "description": "",
+    "categories": [
+        "13. Zinsen und \u00e4hnliche Aufwendungen"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl0": "13. Zinsen und \u00e4hnliche Aufwendungen"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "1848323dfe915f8ed2a24bc00fef1e16"
+}

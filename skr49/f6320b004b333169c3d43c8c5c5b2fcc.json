@@ -1,0 +1,33 @@
+{
+    "objectID": "f6320b004b333169c3d43c8c5c5b2fcc",
+    "name": "6059 Aktivierte Eigenleistungen",
+    "type": "Ertrag",
+    "code": "6059",
+    "description": "Aktivierte Eigenleistungen (den Herstellungskosten zurechenbare Fremdkapitalzinsen)",
+    "categories": [
+        "6055 Andere aktivierte Eigenleistungen",
+        "6000-6099 EINNAHMEN / ERTR\u00c4GE",
+        "6000-6499 SONSTIGE ZWECKBETRIEBE 1",
+        "6000-6989 SONSTIGE ZWECKBETRIEBE",
+        "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl4": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE > 6000-6499 SONSTIGE ZWECKBETRIEBE 1 > 6000-6099 EINNAHMEN / ERTR\u00c4GE > 6055 Andere aktivierte Eigenleistungen"
+        },
+        {
+            "lvl3": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE > 6000-6499 SONSTIGE ZWECKBETRIEBE 1 > 6000-6099 EINNAHMEN / ERTR\u00c4GE"
+        },
+        {
+            "lvl2": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE > 6000-6499 SONSTIGE ZWECKBETRIEBE 1"
+        },
+        {
+            "lvl1": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE"
+        },
+        {
+            "lvl0": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe"
+        }
+    ],
+    "leaf": true,
+    "parent": "9526767e178e339c09de14ff267747d3"
+}

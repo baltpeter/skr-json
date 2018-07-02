@@ -1,0 +1,26 @@
+{
+    "objectID": "ecd88b09ea57fbcb6c1371597d818f2c",
+    "name": "Sonstige Verbindlichkeiten",
+    "type": "Verbindlichkeit",
+    "code": "3500",
+    "description": "",
+    "categories": [
+        "08. sonstige Verbindlichkeiten",
+        "C. Verbindlichkeiten",
+        "Passiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "Passiva > C. Verbindlichkeiten > 08. sonstige Verbindlichkeiten"
+        },
+        {
+            "lvl1": "Passiva > C. Verbindlichkeiten"
+        },
+        {
+            "lvl0": "Passiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": true,
+    "parent": "3f6c684bfaa3d0fc8b94368847566df3"
+}

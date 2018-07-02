@@ -1,0 +1,26 @@
+{
+    "objectID": "cc9a478b8ebc1897fa4fbcf87e6885aa",
+    "name": "Eingeforderte Nachsch\u00fcsse",
+    "type": "Aktiva",
+    "code": "1299",
+    "description": "Gegenkonto 2929",
+    "categories": [
+        "II. Forderungen und sonstige Verm\u00f6gensgegenst\u00e4nde",
+        "B. Umlaufverm\u00f6gen",
+        "Aktiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "Aktiva > B. Umlaufverm\u00f6gen > II. Forderungen und sonstige Verm\u00f6gensgegenst\u00e4nde"
+        },
+        {
+            "lvl1": "Aktiva > B. Umlaufverm\u00f6gen"
+        },
+        {
+            "lvl0": "Aktiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "045196223f1e151347db1f23d28b3dc5"
+}

@@ -1,0 +1,33 @@
+{
+    "objectID": "136736176312e62bf11f3ff12caadb34",
+    "name": "0686 Bundesbankf\u00e4hige Besitzwechsel gegen verbundene Unternehmen",
+    "type": "Forderung",
+    "code": "0686",
+    "description": "Besitzwechsel gegen verbundene Unternehmen, bundesbankf\u00e4hig",
+    "categories": [
+        "0683 Besitzwechsel gegen verbundene Unternehmen",
+        "0675-0676+0680-0689 Forderungen / Verbindlichkeiten (verbundene Unternehmen)",
+        "0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde",
+        "0600-0989 UMLAUFVERM\u00d6GEN",
+        "0 aktive Verm\u00f6gensposten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl4": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde > 0675-0676+0680-0689 Forderungen / Verbindlichkeiten (verbundene Unternehmen) > 0683 Besitzwechsel gegen verbundene Unternehmen"
+        },
+        {
+            "lvl3": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde > 0675-0676+0680-0689 Forderungen / Verbindlichkeiten (verbundene Unternehmen)"
+        },
+        {
+            "lvl2": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde"
+        },
+        {
+            "lvl1": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN"
+        },
+        {
+            "lvl0": "0 aktive Verm\u00f6gensposten"
+        }
+    ],
+    "leaf": true,
+    "parent": "7ef08e02beaaa8f5f2782a807fd569c6"
+}

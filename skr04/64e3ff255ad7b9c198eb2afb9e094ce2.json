@@ -1,0 +1,30 @@
+{
+    "objectID": "64e3ff255ad7b9c198eb2afb9e094ce2",
+    "name": "Verbindlichkeiten aus Lieferungen und Leistungen zum erm\u00e4\u00dfigten Umsatzsteuersatz",
+    "type": "Verbindlichkeit",
+    "code": "3306",
+    "description": "E\u00dcR",
+    "categories": [
+        "Verbindlichkeiten aus Lieferungen und Leistungen (Kreditoren)",
+        "04. Verbindlichkeiten aus Lieferungen und Leistungen",
+        "C. Verbindlichkeiten",
+        "Passiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "Passiva > C. Verbindlichkeiten > 04. Verbindlichkeiten aus Lieferungen und Leistungen > Verbindlichkeiten aus Lieferungen und Leistungen (Kreditoren)"
+        },
+        {
+            "lvl2": "Passiva > C. Verbindlichkeiten > 04. Verbindlichkeiten aus Lieferungen und Leistungen"
+        },
+        {
+            "lvl1": "Passiva > C. Verbindlichkeiten"
+        },
+        {
+            "lvl0": "Passiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "a7e6f09fcbf7fab4f58b31620ea09a18"
+}

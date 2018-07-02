@@ -1,0 +1,25 @@
+{
+    "objectID": "8e946e63784438dc6827aa8a10ac2672",
+    "name": "9889 Ergebnisvortr\u00e4ge allgemein",
+    "type": "Aktiva",
+    "code": "9889",
+    "description": "Ergebnisvortr\u00e4ge allgemein",
+    "categories": [
+        "9850-9889 Ergebnisvortr\u00e4ge des laufenden Jahres",
+        "9600-9998 WEITERE STATISTIK- UND VORTRAGSKONTEN",
+        "9 Statistik- & Vortragskonten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "9 Statistik- & Vortragskonten > 9600-9998 WEITERE STATISTIK- UND VORTRAGSKONTEN > 9850-9889 Ergebnisvortr\u00e4ge des laufenden Jahres"
+        },
+        {
+            "lvl1": "9 Statistik- & Vortragskonten > 9600-9998 WEITERE STATISTIK- UND VORTRAGSKONTEN"
+        },
+        {
+            "lvl0": "9 Statistik- & Vortragskonten"
+        }
+    ],
+    "leaf": true,
+    "parent": "427ace262e6e2482b79ede6a3f56b07d"
+}

@@ -1,0 +1,25 @@
+{
+    "objectID": "c14b4106fc4d582b89bb35bc343d523d",
+    "name": "4443 Steuerpflichtige Kursgewinne aus Wertpapieren",
+    "type": "Ertrag",
+    "code": "4443",
+    "description": "Steuerpflichtige Kursgewinne aus Wertpapieren 0% USt",
+    "categories": [
+        "4420-4443 Zins- und Kursertr\u00e4ge",
+        "4400-4499 EINNAHMEN NGV",
+        "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4400-4499 EINNAHMEN NGV > 4420-4443 Zins- und Kursertr\u00e4ge"
+        },
+        {
+            "lvl1": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4400-4499 EINNAHMEN NGV"
+        },
+        {
+            "lvl0": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung"
+        }
+    ],
+    "leaf": true,
+    "parent": "31db50549ce9368f1bda573031c2776a"
+}

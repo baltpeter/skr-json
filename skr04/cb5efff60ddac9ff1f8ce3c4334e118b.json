@@ -1,0 +1,30 @@
+{
+    "objectID": "cb5efff60ddac9ff1f8ce3c4334e118b",
+    "name": "Kapitalr\u00fccklage",
+    "type": "Fremdkapital",
+    "code": "2920",
+    "description": "",
+    "categories": [
+        "II. Kapitalr\u00fccklage",
+        "b) Kapitalgesellschaft",
+        "A. Eigenkapital",
+        "Passiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "Passiva > A. Eigenkapital > b) Kapitalgesellschaft > II. Kapitalr\u00fccklage"
+        },
+        {
+            "lvl2": "Passiva > A. Eigenkapital > b) Kapitalgesellschaft"
+        },
+        {
+            "lvl1": "Passiva > A. Eigenkapital"
+        },
+        {
+            "lvl0": "Passiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": true,
+    "parent": "a5e82f2d37d71d8778bbf7debb5ef5e3"
+}

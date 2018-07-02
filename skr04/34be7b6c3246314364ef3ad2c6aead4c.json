@@ -1,0 +1,22 @@
+{
+    "objectID": "34be7b6c3246314364ef3ad2c6aead4c",
+    "name": "8) verschiedene betriebliche Kosten",
+    "type": "Aufwand",
+    "code": -1,
+    "description": "allg. Verwaltungskosten",
+    "categories": [
+        "a) ordentliche betriebliche Aufwendungen",
+        "08. sonstige betriebliche Aufwendungen"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen"
+        },
+        {
+            "lvl0": "08. sonstige betriebliche Aufwendungen"
+        }
+    ],
+    "leaf": false,
+    "placeholder": true,
+    "parent": "02bf19f7916e6dc15c403335dd274ccb"
+}

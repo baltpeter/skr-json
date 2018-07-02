@@ -1,0 +1,23 @@
+{
+    "objectID": "6113dceb0a05cde7f760ec768d71ba3a",
+    "name": "70000-99999 Kreditoren",
+    "type": "Aktiva",
+    "code": "70000-99999",
+    "description": "Gl\u00e4ubiger",
+    "categories": [
+        "9999 PERSONENKONTEN",
+        "9 Statistik- & Vortragskonten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "9 Statistik- & Vortragskonten > 9999 PERSONENKONTEN"
+        },
+        {
+            "lvl0": "9 Statistik- & Vortragskonten"
+        }
+    ],
+    "leaf": false,
+    "notes": "Hier k\u00f6nnen Unterkonten f\u00fcr Verbindlichkeiten gegen\u00fcber Personen oder Unternehmen angelegt werden.",
+    "placeholder": true,
+    "parent": "38366dff57df040b9ee0ce65b11722cf"
+}

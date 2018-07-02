@@ -1,0 +1,21 @@
+{
+    "objectID": "4355e4bceaa024b71efb3223ac6576c0",
+    "name": "4510 Kfz-Steuer",
+    "type": "Aufwand",
+    "code": "4510",
+    "description": "",
+    "categories": [
+        "Kfz-Kosten",
+        "Aufwendungen 2/4"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "Aufwendungen 2/4 > Kfz-Kosten"
+        },
+        {
+            "lvl0": "Aufwendungen 2/4"
+        }
+    ],
+    "leaf": true,
+    "parent": "8488954a5834d5484ed57439a0d43305"
+}

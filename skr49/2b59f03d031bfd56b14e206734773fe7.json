@@ -1,0 +1,29 @@
+{
+    "objectID": "2b59f03d031bfd56b14e206734773fe7",
+    "name": "3420 Verkaufserl\u00f6se Verm\u00f6gensverwaltung",
+    "type": "Ertrag",
+    "code": "3420",
+    "description": "Ertr\u00e4ge aus dem Abgang von Gegenst\u00e4nden des Anlageverm\u00f6gens ertragsteuerfrei",
+    "categories": [
+        "3400 Steuerneutrale Einnahmen Bereich 4000",
+        "3400-3499 Verm\u00f6gensverwaltung",
+        "3200-3899  ERTRAGSNEUTRALE POSTEN",
+        "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN > 3400-3499 Verm\u00f6gensverwaltung > 3400 Steuerneutrale Einnahmen Bereich 4000"
+        },
+        {
+            "lvl2": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN > 3400-3499 Verm\u00f6gensverwaltung"
+        },
+        {
+            "lvl1": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN"
+        },
+        {
+            "lvl0": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
+        }
+    ],
+    "leaf": true,
+    "parent": "450b763d8b0cba6f21c03825c05495a1"
+}

@@ -1,0 +1,30 @@
+{
+    "objectID": "ef38fa59dc24f353ca58eed4fd4598b7",
+    "name": "Reisekosten Arbeitnehmer Fahrtkosten",
+    "type": "Aufwand",
+    "code": "6663",
+    "description": "",
+    "categories": [
+        "Reisekosten Arbeitnehmer",
+        "6) Werbe- und Reisekosten",
+        "a) ordentliche betriebliche Aufwendungen",
+        "08. sonstige betriebliche Aufwendungen"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen > 6) Werbe- und Reisekosten > Reisekosten Arbeitnehmer"
+        },
+        {
+            "lvl2": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen > 6) Werbe- und Reisekosten"
+        },
+        {
+            "lvl1": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen"
+        },
+        {
+            "lvl0": "08. sonstige betriebliche Aufwendungen"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "03ce1f9501fb243d08288bb02a9f431e"
+}

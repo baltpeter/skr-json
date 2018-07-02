@@ -1,0 +1,27 @@
+{
+    "objectID": "4cd98cc73bd54c99cce8d019d4a657d0",
+    "name": "Verkaufsprovisionen",
+    "type": "Aufwand",
+    "code": "6770",
+    "description": "",
+    "categories": [
+        "7) Kosten der Warenabgabe",
+        "a) ordentliche betriebliche Aufwendungen",
+        "08. sonstige betriebliche Aufwendungen"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen > 7) Kosten der Warenabgabe"
+        },
+        {
+            "lvl1": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen"
+        },
+        {
+            "lvl0": "08. sonstige betriebliche Aufwendungen"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "tax-related": false,
+    "parent": "f426b343a06164be037f65c82153a874"
+}

@@ -1,0 +1,21 @@
+{
+    "objectID": "b2d79b416fee27d4d6a38643f6ad0d45",
+    "name": "1791 Umsatzsteuer fr\u00fchere Jahre",
+    "type": "Fremdkapital",
+    "code": "1791",
+    "description": "",
+    "categories": [
+        "Umsatzsteuer",
+        "Passiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "Passiva > Umsatzsteuer"
+        },
+        {
+            "lvl0": "Passiva"
+        }
+    ],
+    "leaf": true,
+    "parent": "dea7f32e6a447d2d1cd7048932c98265"
+}

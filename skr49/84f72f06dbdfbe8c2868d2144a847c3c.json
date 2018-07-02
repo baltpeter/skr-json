@@ -1,0 +1,26 @@
+{
+    "objectID": "84f72f06dbdfbe8c2868d2144a847c3c",
+    "name": "1170 Vereinskapital / sonstige nicht zeitnah zuverwendende Mittel",
+    "type": "Fremdkapital",
+    "code": "1170",
+    "description": "Vereinskapital oder sonstige nicht zeitnah zuverwendende Mittel",
+    "categories": [
+        "1160+1170 Jahres\u00fcberschuss / -Fehlbetrag",
+        "1000-1179 VERM\u00d6GEN / EIGENKAPITAL",
+        "1 passive Verm\u00f6gensposten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL > 1160+1170 Jahres\u00fcberschuss / -Fehlbetrag"
+        },
+        {
+            "lvl1": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL"
+        },
+        {
+            "lvl0": "1 passive Verm\u00f6gensposten"
+        }
+    ],
+    "leaf": true,
+    "notes": "Vereinskapital gem\u00e4\u00df \u00a758 Nummer 11 Abgabenordnung\nStiftung/GmbH: Sonstige nicht zeitnah zu verwendende Mittel gem\u00e4\u00df \u00a762 Absatz 3 Abgabenordnung\nKontenbeschriftung in 2017 ge\u00e4ndert.",
+    "parent": "4ce79c69e8a2c4ad94a694ce47a6493f"
+}

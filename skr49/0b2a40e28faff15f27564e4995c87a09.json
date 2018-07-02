@@ -1,0 +1,25 @@
+{
+    "objectID": "0b2a40e28faff15f27564e4995c87a09",
+    "name": "4422 Sonstige Kapitalertr\u00e4ge",
+    "type": "Ertrag",
+    "code": "4422",
+    "description": "Sonstige Kapitalertr\u00e4ge",
+    "categories": [
+        "4420-4443 Zins- und Kursertr\u00e4ge",
+        "4400-4499 EINNAHMEN NGV",
+        "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4400-4499 EINNAHMEN NGV > 4420-4443 Zins- und Kursertr\u00e4ge"
+        },
+        {
+            "lvl1": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4400-4499 EINNAHMEN NGV"
+        },
+        {
+            "lvl0": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung"
+        }
+    ],
+    "leaf": true,
+    "parent": "31db50549ce9368f1bda573031c2776a"
+}

@@ -1,0 +1,30 @@
+{
+    "objectID": "e1a090f14aae3f5d428141819c64dc91",
+    "name": "4972 Reisekosten Arbeitnehmer \u00dcbernachtungsaufwand",
+    "type": "Aufwand",
+    "code": "4972",
+    "description": "Reisekosten Arbeitnehmer \u00dcbernachtungsaufwand",
+    "categories": [
+        "4970 Reisekosten Arbeitnehmer",
+        "4510 Ausgaben Bereich 4000",
+        "4500-4999 AUSGABEN / WERBUNGSKOSTEN",
+        "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4500-4999 AUSGABEN / WERBUNGSKOSTEN > 4510 Ausgaben Bereich 4000 > 4970 Reisekosten Arbeitnehmer"
+        },
+        {
+            "lvl2": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4500-4999 AUSGABEN / WERBUNGSKOSTEN > 4510 Ausgaben Bereich 4000"
+        },
+        {
+            "lvl1": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4500-4999 AUSGABEN / WERBUNGSKOSTEN"
+        },
+        {
+            "lvl0": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung"
+        }
+    ],
+    "leaf": true,
+    "notes": "Konto f\u00fcr das Buchungsjahr 2017 neu eingef\u00fchrt.",
+    "parent": "f2e2c8c3c2e58eed31f167805ef3701c"
+}

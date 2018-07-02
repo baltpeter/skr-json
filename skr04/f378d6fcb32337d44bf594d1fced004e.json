@@ -1,0 +1,26 @@
+{
+    "objectID": "f378d6fcb32337d44bf594d1fced004e",
+    "name": "Beitr\u00e4ge",
+    "type": "Aufwand",
+    "code": "6420",
+    "description": "",
+    "categories": [
+        "3) Versicherungen, Beitr\u00e4ge und Abgaben",
+        "a) ordentliche betriebliche Aufwendungen",
+        "08. sonstige betriebliche Aufwendungen"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen > 3) Versicherungen, Beitr\u00e4ge und Abgaben"
+        },
+        {
+            "lvl1": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen"
+        },
+        {
+            "lvl0": "08. sonstige betriebliche Aufwendungen"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "3bbae153acee96659c0f329905f34f51"
+}

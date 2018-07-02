@@ -1,0 +1,25 @@
+{
+    "objectID": "0749f94d00db5c00ec21315c2cc0a311",
+    "name": "1501 Verbindlichkeiten <1 Jahr gegen\u00fcber Kreditinstituten",
+    "type": "Verbindlichkeit",
+    "code": "1501",
+    "description": "Verbindlichkeiten gegen\u00fcber Kreditinstituten \u2013 Restlaufzeit bis 1 Jahr",
+    "categories": [
+        "1500 Verbindlichkeiten gegen\u00fcber Kreditinstituten",
+        "1300-1989 VERBINDLICHKEITEN",
+        "1 passive Verm\u00f6gensposten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "1 passive Verm\u00f6gensposten > 1300-1989 VERBINDLICHKEITEN > 1500 Verbindlichkeiten gegen\u00fcber Kreditinstituten"
+        },
+        {
+            "lvl1": "1 passive Verm\u00f6gensposten > 1300-1989 VERBINDLICHKEITEN"
+        },
+        {
+            "lvl0": "1 passive Verm\u00f6gensposten"
+        }
+    ],
+    "leaf": true,
+    "parent": "6c2e57a2ff618e4033df95b97dd2e1be"
+}

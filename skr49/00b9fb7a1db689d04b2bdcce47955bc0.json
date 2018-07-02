@@ -1,0 +1,37 @@
+{
+    "objectID": "00b9fb7a1db689d04b2bdcce47955bc0",
+    "name": "5090 Einnahmen aus Sportkursen, Lehrg\u00e4ngen",
+    "type": "Ertrag",
+    "code": "5090",
+    "description": "Einnahmen aus USt-pflichtigen Sportkursen, Lehrg\u00e4ngen ohne bezahlte Sportler",
+    "categories": [
+        "5070 Einnahmen sonstiger sportlicher Veranstaltungen",
+        "5000-5120 Umsatzerl\u00f6se",
+        "5000-5279 EINNAHMEN / ERTR\u00c4GE",
+        "5000-5699 ZWECKBETRIEBE SPORT 1",
+        "5000-5889 ZWECKBETRIEBE SPORT",
+        "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl5": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5000-5889 ZWECKBETRIEBE SPORT > 5000-5699 ZWECKBETRIEBE SPORT 1 > 5000-5279 EINNAHMEN / ERTR\u00c4GE > 5000-5120 Umsatzerl\u00f6se > 5070 Einnahmen sonstiger sportlicher Veranstaltungen"
+        },
+        {
+            "lvl4": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5000-5889 ZWECKBETRIEBE SPORT > 5000-5699 ZWECKBETRIEBE SPORT 1 > 5000-5279 EINNAHMEN / ERTR\u00c4GE > 5000-5120 Umsatzerl\u00f6se"
+        },
+        {
+            "lvl3": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5000-5889 ZWECKBETRIEBE SPORT > 5000-5699 ZWECKBETRIEBE SPORT 1 > 5000-5279 EINNAHMEN / ERTR\u00c4GE"
+        },
+        {
+            "lvl2": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5000-5889 ZWECKBETRIEBE SPORT > 5000-5699 ZWECKBETRIEBE SPORT 1"
+        },
+        {
+            "lvl1": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5000-5889 ZWECKBETRIEBE SPORT"
+        },
+        {
+            "lvl0": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport"
+        }
+    ],
+    "leaf": true,
+    "parent": "65e598529b234baff807c9a7badc5bc4"
+}

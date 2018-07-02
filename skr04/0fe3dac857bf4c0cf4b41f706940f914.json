@@ -1,0 +1,22 @@
+{
+    "objectID": "0fe3dac857bf4c0cf4b41f706940f914",
+    "name": "Erl\u00f6sschm\u00e4lerungen 16% USt",
+    "type": "Ertrag",
+    "code": "4720",
+    "description": "",
+    "categories": [
+        "Erl\u00f6sschm\u00e4lerungen",
+        "01. Betriebliche Ertr\u00e4ge"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "01. Betriebliche Ertr\u00e4ge > Erl\u00f6sschm\u00e4lerungen"
+        },
+        {
+            "lvl0": "01. Betriebliche Ertr\u00e4ge"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "2210f6850f7a649cf982df696a48e4b7"
+}

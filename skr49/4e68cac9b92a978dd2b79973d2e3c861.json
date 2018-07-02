@@ -1,0 +1,21 @@
+{
+    "objectID": "4e68cac9b92a978dd2b79973d2e3c861",
+    "name": "5992 Umgebuchte Ausgaben",
+    "type": "Aufwand",
+    "code": "5992",
+    "description": "Umgebuchte Ausgaben B 5000 (Gegenkonto 8990)",
+    "categories": [
+        "5990-5999 ERGEBNISUMBUCHUNG NACH 8980",
+        "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5990-5999 ERGEBNISUMBUCHUNG NACH 8980"
+        },
+        {
+            "lvl0": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport"
+        }
+    ],
+    "leaf": true,
+    "parent": "c4d63e3d1d38c5ad373635a0498a3295"
+}

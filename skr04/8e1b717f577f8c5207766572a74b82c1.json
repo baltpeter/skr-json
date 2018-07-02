@@ -1,0 +1,22 @@
+{
+    "objectID": "8e1b717f577f8c5207766572a74b82c1",
+    "name": "Abschreibungen auf immaterielle Verm\u00f6gensgegenst\u00e4nde",
+    "type": "Aufwand",
+    "code": "6200",
+    "description": "",
+    "categories": [
+        "a) auf immaterielle Verm\u00f6gensgegenst\u00e4nde des Anlageverm\u00f6gens und Sachanlagen",
+        "07. Abschreibungen"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "07. Abschreibungen > a) auf immaterielle Verm\u00f6gensgegenst\u00e4nde des Anlageverm\u00f6gens und Sachanlagen"
+        },
+        {
+            "lvl0": "07. Abschreibungen"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "190d32a7a4ab84dd1b8b1ab0ef80434c"
+}

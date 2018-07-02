@@ -1,0 +1,34 @@
+{
+    "objectID": "bf1c96fcf5aa278be6ad196d3a7802cd",
+    "name": "3856 Verm\u00f6gensteuer",
+    "type": "Aufwand",
+    "code": "3856",
+    "description": "VERALTET!",
+    "categories": [
+        "3853-3857+3864-3890 Steuern",
+        "3850 Nicht abziehb. Ausg. zu Bereich 8000",
+        "3800-3899 Sonstige wirtschaftliche Gesch\u00e4ftsbetriebe",
+        "3200-3899  ERTRAGSNEUTRALE POSTEN",
+        "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl4": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN > 3800-3899 Sonstige wirtschaftliche Gesch\u00e4ftsbetriebe > 3850 Nicht abziehb. Ausg. zu Bereich 8000 > 3853-3857+3864-3890 Steuern"
+        },
+        {
+            "lvl3": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN > 3800-3899 Sonstige wirtschaftliche Gesch\u00e4ftsbetriebe > 3850 Nicht abziehb. Ausg. zu Bereich 8000"
+        },
+        {
+            "lvl2": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN > 3800-3899 Sonstige wirtschaftliche Gesch\u00e4ftsbetriebe"
+        },
+        {
+            "lvl1": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN"
+        },
+        {
+            "lvl0": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
+        }
+    ],
+    "leaf": true,
+    "placeholder": true,
+    "parent": "3789bb15f7f5346c912672c9fdf913e9"
+}

@@ -1,0 +1,30 @@
+{
+    "objectID": "d3319b0c0ee3501a4ad454bf51a775b4",
+    "name": "Fahrten Wohnung zwischen Wohnung und Arbeitsst\u00e4tte (Haben)",
+    "type": "Aufwand",
+    "code": "6690",
+    "description": "",
+    "categories": [
+        "Reisekosten Unternehmer",
+        "6) Werbe- und Reisekosten",
+        "a) ordentliche betriebliche Aufwendungen",
+        "08. sonstige betriebliche Aufwendungen"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen > 6) Werbe- und Reisekosten > Reisekosten Unternehmer"
+        },
+        {
+            "lvl2": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen > 6) Werbe- und Reisekosten"
+        },
+        {
+            "lvl1": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen"
+        },
+        {
+            "lvl0": "08. sonstige betriebliche Aufwendungen"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "98f2cfd54498e60e453551992e9396de"
+}

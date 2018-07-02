@@ -1,0 +1,18 @@
+{
+    "objectID": "3be1aa86d6868b006741b9af6777cf5f",
+    "name": "B. Umlaufverm\u00f6gen",
+    "type": "Aktiva",
+    "code": -1,
+    "description": "SKR04 2005:1000-1999",
+    "categories": [
+        "Aktiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl0": "Aktiva"
+        }
+    ],
+    "leaf": false,
+    "placeholder": false,
+    "parent": "5431c68bfabcf5fdbef88abedd861198"
+}

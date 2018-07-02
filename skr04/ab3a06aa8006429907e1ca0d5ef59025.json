@@ -1,0 +1,30 @@
+{
+    "objectID": "ab3a06aa8006429907e1ca0d5ef59025",
+    "name": "Erhaltene Anzahlungen (bis 1 Jahr)",
+    "type": "Verbindlichkeit",
+    "code": "3280",
+    "description": "",
+    "categories": [
+        "Erhaltene Anzahlungen",
+        "03. erhaltene Anzahlungen auf Bestellungen",
+        "C. Verbindlichkeiten",
+        "Passiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "Passiva > C. Verbindlichkeiten > 03. erhaltene Anzahlungen auf Bestellungen > Erhaltene Anzahlungen"
+        },
+        {
+            "lvl2": "Passiva > C. Verbindlichkeiten > 03. erhaltene Anzahlungen auf Bestellungen"
+        },
+        {
+            "lvl1": "Passiva > C. Verbindlichkeiten"
+        },
+        {
+            "lvl0": "Passiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "8849ae77228dd660bcdfd0becbfd9e7f"
+}

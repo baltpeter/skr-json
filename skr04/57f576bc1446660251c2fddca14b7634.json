@@ -1,0 +1,30 @@
+{
+    "objectID": "57f576bc1446660251c2fddca14b7634",
+    "name": "Erhaltene Kautionen (bis 1 Jahr)",
+    "type": "Verbindlichkeit",
+    "code": "3551",
+    "description": "",
+    "categories": [
+        "Erhaltene Kautionen",
+        "08. sonstige Verbindlichkeiten",
+        "C. Verbindlichkeiten",
+        "Passiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "Passiva > C. Verbindlichkeiten > 08. sonstige Verbindlichkeiten > Erhaltene Kautionen"
+        },
+        {
+            "lvl2": "Passiva > C. Verbindlichkeiten > 08. sonstige Verbindlichkeiten"
+        },
+        {
+            "lvl1": "Passiva > C. Verbindlichkeiten"
+        },
+        {
+            "lvl0": "Passiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "57a400aeb55463d303ce9dd7b76a9433"
+}

@@ -1,0 +1,22 @@
+{
+    "objectID": "191a93226051afcf7c4a7ba261fa4616",
+    "name": "Laufende Ertr\u00e4ge aus Anteilen an Kapitalgesellschaften (Umlaufverm\u00f6gen) 100 %/50 % steuerfrei",
+    "type": "Ertrag",
+    "code": "7103",
+    "description": "inl\u00e4ndische Kap.Ges.",
+    "categories": [
+        "Sonstige Zinsen und \u00e4hnliche Ertr\u00e4ge",
+        "11. sonstige Zinsen und \u00e4hnliche Ertr\u00e4ge"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "11. sonstige Zinsen und \u00e4hnliche Ertr\u00e4ge > Sonstige Zinsen und \u00e4hnliche Ertr\u00e4ge"
+        },
+        {
+            "lvl0": "11. sonstige Zinsen und \u00e4hnliche Ertr\u00e4ge"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "094e09462e1b0d687aa5beeb3e52e6af"
+}

@@ -1,0 +1,22 @@
+{
+    "objectID": "a687f641c6a92e583e4f811a285cac3b",
+    "name": "Einstellungen in satzungsm\u00e4\u00dfige R\u00fccklagen",
+    "type": "Eigenkapital",
+    "code": "7775",
+    "description": "",
+    "categories": [
+        "03. Einstellungen in Gewinnr\u00fccklagen",
+        "21. Ver\u00e4nderungen Vortr\u00e4ge und R\u00fccklagen"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "21. Ver\u00e4nderungen Vortr\u00e4ge und R\u00fccklagen > 03. Einstellungen in Gewinnr\u00fccklagen"
+        },
+        {
+            "lvl0": "21. Ver\u00e4nderungen Vortr\u00e4ge und R\u00fccklagen"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "f14569e730ac327e0d442683013d415a"
+}

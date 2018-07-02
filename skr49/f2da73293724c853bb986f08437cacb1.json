@@ -1,0 +1,41 @@
+{
+    "objectID": "f2da73293724c853bb986f08437cacb1",
+    "name": "0795 Nettoaufwand 19 % aus innergemeinschaftlichem Erwerb",
+    "type": "Aktiva",
+    "code": "0795",
+    "description": "Nettoaufwand 19 % aus innergemeinschaftlichem Erwerb",
+    "categories": [
+        "0790-0807 Nettoaufwand aus innergemeinschaftlichem Erwerb",
+        "0730-0742+0761-0820+0849-0857 Saldo USt-Konten",
+        "0730-0866 Umsatzsteuer-Konten",
+        "0700 Sonstige Verm\u00f6gensgegenst\u00e4nde",
+        "0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde",
+        "0600-0989 UMLAUFVERM\u00d6GEN",
+        "0 aktive Verm\u00f6gensposten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl6": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde > 0700 Sonstige Verm\u00f6gensgegenst\u00e4nde > 0730-0866 Umsatzsteuer-Konten > 0730-0742+0761-0820+0849-0857 Saldo USt-Konten > 0790-0807 Nettoaufwand aus innergemeinschaftlichem Erwerb"
+        },
+        {
+            "lvl5": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde > 0700 Sonstige Verm\u00f6gensgegenst\u00e4nde > 0730-0866 Umsatzsteuer-Konten > 0730-0742+0761-0820+0849-0857 Saldo USt-Konten"
+        },
+        {
+            "lvl4": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde > 0700 Sonstige Verm\u00f6gensgegenst\u00e4nde > 0730-0866 Umsatzsteuer-Konten"
+        },
+        {
+            "lvl3": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde > 0700 Sonstige Verm\u00f6gensgegenst\u00e4nde"
+        },
+        {
+            "lvl2": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde"
+        },
+        {
+            "lvl1": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN"
+        },
+        {
+            "lvl0": "0 aktive Verm\u00f6gensposten"
+        }
+    ],
+    "leaf": true,
+    "parent": "4084e40c936a1b2fb91f297319e2593d"
+}

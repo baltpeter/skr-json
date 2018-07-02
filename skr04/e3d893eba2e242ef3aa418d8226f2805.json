@@ -1,0 +1,30 @@
+{
+    "objectID": "e3d893eba2e242ef3aa418d8226f2805",
+    "name": "Verbindlichk. Verm\u00f6gensbildung (1-5 J)",
+    "type": "Verbindlichkeit",
+    "code": "3780",
+    "description": "",
+    "categories": [
+        "Verbindlichkeiten aus Verm\u00f6gensbildung",
+        "08. sonstige Verbindlichkeiten",
+        "C. Verbindlichkeiten",
+        "Passiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "Passiva > C. Verbindlichkeiten > 08. sonstige Verbindlichkeiten > Verbindlichkeiten aus Verm\u00f6gensbildung"
+        },
+        {
+            "lvl2": "Passiva > C. Verbindlichkeiten > 08. sonstige Verbindlichkeiten"
+        },
+        {
+            "lvl1": "Passiva > C. Verbindlichkeiten"
+        },
+        {
+            "lvl0": "Passiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "34fc3612b13809ba551d2e11b0f5dad2"
+}

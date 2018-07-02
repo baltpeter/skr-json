@@ -1,0 +1,18 @@
+{
+    "objectID": "7f9acf479f01b83b7313ab3082f3e64a",
+    "name": "2000 EINNAHMEN",
+    "type": "Ertrag",
+    "code": "2000",
+    "description": "Einnahmen ideeller Bereich",
+    "categories": [
+        "2 Erfolgskonten ideeller Bereich"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl0": "2 Erfolgskonten ideeller Bereich"
+        }
+    ],
+    "leaf": true,
+    "notes": "Sonstige nicht steuerbare Einnahmen",
+    "parent": "517f97cdac71813b1e092c9116486fc3"
+}

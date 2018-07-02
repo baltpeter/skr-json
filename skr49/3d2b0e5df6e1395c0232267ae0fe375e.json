@@ -1,0 +1,23 @@
+{
+    "objectID": "3d2b0e5df6e1395c0232267ae0fe375e",
+    "name": "9536 Umsatzsteuer in den Forderungen zum erm\u00e4\u00dfigten Umsatzsteuersatz",
+    "type": "Forderung",
+    "code": "9536",
+    "description": "Umsatzsteuer in den Forderungen zum erm\u00e4\u00dfigten Umsatzsteuersatz",
+    "categories": [
+        "9500-9599 STATISTISCHE WERTE F\u00dcR ANLAGE E\u00dcR",
+        "9 Statistik- & Vortragskonten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "9 Statistik- & Vortragskonten > 9500-9599 STATISTISCHE WERTE F\u00dcR ANLAGE E\u00dcR"
+        },
+        {
+            "lvl0": "9 Statistik- & Vortragskonten"
+        }
+    ],
+    "leaf": true,
+    "notes": "Veraltet, in der Version 2017 nicht mehr enthalten!",
+    "placeholder": true,
+    "parent": "baac2841267ad2422440263668815280"
+}

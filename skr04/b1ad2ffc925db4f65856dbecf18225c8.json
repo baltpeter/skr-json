@@ -1,0 +1,18 @@
+{
+    "objectID": "b1ad2ffc925db4f65856dbecf18225c8",
+    "name": "Bestandsver\u00e4nderungen fertige Erzeugnisse",
+    "type": "Ertrag",
+    "code": "4800",
+    "description": "",
+    "categories": [
+        "02. Erh\u00f6hung oder Verminderung des Bestandes an fertigen und unfertigen Erzeugnissen"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl0": "02. Erh\u00f6hung oder Verminderung des Bestandes an fertigen und unfertigen Erzeugnissen"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "1e39012da3dcba7d9581752aa72fdac3"
+}

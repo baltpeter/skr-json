@@ -1,0 +1,23 @@
+{
+    "objectID": "5fb07d4f18666fa93bccff3fc18e09b8",
+    "name": "7000-7799 GESCH\u00c4FTSBETRIEBE SPORT",
+    "type": "Ertrag",
+    "code": "7000-7799",
+    "description": "GESCH\u00c4FTSBETRIEBE SPORT (UST-PFLICHTIG)",
+    "categories": [
+        "7000-7999 GESCH\u00c4FTSBETRIEBE SPORT",
+        "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport > 7000-7999 GESCH\u00c4FTSBETRIEBE SPORT"
+        },
+        {
+            "lvl0": "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport"
+        }
+    ],
+    "leaf": false,
+    "notes": "Teilbereich 7000\nGesch\u00e4ftsbetriebe Sport 3 (Nebent\u00e4tigkeiten siehe ab 7800)\nertragsteuerpflichtig, umsatzsteuerpflichtig",
+    "placeholder": true,
+    "parent": "096947432b3d182afe0af4367014080b"
+}

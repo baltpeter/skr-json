@@ -1,0 +1,26 @@
+{
+    "objectID": "8dca7e8c5812a66350fb4cb7402337d3",
+    "name": "3956 Entnahmen aus freien R\u00fccklagen gem. \u00a762 Abs. 1 Nr. 3 AO",
+    "type": "Ertrag",
+    "code": "3956",
+    "description": "Entnahmen aus freien R\u00fccklagen gem\u00e4\u00df \u00a762 Abs. 1 Nr. 3 AO",
+    "categories": [
+        "3950-3967 Ergebnisverwendung",
+        "3900-3999 ERGEBNISVERWENDUNGSRECHNUNG",
+        "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3900-3999 ERGEBNISVERWENDUNGSRECHNUNG > 3950-3967 Ergebnisverwendung"
+        },
+        {
+            "lvl1": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3900-3999 ERGEBNISVERWENDUNGSRECHNUNG"
+        },
+        {
+            "lvl0": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
+        }
+    ],
+    "leaf": true,
+    "notes": "(ehemals gem\u00e4\u00df \u00a758 Nr. 7b AO)",
+    "parent": "99ea548f62265618e1930a8c76d855fe"
+}

@@ -1,0 +1,30 @@
+{
+    "objectID": "af0a896cba87f41d4d1007d37147184d",
+    "name": "Beteiligung einer GmbH & Co.KG an einer Komplement\u00e4r GmbH",
+    "type": "Aktiva",
+    "code": "0829",
+    "description": "",
+    "categories": [
+        "03. Beteiligungen",
+        "V. Finanzanlagen",
+        "A. Anlageverm\u00f6gen",
+        "Aktiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "Aktiva > A. Anlageverm\u00f6gen > V. Finanzanlagen > 03. Beteiligungen"
+        },
+        {
+            "lvl2": "Aktiva > A. Anlageverm\u00f6gen > V. Finanzanlagen"
+        },
+        {
+            "lvl1": "Aktiva > A. Anlageverm\u00f6gen"
+        },
+        {
+            "lvl0": "Aktiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "d55ac7e08716a24f25f1c8aee576869a"
+}

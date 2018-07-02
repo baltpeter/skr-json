@@ -1,0 +1,18 @@
+{
+    "objectID": "cc5715037741cb6dc51352b19dbe69a7",
+    "name": "Anlagenabg\u00e4nge immaterielle Verm\u00f6gensgegenst\u00e4nde",
+    "type": "Ertrag",
+    "code": "4856",
+    "description": "(Restbuchwert bei Buchgewinn)",
+    "categories": [
+        "04. Sonstige betriebliche Ertr\u00e4ge"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl0": "04. Sonstige betriebliche Ertr\u00e4ge"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "4c0c1557fe54e71d7ed717587a0c0b4d"
+}

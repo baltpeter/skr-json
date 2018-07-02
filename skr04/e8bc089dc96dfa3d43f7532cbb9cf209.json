@@ -1,0 +1,30 @@
+{
+    "objectID": "e8bc089dc96dfa3d43f7532cbb9cf209",
+    "name": "Partiarische Darlehen (bis 1 Jahr)",
+    "type": "Verbindlichkeit",
+    "code": "3541",
+    "description": "",
+    "categories": [
+        "Partiarische Darlehen",
+        "08. sonstige Verbindlichkeiten",
+        "C. Verbindlichkeiten",
+        "Passiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "Passiva > C. Verbindlichkeiten > 08. sonstige Verbindlichkeiten > Partiarische Darlehen"
+        },
+        {
+            "lvl2": "Passiva > C. Verbindlichkeiten > 08. sonstige Verbindlichkeiten"
+        },
+        {
+            "lvl1": "Passiva > C. Verbindlichkeiten"
+        },
+        {
+            "lvl0": "Passiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "040967754f9301f1256ae5b221fc765c"
+}

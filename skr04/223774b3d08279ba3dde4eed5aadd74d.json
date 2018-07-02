@@ -1,0 +1,26 @@
+{
+    "objectID": "223774b3d08279ba3dde4eed5aadd74d",
+    "name": "III. Privat Vollhafter/Einzelunternehmer",
+    "type": "Fremdkapital",
+    "code": -1,
+    "description": "",
+    "categories": [
+        "a) Personengesellschaft",
+        "A. Eigenkapital",
+        "Passiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "Passiva > A. Eigenkapital > a) Personengesellschaft"
+        },
+        {
+            "lvl1": "Passiva > A. Eigenkapital"
+        },
+        {
+            "lvl0": "Passiva"
+        }
+    ],
+    "leaf": false,
+    "placeholder": true,
+    "parent": "411ea1d84113310d5129ff98c4bb2397"
+}

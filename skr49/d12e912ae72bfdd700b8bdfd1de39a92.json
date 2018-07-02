@@ -1,0 +1,50 @@
+{
+    "objectID": "d12e912ae72bfdd700b8bdfd1de39a92",
+    "name": "7412 Km-Geld-Erstattung",
+    "type": "Aufwand",
+    "code": "7412",
+    "description": "Kilometergelderstattung Arbeitnehmer",
+    "categories": [
+        "7413 Reisekosten Arbeitnehmer Fahrtkosten",
+        "7410 Reisekosten Arbeitnehmer",
+        "7406 Reisekostenerstattung",
+        "7400 Allgemeine Kosten des Sportbetriebs",
+        "7300-7799 Sonstige betriebliche Aufwendungen",
+        "7200-7799 AUSGABEN / AUFWENDUNGEN",
+        "7000-7799 GESCH\u00c4FTSBETRIEBE SPORT",
+        "7000-7999 GESCH\u00c4FTSBETRIEBE SPORT",
+        "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl8": "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport > 7000-7999 GESCH\u00c4FTSBETRIEBE SPORT > 7000-7799 GESCH\u00c4FTSBETRIEBE SPORT > 7200-7799 AUSGABEN / AUFWENDUNGEN > 7300-7799 Sonstige betriebliche Aufwendungen > 7400 Allgemeine Kosten des Sportbetriebs > 7406 Reisekostenerstattung > 7410 Reisekosten Arbeitnehmer > 7413 Reisekosten Arbeitnehmer Fahrtkosten"
+        },
+        {
+            "lvl7": "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport > 7000-7999 GESCH\u00c4FTSBETRIEBE SPORT > 7000-7799 GESCH\u00c4FTSBETRIEBE SPORT > 7200-7799 AUSGABEN / AUFWENDUNGEN > 7300-7799 Sonstige betriebliche Aufwendungen > 7400 Allgemeine Kosten des Sportbetriebs > 7406 Reisekostenerstattung > 7410 Reisekosten Arbeitnehmer"
+        },
+        {
+            "lvl6": "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport > 7000-7999 GESCH\u00c4FTSBETRIEBE SPORT > 7000-7799 GESCH\u00c4FTSBETRIEBE SPORT > 7200-7799 AUSGABEN / AUFWENDUNGEN > 7300-7799 Sonstige betriebliche Aufwendungen > 7400 Allgemeine Kosten des Sportbetriebs > 7406 Reisekostenerstattung"
+        },
+        {
+            "lvl5": "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport > 7000-7999 GESCH\u00c4FTSBETRIEBE SPORT > 7000-7799 GESCH\u00c4FTSBETRIEBE SPORT > 7200-7799 AUSGABEN / AUFWENDUNGEN > 7300-7799 Sonstige betriebliche Aufwendungen > 7400 Allgemeine Kosten des Sportbetriebs"
+        },
+        {
+            "lvl4": "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport > 7000-7999 GESCH\u00c4FTSBETRIEBE SPORT > 7000-7799 GESCH\u00c4FTSBETRIEBE SPORT > 7200-7799 AUSGABEN / AUFWENDUNGEN > 7300-7799 Sonstige betriebliche Aufwendungen"
+        },
+        {
+            "lvl3": "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport > 7000-7999 GESCH\u00c4FTSBETRIEBE SPORT > 7000-7799 GESCH\u00c4FTSBETRIEBE SPORT > 7200-7799 AUSGABEN / AUFWENDUNGEN"
+        },
+        {
+            "lvl2": "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport > 7000-7999 GESCH\u00c4FTSBETRIEBE SPORT > 7000-7799 GESCH\u00c4FTSBETRIEBE SPORT"
+        },
+        {
+            "lvl1": "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport > 7000-7999 GESCH\u00c4FTSBETRIEBE SPORT"
+        },
+        {
+            "lvl0": "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport"
+        }
+    ],
+    "leaf": true,
+    "notes": "ehemals allgemein \u201eKm-Geld-Erstattung\u201c",
+    "parent": "abe72567f57c1cff02012ac61bebe1a6"
+}

@@ -1,0 +1,18 @@
+{
+    "objectID": "68953352191a7ad57362fc9a4208c8fc",
+    "name": "Erl\u00f6se Verk\u00e4ufe immat.Verm\u00f6gensgegenst",
+    "type": "Ertrag",
+    "code": "4850",
+    "description": "(bei Buchgewinn)",
+    "categories": [
+        "04. Sonstige betriebliche Ertr\u00e4ge"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl0": "04. Sonstige betriebliche Ertr\u00e4ge"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "4c0c1557fe54e71d7ed717587a0c0b4d"
+}

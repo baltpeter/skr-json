@@ -1,0 +1,46 @@
+{
+    "objectID": "b8cdf6e0b446e46835e87df949ead1bc",
+    "name": "0761 Abziehbare Vorsteuer aus der Auslagerung von Gegenst\u00e4nden aus einem Umsatzsteuerlager",
+    "type": "Forderung",
+    "code": "0761",
+    "description": "Abziehbare Vorsteuer aus der Auslagerung von Gegenst\u00e4nden aus einem Umsatzsteuerlager",
+    "categories": [
+        "0770 Abziehbare Vorsteuer",
+        "0761-0785+0810-0820+0849-0857 Sonstige Verm\u00f6gensgegenst\u00e4nde oder sonstige Verbindlichkeiten",
+        "0730-0742+0761-0820+0849-0857 Saldo USt-Konten",
+        "0730-0866 Umsatzsteuer-Konten",
+        "0700 Sonstige Verm\u00f6gensgegenst\u00e4nde",
+        "0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde",
+        "0600-0989 UMLAUFVERM\u00d6GEN",
+        "0 aktive Verm\u00f6gensposten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl7": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde > 0700 Sonstige Verm\u00f6gensgegenst\u00e4nde > 0730-0866 Umsatzsteuer-Konten > 0730-0742+0761-0820+0849-0857 Saldo USt-Konten > 0761-0785+0810-0820+0849-0857 Sonstige Verm\u00f6gensgegenst\u00e4nde oder sonstige Verbindlichkeiten > 0770 Abziehbare Vorsteuer"
+        },
+        {
+            "lvl6": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde > 0700 Sonstige Verm\u00f6gensgegenst\u00e4nde > 0730-0866 Umsatzsteuer-Konten > 0730-0742+0761-0820+0849-0857 Saldo USt-Konten > 0761-0785+0810-0820+0849-0857 Sonstige Verm\u00f6gensgegenst\u00e4nde oder sonstige Verbindlichkeiten"
+        },
+        {
+            "lvl5": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde > 0700 Sonstige Verm\u00f6gensgegenst\u00e4nde > 0730-0866 Umsatzsteuer-Konten > 0730-0742+0761-0820+0849-0857 Saldo USt-Konten"
+        },
+        {
+            "lvl4": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde > 0700 Sonstige Verm\u00f6gensgegenst\u00e4nde > 0730-0866 Umsatzsteuer-Konten"
+        },
+        {
+            "lvl3": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde > 0700 Sonstige Verm\u00f6gensgegenst\u00e4nde"
+        },
+        {
+            "lvl2": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde"
+        },
+        {
+            "lvl1": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN"
+        },
+        {
+            "lvl0": "0 aktive Verm\u00f6gensposten"
+        }
+    ],
+    "leaf": true,
+    "notes": "Sammelkonto",
+    "parent": "b273eb612d0bdfc1d986f3f07ca1cd78"
+}

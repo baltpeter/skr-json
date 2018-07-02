@@ -1,0 +1,30 @@
+{
+    "objectID": "74d8e435ce4572da11d3d17a4f09358b",
+    "name": "9799 Gegenkonto 2 zu 9700-9797",
+    "type": "Aktiva",
+    "code": "9799",
+    "description": "Gegenkonto 2 zu 9700-9797",
+    "categories": [
+        "9700-9799 freie Statsitikkonten",
+        "9600-9849 Statistische Werte f\u00fcr BWA",
+        "9600-9998 WEITERE STATISTIK- UND VORTRAGSKONTEN",
+        "9 Statistik- & Vortragskonten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "9 Statistik- & Vortragskonten > 9600-9998 WEITERE STATISTIK- UND VORTRAGSKONTEN > 9600-9849 Statistische Werte f\u00fcr BWA > 9700-9799 freie Statsitikkonten"
+        },
+        {
+            "lvl2": "9 Statistik- & Vortragskonten > 9600-9998 WEITERE STATISTIK- UND VORTRAGSKONTEN > 9600-9849 Statistische Werte f\u00fcr BWA"
+        },
+        {
+            "lvl1": "9 Statistik- & Vortragskonten > 9600-9998 WEITERE STATISTIK- UND VORTRAGSKONTEN"
+        },
+        {
+            "lvl0": "9 Statistik- & Vortragskonten"
+        }
+    ],
+    "leaf": true,
+    "notes": "Konto f\u00fcr das Buchungsjahr 2017 neu eingef\u00fchrt.",
+    "parent": "e4d82e633f1295c423bcace86c90dcf5"
+}

@@ -1,0 +1,26 @@
+{
+    "objectID": "7486183532eb86e92f9204307b175880",
+    "name": "4496 Anlagenabg\u00e4nge Finanzanlagen",
+    "type": "Ertrag",
+    "code": "4496",
+    "description": "Anlagenabg\u00e4nge Finanzanlagen (Restbuchwert bei Buchgewinn)",
+    "categories": [
+        "4400 Steuerpflichtige Einnahmen",
+        "4400-4499 EINNAHMEN NGV",
+        "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4400-4499 EINNAHMEN NGV > 4400 Steuerpflichtige Einnahmen"
+        },
+        {
+            "lvl1": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4400-4499 EINNAHMEN NGV"
+        },
+        {
+            "lvl0": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung"
+        }
+    ],
+    "leaf": true,
+    "notes": "Konto f\u00fcr das Buchungsjahr 2018 neu eingef\u00fchrt.",
+    "parent": "381598618cc0baf4bd0acca9cb0ad79b"
+}

@@ -1,0 +1,26 @@
+{
+    "objectID": "019710457cee7792017563cc1c2c8879",
+    "name": "1160 Jahresergebnis",
+    "type": "Fremdkapital",
+    "code": "1160",
+    "description": "Gewinn- oder Verlustvortrag",
+    "categories": [
+        "1160+1170 Jahres\u00fcberschuss / -Fehlbetrag",
+        "1000-1179 VERM\u00d6GEN / EIGENKAPITAL",
+        "1 passive Verm\u00f6gensposten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL > 1160+1170 Jahres\u00fcberschuss / -Fehlbetrag"
+        },
+        {
+            "lvl1": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL"
+        },
+        {
+            "lvl0": "1 passive Verm\u00f6gensposten"
+        }
+    ],
+    "leaf": true,
+    "notes": "Kontenbeschriftung in 2018 ge\u00e4ndert.",
+    "parent": "4ce79c69e8a2c4ad94a694ce47a6493f"
+}

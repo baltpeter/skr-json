@@ -1,0 +1,26 @@
+{
+    "objectID": "3b7d5653bc6511361dd8c0f1b71c3b25",
+    "name": "2502 Abschreibungen auf den Sammelposten Wirtschaftsg\u00fcter",
+    "type": "Aufwand",
+    "code": "2502",
+    "description": "Abschreibungen auf den Sammelposten Wirtschaftsg\u00fcter",
+    "categories": [
+        "2500-2502 Abschreibungen",
+        "2500-2999 AUSGABEN",
+        "2 Erfolgskonten ideeller Bereich"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN > 2500-2502 Abschreibungen"
+        },
+        {
+            "lvl1": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN"
+        },
+        {
+            "lvl0": "2 Erfolgskonten ideeller Bereich"
+        }
+    ],
+    "leaf": true,
+    "notes": "Getauscht mit 2503.",
+    "parent": "eb1011daa10992671560e011a2b3cc48"
+}

@@ -1,0 +1,26 @@
+{
+    "objectID": "d41e7f8414e4a326055bc3137bd9d2c0",
+    "name": "3955 Entnahmen aus freien R\u00fccklagen gem. \u00a762 Abs. 1 Nr. 1 & 2 AO",
+    "type": "Ertrag",
+    "code": "3955",
+    "description": "Entnahmen aus gebundenen R\u00fccklagen gem\u00e4\u00df \u00a762 Abs. 1 Nr. 1 & 2 AO",
+    "categories": [
+        "3950-3967 Ergebnisverwendung",
+        "3900-3999 ERGEBNISVERWENDUNGSRECHNUNG",
+        "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3900-3999 ERGEBNISVERWENDUNGSRECHNUNG > 3950-3967 Ergebnisverwendung"
+        },
+        {
+            "lvl1": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3900-3999 ERGEBNISVERWENDUNGSRECHNUNG"
+        },
+        {
+            "lvl0": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
+        }
+    ],
+    "leaf": true,
+    "notes": "(ehemals gem\u00e4\u00df \u00a758 Nr. 7a AO)",
+    "parent": "99ea548f62265618e1930a8c76d855fe"
+}

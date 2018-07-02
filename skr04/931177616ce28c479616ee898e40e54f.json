@@ -1,0 +1,22 @@
+{
+    "objectID": "931177616ce28c479616ee898e40e54f",
+    "name": "Vorwegnahme k\u00fcnfiger Wertschwankungen bei Wertpapieren des Umlaufverm\u00f6gens",
+    "type": "Aufwand",
+    "code": "7260",
+    "description": "",
+    "categories": [
+        "Abschreibungen auf Finanzanlagen",
+        "12. Abschreibungen auf Finanzanlagen und auf Wertpapiere des Umlaufverm\u00f6gens"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "12. Abschreibungen auf Finanzanlagen und auf Wertpapiere des Umlaufverm\u00f6gens > Abschreibungen auf Finanzanlagen"
+        },
+        {
+            "lvl0": "12. Abschreibungen auf Finanzanlagen und auf Wertpapiere des Umlaufverm\u00f6gens"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "330db1de3813d4b598b2646016d5bab4"
+}

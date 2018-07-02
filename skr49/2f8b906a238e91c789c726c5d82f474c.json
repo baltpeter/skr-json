@@ -1,0 +1,30 @@
+{
+    "objectID": "2f8b906a238e91c789c726c5d82f474c",
+    "name": "0620 Waren",
+    "type": "Aktiva",
+    "code": "0620",
+    "description": "Waren",
+    "categories": [
+        "0620-0629 Fertige Erzeugnisse, Waren",
+        "0600-0629 Vorr\u00e4te",
+        "0600-0989 UMLAUFVERM\u00d6GEN",
+        "0 aktive Verm\u00f6gensposten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0600-0629 Vorr\u00e4te > 0620-0629 Fertige Erzeugnisse, Waren"
+        },
+        {
+            "lvl2": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0600-0629 Vorr\u00e4te"
+        },
+        {
+            "lvl1": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN"
+        },
+        {
+            "lvl0": "0 aktive Verm\u00f6gensposten"
+        }
+    ],
+    "leaf": true,
+    "notes": "Bestand",
+    "parent": "98fa58ee5b2b6adadfff81709328a1d7"
+}

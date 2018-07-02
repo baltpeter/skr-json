@@ -1,0 +1,33 @@
+{
+    "objectID": "cc5a738e17f35a15e1dc636cab5ae580",
+    "name": "1016 R\u00fccklagen ideeller Bereich bis 2016",
+    "type": "Fremdkapital",
+    "code": "1016",
+    "description": "R\u00fccklagen ideeller Bereich bis 2016",
+    "categories": [
+        "1010-1019 R\u00fccklagen ideeller Bereich",
+        "1000-1069 Gebundene R\u00fccklagen",
+        "1000-1079 Gewinnr\u00fccklagen",
+        "1000-1179 VERM\u00d6GEN / EIGENKAPITAL",
+        "1 passive Verm\u00f6gensposten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl4": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL > 1000-1079 Gewinnr\u00fccklagen > 1000-1069 Gebundene R\u00fccklagen > 1010-1019 R\u00fccklagen ideeller Bereich"
+        },
+        {
+            "lvl3": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL > 1000-1079 Gewinnr\u00fccklagen > 1000-1069 Gebundene R\u00fccklagen"
+        },
+        {
+            "lvl2": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL > 1000-1079 Gewinnr\u00fccklagen"
+        },
+        {
+            "lvl1": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL"
+        },
+        {
+            "lvl0": "1 passive Verm\u00f6gensposten"
+        }
+    ],
+    "leaf": true,
+    "parent": "6bf23feea9eac016d8b6d85cf039a67c"
+}

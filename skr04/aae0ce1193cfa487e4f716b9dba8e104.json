@@ -1,0 +1,30 @@
+{
+    "objectID": "aae0ce1193cfa487e4f716b9dba8e104",
+    "name": "Verbindl.aus L+L gg. UN m. Bet.verh. g. 5 J",
+    "type": "Verbindlichkeit",
+    "code": "3480",
+    "description": "",
+    "categories": [
+        "Verbindlichkeiten aus Lieferungen und Leistungen gegen\u00fcber Unternehmen, mit denen ein Beteiligungsverh\u00e4ltnis besteht",
+        "07. Verbindlichkeiten gegen\u00fcber Unternehmen, mit denen ein Beteiligungsverh\u00e4ltnis besteht",
+        "C. Verbindlichkeiten",
+        "Passiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "Passiva > C. Verbindlichkeiten > 07. Verbindlichkeiten gegen\u00fcber Unternehmen, mit denen ein Beteiligungsverh\u00e4ltnis besteht > Verbindlichkeiten aus Lieferungen und Leistungen gegen\u00fcber Unternehmen, mit denen ein Beteiligungsverh\u00e4ltnis besteht"
+        },
+        {
+            "lvl2": "Passiva > C. Verbindlichkeiten > 07. Verbindlichkeiten gegen\u00fcber Unternehmen, mit denen ein Beteiligungsverh\u00e4ltnis besteht"
+        },
+        {
+            "lvl1": "Passiva > C. Verbindlichkeiten"
+        },
+        {
+            "lvl0": "Passiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "5037c8cfdf9170c37c565d76c020c8d1"
+}

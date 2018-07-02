@@ -1,0 +1,34 @@
+{
+    "objectID": "30c5ad236ff29220cd1dd4efd50872de",
+    "name": "6080 Verkaufserl\u00f6se Anlageverm\u00f6gen",
+    "type": "Ertrag",
+    "code": "6080",
+    "description": "Erl\u00f6se aus Verk\u00e4ufen Sachanlageverm\u00f6gen (bei Buchgewinn)",
+    "categories": [
+        "6060 Sonstige betriebliche Ertr\u00e4ge",
+        "6000-6099 EINNAHMEN / ERTR\u00c4GE",
+        "6000-6499 SONSTIGE ZWECKBETRIEBE 1",
+        "6000-6989 SONSTIGE ZWECKBETRIEBE",
+        "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl4": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE > 6000-6499 SONSTIGE ZWECKBETRIEBE 1 > 6000-6099 EINNAHMEN / ERTR\u00c4GE > 6060 Sonstige betriebliche Ertr\u00e4ge"
+        },
+        {
+            "lvl3": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE > 6000-6499 SONSTIGE ZWECKBETRIEBE 1 > 6000-6099 EINNAHMEN / ERTR\u00c4GE"
+        },
+        {
+            "lvl2": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE > 6000-6499 SONSTIGE ZWECKBETRIEBE 1"
+        },
+        {
+            "lvl1": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE"
+        },
+        {
+            "lvl0": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe"
+        }
+    ],
+    "leaf": true,
+    "notes": "Verkaufserl\u00f6se Anlageverm\u00f6gen Zweckbetriebe 7%",
+    "parent": "ec02c72129e370331ab9bf07579e54af"
+}

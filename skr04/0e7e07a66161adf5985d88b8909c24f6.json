@@ -1,0 +1,26 @@
+{
+    "objectID": "0e7e07a66161adf5985d88b8909c24f6",
+    "name": "Ausgleichsabgabe i. S. d. Schwerbehindertengesetzes",
+    "type": "Aufwand",
+    "code": "6440",
+    "description": "",
+    "categories": [
+        "3) Versicherungen, Beitr\u00e4ge und Abgaben",
+        "a) ordentliche betriebliche Aufwendungen",
+        "08. sonstige betriebliche Aufwendungen"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen > 3) Versicherungen, Beitr\u00e4ge und Abgaben"
+        },
+        {
+            "lvl1": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen"
+        },
+        {
+            "lvl0": "08. sonstige betriebliche Aufwendungen"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "3bbae153acee96659c0f329905f34f51"
+}

@@ -1,0 +1,26 @@
+{
+    "objectID": "8e2478b0f84490bd038922985731589a",
+    "name": "Ausgangsfrachten",
+    "type": "Aufwand",
+    "code": "6740",
+    "description": "",
+    "categories": [
+        "7) Kosten der Warenabgabe",
+        "a) ordentliche betriebliche Aufwendungen",
+        "08. sonstige betriebliche Aufwendungen"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen > 7) Kosten der Warenabgabe"
+        },
+        {
+            "lvl1": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen"
+        },
+        {
+            "lvl0": "08. sonstige betriebliche Aufwendungen"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "f426b343a06164be037f65c82153a874"
+}

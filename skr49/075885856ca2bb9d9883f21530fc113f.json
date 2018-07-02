@@ -1,0 +1,21 @@
+{
+    "objectID": "075885856ca2bb9d9883f21530fc113f",
+    "name": "4980-4999 Personalaufwand",
+    "type": "Aufwand",
+    "code": "4980-4999",
+    "description": "Personalaufwand",
+    "categories": [
+        "4500-4999 AUSGABEN / WERBUNGSKOSTEN",
+        "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4500-4999 AUSGABEN / WERBUNGSKOSTEN"
+        },
+        {
+            "lvl0": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung"
+        }
+    ],
+    "leaf": false,
+    "parent": "05c81399d2afb9a71deb38740612a19c"
+}

@@ -1,0 +1,22 @@
+{
+    "objectID": "a6d29473689f19e6f02a7995a5851f5b",
+    "name": "Unentgeltl. Erbringung Leist. 16% USt",
+    "type": "Ertrag",
+    "code": "4660",
+    "description": "",
+    "categories": [
+        "Unentgeltliche Wertabgaben",
+        "01. Betriebliche Ertr\u00e4ge"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "01. Betriebliche Ertr\u00e4ge > Unentgeltliche Wertabgaben"
+        },
+        {
+            "lvl0": "01. Betriebliche Ertr\u00e4ge"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "ce8895363d9f2d01b9f4f733ab7b02db"
+}

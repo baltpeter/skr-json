@@ -1,0 +1,12 @@
+{
+    "objectID": "14317143371642d28f1085f244e92164",
+    "name": "19. sonstige Steuern",
+    "type": "Aufwand",
+    "code": -1,
+    "description": "ertragsunabh\u00e4ngig",
+    "categories": [],
+    "hierarchicalCategories": [],
+    "leaf": false,
+    "placeholder": false,
+    "parent": "1972cce2e2364f95b2b0bc014502661d"
+}

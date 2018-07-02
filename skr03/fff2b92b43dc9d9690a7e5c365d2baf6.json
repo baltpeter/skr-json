@@ -1,0 +1,21 @@
+{
+    "objectID": "fff2b92b43dc9d9690a7e5c365d2baf6",
+    "name": "1810 Privatsteuern",
+    "type": "Eigenkapital",
+    "code": "1810",
+    "description": "",
+    "categories": [
+        "Privatentnahmen/-einlagen",
+        "Privatkonten 1"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "Privatkonten 1 > Privatentnahmen/-einlagen"
+        },
+        {
+            "lvl0": "Privatkonten 1"
+        }
+    ],
+    "leaf": true,
+    "parent": "b9ae1b059749ea81c757a9adad39db1b"
+}

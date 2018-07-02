@@ -1,0 +1,34 @@
+{
+    "objectID": "a2046307bda04804b5e6277e01baef5a",
+    "name": "Umsatzsteuer nach \u00a713b UStG 16%",
+    "type": "Verbindlichkeit",
+    "code": "3836",
+    "description": "",
+    "categories": [
+        "Umsatzsteuer nach \u00a713b UStG",
+        "Umsatzsteuervorauszahlungen",
+        "10. Umsatzsteuer",
+        "C. Verbindlichkeiten",
+        "Passiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl4": "Passiva > C. Verbindlichkeiten > 10. Umsatzsteuer > Umsatzsteuervorauszahlungen > Umsatzsteuer nach \u00a713b UStG"
+        },
+        {
+            "lvl3": "Passiva > C. Verbindlichkeiten > 10. Umsatzsteuer > Umsatzsteuervorauszahlungen"
+        },
+        {
+            "lvl2": "Passiva > C. Verbindlichkeiten > 10. Umsatzsteuer"
+        },
+        {
+            "lvl1": "Passiva > C. Verbindlichkeiten"
+        },
+        {
+            "lvl0": "Passiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "6cf2599b1f60ced718c520f313ee100b"
+}

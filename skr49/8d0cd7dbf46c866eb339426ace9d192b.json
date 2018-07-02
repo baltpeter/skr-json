@@ -1,0 +1,26 @@
+{
+    "objectID": "8d0cd7dbf46c866eb339426ace9d192b",
+    "name": "6670-6989 AUSGABEN / AUFWENDUNGEN",
+    "type": "Aufwand",
+    "code": "6670-6989",
+    "description": "AUSGABEN / AUFWENDUNGEN",
+    "categories": [
+        "6500-6989 SONSTIGE ZWECKBETRIEBE 2",
+        "6000-6989 SONSTIGE ZWECKBETRIEBE",
+        "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE > 6500-6989 SONSTIGE ZWECKBETRIEBE 2"
+        },
+        {
+            "lvl1": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE"
+        },
+        {
+            "lvl0": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe"
+        }
+    ],
+    "leaf": false,
+    "placeholder": true,
+    "parent": "4b9315ea8f889321c05e5e558c9cea46"
+}

@@ -1,0 +1,30 @@
+{
+    "objectID": "9787ee5bc561f2822d3c3f59603e1d1f",
+    "name": "7000-7150+7154-7199 Umsatzerl\u00f6se",
+    "type": "Ertrag",
+    "code": "7000-7150+7154-7199",
+    "description": "Umsatzerl\u00f6se",
+    "categories": [
+        "7000-7199 EINNAHMEN / ERTR\u00c4GE",
+        "7000-7799 GESCH\u00c4FTSBETRIEBE SPORT",
+        "7000-7999 GESCH\u00c4FTSBETRIEBE SPORT",
+        "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport > 7000-7999 GESCH\u00c4FTSBETRIEBE SPORT > 7000-7799 GESCH\u00c4FTSBETRIEBE SPORT > 7000-7199 EINNAHMEN / ERTR\u00c4GE"
+        },
+        {
+            "lvl2": "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport > 7000-7999 GESCH\u00c4FTSBETRIEBE SPORT > 7000-7799 GESCH\u00c4FTSBETRIEBE SPORT"
+        },
+        {
+            "lvl1": "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport > 7000-7999 GESCH\u00c4FTSBETRIEBE SPORT"
+        },
+        {
+            "lvl0": "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport"
+        }
+    ],
+    "leaf": false,
+    "placeholder": true,
+    "parent": "af18bcabf9dbc9afcf1eed2b5e943b3a"
+}

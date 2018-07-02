@@ -1,0 +1,23 @@
+{
+    "objectID": "56d46dd3b373b38c30ecf7fe5321a12c",
+    "name": "5) Fahrzeugkosten",
+    "type": "Aufwand",
+    "code": "6500",
+    "description": "",
+    "categories": [
+        "a) ordentliche betriebliche Aufwendungen",
+        "08. sonstige betriebliche Aufwendungen"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen"
+        },
+        {
+            "lvl0": "08. sonstige betriebliche Aufwendungen"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "tax-related": false,
+    "parent": "02bf19f7916e6dc15c403335dd274ccb"
+}

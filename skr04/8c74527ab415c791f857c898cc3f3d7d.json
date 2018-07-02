@@ -1,0 +1,22 @@
+{
+    "objectID": "8c74527ab415c791f857c898cc3f3d7d",
+    "name": "Sonstige soziale Abgaben",
+    "type": "Aufwand",
+    "code": "6170",
+    "description": "",
+    "categories": [
+        "b) soziale Abgaben und Aufwendungen f\u00fcr Altersversorgung und Unterst\u00fctzung",
+        "06. Personalaufwand"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "06. Personalaufwand > b) soziale Abgaben und Aufwendungen f\u00fcr Altersversorgung und Unterst\u00fctzung"
+        },
+        {
+            "lvl0": "06. Personalaufwand"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "a943872d0d0623064a3c76ccff77965e"
+}

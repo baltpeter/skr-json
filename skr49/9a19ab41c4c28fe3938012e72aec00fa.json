@@ -1,0 +1,33 @@
+{
+    "objectID": "9a19ab41c4c28fe3938012e72aec00fa",
+    "name": "0663 Zweifelhafte Forderungen >1 Jahr",
+    "type": "Forderung",
+    "code": "0663",
+    "description": "Zweifelhafte Forderungen \u2013 Restlaufzeit mehr als 1 Jahr",
+    "categories": [
+        "0661 Zweifelhafte Forderungen",
+        "0650-0674 Forderungen aus Lieferungen und Leistungen",
+        "0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde",
+        "0600-0989 UMLAUFVERM\u00d6GEN",
+        "0 aktive Verm\u00f6gensposten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl4": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde > 0650-0674 Forderungen aus Lieferungen und Leistungen > 0661 Zweifelhafte Forderungen"
+        },
+        {
+            "lvl3": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde > 0650-0674 Forderungen aus Lieferungen und Leistungen"
+        },
+        {
+            "lvl2": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde"
+        },
+        {
+            "lvl1": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN"
+        },
+        {
+            "lvl0": "0 aktive Verm\u00f6gensposten"
+        }
+    ],
+    "leaf": true,
+    "parent": "1d68f165e3219eb5ab7bc6f96f19cdec"
+}

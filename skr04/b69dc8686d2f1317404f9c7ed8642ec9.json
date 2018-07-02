@@ -1,0 +1,26 @@
+{
+    "objectID": "b69dc8686d2f1317404f9c7ed8642ec9",
+    "name": "01. Grundst\u00fccke, grundst\u00fccksgleiche Rechte und Bauten einschlie\u00dflich der Bauten auf fremden Grundst\u00fccken",
+    "type": "Aktiva",
+    "code": "0200",
+    "description": "",
+    "categories": [
+        "IV. Sachanlagen",
+        "A. Anlageverm\u00f6gen",
+        "Aktiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "Aktiva > A. Anlageverm\u00f6gen > IV. Sachanlagen"
+        },
+        {
+            "lvl1": "Aktiva > A. Anlageverm\u00f6gen"
+        },
+        {
+            "lvl0": "Aktiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": true,
+    "parent": "4240cda2d91992e2202a40b0bf36a8b2"
+}

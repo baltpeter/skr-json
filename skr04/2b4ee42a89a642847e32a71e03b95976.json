@@ -1,0 +1,18 @@
+{
+    "objectID": "2b4ee42a89a642847e32a71e03b95976",
+    "name": "B. R\u00fcckstellungen",
+    "type": "Fremdkapital",
+    "code": -1,
+    "description": "",
+    "categories": [
+        "Passiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl0": "Passiva"
+        }
+    ],
+    "leaf": false,
+    "placeholder": true,
+    "parent": "67e3afb8f6e39be571749da7aa113b2e"
+}

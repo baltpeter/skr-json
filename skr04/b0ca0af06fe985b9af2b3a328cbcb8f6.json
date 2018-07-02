@@ -1,0 +1,18 @@
+{
+    "objectID": "b0ca0af06fe985b9af2b3a328cbcb8f6",
+    "name": "Anlagenabg\u00e4nge Sachanlagen",
+    "type": "Ertrag",
+    "code": "4855",
+    "description": "(Restbuchwert bei Buchgewinn)",
+    "categories": [
+        "04. Sonstige betriebliche Ertr\u00e4ge"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl0": "04. Sonstige betriebliche Ertr\u00e4ge"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "4c0c1557fe54e71d7ed717587a0c0b4d"
+}

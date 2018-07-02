@@ -1,0 +1,30 @@
+{
+    "objectID": "f72a6b73266afe3abd1ed1ea15ec15c0",
+    "name": "Au\u00dfergew\u00f6hnliche Belastungen",
+    "type": "Fremdkapital",
+    "code": "2680",
+    "description": "",
+    "categories": [
+        "IV. Privat Teilhafter",
+        "a) Personengesellschaft",
+        "A. Eigenkapital",
+        "Passiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "Passiva > A. Eigenkapital > a) Personengesellschaft > IV. Privat Teilhafter"
+        },
+        {
+            "lvl2": "Passiva > A. Eigenkapital > a) Personengesellschaft"
+        },
+        {
+            "lvl1": "Passiva > A. Eigenkapital"
+        },
+        {
+            "lvl0": "Passiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "3260c1391626c6d4390a92d314f6d047"
+}

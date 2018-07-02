@@ -1,0 +1,30 @@
+{
+    "objectID": "7ec18920ad8ccedc0fe9808505fd8719",
+    "name": "Reinigung f\u00fcr Geb\u00e4ude nicht im BV",
+    "type": "Aufwand",
+    "code": "6333",
+    "description": "",
+    "categories": [
+        "Reinigung",
+        "1) Raumkosten",
+        "a) ordentliche betriebliche Aufwendungen",
+        "08. sonstige betriebliche Aufwendungen"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen > 1) Raumkosten > Reinigung"
+        },
+        {
+            "lvl2": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen > 1) Raumkosten"
+        },
+        {
+            "lvl1": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen"
+        },
+        {
+            "lvl0": "08. sonstige betriebliche Aufwendungen"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "bd911169f6c58288a700ad3680953bab"
+}

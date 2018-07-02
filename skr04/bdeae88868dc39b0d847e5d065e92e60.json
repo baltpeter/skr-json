@@ -1,0 +1,26 @@
+{
+    "objectID": "bdeae88868dc39b0d847e5d065e92e60",
+    "name": "Gegenkonto 3500-3569 bei Aufteilung der Konten 3570-3598",
+    "type": "Verbindlichkeit",
+    "code": "3599",
+    "description": "",
+    "categories": [
+        "08. sonstige Verbindlichkeiten",
+        "C. Verbindlichkeiten",
+        "Passiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "Passiva > C. Verbindlichkeiten > 08. sonstige Verbindlichkeiten"
+        },
+        {
+            "lvl1": "Passiva > C. Verbindlichkeiten"
+        },
+        {
+            "lvl0": "Passiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "3f6c684bfaa3d0fc8b94368847566df3"
+}

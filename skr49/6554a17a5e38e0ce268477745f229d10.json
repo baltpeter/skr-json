@@ -1,0 +1,25 @@
+{
+    "objectID": "6554a17a5e38e0ce268477745f229d10",
+    "name": "2302 Zusch\u00fcsse von Beh\u00f6rden",
+    "type": "Ertrag",
+    "code": "2302",
+    "description": "Zusch\u00fcsse von Beh\u00f6rden",
+    "categories": [
+        "2300 Zusch\u00fcsse",
+        "2000 EINNAHMEN",
+        "2 Erfolgskonten ideeller Bereich"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "2 Erfolgskonten ideeller Bereich > 2000 EINNAHMEN > 2300 Zusch\u00fcsse"
+        },
+        {
+            "lvl1": "2 Erfolgskonten ideeller Bereich > 2000 EINNAHMEN"
+        },
+        {
+            "lvl0": "2 Erfolgskonten ideeller Bereich"
+        }
+    ],
+    "leaf": true,
+    "parent": "065ddce2596365d9d9e8f1f31e958a1b"
+}

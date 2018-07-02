@@ -1,0 +1,18 @@
+{
+    "objectID": "7862bce521129521ac86d0326f7f8e3c",
+    "name": "b) Aufwendungen f\u00fcr bezogene Leistungen",
+    "type": "Aufwand",
+    "code": -1,
+    "description": "",
+    "categories": [
+        "05. Materialaufwand"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl0": "05. Materialaufwand"
+        }
+    ],
+    "leaf": false,
+    "placeholder": false,
+    "parent": "57c64d9217db4ee87cece20a3c08a148"
+}

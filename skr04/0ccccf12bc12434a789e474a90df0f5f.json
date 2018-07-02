@@ -1,0 +1,26 @@
+{
+    "objectID": "0ccccf12bc12434a789e474a90df0f5f",
+    "name": "Leistungen eines im Ausland ans\u00e4ssigen Unternehmers 16% Vorsteuer und 16% Umsatzsteuer",
+    "type": "Aufwand",
+    "code": "5925",
+    "description": "",
+    "categories": [
+        "02. Umst\u00e4ze, f\u00fcr die als Leistungsempf\u00e4nger die Steuer nach 13b Abs. 2 UStG geschuldet wird",
+        "b) Aufwendungen f\u00fcr bezogene Leistungen",
+        "05. Materialaufwand"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "05. Materialaufwand > b) Aufwendungen f\u00fcr bezogene Leistungen > 02. Umst\u00e4ze, f\u00fcr die als Leistungsempf\u00e4nger die Steuer nach 13b Abs. 2 UStG geschuldet wird"
+        },
+        {
+            "lvl1": "05. Materialaufwand > b) Aufwendungen f\u00fcr bezogene Leistungen"
+        },
+        {
+            "lvl0": "05. Materialaufwand"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "6a2cb0c78ebe7460483db55b133914ea"
+}

@@ -1,0 +1,21 @@
+{
+    "objectID": "84cfe3a6dac0e5c7c1ba14b443f393ea",
+    "name": "0550 Sonstige Ausleihungen",
+    "type": "Aktiva",
+    "code": "0550",
+    "description": "Sonstige Ausleihungen",
+    "categories": [
+        "0250-0599 ANDERE ANLAGEN, BETRIEBS- UND GESCH\u00c4FTSAUSSTATTUNG",
+        "0 aktive Verm\u00f6gensposten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "0 aktive Verm\u00f6gensposten > 0250-0599 ANDERE ANLAGEN, BETRIEBS- UND GESCH\u00c4FTSAUSSTATTUNG"
+        },
+        {
+            "lvl0": "0 aktive Verm\u00f6gensposten"
+        }
+    ],
+    "leaf": true,
+    "parent": "0a4482e8dafad43f53d659a8e8be2181"
+}

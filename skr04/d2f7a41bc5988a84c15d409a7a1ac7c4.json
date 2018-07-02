@@ -1,0 +1,27 @@
+{
+    "objectID": "d2f7a41bc5988a84c15d409a7a1ac7c4",
+    "name": "Heizung",
+    "type": "Aufwand",
+    "code": "6320",
+    "description": "",
+    "categories": [
+        "1) Raumkosten",
+        "a) ordentliche betriebliche Aufwendungen",
+        "08. sonstige betriebliche Aufwendungen"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen > 1) Raumkosten"
+        },
+        {
+            "lvl1": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen"
+        },
+        {
+            "lvl0": "08. sonstige betriebliche Aufwendungen"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "tax-related": false,
+    "parent": "70f081631b2bf13005c3453c6d235c6a"
+}

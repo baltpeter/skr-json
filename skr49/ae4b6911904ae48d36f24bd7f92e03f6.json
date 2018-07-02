@@ -1,0 +1,35 @@
+{
+    "objectID": "ae4b6911904ae48d36f24bd7f92e03f6",
+    "name": "1897 reserviert",
+    "type": "Fremdkapital",
+    "code": "1897",
+    "description": "VERALTET!",
+    "categories": [
+        "1880 Umsatzsteuer nicht f\u00e4llig",
+        "1815-1989 Umsatzsteuer-Konten",
+        "1600-1989 Sonstige Verbindlichkeiten oder sonstige Verm\u00f6gensgegenst\u00e4nde",
+        "1300-1989 VERBINDLICHKEITEN",
+        "1 passive Verm\u00f6gensposten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl4": "1 passive Verm\u00f6gensposten > 1300-1989 VERBINDLICHKEITEN > 1600-1989 Sonstige Verbindlichkeiten oder sonstige Verm\u00f6gensgegenst\u00e4nde > 1815-1989 Umsatzsteuer-Konten > 1880 Umsatzsteuer nicht f\u00e4llig"
+        },
+        {
+            "lvl3": "1 passive Verm\u00f6gensposten > 1300-1989 VERBINDLICHKEITEN > 1600-1989 Sonstige Verbindlichkeiten oder sonstige Verm\u00f6gensgegenst\u00e4nde > 1815-1989 Umsatzsteuer-Konten"
+        },
+        {
+            "lvl2": "1 passive Verm\u00f6gensposten > 1300-1989 VERBINDLICHKEITEN > 1600-1989 Sonstige Verbindlichkeiten oder sonstige Verm\u00f6gensgegenst\u00e4nde"
+        },
+        {
+            "lvl1": "1 passive Verm\u00f6gensposten > 1300-1989 VERBINDLICHKEITEN"
+        },
+        {
+            "lvl0": "1 passive Verm\u00f6gensposten"
+        }
+    ],
+    "leaf": true,
+    "notes": "Sammelkonto",
+    "placeholder": true,
+    "parent": "7ac5076fff18918178f397d493b16d18"
+}

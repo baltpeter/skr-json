@@ -1,0 +1,19 @@
+{
+    "objectID": "38366dff57df040b9ee0ce65b11722cf",
+    "name": "9999 PERSONENKONTEN",
+    "type": "Aktiva",
+    "code": "10000-99999",
+    "description": "PERSONENKONTEN",
+    "categories": [
+        "9 Statistik- & Vortragskonten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl0": "9 Statistik- & Vortragskonten"
+        }
+    ],
+    "leaf": false,
+    "notes": "Hier k\u00f6nnen Unterkonten angelegt werden, wenn personenbezogen gebucht werden soll.\nDen Bereich habe ich mit \u201e9999\u201c bezeichet, damit er unterhalb der regul\u00e4ren Konten bis 9998 erscheint.",
+    "placeholder": true,
+    "parent": "3f14162b8e47da34d1705080f97af853"
+}

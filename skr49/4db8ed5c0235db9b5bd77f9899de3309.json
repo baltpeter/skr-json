@@ -1,0 +1,29 @@
+{
+    "objectID": "4db8ed5c0235db9b5bd77f9899de3309",
+    "name": "3782 Geschenke nicht abzugsf\u00e4hig",
+    "type": "Aufwand",
+    "code": "3782",
+    "description": "Geschenke nicht abzugsf\u00e4hig",
+    "categories": [
+        "3750 Nicht abziehbare Ausgaben Bereich 7000",
+        "3700-3799 Gesch\u00e4ftsbetriebe Sport",
+        "3200-3899  ERTRAGSNEUTRALE POSTEN",
+        "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN > 3700-3799 Gesch\u00e4ftsbetriebe Sport > 3750 Nicht abziehbare Ausgaben Bereich 7000"
+        },
+        {
+            "lvl2": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN > 3700-3799 Gesch\u00e4ftsbetriebe Sport"
+        },
+        {
+            "lvl1": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN"
+        },
+        {
+            "lvl0": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
+        }
+    ],
+    "leaf": true,
+    "parent": "60f05759a7baa3c1ce45ef3e686c5b6c"
+}

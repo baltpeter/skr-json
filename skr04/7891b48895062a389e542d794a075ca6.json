@@ -1,0 +1,22 @@
+{
+    "objectID": "7891b48895062a389e542d794a075ca6",
+    "name": "Verwendung von Gegenst\u00e4nden 7% USt",
+    "type": "Ertrag",
+    "code": "4630",
+    "description": "",
+    "categories": [
+        "Unentgeltliche Wertabgaben",
+        "01. Betriebliche Ertr\u00e4ge"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "01. Betriebliche Ertr\u00e4ge > Unentgeltliche Wertabgaben"
+        },
+        {
+            "lvl0": "01. Betriebliche Ertr\u00e4ge"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "ce8895363d9f2d01b9f4f733ab7b02db"
+}

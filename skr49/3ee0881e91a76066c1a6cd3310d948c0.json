@@ -1,0 +1,25 @@
+{
+    "objectID": "3ee0881e91a76066c1a6cd3310d948c0",
+    "name": "2303 Sonstige Zusch\u00fcsse",
+    "type": "Ertrag",
+    "code": "2303",
+    "description": "Sonstige Zusch\u00fcsse",
+    "categories": [
+        "2300 Zusch\u00fcsse",
+        "2000 EINNAHMEN",
+        "2 Erfolgskonten ideeller Bereich"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "2 Erfolgskonten ideeller Bereich > 2000 EINNAHMEN > 2300 Zusch\u00fcsse"
+        },
+        {
+            "lvl1": "2 Erfolgskonten ideeller Bereich > 2000 EINNAHMEN"
+        },
+        {
+            "lvl0": "2 Erfolgskonten ideeller Bereich"
+        }
+    ],
+    "leaf": true,
+    "parent": "065ddce2596365d9d9e8f1f31e958a1b"
+}

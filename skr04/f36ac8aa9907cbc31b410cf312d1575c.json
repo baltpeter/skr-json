@@ -1,0 +1,30 @@
+{
+    "objectID": "f36ac8aa9907cbc31b410cf312d1575c",
+    "name": "Anteile an herrschender oder mit Mehrheit beteiligter Gesellschaft",
+    "type": "Aktiva",
+    "code": "0809",
+    "description": "",
+    "categories": [
+        "01. Anteile an verbundenen Unternehmen",
+        "V. Finanzanlagen",
+        "A. Anlageverm\u00f6gen",
+        "Aktiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "Aktiva > A. Anlageverm\u00f6gen > V. Finanzanlagen > 01. Anteile an verbundenen Unternehmen"
+        },
+        {
+            "lvl2": "Aktiva > A. Anlageverm\u00f6gen > V. Finanzanlagen"
+        },
+        {
+            "lvl1": "Aktiva > A. Anlageverm\u00f6gen"
+        },
+        {
+            "lvl0": "Aktiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "7cac15523ca04d02eebc7df57d57812e"
+}

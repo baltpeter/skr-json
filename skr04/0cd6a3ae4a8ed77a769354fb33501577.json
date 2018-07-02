@@ -1,0 +1,26 @@
+{
+    "objectID": "0cd6a3ae4a8ed77a769354fb33501577",
+    "name": "Tantiemen",
+    "type": "Aufwand",
+    "code": "6026",
+    "description": "",
+    "categories": [
+        "Geh\u00e4lter",
+        "a) L\u00f6hne und Geh\u00e4lter",
+        "06. Personalaufwand"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "06. Personalaufwand > a) L\u00f6hne und Geh\u00e4lter > Geh\u00e4lter"
+        },
+        {
+            "lvl1": "06. Personalaufwand > a) L\u00f6hne und Geh\u00e4lter"
+        },
+        {
+            "lvl0": "06. Personalaufwand"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "d7762789c469b9ba0c995ecac00fa353"
+}

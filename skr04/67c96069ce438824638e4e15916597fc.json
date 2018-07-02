@@ -1,0 +1,22 @@
+{
+    "objectID": "67c96069ce438824638e4e15916597fc",
+    "name": "Abschreibungen auf Finanzanlagen auf Grund steuerlicher Sondervorschriften 100% / 50% nicht abzugsf\u00e4hig",
+    "type": "Aufwand",
+    "code": "7255",
+    "description": "inl\u00e4ndische Kap.Ges.",
+    "categories": [
+        "Abschreibungen auf Finanzanlagen",
+        "12. Abschreibungen auf Finanzanlagen und auf Wertpapiere des Umlaufverm\u00f6gens"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "12. Abschreibungen auf Finanzanlagen und auf Wertpapiere des Umlaufverm\u00f6gens > Abschreibungen auf Finanzanlagen"
+        },
+        {
+            "lvl0": "12. Abschreibungen auf Finanzanlagen und auf Wertpapiere des Umlaufverm\u00f6gens"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "330db1de3813d4b598b2646016d5bab4"
+}

@@ -1,0 +1,25 @@
+{
+    "objectID": "a140583c8b6ad3e5740b7bbe49d46b1c",
+    "name": "1082 Vortrag ideeller Bereich",
+    "type": "Fremdkapital",
+    "code": "1082",
+    "description": "Vortrag ideeller Bereich",
+    "categories": [
+        "1080-1090 Ergebnisvortr\u00e4ge",
+        "1000-1179 VERM\u00d6GEN / EIGENKAPITAL",
+        "1 passive Verm\u00f6gensposten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL > 1080-1090 Ergebnisvortr\u00e4ge"
+        },
+        {
+            "lvl1": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL"
+        },
+        {
+            "lvl0": "1 passive Verm\u00f6gensposten"
+        }
+    ],
+    "leaf": true,
+    "parent": "710b7adeff6481d64884ea80eb5b6f02"
+}

@@ -1,0 +1,22 @@
+{
+    "objectID": "a8ffe0b01093b873492b97badafdab63",
+    "name": "Zuwendungen, Spenden f\u00fcr wissenschaftliche und kulturelle Zwecke",
+    "type": "Aufwand",
+    "code": "6391",
+    "description": "",
+    "categories": [
+        "d) sonstige Aufwendungen im Rahmen der gew\u00f6hnlichen Gesch\u00e4ftst\u00e4tigkeit",
+        "08. sonstige betriebliche Aufwendungen"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "08. sonstige betriebliche Aufwendungen > d) sonstige Aufwendungen im Rahmen der gew\u00f6hnlichen Gesch\u00e4ftst\u00e4tigkeit"
+        },
+        {
+            "lvl0": "08. sonstige betriebliche Aufwendungen"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "1c9b01f1444a088f0922b24a8c1a4ba9"
+}

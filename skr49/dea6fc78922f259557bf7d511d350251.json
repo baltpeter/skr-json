@@ -1,0 +1,25 @@
+{
+    "objectID": "dea6fc78922f259557bf7d511d350251",
+    "name": "2663 Raumnebenkosten",
+    "type": "Aufwand",
+    "code": "2663",
+    "description": "Raumnebenkosten",
+    "categories": [
+        "2660-2663 Raumkosten",
+        "2500-2999 AUSGABEN",
+        "2 Erfolgskonten ideeller Bereich"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN > 2660-2663 Raumkosten"
+        },
+        {
+            "lvl1": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN"
+        },
+        {
+            "lvl0": "2 Erfolgskonten ideeller Bereich"
+        }
+    ],
+    "leaf": true,
+    "parent": "6691583e74356457af663428b0554d55"
+}

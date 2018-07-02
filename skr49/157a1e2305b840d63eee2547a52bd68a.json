@@ -1,0 +1,29 @@
+{
+    "objectID": "157a1e2305b840d63eee2547a52bd68a",
+    "name": "9830 Freies Konto f\u00fcr Menge",
+    "type": "Aktiva",
+    "code": "9830",
+    "description": "Freies Konto f\u00fcr Menge",
+    "categories": [
+        "9830-9848 freie Konten f\u00fcr Menge",
+        "9600-9849 Statistische Werte f\u00fcr BWA",
+        "9600-9998 WEITERE STATISTIK- UND VORTRAGSKONTEN",
+        "9 Statistik- & Vortragskonten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "9 Statistik- & Vortragskonten > 9600-9998 WEITERE STATISTIK- UND VORTRAGSKONTEN > 9600-9849 Statistische Werte f\u00fcr BWA > 9830-9848 freie Konten f\u00fcr Menge"
+        },
+        {
+            "lvl2": "9 Statistik- & Vortragskonten > 9600-9998 WEITERE STATISTIK- UND VORTRAGSKONTEN > 9600-9849 Statistische Werte f\u00fcr BWA"
+        },
+        {
+            "lvl1": "9 Statistik- & Vortragskonten > 9600-9998 WEITERE STATISTIK- UND VORTRAGSKONTEN"
+        },
+        {
+            "lvl0": "9 Statistik- & Vortragskonten"
+        }
+    ],
+    "leaf": true,
+    "parent": "2d7915f2db2db1841125523319249233"
+}

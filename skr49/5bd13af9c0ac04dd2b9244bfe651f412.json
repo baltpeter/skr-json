@@ -1,0 +1,26 @@
+{
+    "objectID": "5bd13af9c0ac04dd2b9244bfe651f412",
+    "name": "6000-6099 EINNAHMEN / ERTR\u00c4GE",
+    "type": "Ertrag",
+    "code": "6000-6099",
+    "description": "Ertr\u00e4ge",
+    "categories": [
+        "6000-6499 SONSTIGE ZWECKBETRIEBE 1",
+        "6000-6989 SONSTIGE ZWECKBETRIEBE",
+        "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE > 6000-6499 SONSTIGE ZWECKBETRIEBE 1"
+        },
+        {
+            "lvl1": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE"
+        },
+        {
+            "lvl0": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe"
+        }
+    ],
+    "leaf": false,
+    "placeholder": true,
+    "parent": "288c7514c7b4037536f094a8aff9858a"
+}

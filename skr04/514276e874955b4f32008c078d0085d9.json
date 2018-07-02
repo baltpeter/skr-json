@@ -1,0 +1,30 @@
+{
+    "objectID": "514276e874955b4f32008c078d0085d9",
+    "name": "Umsatzsteuervorauszahlungen 1/11",
+    "type": "Verbindlichkeit",
+    "code": "3830",
+    "description": "",
+    "categories": [
+        "Umsatzsteuervorauszahlungen",
+        "10. Umsatzsteuer",
+        "C. Verbindlichkeiten",
+        "Passiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "Passiva > C. Verbindlichkeiten > 10. Umsatzsteuer > Umsatzsteuervorauszahlungen"
+        },
+        {
+            "lvl2": "Passiva > C. Verbindlichkeiten > 10. Umsatzsteuer"
+        },
+        {
+            "lvl1": "Passiva > C. Verbindlichkeiten"
+        },
+        {
+            "lvl0": "Passiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "b0b8449ed3962e5c8932ad6ca1e29792"
+}

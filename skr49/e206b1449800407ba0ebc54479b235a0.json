@@ -1,0 +1,29 @@
+{
+    "objectID": "e206b1449800407ba0ebc54479b235a0",
+    "name": "3401 Investitionszulage",
+    "type": "Ertrag",
+    "code": "3401",
+    "description": "Investitionszulage",
+    "categories": [
+        "3400 Steuerneutrale Einnahmen Bereich 4000",
+        "3400-3499 Verm\u00f6gensverwaltung",
+        "3200-3899  ERTRAGSNEUTRALE POSTEN",
+        "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN > 3400-3499 Verm\u00f6gensverwaltung > 3400 Steuerneutrale Einnahmen Bereich 4000"
+        },
+        {
+            "lvl2": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN > 3400-3499 Verm\u00f6gensverwaltung"
+        },
+        {
+            "lvl1": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN"
+        },
+        {
+            "lvl0": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
+        }
+    ],
+    "leaf": true,
+    "parent": "450b763d8b0cba6f21c03825c05495a1"
+}

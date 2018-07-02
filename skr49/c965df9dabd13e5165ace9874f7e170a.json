@@ -1,0 +1,22 @@
+{
+    "objectID": "c965df9dabd13e5165ace9874f7e170a",
+    "name": "1190 L\u00e4ngerfristig gebundene Spenden",
+    "type": "Fremdkapital",
+    "code": "1190",
+    "description": "L\u00e4ngerfristig gebundene Spenden",
+    "categories": [
+        "1180-1199 SONDERPOSTEN",
+        "1 passive Verm\u00f6gensposten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "1 passive Verm\u00f6gensposten > 1180-1199 SONDERPOSTEN"
+        },
+        {
+            "lvl0": "1 passive Verm\u00f6gensposten"
+        }
+    ],
+    "leaf": true,
+    "notes": "Ehemals \u201eGebundene Mittel f\u00fcr F\u00f6rderzwecke\u201c.\nKontenbeschriftung in 2017 ge\u00e4ndert.",
+    "parent": "79838dac3d7a259a0d0226ba63c65a62"
+}

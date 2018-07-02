@@ -1,0 +1,30 @@
+{
+    "objectID": "155b37b50737659f9cb0aa5c8e6920ea",
+    "name": "Gas, Strom, Wasser f\u00fcr Geb\u00e4ude, die nicht zum Betriebsverm\u00f6gen geh\u00f6ren",
+    "type": "Aufwand",
+    "code": "6328",
+    "description": "",
+    "categories": [
+        "Gas, Strom, Wasser",
+        "1) Raumkosten",
+        "a) ordentliche betriebliche Aufwendungen",
+        "08. sonstige betriebliche Aufwendungen"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen > 1) Raumkosten > Gas, Strom, Wasser"
+        },
+        {
+            "lvl2": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen > 1) Raumkosten"
+        },
+        {
+            "lvl1": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen"
+        },
+        {
+            "lvl0": "08. sonstige betriebliche Aufwendungen"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "e1e981175ccf5ca4edcd6adccfeb66d9"
+}

@@ -1,0 +1,13 @@
+{
+    "objectID": "517f97cdac71813b1e092c9116486fc3",
+    "name": "2 Erfolgskonten ideeller Bereich",
+    "type": "Ertrag",
+    "code": "2",
+    "description": "Einnahmen und Ausgaben von Vereinen, die steuerlich keiner Einkunftsart zuzurechnen sind",
+    "categories": [],
+    "hierarchicalCategories": [],
+    "leaf": false,
+    "notes": "Klasse 2: Ergebnisposten (T\u00e4tigkeitsbereich 2000)\nEinnahmen und Ausgaben gemeinn\u00fctziger Vereine und nicht gemeinn\u00fctziger Vereine, die keiner Einkunftsart zuzurechnen (nicht zu versteuern) sind\nUSt-Hinweis: keine USt; Ausnahme: Erwerbsteuer aus innergemeinschaftlichem Erwerb (EU) ohne Vorsteuerabzug",
+    "placeholder": true,
+    "parent": "f2f6eca8892ccc16d1e6126fa5fd012b"
+}

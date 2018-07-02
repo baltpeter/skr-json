@@ -1,0 +1,21 @@
+{
+    "objectID": "875ec51cd332f3b75c15a2a9ca309ebd",
+    "name": "1200 Bankkonto",
+    "type": "Bank",
+    "code": "1200",
+    "description": "",
+    "categories": [
+        "Finanzkonten 1",
+        "Aktiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "Aktiva > Finanzkonten 1"
+        },
+        {
+            "lvl0": "Aktiva"
+        }
+    ],
+    "leaf": true,
+    "parent": "1b13a7614b5e84b0778963995e20d897"
+}

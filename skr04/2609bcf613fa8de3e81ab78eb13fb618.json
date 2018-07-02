@@ -1,0 +1,18 @@
+{
+    "objectID": "2609bcf613fa8de3e81ab78eb13fb618",
+    "name": "Sonstige steuerfreie Betriebseinnahmen",
+    "type": "Ertrag",
+    "code": "4982",
+    "description": "",
+    "categories": [
+        "04. Sonstige betriebliche Ertr\u00e4ge"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl0": "04. Sonstige betriebliche Ertr\u00e4ge"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "4c0c1557fe54e71d7ed717587a0c0b4d"
+}

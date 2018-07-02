@@ -1,0 +1,30 @@
+{
+    "objectID": "7d71003b95289e770bc7222b1b9122c1",
+    "name": "Betriebsvorrichtungen",
+    "type": "Aktiva",
+    "code": "0470",
+    "description": "",
+    "categories": [
+        "02. Technische Anlagen und Maschinen",
+        "IV. Sachanlagen",
+        "A. Anlageverm\u00f6gen",
+        "Aktiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "Aktiva > A. Anlageverm\u00f6gen > IV. Sachanlagen > 02. Technische Anlagen und Maschinen"
+        },
+        {
+            "lvl2": "Aktiva > A. Anlageverm\u00f6gen > IV. Sachanlagen"
+        },
+        {
+            "lvl1": "Aktiva > A. Anlageverm\u00f6gen"
+        },
+        {
+            "lvl0": "Aktiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "02e735cb2ec806f8049cfce36bbb3f91"
+}

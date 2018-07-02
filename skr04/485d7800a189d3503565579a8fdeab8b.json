@@ -1,0 +1,34 @@
+{
+    "objectID": "485d7800a189d3503565579a8fdeab8b",
+    "name": "Andere Zuzahlungen in das Eigenkapital",
+    "type": "Fremdkapital",
+    "code": "2928",
+    "description": "",
+    "categories": [
+        "Kapitalr\u00fccklage",
+        "II. Kapitalr\u00fccklage",
+        "b) Kapitalgesellschaft",
+        "A. Eigenkapital",
+        "Passiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl4": "Passiva > A. Eigenkapital > b) Kapitalgesellschaft > II. Kapitalr\u00fccklage > Kapitalr\u00fccklage"
+        },
+        {
+            "lvl3": "Passiva > A. Eigenkapital > b) Kapitalgesellschaft > II. Kapitalr\u00fccklage"
+        },
+        {
+            "lvl2": "Passiva > A. Eigenkapital > b) Kapitalgesellschaft"
+        },
+        {
+            "lvl1": "Passiva > A. Eigenkapital"
+        },
+        {
+            "lvl0": "Passiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "cb5efff60ddac9ff1f8ce3c4334e118b"
+}

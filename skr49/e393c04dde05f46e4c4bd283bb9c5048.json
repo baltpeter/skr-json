@@ -1,0 +1,22 @@
+{
+    "objectID": "e393c04dde05f46e4c4bd283bb9c5048",
+    "name": "4110-4122 Miet- und Pachtertr\u00e4ge",
+    "type": "Ertrag",
+    "code": "4110-4122",
+    "description": "Miet- und Pachtertr\u00e4ge (gV)",
+    "categories": [
+        "4000-4399 EINNAHMEN GV",
+        "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4000-4399 EINNAHMEN GV"
+        },
+        {
+            "lvl0": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung"
+        }
+    ],
+    "leaf": false,
+    "placeholder": true,
+    "parent": "37605ee28b7de85b0105c855ca8aea4c"
+}

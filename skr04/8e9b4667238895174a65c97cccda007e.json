@@ -1,0 +1,30 @@
+{
+    "objectID": "8e9b4667238895174a65c97cccda007e",
+    "name": "Verrechnung geleistete Anzahlungen",
+    "type": "Verbindlichkeit",
+    "code": "3695",
+    "description": "",
+    "categories": [
+        "Sonstige Verrechnungskonten",
+        "08. sonstige Verbindlichkeiten",
+        "C. Verbindlichkeiten",
+        "Passiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "Passiva > C. Verbindlichkeiten > 08. sonstige Verbindlichkeiten > Sonstige Verrechnungskonten"
+        },
+        {
+            "lvl2": "Passiva > C. Verbindlichkeiten > 08. sonstige Verbindlichkeiten"
+        },
+        {
+            "lvl1": "Passiva > C. Verbindlichkeiten"
+        },
+        {
+            "lvl0": "Passiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "ba655bf306e798662d1d3a9444a82dd0"
+}

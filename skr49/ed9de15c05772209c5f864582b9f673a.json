@@ -1,0 +1,26 @@
+{
+    "objectID": "ed9de15c05772209c5f864582b9f673a",
+    "name": "3969 Einstellungen in die Kapitalr\u00fccklage (vereinfachte Kapitalherabsetzung)",
+    "type": "Aufwand",
+    "code": "3969",
+    "description": "Einstellungen in die Kapitalr\u00fccklage nach den Vorschriften \u00fcber die vereinfachte Kapitalherabsetzung",
+    "categories": [
+        "3968-3988 Ergebnisverwendung (Stiftungen & GmbHs)",
+        "3900-3999 ERGEBNISVERWENDUNGSRECHNUNG",
+        "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3900-3999 ERGEBNISVERWENDUNGSRECHNUNG > 3968-3988 Ergebnisverwendung (Stiftungen & GmbHs)"
+        },
+        {
+            "lvl1": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3900-3999 ERGEBNISVERWENDUNGSRECHNUNG"
+        },
+        {
+            "lvl0": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
+        }
+    ],
+    "leaf": true,
+    "notes": "Nur GmbH und Stiftungen!\nverschoben von 3988",
+    "parent": "1cecd6b4ad34399da287c6e649acfac1"
+}

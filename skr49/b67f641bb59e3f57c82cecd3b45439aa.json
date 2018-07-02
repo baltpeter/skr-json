@@ -1,0 +1,29 @@
+{
+    "objectID": "b67f641bb59e3f57c82cecd3b45439aa",
+    "name": "0040 Verschmelzungsmehrwert",
+    "type": "Aktiva",
+    "code": "0040",
+    "description": "Verschmelzungsmehrwert",
+    "categories": [
+        "0035+0040 Gesch\u00e4fts- oder Firmenwert",
+        "0010-0049 Immaterielle Verm\u00f6gensgegenst\u00e4nde",
+        "0010-0249 ANLAGEVERM\u00d6GEN",
+        "0 aktive Verm\u00f6gensposten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "0 aktive Verm\u00f6gensposten > 0010-0249 ANLAGEVERM\u00d6GEN > 0010-0049 Immaterielle Verm\u00f6gensgegenst\u00e4nde > 0035+0040 Gesch\u00e4fts- oder Firmenwert"
+        },
+        {
+            "lvl2": "0 aktive Verm\u00f6gensposten > 0010-0249 ANLAGEVERM\u00d6GEN > 0010-0049 Immaterielle Verm\u00f6gensgegenst\u00e4nde"
+        },
+        {
+            "lvl1": "0 aktive Verm\u00f6gensposten > 0010-0249 ANLAGEVERM\u00d6GEN"
+        },
+        {
+            "lvl0": "0 aktive Verm\u00f6gensposten"
+        }
+    ],
+    "leaf": true,
+    "parent": "9f21b67e9d770c4f4e069e754b4e7428"
+}

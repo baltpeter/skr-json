@@ -1,0 +1,33 @@
+{
+    "objectID": "2cf6b3531c906ddc468b580b131a90f6",
+    "name": "0677 Wertberichtigungen <1 Jahr auf Forderungen gegen Unternehmen, mit denen ein Beteiligungsverh\u00e4ltnis besteht",
+    "type": "Forderung",
+    "code": "0677",
+    "description": "Wertberichtigungen mit Restlaufzeit bis 1 Jahr auf Forderungen gegen Unternehmen, mit denen ein Beteiligungsverh\u00e4ltnis besteht",
+    "categories": [
+        "0677-0678 Wertberichtigungen auf Forderungen gegen Unternehmen, mit denen ein Beteiligungsverh\u00e4ltnis besteht",
+        "0677-0678+0690-0699 Forderungen / Verbindlichkeiten (Unternehmen, mit denen ein Beteiligungsverh\u00e4ltnis besteht)",
+        "0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde",
+        "0600-0989 UMLAUFVERM\u00d6GEN",
+        "0 aktive Verm\u00f6gensposten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl4": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde > 0677-0678+0690-0699 Forderungen / Verbindlichkeiten (Unternehmen, mit denen ein Beteiligungsverh\u00e4ltnis besteht) > 0677-0678 Wertberichtigungen auf Forderungen gegen Unternehmen, mit denen ein Beteiligungsverh\u00e4ltnis besteht"
+        },
+        {
+            "lvl3": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde > 0677-0678+0690-0699 Forderungen / Verbindlichkeiten (Unternehmen, mit denen ein Beteiligungsverh\u00e4ltnis besteht)"
+        },
+        {
+            "lvl2": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde"
+        },
+        {
+            "lvl1": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN"
+        },
+        {
+            "lvl0": "0 aktive Verm\u00f6gensposten"
+        }
+    ],
+    "leaf": true,
+    "parent": "07d4902b94a31635318257cf4b198889"
+}

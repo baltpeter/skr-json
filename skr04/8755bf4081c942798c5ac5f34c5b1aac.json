@@ -1,0 +1,18 @@
+{
+    "objectID": "8755bf4081c942798c5ac5f34c5b1aac",
+    "name": "C. Verbindlichkeiten",
+    "type": "Verbindlichkeit",
+    "code": -1,
+    "description": "",
+    "categories": [
+        "Passiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl0": "Passiva"
+        }
+    ],
+    "leaf": false,
+    "placeholder": true,
+    "parent": "67e3afb8f6e39be571749da7aa113b2e"
+}

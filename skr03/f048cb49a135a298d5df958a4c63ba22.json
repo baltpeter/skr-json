@@ -1,0 +1,21 @@
+{
+    "objectID": "f048cb49a135a298d5df958a4c63ba22",
+    "name": "1590 Durchlaufende Posten",
+    "type": "Aktiva",
+    "code": "1590",
+    "description": "",
+    "categories": [
+        "Finanzkonten 1",
+        "Aktiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "Aktiva > Finanzkonten 1"
+        },
+        {
+            "lvl0": "Aktiva"
+        }
+    ],
+    "leaf": true,
+    "parent": "1b13a7614b5e84b0778963995e20d897"
+}

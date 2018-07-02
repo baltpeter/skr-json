@@ -1,0 +1,27 @@
+{
+    "objectID": "70679407bd887c210be18b13ecd2e993",
+    "name": "Telefon",
+    "type": "Aufwand",
+    "code": "6805",
+    "description": "",
+    "categories": [
+        "8) verschiedene betriebliche Kosten",
+        "a) ordentliche betriebliche Aufwendungen",
+        "08. sonstige betriebliche Aufwendungen"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen > 8) verschiedene betriebliche Kosten"
+        },
+        {
+            "lvl1": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen"
+        },
+        {
+            "lvl0": "08. sonstige betriebliche Aufwendungen"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "tax-related": false,
+    "parent": "34be7b6c3246314364ef3ad2c6aead4c"
+}

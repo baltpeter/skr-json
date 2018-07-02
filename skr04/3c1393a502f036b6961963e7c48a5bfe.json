@@ -1,0 +1,26 @@
+{
+    "objectID": "3c1393a502f036b6961963e7c48a5bfe",
+    "name": "Verbindlichkeiten gegen\u00fcber Kreditinstituten",
+    "type": "Verbindlichkeit",
+    "code": "3150",
+    "description": "",
+    "categories": [
+        "02. Verbindlichkeiten gegen\u00fcber Kreditinstituten",
+        "C. Verbindlichkeiten",
+        "Passiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "Passiva > C. Verbindlichkeiten > 02. Verbindlichkeiten gegen\u00fcber Kreditinstituten"
+        },
+        {
+            "lvl1": "Passiva > C. Verbindlichkeiten"
+        },
+        {
+            "lvl0": "Passiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": true,
+    "parent": "815036103fbfcdc67d0fcee3c4bd7279"
+}

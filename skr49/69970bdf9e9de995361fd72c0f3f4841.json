@@ -1,0 +1,30 @@
+{
+    "objectID": "69970bdf9e9de995361fd72c0f3f4841",
+    "name": "1686 Verbindlichkeiten <1 Jahr gegen\u00fcber Gesellschaftern",
+    "type": "Verbindlichkeit",
+    "code": "1686",
+    "description": "Verbindlichkeiten gegen\u00fcber GmbH-Gesellschaftern \u2013 Restlaufzeit bis 1 Jahr",
+    "categories": [
+        "1685 Verbindlichkeiten gegen\u00fcber Gesellschaftern",
+        "1600-1989 Sonstige Verbindlichkeiten oder sonstige Verm\u00f6gensgegenst\u00e4nde",
+        "1300-1989 VERBINDLICHKEITEN",
+        "1 passive Verm\u00f6gensposten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "1 passive Verm\u00f6gensposten > 1300-1989 VERBINDLICHKEITEN > 1600-1989 Sonstige Verbindlichkeiten oder sonstige Verm\u00f6gensgegenst\u00e4nde > 1685 Verbindlichkeiten gegen\u00fcber Gesellschaftern"
+        },
+        {
+            "lvl2": "1 passive Verm\u00f6gensposten > 1300-1989 VERBINDLICHKEITEN > 1600-1989 Sonstige Verbindlichkeiten oder sonstige Verm\u00f6gensgegenst\u00e4nde"
+        },
+        {
+            "lvl1": "1 passive Verm\u00f6gensposten > 1300-1989 VERBINDLICHKEITEN"
+        },
+        {
+            "lvl0": "1 passive Verm\u00f6gensposten"
+        }
+    ],
+    "leaf": true,
+    "notes": "Nur GmbH!",
+    "parent": "07754b1498d8cb7ff879b4548c213dce"
+}

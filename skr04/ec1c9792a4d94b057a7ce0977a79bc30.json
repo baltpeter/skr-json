@@ -1,0 +1,18 @@
+{
+    "objectID": "ec1c9792a4d94b057a7ce0977a79bc30",
+    "name": "Ertr\u00e4ge aus der Aufl\u00f6sung von Sonderposten mit R\u00fccklageanteil (Sonderabschreibungen)",
+    "type": "Ertrag",
+    "code": "4937",
+    "description": "",
+    "categories": [
+        "04. Sonstige betriebliche Ertr\u00e4ge"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl0": "04. Sonstige betriebliche Ertr\u00e4ge"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "4c0c1557fe54e71d7ed717587a0c0b4d"
+}

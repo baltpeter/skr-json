@@ -1,0 +1,22 @@
+{
+    "objectID": "693674f6bcdd8dfbc525267340f4771b",
+    "name": "I. Vorr\u00e4te",
+    "type": "Aktiva",
+    "code": -1,
+    "description": "SKR04 2005: 1000-1199",
+    "categories": [
+        "B. Umlaufverm\u00f6gen",
+        "Aktiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "Aktiva > B. Umlaufverm\u00f6gen"
+        },
+        {
+            "lvl0": "Aktiva"
+        }
+    ],
+    "leaf": false,
+    "placeholder": false,
+    "parent": "3be1aa86d6868b006741b9af6777cf5f"
+}

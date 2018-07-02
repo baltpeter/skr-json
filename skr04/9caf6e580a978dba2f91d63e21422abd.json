@@ -1,0 +1,26 @@
+{
+    "objectID": "9caf6e580a978dba2f91d63e21422abd",
+    "name": "II. Kapital / Teilhafter",
+    "type": "Fremdkapital",
+    "code": -1,
+    "description": "Kommanditisten",
+    "categories": [
+        "a) Personengesellschaft",
+        "A. Eigenkapital",
+        "Passiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "Passiva > A. Eigenkapital > a) Personengesellschaft"
+        },
+        {
+            "lvl1": "Passiva > A. Eigenkapital"
+        },
+        {
+            "lvl0": "Passiva"
+        }
+    ],
+    "leaf": false,
+    "placeholder": true,
+    "parent": "411ea1d84113310d5129ff98c4bb2397"
+}

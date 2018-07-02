@@ -1,0 +1,22 @@
+{
+    "objectID": "6073cf446665ad695b594825570fd984",
+    "name": "Pauschale Steuer auf sonstige Bez\u00fcge",
+    "type": "Aufwand",
+    "code": "6069",
+    "description": "(z.B. Fahrtkostenzusch\u00fcsse)",
+    "categories": [
+        "a) L\u00f6hne und Geh\u00e4lter",
+        "06. Personalaufwand"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "06. Personalaufwand > a) L\u00f6hne und Geh\u00e4lter"
+        },
+        {
+            "lvl0": "06. Personalaufwand"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "603fcd641f765110cac07fca1a8d47f1"
+}

@@ -1,0 +1,26 @@
+{
+    "objectID": "94bb4c07d09e97b8af1d1a59fb6cfe3d",
+    "name": "Gew\u00e4hrte Skonti 16% USt",
+    "type": "Ertrag",
+    "code": "4735",
+    "description": "",
+    "categories": [
+        "Gew\u00e4hrte Skonti",
+        "Erl\u00f6sschm\u00e4lerungen",
+        "01. Betriebliche Ertr\u00e4ge"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "01. Betriebliche Ertr\u00e4ge > Erl\u00f6sschm\u00e4lerungen > Gew\u00e4hrte Skonti"
+        },
+        {
+            "lvl1": "01. Betriebliche Ertr\u00e4ge > Erl\u00f6sschm\u00e4lerungen"
+        },
+        {
+            "lvl0": "01. Betriebliche Ertr\u00e4ge"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "4ab6afbf7ce3c5c37b0c6b8119901a8c"
+}

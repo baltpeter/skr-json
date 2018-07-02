@@ -1,0 +1,30 @@
+{
+    "objectID": "9b76bd9513efdf1bf93fcc503e13f160",
+    "name": "1076 R\u00fccklage zum Erwerb von Gesellschaftsrechten \u00a762 Abs. 1 Nr. 4 AO",
+    "type": "Fremdkapital",
+    "code": "1076",
+    "description": "R\u00fccklage zum Erwerb von Gesellschaftsrechten gem\u00e4\u00df \u00a762 Absatz 1 Nummer 4 Abgabenordnung",
+    "categories": [
+        "1075-1079 Sonstige R\u00fccklagen",
+        "1000-1079 Gewinnr\u00fccklagen",
+        "1000-1179 VERM\u00d6GEN / EIGENKAPITAL",
+        "1 passive Verm\u00f6gensposten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL > 1000-1079 Gewinnr\u00fccklagen > 1075-1079 Sonstige R\u00fccklagen"
+        },
+        {
+            "lvl2": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL > 1000-1079 Gewinnr\u00fccklagen"
+        },
+        {
+            "lvl1": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL"
+        },
+        {
+            "lvl0": "1 passive Verm\u00f6gensposten"
+        }
+    ],
+    "leaf": true,
+    "notes": "Ehemals \u201eFreie R\u00fccklagen \u00a758 Nr. 7b AO\u201c",
+    "parent": "58b57fceb4dbe33501ba14f8ac5387d9"
+}

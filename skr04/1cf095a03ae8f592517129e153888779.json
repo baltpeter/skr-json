@@ -1,0 +1,22 @@
+{
+    "objectID": "1cf095a03ae8f592517129e153888779",
+    "name": "K\u00f6rperschaftsteuererstattung Vorjahre",
+    "type": "Ertrag",
+    "code": "7604",
+    "description": "",
+    "categories": [
+        "K\u00f6rperschaftsteuer",
+        "18. Steuern vom Einkommen und vom Ertrag"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "18. Steuern vom Einkommen und vom Ertrag > K\u00f6rperschaftsteuer"
+        },
+        {
+            "lvl0": "18. Steuern vom Einkommen und vom Ertrag"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "f00e5e2126e3acdb3789807e0596a497"
+}

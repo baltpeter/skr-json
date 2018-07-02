@@ -1,0 +1,22 @@
+{
+    "objectID": "f4c0a57e80206cf2d8c3d4033a6c7922",
+    "name": "Verrechneter kalkulatorischer Unternehmerlohn",
+    "type": "Aufwand",
+    "code": "6980",
+    "description": "",
+    "categories": [
+        "e) Kalkulatorische Kosten",
+        "08. sonstige betriebliche Aufwendungen"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "08. sonstige betriebliche Aufwendungen > e) Kalkulatorische Kosten"
+        },
+        {
+            "lvl0": "08. sonstige betriebliche Aufwendungen"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "69ea025cd488b1084c9fed0d584800e2"
+}

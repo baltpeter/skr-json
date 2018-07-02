@@ -1,0 +1,22 @@
+{
+    "objectID": "cb29a2fa9d280427c6d10bebd09b9b95",
+    "name": "Pauschale Steuer auf sonstige Bez\u00fcge",
+    "type": "Aufwand",
+    "code": "6147",
+    "description": "(z.B. Direktversicherungen)",
+    "categories": [
+        "b) soziale Abgaben und Aufwendungen f\u00fcr Altersversorgung und Unterst\u00fctzung",
+        "06. Personalaufwand"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "06. Personalaufwand > b) soziale Abgaben und Aufwendungen f\u00fcr Altersversorgung und Unterst\u00fctzung"
+        },
+        {
+            "lvl0": "06. Personalaufwand"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "a943872d0d0623064a3c76ccff77965e"
+}

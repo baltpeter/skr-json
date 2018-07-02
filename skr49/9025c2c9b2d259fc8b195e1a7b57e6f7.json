@@ -1,0 +1,18 @@
+{
+    "objectID": "9025c2c9b2d259fc8b195e1a7b57e6f7",
+    "name": "1000-1179 VERM\u00d6GEN / EIGENKAPITAL",
+    "type": "Fremdkapital",
+    "code": "1000-1179",
+    "description": "Verm\u00f6gen, Eigenkapital",
+    "categories": [
+        "1 passive Verm\u00f6gensposten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl0": "1 passive Verm\u00f6gensposten"
+        }
+    ],
+    "leaf": false,
+    "placeholder": true,
+    "parent": "1d27222a8423625bfe5a54fcf23df229"
+}

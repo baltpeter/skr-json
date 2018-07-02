@@ -1,0 +1,30 @@
+{
+    "objectID": "918d686b640844fb4aaa2b28948266e8",
+    "name": "Ladeneinrichtung",
+    "type": "Aktiva",
+    "code": "0640",
+    "description": "",
+    "categories": [
+        "03. Andere Anlagen, Betriebs- und Gesch\u00e4ftsausstattung",
+        "IV. Sachanlagen",
+        "A. Anlageverm\u00f6gen",
+        "Aktiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "Aktiva > A. Anlageverm\u00f6gen > IV. Sachanlagen > 03. Andere Anlagen, Betriebs- und Gesch\u00e4ftsausstattung"
+        },
+        {
+            "lvl2": "Aktiva > A. Anlageverm\u00f6gen > IV. Sachanlagen"
+        },
+        {
+            "lvl1": "Aktiva > A. Anlageverm\u00f6gen"
+        },
+        {
+            "lvl0": "Aktiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "9c897b2b8563220f6ba863b5d7bcb0aa"
+}

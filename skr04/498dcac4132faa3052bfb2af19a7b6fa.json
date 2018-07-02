@@ -1,0 +1,27 @@
+{
+    "objectID": "498dcac4132faa3052bfb2af19a7b6fa",
+    "name": "Steuerfreie EG-Lieferungen (\u00a74,1b UStG) an Abnehmer mit UStID",
+    "type": "Ertrag",
+    "code": "4125",
+    "description": "UstVa Zl. 21, Kz. 41",
+    "categories": [
+        "Steuerfreie Ums\u00e4tze",
+        "a) Umsatzerl\u00f6se",
+        "01. Betriebliche Ertr\u00e4ge"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "01. Betriebliche Ertr\u00e4ge > a) Umsatzerl\u00f6se > Steuerfreie Ums\u00e4tze"
+        },
+        {
+            "lvl1": "01. Betriebliche Ertr\u00e4ge > a) Umsatzerl\u00f6se"
+        },
+        {
+            "lvl0": "01. Betriebliche Ertr\u00e4ge"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "tax-related": false,
+    "parent": "3d14d5d5d3001e01974df06bf3752d3a"
+}

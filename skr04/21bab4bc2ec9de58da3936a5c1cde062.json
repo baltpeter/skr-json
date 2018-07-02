@@ -1,0 +1,30 @@
+{
+    "objectID": "21bab4bc2ec9de58da3936a5c1cde062",
+    "name": "Fahrten zwischen Wohnung und Arbeitsst\u00e4tte (abziehbarer Anteil)",
+    "type": "Aufwand",
+    "code": "6688",
+    "description": "",
+    "categories": [
+        "Reisekosten Unternehmer",
+        "6) Werbe- und Reisekosten",
+        "a) ordentliche betriebliche Aufwendungen",
+        "08. sonstige betriebliche Aufwendungen"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen > 6) Werbe- und Reisekosten > Reisekosten Unternehmer"
+        },
+        {
+            "lvl2": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen > 6) Werbe- und Reisekosten"
+        },
+        {
+            "lvl1": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen"
+        },
+        {
+            "lvl0": "08. sonstige betriebliche Aufwendungen"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "98f2cfd54498e60e453551992e9396de"
+}

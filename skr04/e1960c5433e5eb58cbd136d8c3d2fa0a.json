@@ -1,0 +1,30 @@
+{
+    "objectID": "e1960c5433e5eb58cbd136d8c3d2fa0a",
+    "name": "Waren (Bestand)",
+    "type": "Aktiva",
+    "code": "1140",
+    "description": "",
+    "categories": [
+        "03. Fertige Erzeugnisse und Waren (Bestand)",
+        "I. Vorr\u00e4te",
+        "B. Umlaufverm\u00f6gen",
+        "Aktiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "Aktiva > B. Umlaufverm\u00f6gen > I. Vorr\u00e4te > 03. Fertige Erzeugnisse und Waren (Bestand)"
+        },
+        {
+            "lvl2": "Aktiva > B. Umlaufverm\u00f6gen > I. Vorr\u00e4te"
+        },
+        {
+            "lvl1": "Aktiva > B. Umlaufverm\u00f6gen"
+        },
+        {
+            "lvl0": "Aktiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "f8a1595720a430d2d890c735ec280801"
+}

@@ -1,0 +1,29 @@
+{
+    "objectID": "4f0d0be605478aa2d07087e6b429e5fe",
+    "name": "0050 Grundst\u00fccke unbebaut",
+    "type": "Aktiva",
+    "code": "0050",
+    "description": "Grundst\u00fccke unbebaut",
+    "categories": [
+        "0050-0099 Grundst\u00fccke, grundst\u00fccksgleiche Rechte",
+        "0050-0249 Sachanlagen",
+        "0010-0249 ANLAGEVERM\u00d6GEN",
+        "0 aktive Verm\u00f6gensposten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "0 aktive Verm\u00f6gensposten > 0010-0249 ANLAGEVERM\u00d6GEN > 0050-0249 Sachanlagen > 0050-0099 Grundst\u00fccke, grundst\u00fccksgleiche Rechte"
+        },
+        {
+            "lvl2": "0 aktive Verm\u00f6gensposten > 0010-0249 ANLAGEVERM\u00d6GEN > 0050-0249 Sachanlagen"
+        },
+        {
+            "lvl1": "0 aktive Verm\u00f6gensposten > 0010-0249 ANLAGEVERM\u00d6GEN"
+        },
+        {
+            "lvl0": "0 aktive Verm\u00f6gensposten"
+        }
+    ],
+    "leaf": true,
+    "parent": "22f46af8febc1730a47ff6ab392f81fb"
+}

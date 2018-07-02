@@ -1,0 +1,27 @@
+{
+    "objectID": "e1e981175ccf5ca4edcd6adccfeb66d9",
+    "name": "Gas, Strom, Wasser",
+    "type": "Aufwand",
+    "code": "6325",
+    "description": "",
+    "categories": [
+        "1) Raumkosten",
+        "a) ordentliche betriebliche Aufwendungen",
+        "08. sonstige betriebliche Aufwendungen"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen > 1) Raumkosten"
+        },
+        {
+            "lvl1": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen"
+        },
+        {
+            "lvl0": "08. sonstige betriebliche Aufwendungen"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "tax-related": false,
+    "parent": "70f081631b2bf13005c3453c6d235c6a"
+}

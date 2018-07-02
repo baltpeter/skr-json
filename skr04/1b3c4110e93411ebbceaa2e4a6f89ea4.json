@@ -1,0 +1,26 @@
+{
+    "objectID": "1b3c4110e93411ebbceaa2e4a6f89ea4",
+    "name": "07. Genossenschaftsanteile zum langfristigen Verbleib",
+    "type": "Aktiva",
+    "code": "0980",
+    "description": "",
+    "categories": [
+        "V. Finanzanlagen",
+        "A. Anlageverm\u00f6gen",
+        "Aktiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "Aktiva > A. Anlageverm\u00f6gen > V. Finanzanlagen"
+        },
+        {
+            "lvl1": "Aktiva > A. Anlageverm\u00f6gen"
+        },
+        {
+            "lvl0": "Aktiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "0c02303d139190b2cfded19f03caa096"
+}

@@ -1,0 +1,29 @@
+{
+    "objectID": "e698a80c69e9f545773b70a2a00349c1",
+    "name": "3712 Mitglieder-Zusch\u00fcsse zum Verlustausgleich",
+    "type": "Ertrag",
+    "code": "3712",
+    "description": "Mitglieder-Zusch\u00fcsse zum Verlustausgleich f\u00fcr Teilbereich 7001",
+    "categories": [
+        "3700 Steuerneutrale Einnahmen Bereich 7000",
+        "3700-3799 Gesch\u00e4ftsbetriebe Sport",
+        "3200-3899  ERTRAGSNEUTRALE POSTEN",
+        "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN > 3700-3799 Gesch\u00e4ftsbetriebe Sport > 3700 Steuerneutrale Einnahmen Bereich 7000"
+        },
+        {
+            "lvl2": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN > 3700-3799 Gesch\u00e4ftsbetriebe Sport"
+        },
+        {
+            "lvl1": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN"
+        },
+        {
+            "lvl0": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
+        }
+    ],
+    "leaf": true,
+    "parent": "d32cc8d051e36b331198c46be5c0e43a"
+}

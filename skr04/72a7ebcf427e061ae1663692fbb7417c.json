@@ -1,0 +1,30 @@
+{
+    "objectID": "72a7ebcf427e061ae1663692fbb7417c",
+    "name": "Grundst\u00fccksaufwand (Umsatzsteuerschl\u00fcssel m\u00f6glich)",
+    "type": "Fremdkapital",
+    "code": "2349",
+    "description": "",
+    "categories": [
+        "III. Privat Vollhafter/Einzelunternehmer",
+        "a) Personengesellschaft",
+        "A. Eigenkapital",
+        "Passiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "Passiva > A. Eigenkapital > a) Personengesellschaft > III. Privat Vollhafter/Einzelunternehmer"
+        },
+        {
+            "lvl2": "Passiva > A. Eigenkapital > a) Personengesellschaft"
+        },
+        {
+            "lvl1": "Passiva > A. Eigenkapital"
+        },
+        {
+            "lvl0": "Passiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "223774b3d08279ba3dde4eed5aadd74d"
+}

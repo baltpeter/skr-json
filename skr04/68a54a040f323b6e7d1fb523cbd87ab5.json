@@ -1,0 +1,18 @@
+{
+    "objectID": "68a54a040f323b6e7d1fb523cbd87ab5",
+    "name": "Gewerbeertragsteuer",
+    "type": "Aufwand",
+    "code": "7620",
+    "description": "",
+    "categories": [
+        "18. Steuern vom Einkommen und vom Ertrag"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl0": "18. Steuern vom Einkommen und vom Ertrag"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "b1f254106f1e487b31aad762ad1cca11"
+}

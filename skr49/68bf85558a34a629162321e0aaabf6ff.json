@@ -1,0 +1,33 @@
+{
+    "objectID": "68bf85558a34a629162321e0aaabf6ff",
+    "name": "3252 Hingegebene Sachspenden/-Zuwendungen",
+    "type": "Aufwand",
+    "code": "3252",
+    "description": "Hingegebene Sachspenden/-Zuwendungen",
+    "categories": [
+        "3251-3259 Gezahlte/hingegebene Spenden",
+        "3250 Nicht abziehbare Ausgaben Bereich 2000",
+        "3200-3399 Ideeller Bereich",
+        "3200-3899  ERTRAGSNEUTRALE POSTEN",
+        "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl4": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN > 3200-3399 Ideeller Bereich > 3250 Nicht abziehbare Ausgaben Bereich 2000 > 3251-3259 Gezahlte/hingegebene Spenden"
+        },
+        {
+            "lvl3": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN > 3200-3399 Ideeller Bereich > 3250 Nicht abziehbare Ausgaben Bereich 2000"
+        },
+        {
+            "lvl2": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN > 3200-3399 Ideeller Bereich"
+        },
+        {
+            "lvl1": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN"
+        },
+        {
+            "lvl0": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
+        }
+    ],
+    "leaf": true,
+    "parent": "73b983b12c89a3643bc59070cc1e17c5"
+}

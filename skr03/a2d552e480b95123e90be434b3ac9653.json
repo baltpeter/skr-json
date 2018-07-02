@@ -1,0 +1,21 @@
+{
+    "objectID": "a2d552e480b95123e90be434b3ac9653",
+    "name": "4390 sonstige Ausgaben",
+    "type": "Aufwand",
+    "code": "4390",
+    "description": "",
+    "categories": [
+        "Versicherungsbeitr\u00e4ge",
+        "Aufwendungen 2/4"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "Aufwendungen 2/4 > Versicherungsbeitr\u00e4ge"
+        },
+        {
+            "lvl0": "Aufwendungen 2/4"
+        }
+    ],
+    "leaf": true,
+    "parent": "709bf14d69164a6c2a48e6c0e13ece37"
+}

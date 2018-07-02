@@ -1,0 +1,23 @@
+{
+    "objectID": "456e101670efa1c6947eed1a626b65cc",
+    "name": "8500-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE 2",
+    "type": "Ertrag",
+    "code": "8500-8979",
+    "description": "SONSTIGE GESCH\u00c4FTSBETRIEBE 2",
+    "categories": [
+        "8000-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE",
+        "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe > 8000-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE"
+        },
+        {
+            "lvl0": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe"
+        }
+    ],
+    "leaf": false,
+    "notes": "Teilbereich 8500\nsonstige Gesch\u00e4ftsbetriebe 2\nertragsteuerpflichtig",
+    "placeholder": true,
+    "parent": "18e29c8b57540181a849137d1f2aa0d9"
+}

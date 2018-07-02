@@ -1,0 +1,30 @@
+{
+    "objectID": "a6b2750c0433b56eff8e7c64977e72ac",
+    "name": "Verbindlichkeit. gg. verbundene UN (b.1 J)",
+    "type": "Verbindlichkeit",
+    "code": "3401",
+    "description": "",
+    "categories": [
+        "Verbindlichk.gegen\u00fcber verbundenen Unternehmen",
+        "06. Verbindlichkeiten gegen\u00fcber verbundenen Untenehmen",
+        "C. Verbindlichkeiten",
+        "Passiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "Passiva > C. Verbindlichkeiten > 06. Verbindlichkeiten gegen\u00fcber verbundenen Untenehmen > Verbindlichk.gegen\u00fcber verbundenen Unternehmen"
+        },
+        {
+            "lvl2": "Passiva > C. Verbindlichkeiten > 06. Verbindlichkeiten gegen\u00fcber verbundenen Untenehmen"
+        },
+        {
+            "lvl1": "Passiva > C. Verbindlichkeiten"
+        },
+        {
+            "lvl0": "Passiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "b326baaf2f2f4605872301349800b078"
+}

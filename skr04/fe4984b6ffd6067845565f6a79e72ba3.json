@@ -1,0 +1,22 @@
+{
+    "objectID": "fe4984b6ffd6067845565f6a79e72ba3",
+    "name": "Verbrauchsteuer",
+    "type": "Aufwand",
+    "code": "7675",
+    "description": "",
+    "categories": [
+        "Sonstige Steuern",
+        "19. sonstige Steuern"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "19. sonstige Steuern > Sonstige Steuern"
+        },
+        {
+            "lvl0": "19. sonstige Steuern"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "a5866629e278f3178e1a89e670c364f1"
+}

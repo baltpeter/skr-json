@@ -1,0 +1,30 @@
+{
+    "objectID": "74e160fe423d026a1e40f49c1267b03a",
+    "name": "Sonstige Verbindlichkeiten (bis 1 J)",
+    "type": "Verbindlichkeit",
+    "code": "3501",
+    "description": "",
+    "categories": [
+        "Sonstige Verbindlichkeiten",
+        "08. sonstige Verbindlichkeiten",
+        "C. Verbindlichkeiten",
+        "Passiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "Passiva > C. Verbindlichkeiten > 08. sonstige Verbindlichkeiten > Sonstige Verbindlichkeiten"
+        },
+        {
+            "lvl2": "Passiva > C. Verbindlichkeiten > 08. sonstige Verbindlichkeiten"
+        },
+        {
+            "lvl1": "Passiva > C. Verbindlichkeiten"
+        },
+        {
+            "lvl0": "Passiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "ecd88b09ea57fbcb6c1371597d818f2c"
+}

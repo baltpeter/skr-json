@@ -1,0 +1,18 @@
+{
+    "objectID": "644e496fc6f9e01e389755e3bd69d80d",
+    "name": "01. Gewinn-/Verlustvortrag nach Verwendung",
+    "type": "Eigenkapital",
+    "code": -1,
+    "description": "",
+    "categories": [
+        "21. Ver\u00e4nderungen Vortr\u00e4ge und R\u00fccklagen"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl0": "21. Ver\u00e4nderungen Vortr\u00e4ge und R\u00fccklagen"
+        }
+    ],
+    "leaf": false,
+    "placeholder": false,
+    "parent": "e940821294093238c9ed9e89a1d00a37"
+}

@@ -1,0 +1,30 @@
+{
+    "objectID": "66d919958d8658356091ac224bb720df",
+    "name": "0504 Anteile an herrschender oder mit Mehrheit beteiligter Gesellschaft",
+    "type": "Aktiva",
+    "code": "0504",
+    "description": "Anteile an herrschender oder mit Mehrheit beteiligter Gesellschaft",
+    "categories": [
+        "0500 Anteile an verbundenen Unternehmen",
+        "0500-0599 Finanzanlagen",
+        "0250-0599 ANDERE ANLAGEN, BETRIEBS- UND GESCH\u00c4FTSAUSSTATTUNG",
+        "0 aktive Verm\u00f6gensposten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "0 aktive Verm\u00f6gensposten > 0250-0599 ANDERE ANLAGEN, BETRIEBS- UND GESCH\u00c4FTSAUSSTATTUNG > 0500-0599 Finanzanlagen > 0500 Anteile an verbundenen Unternehmen"
+        },
+        {
+            "lvl2": "0 aktive Verm\u00f6gensposten > 0250-0599 ANDERE ANLAGEN, BETRIEBS- UND GESCH\u00c4FTSAUSSTATTUNG > 0500-0599 Finanzanlagen"
+        },
+        {
+            "lvl1": "0 aktive Verm\u00f6gensposten > 0250-0599 ANDERE ANLAGEN, BETRIEBS- UND GESCH\u00c4FTSAUSSTATTUNG"
+        },
+        {
+            "lvl0": "0 aktive Verm\u00f6gensposten"
+        }
+    ],
+    "leaf": true,
+    "notes": "Nur GmbH!",
+    "parent": "1ef29cc0231a4b507c57fc696011d356"
+}

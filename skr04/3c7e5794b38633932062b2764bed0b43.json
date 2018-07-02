@@ -1,0 +1,22 @@
+{
+    "objectID": "3c7e5794b38633932062b2764bed0b43",
+    "name": "Gewinnvortrag 40% Vorbelastung",
+    "type": "Eigenkapital",
+    "code": "7705",
+    "description": "",
+    "categories": [
+        "01. Gewinn-/Verlustvortrag nach Verwendung",
+        "21. Ver\u00e4nderungen Vortr\u00e4ge und R\u00fccklagen"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "21. Ver\u00e4nderungen Vortr\u00e4ge und R\u00fccklagen > 01. Gewinn-/Verlustvortrag nach Verwendung"
+        },
+        {
+            "lvl0": "21. Ver\u00e4nderungen Vortr\u00e4ge und R\u00fccklagen"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "644e496fc6f9e01e389755e3bd69d80d"
+}

@@ -1,0 +1,22 @@
+{
+    "objectID": "1ce38539e501a14b6c9f1b6d7724c27b",
+    "name": "02. Steuerr\u00fcckstellungen",
+    "type": "Fremdkapital",
+    "code": "3020",
+    "description": "",
+    "categories": [
+        "B. R\u00fcckstellungen",
+        "Passiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "Passiva > B. R\u00fcckstellungen"
+        },
+        {
+            "lvl0": "Passiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": true,
+    "parent": "2b4ee42a89a642847e32a71e03b95976"
+}

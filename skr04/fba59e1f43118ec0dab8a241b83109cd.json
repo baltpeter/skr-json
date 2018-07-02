@@ -1,0 +1,22 @@
+{
+    "objectID": "fba59e1f43118ec0dab8a241b83109cd",
+    "name": "Sonstige Zinsertr\u00e4ge",
+    "type": "Ertrag",
+    "code": "7110",
+    "description": "",
+    "categories": [
+        "Sonstige Zinsen und \u00e4hnliche Ertr\u00e4ge",
+        "11. sonstige Zinsen und \u00e4hnliche Ertr\u00e4ge"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "11. sonstige Zinsen und \u00e4hnliche Ertr\u00e4ge > Sonstige Zinsen und \u00e4hnliche Ertr\u00e4ge"
+        },
+        {
+            "lvl0": "11. sonstige Zinsen und \u00e4hnliche Ertr\u00e4ge"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "094e09462e1b0d687aa5beeb3e52e6af"
+}

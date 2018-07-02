@@ -1,0 +1,25 @@
+{
+    "objectID": "61971eca5e4adb6763986db714f0c323",
+    "name": "4120 Einnahmen aus Vermietung f\u00fcr l\u00e4ngere Dauer",
+    "type": "Ertrag",
+    "code": "4120",
+    "description": "Einnahmen aus Vermietung f\u00fcr l\u00e4ngere Dauer",
+    "categories": [
+        "4110-4122 Miet- und Pachtertr\u00e4ge",
+        "4000-4399 EINNAHMEN GV",
+        "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4000-4399 EINNAHMEN GV > 4110-4122 Miet- und Pachtertr\u00e4ge"
+        },
+        {
+            "lvl1": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4000-4399 EINNAHMEN GV"
+        },
+        {
+            "lvl0": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung"
+        }
+    ],
+    "leaf": true,
+    "parent": "e393c04dde05f46e4c4bd283bb9c5048"
+}

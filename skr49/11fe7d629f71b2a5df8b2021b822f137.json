@@ -1,0 +1,37 @@
+{
+    "objectID": "11fe7d629f71b2a5df8b2021b822f137",
+    "name": "3227 Sachzuwendungen ohne Zuwendungsbest\u00e4tigung",
+    "type": "Ertrag",
+    "code": "3227",
+    "description": "Sachzuwendungen ohne Zuwendungsbest\u00e4tigung",
+    "categories": [
+        "3220 Erhaltene Spenden / Zuwendungen",
+        "3220-3249 Spenden",
+        "3200 Steuerneutrale Einnahmen ideeller Bereich",
+        "3200-3399 Ideeller Bereich",
+        "3200-3899  ERTRAGSNEUTRALE POSTEN",
+        "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl5": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN > 3200-3399 Ideeller Bereich > 3200 Steuerneutrale Einnahmen ideeller Bereich > 3220-3249 Spenden > 3220 Erhaltene Spenden / Zuwendungen"
+        },
+        {
+            "lvl4": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN > 3200-3399 Ideeller Bereich > 3200 Steuerneutrale Einnahmen ideeller Bereich > 3220-3249 Spenden"
+        },
+        {
+            "lvl3": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN > 3200-3399 Ideeller Bereich > 3200 Steuerneutrale Einnahmen ideeller Bereich"
+        },
+        {
+            "lvl2": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN > 3200-3399 Ideeller Bereich"
+        },
+        {
+            "lvl1": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN"
+        },
+        {
+            "lvl0": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
+        }
+    ],
+    "leaf": true,
+    "parent": "942f8a1e7fdd2c530aa85a0380e97e47"
+}

@@ -1,0 +1,23 @@
+{
+    "objectID": "a68fab40b7f841b6f098a05d45916099",
+    "name": "sonstige betriebliche Aufwendungen",
+    "type": "Aufwand",
+    "code": "6300",
+    "description": "",
+    "categories": [
+        "a) ordentliche betriebliche Aufwendungen",
+        "08. sonstige betriebliche Aufwendungen"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen"
+        },
+        {
+            "lvl0": "08. sonstige betriebliche Aufwendungen"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "tax-related": false,
+    "parent": "02bf19f7916e6dc15c403335dd274ccb"
+}

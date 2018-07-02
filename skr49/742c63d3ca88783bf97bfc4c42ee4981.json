@@ -1,0 +1,34 @@
+{
+    "objectID": "742c63d3ca88783bf97bfc4c42ee4981",
+    "name": "0898 Forderungen aus Lieferungen und Leistungen nach Durchschnittss\u00e4tzen gem\u00e4\u00df \u00a724 UStG",
+    "type": "Forderung",
+    "code": "0898",
+    "description": "Forderungen aus Lieferungen und Leistungen nach Durchschnittss\u00e4tzen gem\u00e4\u00df \u00a724 UStG (E\u00dcR)",
+    "categories": [
+        "0895-0899 Forderungen aus Lieferungen und Leistungen (E\u00dcR)",
+        "0700 Sonstige Verm\u00f6gensgegenst\u00e4nde",
+        "0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde",
+        "0600-0989 UMLAUFVERM\u00d6GEN",
+        "0 aktive Verm\u00f6gensposten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl4": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde > 0700 Sonstige Verm\u00f6gensgegenst\u00e4nde > 0895-0899 Forderungen aus Lieferungen und Leistungen (E\u00dcR)"
+        },
+        {
+            "lvl3": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde > 0700 Sonstige Verm\u00f6gensgegenst\u00e4nde"
+        },
+        {
+            "lvl2": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde"
+        },
+        {
+            "lvl1": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN"
+        },
+        {
+            "lvl0": "0 aktive Verm\u00f6gensposten"
+        }
+    ],
+    "leaf": true,
+    "notes": "Einnahmen\u00fcberschu\u00dfrechnung",
+    "parent": "461611f89777815e9cace8da6461a6a4"
+}

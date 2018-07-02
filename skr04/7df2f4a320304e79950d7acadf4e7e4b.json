@@ -1,0 +1,30 @@
+{
+    "objectID": "7df2f4a320304e79950d7acadf4e7e4b",
+    "name": "Andere Wertpapiere mit unwesentlichen Wertschwankungen im Sinne Textziffer 18 DRS 2",
+    "type": "Aktiva",
+    "code": "1525",
+    "description": "",
+    "categories": [
+        "03. sonstige Wertpapiere",
+        "III. Wertpapiere",
+        "B. Umlaufverm\u00f6gen",
+        "Aktiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "Aktiva > B. Umlaufverm\u00f6gen > III. Wertpapiere > 03. sonstige Wertpapiere"
+        },
+        {
+            "lvl2": "Aktiva > B. Umlaufverm\u00f6gen > III. Wertpapiere"
+        },
+        {
+            "lvl1": "Aktiva > B. Umlaufverm\u00f6gen"
+        },
+        {
+            "lvl0": "Aktiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "50c6c3e215775bc40d571f027d07dfed"
+}

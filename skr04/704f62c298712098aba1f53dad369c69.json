@@ -1,0 +1,30 @@
+{
+    "objectID": "704f62c298712098aba1f53dad369c69",
+    "name": "Finanzwechsel",
+    "type": "Aktiva",
+    "code": "1520",
+    "description": "",
+    "categories": [
+        "03. sonstige Wertpapiere",
+        "III. Wertpapiere",
+        "B. Umlaufverm\u00f6gen",
+        "Aktiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "Aktiva > B. Umlaufverm\u00f6gen > III. Wertpapiere > 03. sonstige Wertpapiere"
+        },
+        {
+            "lvl2": "Aktiva > B. Umlaufverm\u00f6gen > III. Wertpapiere"
+        },
+        {
+            "lvl1": "Aktiva > B. Umlaufverm\u00f6gen"
+        },
+        {
+            "lvl0": "Aktiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "50c6c3e215775bc40d571f027d07dfed"
+}

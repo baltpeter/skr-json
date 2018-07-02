@@ -1,0 +1,26 @@
+{
+    "objectID": "b0b8449ed3962e5c8932ad6ca1e29792",
+    "name": "Umsatzsteuervorauszahlungen",
+    "type": "Verbindlichkeit",
+    "code": "3820",
+    "description": "Umsatzsteuervoranmeldungen",
+    "categories": [
+        "10. Umsatzsteuer",
+        "C. Verbindlichkeiten",
+        "Passiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "Passiva > C. Verbindlichkeiten > 10. Umsatzsteuer"
+        },
+        {
+            "lvl1": "Passiva > C. Verbindlichkeiten"
+        },
+        {
+            "lvl0": "Passiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": true,
+    "parent": "a4ca09669a36f58cc3081d5ecff9cdb6"
+}

@@ -1,0 +1,22 @@
+{
+    "objectID": "71940396e45e4c1bc5db557523157e89",
+    "name": "Verwendung von Gegenst. (Kfz) 16% USt",
+    "type": "Ertrag",
+    "code": "4645",
+    "description": "",
+    "categories": [
+        "Unentgeltliche Wertabgaben",
+        "01. Betriebliche Ertr\u00e4ge"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "01. Betriebliche Ertr\u00e4ge > Unentgeltliche Wertabgaben"
+        },
+        {
+            "lvl0": "01. Betriebliche Ertr\u00e4ge"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "ce8895363d9f2d01b9f4f733ab7b02db"
+}

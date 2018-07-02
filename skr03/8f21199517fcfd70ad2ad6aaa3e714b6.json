@@ -1,0 +1,21 @@
+{
+    "objectID": "8f21199517fcfd70ad2ad6aaa3e714b6",
+    "name": "4120 Geh\u00e4lter",
+    "type": "Aufwand",
+    "code": "4120",
+    "description": "",
+    "categories": [
+        "Personalkosten",
+        "Aufwendungen 2/4"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "Aufwendungen 2/4 > Personalkosten"
+        },
+        {
+            "lvl0": "Aufwendungen 2/4"
+        }
+    ],
+    "leaf": true,
+    "parent": "43953979cf408743814cb6887d5ec022"
+}

@@ -1,0 +1,22 @@
+{
+    "objectID": "4c4136fb16564c8d58a33885493a0264",
+    "name": "0641 Eingeforderte Nachsch\u00fcsse",
+    "type": "Forderung",
+    "code": "0641",
+    "description": "Eingeforderte Nachsch\u00fcsse",
+    "categories": [
+        "0600-0989 UMLAUFVERM\u00d6GEN",
+        "0 aktive Verm\u00f6gensposten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN"
+        },
+        {
+            "lvl0": "0 aktive Verm\u00f6gensposten"
+        }
+    ],
+    "leaf": true,
+    "notes": "Nur GmbH!\nForderungen, Gegenkonto 1149",
+    "parent": "0c37c40d2c6a59254c28e40326c5b971"
+}

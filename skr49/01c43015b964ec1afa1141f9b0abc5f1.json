@@ -1,0 +1,22 @@
+{
+    "objectID": "01c43015b964ec1afa1141f9b0abc5f1",
+    "name": "0480-0499 Geleistete Anzahlungen, Anlagen im Bau",
+    "type": "Aktiva",
+    "code": "0480-0499",
+    "description": "Geleistete Anzahlungen, Anlagen im Bau",
+    "categories": [
+        "0250-0599 ANDERE ANLAGEN, BETRIEBS- UND GESCH\u00c4FTSAUSSTATTUNG",
+        "0 aktive Verm\u00f6gensposten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "0 aktive Verm\u00f6gensposten > 0250-0599 ANDERE ANLAGEN, BETRIEBS- UND GESCH\u00c4FTSAUSSTATTUNG"
+        },
+        {
+            "lvl0": "0 aktive Verm\u00f6gensposten"
+        }
+    ],
+    "leaf": false,
+    "placeholder": true,
+    "parent": "0a4482e8dafad43f53d659a8e8be2181"
+}

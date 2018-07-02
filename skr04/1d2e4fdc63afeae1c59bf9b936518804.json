@@ -1,0 +1,18 @@
+{
+    "objectID": "1d2e4fdc63afeae1c59bf9b936518804",
+    "name": "- davon an verbundene Unternehmen",
+    "type": "Aufwand",
+    "code": -1,
+    "description": "",
+    "categories": [
+        "13. Zinsen und \u00e4hnliche Aufwendungen"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl0": "13. Zinsen und \u00e4hnliche Aufwendungen"
+        }
+    ],
+    "leaf": false,
+    "placeholder": false,
+    "parent": "1848323dfe915f8ed2a24bc00fef1e16"
+}

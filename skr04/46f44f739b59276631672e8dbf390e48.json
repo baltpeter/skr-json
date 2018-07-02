@@ -1,0 +1,30 @@
+{
+    "objectID": "46f44f739b59276631672e8dbf390e48",
+    "name": "Verbindl.aus L+L gg. verbundenen UN b. 1J",
+    "type": "Verbindlichkeit",
+    "code": "3421",
+    "description": "",
+    "categories": [
+        "Verbindlichkeiten aus Lieferungen und Leistungen gegen\u00fcber Gesellschaftern",
+        "06. Verbindlichkeiten gegen\u00fcber verbundenen Untenehmen",
+        "C. Verbindlichkeiten",
+        "Passiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "Passiva > C. Verbindlichkeiten > 06. Verbindlichkeiten gegen\u00fcber verbundenen Untenehmen > Verbindlichkeiten aus Lieferungen und Leistungen gegen\u00fcber Gesellschaftern"
+        },
+        {
+            "lvl2": "Passiva > C. Verbindlichkeiten > 06. Verbindlichkeiten gegen\u00fcber verbundenen Untenehmen"
+        },
+        {
+            "lvl1": "Passiva > C. Verbindlichkeiten"
+        },
+        {
+            "lvl0": "Passiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "f75dc0f9db3f601a8531922e22db5aa1"
+}

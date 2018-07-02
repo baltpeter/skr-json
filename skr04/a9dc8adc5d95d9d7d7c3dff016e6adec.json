@@ -1,0 +1,30 @@
+{
+    "objectID": "a9dc8adc5d95d9d7d7c3dff016e6adec",
+    "name": "Anleihen, nicht konvertibel (b. 1 Jahr)",
+    "type": "Verbindlichkeit",
+    "code": "3101",
+    "description": "",
+    "categories": [
+        "a) Anleihen, nicht konvertibel",
+        "01. Anleihen",
+        "C. Verbindlichkeiten",
+        "Passiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "Passiva > C. Verbindlichkeiten > 01. Anleihen > a) Anleihen, nicht konvertibel"
+        },
+        {
+            "lvl2": "Passiva > C. Verbindlichkeiten > 01. Anleihen"
+        },
+        {
+            "lvl1": "Passiva > C. Verbindlichkeiten"
+        },
+        {
+            "lvl0": "Passiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "5915a4522e747674c7831a0d5edc376d"
+}

@@ -1,0 +1,26 @@
+{
+    "objectID": "64eb68931b4c41c8a656a606e0e48a31",
+    "name": "2551 L\u00f6hne & Geh\u00e4lter",
+    "type": "Aufwand",
+    "code": "2551",
+    "description": "L\u00f6hne und Geh\u00e4lter",
+    "categories": [
+        "2550-2559 Personalkosten",
+        "2500-2999 AUSGABEN",
+        "2 Erfolgskonten ideeller Bereich"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN > 2550-2559 Personalkosten"
+        },
+        {
+            "lvl1": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN"
+        },
+        {
+            "lvl0": "2 Erfolgskonten ideeller Bereich"
+        }
+    ],
+    "leaf": true,
+    "notes": "Ehemals nur \u201eL\u00f6hne\u201c; zusammengefa\u00dft mit 2552 (ehemals \u201eGeh\u00e4lter\u201c).",
+    "parent": "6ccdcab3780ae380541cf6c351785151"
+}

@@ -1,0 +1,22 @@
+{
+    "objectID": "ed574d34401f433d6e55e0c881a36f43",
+    "name": "Gewinnvortrag 0% Vorbelastung (steuerliches Einlagekonto)",
+    "type": "Eigenkapital",
+    "code": "7710",
+    "description": "",
+    "categories": [
+        "01. Gewinn-/Verlustvortrag nach Verwendung",
+        "21. Ver\u00e4nderungen Vortr\u00e4ge und R\u00fccklagen"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "21. Ver\u00e4nderungen Vortr\u00e4ge und R\u00fccklagen > 01. Gewinn-/Verlustvortrag nach Verwendung"
+        },
+        {
+            "lvl0": "21. Ver\u00e4nderungen Vortr\u00e4ge und R\u00fccklagen"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "644e496fc6f9e01e389755e3bd69d80d"
+}

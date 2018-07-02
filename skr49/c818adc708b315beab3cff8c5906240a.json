@@ -1,0 +1,29 @@
+{
+    "objectID": "c818adc708b315beab3cff8c5906240a",
+    "name": "3783 Nicht abzugsf\u00e4hige Bewirtungskosten",
+    "type": "Aufwand",
+    "code": "3783",
+    "description": "Nicht abzugsf\u00e4hige Bewirtungskosten",
+    "categories": [
+        "3750 Nicht abziehbare Ausgaben Bereich 7000",
+        "3700-3799 Gesch\u00e4ftsbetriebe Sport",
+        "3200-3899  ERTRAGSNEUTRALE POSTEN",
+        "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN > 3700-3799 Gesch\u00e4ftsbetriebe Sport > 3750 Nicht abziehbare Ausgaben Bereich 7000"
+        },
+        {
+            "lvl2": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN > 3700-3799 Gesch\u00e4ftsbetriebe Sport"
+        },
+        {
+            "lvl1": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN"
+        },
+        {
+            "lvl0": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
+        }
+    ],
+    "leaf": true,
+    "parent": "60f05759a7baa3c1ce45ef3e686c5b6c"
+}

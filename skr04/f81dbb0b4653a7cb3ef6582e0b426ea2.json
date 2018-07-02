@@ -1,0 +1,34 @@
+{
+    "objectID": "f81dbb0b4653a7cb3ef6582e0b426ea2",
+    "name": "Besitzwechsel gg.UN m.Beteiligg.verh. > 1 J",
+    "type": "Aktiva",
+    "code": "1288",
+    "description": "",
+    "categories": [
+        "Besitzwechsel gg.UN m. Beteiligungsverh.",
+        "03. Forderungen gegen Unternehmen, mit denen ein Beteiligungsverh\u00e4ltnis besteht",
+        "II. Forderungen und sonstige Verm\u00f6gensgegenst\u00e4nde",
+        "B. Umlaufverm\u00f6gen",
+        "Aktiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl4": "Aktiva > B. Umlaufverm\u00f6gen > II. Forderungen und sonstige Verm\u00f6gensgegenst\u00e4nde > 03. Forderungen gegen Unternehmen, mit denen ein Beteiligungsverh\u00e4ltnis besteht > Besitzwechsel gg.UN m. Beteiligungsverh."
+        },
+        {
+            "lvl3": "Aktiva > B. Umlaufverm\u00f6gen > II. Forderungen und sonstige Verm\u00f6gensgegenst\u00e4nde > 03. Forderungen gegen Unternehmen, mit denen ein Beteiligungsverh\u00e4ltnis besteht"
+        },
+        {
+            "lvl2": "Aktiva > B. Umlaufverm\u00f6gen > II. Forderungen und sonstige Verm\u00f6gensgegenst\u00e4nde"
+        },
+        {
+            "lvl1": "Aktiva > B. Umlaufverm\u00f6gen"
+        },
+        {
+            "lvl0": "Aktiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "7584d84f7c931976de7c5286c779264e"
+}

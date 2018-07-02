@@ -1,0 +1,33 @@
+{
+    "objectID": "ea5204f7dbbb0039e29bbdb7dd00c7b2",
+    "name": "3770 S\u00e4umnis- / Versp\u00e4tungszuschl\u00e4ge",
+    "type": "Aufwand",
+    "code": "3770",
+    "description": "S\u00e4umnis- und Versp\u00e4tungszuschl\u00e4ge",
+    "categories": [
+        "3754-3770+3790 Steuern",
+        "3750 Nicht abziehbare Ausgaben Bereich 7000",
+        "3700-3799 Gesch\u00e4ftsbetriebe Sport",
+        "3200-3899  ERTRAGSNEUTRALE POSTEN",
+        "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl4": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN > 3700-3799 Gesch\u00e4ftsbetriebe Sport > 3750 Nicht abziehbare Ausgaben Bereich 7000 > 3754-3770+3790 Steuern"
+        },
+        {
+            "lvl3": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN > 3700-3799 Gesch\u00e4ftsbetriebe Sport > 3750 Nicht abziehbare Ausgaben Bereich 7000"
+        },
+        {
+            "lvl2": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN > 3700-3799 Gesch\u00e4ftsbetriebe Sport"
+        },
+        {
+            "lvl1": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN"
+        },
+        {
+            "lvl0": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
+        }
+    ],
+    "leaf": true,
+    "parent": "1d6dfe3a4be41a9a88f4095544b72696"
+}

@@ -1,0 +1,22 @@
+{
+    "objectID": "de51c7e09ef85fd4768482c9873d71b7",
+    "name": "01. Anleihen",
+    "type": "Verbindlichkeit",
+    "code": -1,
+    "description": "",
+    "categories": [
+        "C. Verbindlichkeiten",
+        "Passiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "Passiva > C. Verbindlichkeiten"
+        },
+        {
+            "lvl0": "Passiva"
+        }
+    ],
+    "leaf": false,
+    "placeholder": false,
+    "parent": "8755bf4081c942798c5ac5f34c5b1aac"
+}

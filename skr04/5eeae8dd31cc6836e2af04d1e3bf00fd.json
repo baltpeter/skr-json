@@ -1,0 +1,26 @@
+{
+    "objectID": "5eeae8dd31cc6836e2af04d1e3bf00fd",
+    "name": "I. Gezeichnetes Kapital",
+    "type": "Fremdkapital",
+    "code": -1,
+    "description": "",
+    "categories": [
+        "b) Kapitalgesellschaft",
+        "A. Eigenkapital",
+        "Passiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "Passiva > A. Eigenkapital > b) Kapitalgesellschaft"
+        },
+        {
+            "lvl1": "Passiva > A. Eigenkapital"
+        },
+        {
+            "lvl0": "Passiva"
+        }
+    ],
+    "leaf": false,
+    "placeholder": true,
+    "parent": "74e3a2129a8919b314a0d3ca7ecd5028"
+}

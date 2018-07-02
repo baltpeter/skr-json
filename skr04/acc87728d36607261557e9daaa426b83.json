@@ -1,0 +1,30 @@
+{
+    "objectID": "acc87728d36607261557e9daaa426b83",
+    "name": "Gewerbesteuerlich zu ber\u00fccksichtigende Miete f\u00fcr Einrichtungen \u00a78 GewStG",
+    "type": "Aufwand",
+    "code": "6839",
+    "description": "",
+    "categories": [
+        "Mieten f\u00fcr Einrichtungen",
+        "8) verschiedene betriebliche Kosten",
+        "a) ordentliche betriebliche Aufwendungen",
+        "08. sonstige betriebliche Aufwendungen"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen > 8) verschiedene betriebliche Kosten > Mieten f\u00fcr Einrichtungen"
+        },
+        {
+            "lvl2": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen > 8) verschiedene betriebliche Kosten"
+        },
+        {
+            "lvl1": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen"
+        },
+        {
+            "lvl0": "08. sonstige betriebliche Aufwendungen"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "db7c598d5f21370fe0d93abb5eecd891"
+}

@@ -1,0 +1,22 @@
+{
+    "objectID": "de10cbb82ead4b82d9df3bb48985828a",
+    "name": "Entnahme Unternehmer (Waren) ohne USt",
+    "type": "Ertrag",
+    "code": "4619",
+    "description": "",
+    "categories": [
+        "Unentgeltliche Wertabgaben",
+        "01. Betriebliche Ertr\u00e4ge"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "01. Betriebliche Ertr\u00e4ge > Unentgeltliche Wertabgaben"
+        },
+        {
+            "lvl0": "01. Betriebliche Ertr\u00e4ge"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "ce8895363d9f2d01b9f4f733ab7b02db"
+}

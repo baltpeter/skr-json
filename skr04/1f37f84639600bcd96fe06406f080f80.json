@@ -1,0 +1,22 @@
+{
+    "objectID": "1f37f84639600bcd96fe06406f080f80",
+    "name": "Sonstige betriebsfr.regelm. Ertr\u00e4ge",
+    "type": "Ertrag",
+    "code": "4837",
+    "description": "",
+    "categories": [
+        "Sonstige betriebliche Ertr\u00e4ge",
+        "04. Sonstige betriebliche Ertr\u00e4ge"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "04. Sonstige betriebliche Ertr\u00e4ge > Sonstige betriebliche Ertr\u00e4ge"
+        },
+        {
+            "lvl0": "04. Sonstige betriebliche Ertr\u00e4ge"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "3e8610310df1d2b66689dead1545a65b"
+}

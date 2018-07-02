@@ -1,0 +1,30 @@
+{
+    "objectID": "8cadce883a1ff2a1e3bfa74476a157d1",
+    "name": "Grundst\u00fccksaufwendungen f\u00fcr Geb\u00e4ude, die nicht zum Betriebsverm\u00f6gen geh\u00f6ren",
+    "type": "Aufwand",
+    "code": "6358",
+    "description": "",
+    "categories": [
+        "Sonstige Grundst\u00fccksaufwendungen",
+        "1) Raumkosten",
+        "a) ordentliche betriebliche Aufwendungen",
+        "08. sonstige betriebliche Aufwendungen"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen > 1) Raumkosten > Sonstige Grundst\u00fccksaufwendungen"
+        },
+        {
+            "lvl2": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen > 1) Raumkosten"
+        },
+        {
+            "lvl1": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen"
+        },
+        {
+            "lvl0": "08. sonstige betriebliche Aufwendungen"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "7174a4afb8ae5f4511e62f03412093b2"
+}

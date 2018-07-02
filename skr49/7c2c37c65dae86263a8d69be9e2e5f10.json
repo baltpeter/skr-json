@@ -1,0 +1,26 @@
+{
+    "objectID": "7c2c37c65dae86263a8d69be9e2e5f10",
+    "name": "3962 Einstellungen in sonstige nicht zeitnahzu verwendene Mittel / Kapital",
+    "type": "Ertrag",
+    "code": "3962",
+    "description": "Einstellungen in die sonstigen nicht zeitnahzu verwendenen Mittel oder das Vereinskapital",
+    "categories": [
+        "3950-3967 Ergebnisverwendung",
+        "3900-3999 ERGEBNISVERWENDUNGSRECHNUNG",
+        "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3900-3999 ERGEBNISVERWENDUNGSRECHNUNG > 3950-3967 Ergebnisverwendung"
+        },
+        {
+            "lvl1": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3900-3999 ERGEBNISVERWENDUNGSRECHNUNG"
+        },
+        {
+            "lvl0": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
+        }
+    ],
+    "leaf": true,
+    "notes": "Konto f\u00fcr das Buchungsjahr 2017 neu eingef\u00fchrt.",
+    "parent": "99ea548f62265618e1930a8c76d855fe"
+}

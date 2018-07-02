@@ -1,0 +1,30 @@
+{
+    "objectID": "f4e864080a050af78f9ebff247e92f6b",
+    "name": "4990 Gesetzliche soziale Aufwendungen",
+    "type": "Aufwand",
+    "code": "4990",
+    "description": "Gesetzliche soziale Aufwendungen",
+    "categories": [
+        "4990-4999 Soziale Abgaben",
+        "4980-4999 Personalaufwand",
+        "4500-4999 AUSGABEN / WERBUNGSKOSTEN",
+        "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4500-4999 AUSGABEN / WERBUNGSKOSTEN > 4980-4999 Personalaufwand > 4990-4999 Soziale Abgaben"
+        },
+        {
+            "lvl2": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4500-4999 AUSGABEN / WERBUNGSKOSTEN > 4980-4999 Personalaufwand"
+        },
+        {
+            "lvl1": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4500-4999 AUSGABEN / WERBUNGSKOSTEN"
+        },
+        {
+            "lvl0": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung"
+        }
+    ],
+    "leaf": true,
+    "notes": "Konto f\u00fcr das Buchungsjahr 2017 neu eingef\u00fchrt.",
+    "parent": "71041368555c4533b0ad3b5892137a22"
+}

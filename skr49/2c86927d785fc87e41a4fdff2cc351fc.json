@@ -1,0 +1,26 @@
+{
+    "objectID": "2c86927d785fc87e41a4fdff2cc351fc",
+    "name": "1710 Voraussichtliche Beitragsschuld gegen\u00fcber den Sozialversicherungstr\u00e4gern",
+    "type": "Fremdkapital",
+    "code": "1710",
+    "description": "Voraussichtliche Beitragsschuld gegen\u00fcber den Sozialversicherungstr\u00e4gern",
+    "categories": [
+        "1600-1989 Sonstige Verbindlichkeiten oder sonstige Verm\u00f6gensgegenst\u00e4nde",
+        "1300-1989 VERBINDLICHKEITEN",
+        "1 passive Verm\u00f6gensposten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "1 passive Verm\u00f6gensposten > 1300-1989 VERBINDLICHKEITEN > 1600-1989 Sonstige Verbindlichkeiten oder sonstige Verm\u00f6gensgegenst\u00e4nde"
+        },
+        {
+            "lvl1": "1 passive Verm\u00f6gensposten > 1300-1989 VERBINDLICHKEITEN"
+        },
+        {
+            "lvl0": "1 passive Verm\u00f6gensposten"
+        }
+    ],
+    "leaf": true,
+    "notes": "Ehemals unter 1813.",
+    "parent": "0fe80f91a76383ae0b204bcfd1630cf9"
+}

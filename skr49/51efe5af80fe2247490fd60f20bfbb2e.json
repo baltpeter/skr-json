@@ -1,0 +1,30 @@
+{
+    "objectID": "51efe5af80fe2247490fd60f20bfbb2e",
+    "name": "3402-3404 Steuern",
+    "type": "Ertrag",
+    "code": "3402-3404",
+    "description": "Steuererstattungen",
+    "categories": [
+        "3400 Steuerneutrale Einnahmen Bereich 4000",
+        "3400-3499 Verm\u00f6gensverwaltung",
+        "3200-3899  ERTRAGSNEUTRALE POSTEN",
+        "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN > 3400-3499 Verm\u00f6gensverwaltung > 3400 Steuerneutrale Einnahmen Bereich 4000"
+        },
+        {
+            "lvl2": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN > 3400-3499 Verm\u00f6gensverwaltung"
+        },
+        {
+            "lvl1": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN"
+        },
+        {
+            "lvl0": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
+        }
+    ],
+    "leaf": false,
+    "placeholder": true,
+    "parent": "450b763d8b0cba6f21c03825c05495a1"
+}

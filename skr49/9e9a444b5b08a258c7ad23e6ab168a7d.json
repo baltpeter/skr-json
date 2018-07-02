@@ -1,0 +1,26 @@
+{
+    "objectID": "9e9a444b5b08a258c7ad23e6ab168a7d",
+    "name": "2892 Einstellungen in steuerliche R\u00fccklagen",
+    "type": "Aufwand",
+    "code": "2892",
+    "description": "Einstellungen in steuerliche R\u00fccklagen",
+    "categories": [
+        "2510 \u00dcbrige Ausgaben",
+        "2500-2999 AUSGABEN",
+        "2 Erfolgskonten ideeller Bereich"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN > 2510 \u00dcbrige Ausgaben"
+        },
+        {
+            "lvl1": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN"
+        },
+        {
+            "lvl0": "2 Erfolgskonten ideeller Bereich"
+        }
+    ],
+    "leaf": true,
+    "notes": "Hie\u00df zuvor \u201eEinstellungen in Sonderposten mit R\u00fccklageanteil\u201c,",
+    "parent": "75d38fa3ae63128e2bd6a0ba80dc904b"
+}

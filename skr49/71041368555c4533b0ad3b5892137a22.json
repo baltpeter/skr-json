@@ -1,0 +1,26 @@
+{
+    "objectID": "71041368555c4533b0ad3b5892137a22",
+    "name": "4990-4999 Soziale Abgaben",
+    "type": "Aufwand",
+    "code": "4990-4999",
+    "description": "Soziale Abgaben",
+    "categories": [
+        "4980-4999 Personalaufwand",
+        "4500-4999 AUSGABEN / WERBUNGSKOSTEN",
+        "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4500-4999 AUSGABEN / WERBUNGSKOSTEN > 4980-4999 Personalaufwand"
+        },
+        {
+            "lvl1": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4500-4999 AUSGABEN / WERBUNGSKOSTEN"
+        },
+        {
+            "lvl0": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung"
+        }
+    ],
+    "leaf": false,
+    "placeholder": true,
+    "parent": "075885856ca2bb9d9883f21530fc113f"
+}

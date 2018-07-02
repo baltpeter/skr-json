@@ -1,0 +1,21 @@
+{
+    "objectID": "9bcbd663916f135d81b8eff6dc8b8819",
+    "name": "4530 laufende Kfz-Betriebskosten",
+    "type": "Aufwand",
+    "code": "4530",
+    "description": "",
+    "categories": [
+        "Kfz-Kosten",
+        "Aufwendungen 2/4"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "Aufwendungen 2/4 > Kfz-Kosten"
+        },
+        {
+            "lvl0": "Aufwendungen 2/4"
+        }
+    ],
+    "leaf": true,
+    "parent": "8488954a5834d5484ed57439a0d43305"
+}

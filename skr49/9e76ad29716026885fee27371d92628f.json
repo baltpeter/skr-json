@@ -1,0 +1,29 @@
+{
+    "objectID": "9e76ad29716026885fee27371d92628f",
+    "name": "0180 Einbauten Pachtgrundst\u00fcck",
+    "type": "Aktiva",
+    "code": "0180",
+    "description": "Einbauten Pachtgrundst\u00fcck",
+    "categories": [
+        "0100 Geb\u00e4ude",
+        "0050-0249 Sachanlagen",
+        "0010-0249 ANLAGEVERM\u00d6GEN",
+        "0 aktive Verm\u00f6gensposten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "0 aktive Verm\u00f6gensposten > 0010-0249 ANLAGEVERM\u00d6GEN > 0050-0249 Sachanlagen > 0100 Geb\u00e4ude"
+        },
+        {
+            "lvl2": "0 aktive Verm\u00f6gensposten > 0010-0249 ANLAGEVERM\u00d6GEN > 0050-0249 Sachanlagen"
+        },
+        {
+            "lvl1": "0 aktive Verm\u00f6gensposten > 0010-0249 ANLAGEVERM\u00d6GEN"
+        },
+        {
+            "lvl0": "0 aktive Verm\u00f6gensposten"
+        }
+    ],
+    "leaf": true,
+    "parent": "e8c237c88b8a7b0aec00ba6e6e6f0178"
+}

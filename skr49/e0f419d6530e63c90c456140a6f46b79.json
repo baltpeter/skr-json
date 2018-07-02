@@ -1,0 +1,25 @@
+{
+    "objectID": "e0f419d6530e63c90c456140a6f46b79",
+    "name": "2800 Mitgliederpflege",
+    "type": "Aufwand",
+    "code": "2800",
+    "description": "Mitgliederpflege",
+    "categories": [
+        "2510 \u00dcbrige Ausgaben",
+        "2500-2999 AUSGABEN",
+        "2 Erfolgskonten ideeller Bereich"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN > 2510 \u00dcbrige Ausgaben"
+        },
+        {
+            "lvl1": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN"
+        },
+        {
+            "lvl0": "2 Erfolgskonten ideeller Bereich"
+        }
+    ],
+    "leaf": true,
+    "parent": "75d38fa3ae63128e2bd6a0ba80dc904b"
+}

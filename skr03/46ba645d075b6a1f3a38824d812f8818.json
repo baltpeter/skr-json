@@ -1,0 +1,21 @@
+{
+    "objectID": "46ba645d075b6a1f3a38824d812f8818",
+    "name": "4130 gesetzliche soziale Aufwendungen",
+    "type": "Aufwand",
+    "code": "4130",
+    "description": "",
+    "categories": [
+        "Personalkosten",
+        "Aufwendungen 2/4"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "Aufwendungen 2/4 > Personalkosten"
+        },
+        {
+            "lvl0": "Aufwendungen 2/4"
+        }
+    ],
+    "leaf": true,
+    "parent": "43953979cf408743814cb6887d5ec022"
+}

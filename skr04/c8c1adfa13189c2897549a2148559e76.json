@@ -1,0 +1,26 @@
+{
+    "objectID": "c8c1adfa13189c2897549a2148559e76",
+    "name": "Kreditkartenabrechnung",
+    "type": "Verbindlichkeit",
+    "code": "3610",
+    "description": "",
+    "categories": [
+        "08. sonstige Verbindlichkeiten",
+        "C. Verbindlichkeiten",
+        "Passiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "Passiva > C. Verbindlichkeiten > 08. sonstige Verbindlichkeiten"
+        },
+        {
+            "lvl1": "Passiva > C. Verbindlichkeiten"
+        },
+        {
+            "lvl0": "Passiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "3f6c684bfaa3d0fc8b94368847566df3"
+}

@@ -1,0 +1,27 @@
+{
+    "objectID": "82e250a309cb7f20c72e014804a820cd",
+    "name": "0330 Einrichtung Vereinsheim",
+    "type": "Aktiva",
+    "code": "0330",
+    "description": "VERALTET!",
+    "categories": [
+        "0300 Vereinsausstattung",
+        "0250-0599 ANDERE ANLAGEN, BETRIEBS- UND GESCH\u00c4FTSAUSSTATTUNG",
+        "0 aktive Verm\u00f6gensposten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "0 aktive Verm\u00f6gensposten > 0250-0599 ANDERE ANLAGEN, BETRIEBS- UND GESCH\u00c4FTSAUSSTATTUNG > 0300 Vereinsausstattung"
+        },
+        {
+            "lvl1": "0 aktive Verm\u00f6gensposten > 0250-0599 ANDERE ANLAGEN, BETRIEBS- UND GESCH\u00c4FTSAUSSTATTUNG"
+        },
+        {
+            "lvl0": "0 aktive Verm\u00f6gensposten"
+        }
+    ],
+    "leaf": true,
+    "notes": "Veraltet, in der Version 2017 nicht mehr enthalten!",
+    "placeholder": true,
+    "parent": "3fbd54ad3e051bfe7ab9ae141ffa21f8"
+}

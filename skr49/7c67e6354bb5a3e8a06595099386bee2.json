@@ -1,0 +1,22 @@
+{
+    "objectID": "7c67e6354bb5a3e8a06595099386bee2",
+    "name": "0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde",
+    "type": "Aktiva",
+    "code": "0650-0899",
+    "description": "Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde",
+    "categories": [
+        "0600-0989 UMLAUFVERM\u00d6GEN",
+        "0 aktive Verm\u00f6gensposten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN"
+        },
+        {
+            "lvl0": "0 aktive Verm\u00f6gensposten"
+        }
+    ],
+    "leaf": false,
+    "placeholder": true,
+    "parent": "0c37c40d2c6a59254c28e40326c5b971"
+}

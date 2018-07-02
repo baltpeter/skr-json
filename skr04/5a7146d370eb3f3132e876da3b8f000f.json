@@ -1,0 +1,26 @@
+{
+    "objectID": "5a7146d370eb3f3132e876da3b8f000f",
+    "name": "Umsatzsteuer fr\u00fchere Jahre",
+    "type": "Verbindlichkeit",
+    "code": "3845",
+    "description": "",
+    "categories": [
+        "10. Umsatzsteuer",
+        "C. Verbindlichkeiten",
+        "Passiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "Passiva > C. Verbindlichkeiten > 10. Umsatzsteuer"
+        },
+        {
+            "lvl1": "Passiva > C. Verbindlichkeiten"
+        },
+        {
+            "lvl0": "Passiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "a4ca09669a36f58cc3081d5ecff9cdb6"
+}

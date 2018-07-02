@@ -1,0 +1,34 @@
+{
+    "objectID": "493937aba319f366e133cc1208afad93",
+    "name": "Eigenkapitalanteil von Wertaufholungen",
+    "type": "Fremdkapital",
+    "code": "2962",
+    "description": "",
+    "categories": [
+        "04. Andere Gewinnr\u00fccklagen",
+        "I. Gewinnr\u00fccklagen",
+        "c) alle",
+        "A. Eigenkapital",
+        "Passiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl4": "Passiva > A. Eigenkapital > c) alle > I. Gewinnr\u00fccklagen > 04. Andere Gewinnr\u00fccklagen"
+        },
+        {
+            "lvl3": "Passiva > A. Eigenkapital > c) alle > I. Gewinnr\u00fccklagen"
+        },
+        {
+            "lvl2": "Passiva > A. Eigenkapital > c) alle"
+        },
+        {
+            "lvl1": "Passiva > A. Eigenkapital"
+        },
+        {
+            "lvl0": "Passiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "22676e23b2512574214dec23e28d61f1"
+}

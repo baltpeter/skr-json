@@ -1,0 +1,30 @@
+{
+    "objectID": "8db7f86e41bddba353505c6c25b414bf",
+    "name": "1341 Verbindlichkeiten aus L&L zum allgemeinen Umsatzsteuersatz",
+    "type": "Verbindlichkeit",
+    "code": "1341",
+    "description": "Verbindlichkeiten aus Lieferungen und Leistungen zum allgemeinen Umsatzsteuersatz (E\u00dcR)",
+    "categories": [
+        "1340 Verbindlichkeiten aus L&L",
+        "1335-1349 Verbindlichkeiten aus L&L",
+        "1300-1989 VERBINDLICHKEITEN",
+        "1 passive Verm\u00f6gensposten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "1 passive Verm\u00f6gensposten > 1300-1989 VERBINDLICHKEITEN > 1335-1349 Verbindlichkeiten aus L&L > 1340 Verbindlichkeiten aus L&L"
+        },
+        {
+            "lvl2": "1 passive Verm\u00f6gensposten > 1300-1989 VERBINDLICHKEITEN > 1335-1349 Verbindlichkeiten aus L&L"
+        },
+        {
+            "lvl1": "1 passive Verm\u00f6gensposten > 1300-1989 VERBINDLICHKEITEN"
+        },
+        {
+            "lvl0": "1 passive Verm\u00f6gensposten"
+        }
+    ],
+    "leaf": true,
+    "notes": "Einnahmen\u00fcberschu\u00dfrechnung",
+    "parent": "c1edff52384d6b90bf6c9b81a7158af2"
+}

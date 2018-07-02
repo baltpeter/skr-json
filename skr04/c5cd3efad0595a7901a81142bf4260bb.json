@@ -1,0 +1,34 @@
+{
+    "objectID": "c5cd3efad0595a7901a81142bf4260bb",
+    "name": "Garagen",
+    "type": "Aktiva",
+    "code": "0270",
+    "description": "",
+    "categories": [
+        "Bauten auf eigenen Grundst\u00fccken",
+        "01. Grundst\u00fccke, grundst\u00fccksgleiche Rechte und Bauten einschlie\u00dflich der Bauten auf fremden Grundst\u00fccken",
+        "IV. Sachanlagen",
+        "A. Anlageverm\u00f6gen",
+        "Aktiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl4": "Aktiva > A. Anlageverm\u00f6gen > IV. Sachanlagen > 01. Grundst\u00fccke, grundst\u00fccksgleiche Rechte und Bauten einschlie\u00dflich der Bauten auf fremden Grundst\u00fccken > Bauten auf eigenen Grundst\u00fccken"
+        },
+        {
+            "lvl3": "Aktiva > A. Anlageverm\u00f6gen > IV. Sachanlagen > 01. Grundst\u00fccke, grundst\u00fccksgleiche Rechte und Bauten einschlie\u00dflich der Bauten auf fremden Grundst\u00fccken"
+        },
+        {
+            "lvl2": "Aktiva > A. Anlageverm\u00f6gen > IV. Sachanlagen"
+        },
+        {
+            "lvl1": "Aktiva > A. Anlageverm\u00f6gen"
+        },
+        {
+            "lvl0": "Aktiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "01755fea6af689c3d5e5e3d925bbdc79"
+}

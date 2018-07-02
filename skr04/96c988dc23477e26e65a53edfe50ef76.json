@@ -1,0 +1,30 @@
+{
+    "objectID": "96c988dc23477e26e65a53edfe50ef76",
+    "name": "Grundst\u00fccksaufwand",
+    "type": "Fremdkapital",
+    "code": "2300",
+    "description": "",
+    "categories": [
+        "III. Privat Vollhafter/Einzelunternehmer",
+        "a) Personengesellschaft",
+        "A. Eigenkapital",
+        "Passiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "Passiva > A. Eigenkapital > a) Personengesellschaft > III. Privat Vollhafter/Einzelunternehmer"
+        },
+        {
+            "lvl2": "Passiva > A. Eigenkapital > a) Personengesellschaft"
+        },
+        {
+            "lvl1": "Passiva > A. Eigenkapital"
+        },
+        {
+            "lvl0": "Passiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "223774b3d08279ba3dde4eed5aadd74d"
+}

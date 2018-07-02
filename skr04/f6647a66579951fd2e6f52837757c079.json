@@ -1,0 +1,30 @@
+{
+    "objectID": "f6647a66579951fd2e6f52837757c079",
+    "name": "Grundst\u00fccksertrag",
+    "type": "Fremdkapital",
+    "code": "2350",
+    "description": "",
+    "categories": [
+        "III. Privat Vollhafter/Einzelunternehmer",
+        "a) Personengesellschaft",
+        "A. Eigenkapital",
+        "Passiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "Passiva > A. Eigenkapital > a) Personengesellschaft > III. Privat Vollhafter/Einzelunternehmer"
+        },
+        {
+            "lvl2": "Passiva > A. Eigenkapital > a) Personengesellschaft"
+        },
+        {
+            "lvl1": "Passiva > A. Eigenkapital"
+        },
+        {
+            "lvl0": "Passiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "223774b3d08279ba3dde4eed5aadd74d"
+}

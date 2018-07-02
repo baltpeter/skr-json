@@ -1,0 +1,33 @@
+{
+    "objectID": "9568fa041056b308fd1c4308eaaa6fa5",
+    "name": "2564 Kilometergelderstattung Arbeitnehmer",
+    "type": "Aufwand",
+    "code": "2564",
+    "description": "Kilometergelderstattung Arbeitnehmer",
+    "categories": [
+        "2563 Reisekosten Arbeitnehmer Fahrtkosten",
+        "2561 Reisekosten Arbeitnehmer",
+        "2560-2564 Reisekosten",
+        "2500-2999 AUSGABEN",
+        "2 Erfolgskonten ideeller Bereich"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl4": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN > 2560-2564 Reisekosten > 2561 Reisekosten Arbeitnehmer > 2563 Reisekosten Arbeitnehmer Fahrtkosten"
+        },
+        {
+            "lvl3": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN > 2560-2564 Reisekosten > 2561 Reisekosten Arbeitnehmer"
+        },
+        {
+            "lvl2": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN > 2560-2564 Reisekosten"
+        },
+        {
+            "lvl1": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN"
+        },
+        {
+            "lvl0": "2 Erfolgskonten ideeller Bereich"
+        }
+    ],
+    "leaf": true,
+    "parent": "10e591d5d3f474100ba7b920a0c578da"
+}

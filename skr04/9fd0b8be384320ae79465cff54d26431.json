@@ -1,0 +1,30 @@
+{
+    "objectID": "9fd0b8be384320ae79465cff54d26431",
+    "name": "Erhaltene Anzahlungen (g. 5 Jahre)",
+    "type": "Verbindlichkeit",
+    "code": "3285",
+    "description": "",
+    "categories": [
+        "Erhaltene Anzahlungen",
+        "03. erhaltene Anzahlungen auf Bestellungen",
+        "C. Verbindlichkeiten",
+        "Passiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "Passiva > C. Verbindlichkeiten > 03. erhaltene Anzahlungen auf Bestellungen > Erhaltene Anzahlungen"
+        },
+        {
+            "lvl2": "Passiva > C. Verbindlichkeiten > 03. erhaltene Anzahlungen auf Bestellungen"
+        },
+        {
+            "lvl1": "Passiva > C. Verbindlichkeiten"
+        },
+        {
+            "lvl0": "Passiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "8849ae77228dd660bcdfd0becbfd9e7f"
+}

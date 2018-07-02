@@ -1,0 +1,18 @@
+{
+    "objectID": "02bf19f7916e6dc15c403335dd274ccb",
+    "name": "a) ordentliche betriebliche Aufwendungen",
+    "type": "Aufwand",
+    "code": -1,
+    "description": "",
+    "categories": [
+        "08. sonstige betriebliche Aufwendungen"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl0": "08. sonstige betriebliche Aufwendungen"
+        }
+    ],
+    "leaf": false,
+    "placeholder": false,
+    "parent": "cf7f94dcdeb53cd3d602ea87d83aba4e"
+}

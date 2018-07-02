@@ -1,0 +1,34 @@
+{
+    "objectID": "d1bd33fe663534767006d1bc9dce2071",
+    "name": "Erhaltene Boni 7% Vorsteuer",
+    "type": "Aufwand",
+    "code": "5750",
+    "description": "",
+    "categories": [
+        "Erhaltene Boni",
+        "Nachl\u00e4sse",
+        "03. Statistische Konten E\u00dcR",
+        "a) Aufwendungen f\u00fcr Roh-, Hilfs- und Betriebsstoffe und f\u00fcr bezogene Waren",
+        "05. Materialaufwand"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl4": "05. Materialaufwand > a) Aufwendungen f\u00fcr Roh-, Hilfs- und Betriebsstoffe und f\u00fcr bezogene Waren > 03. Statistische Konten E\u00dcR > Nachl\u00e4sse > Erhaltene Boni"
+        },
+        {
+            "lvl3": "05. Materialaufwand > a) Aufwendungen f\u00fcr Roh-, Hilfs- und Betriebsstoffe und f\u00fcr bezogene Waren > 03. Statistische Konten E\u00dcR > Nachl\u00e4sse"
+        },
+        {
+            "lvl2": "05. Materialaufwand > a) Aufwendungen f\u00fcr Roh-, Hilfs- und Betriebsstoffe und f\u00fcr bezogene Waren > 03. Statistische Konten E\u00dcR"
+        },
+        {
+            "lvl1": "05. Materialaufwand > a) Aufwendungen f\u00fcr Roh-, Hilfs- und Betriebsstoffe und f\u00fcr bezogene Waren"
+        },
+        {
+            "lvl0": "05. Materialaufwand"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "efee14bb9a89c0167140dcf044adbda0"
+}

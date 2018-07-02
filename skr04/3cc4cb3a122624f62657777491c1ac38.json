@@ -1,0 +1,18 @@
+{
+    "objectID": "3cc4cb3a122624f62657777491c1ac38",
+    "name": "a) Aufwendungen f\u00fcr Roh-, Hilfs- und Betriebsstoffe und f\u00fcr bezogene Waren",
+    "type": "Aufwand",
+    "code": -1,
+    "description": "",
+    "categories": [
+        "05. Materialaufwand"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl0": "05. Materialaufwand"
+        }
+    ],
+    "leaf": false,
+    "placeholder": true,
+    "parent": "57c64d9217db4ee87cece20a3c08a148"
+}

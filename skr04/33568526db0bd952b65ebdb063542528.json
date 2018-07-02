@@ -1,0 +1,30 @@
+{
+    "objectID": "33568526db0bd952b65ebdb063542528",
+    "name": "WB Forderg.gg.UN m.Beteiligg.verh. b.1J",
+    "type": "Forderung",
+    "code": "1296",
+    "description": "",
+    "categories": [
+        "03. Forderungen gegen Unternehmen, mit denen ein Beteiligungsverh\u00e4ltnis besteht",
+        "II. Forderungen und sonstige Verm\u00f6gensgegenst\u00e4nde",
+        "B. Umlaufverm\u00f6gen",
+        "Aktiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "Aktiva > B. Umlaufverm\u00f6gen > II. Forderungen und sonstige Verm\u00f6gensgegenst\u00e4nde > 03. Forderungen gegen Unternehmen, mit denen ein Beteiligungsverh\u00e4ltnis besteht"
+        },
+        {
+            "lvl2": "Aktiva > B. Umlaufverm\u00f6gen > II. Forderungen und sonstige Verm\u00f6gensgegenst\u00e4nde"
+        },
+        {
+            "lvl1": "Aktiva > B. Umlaufverm\u00f6gen"
+        },
+        {
+            "lvl0": "Aktiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "8025095dc946bd68be8762fc42e31fc6"
+}

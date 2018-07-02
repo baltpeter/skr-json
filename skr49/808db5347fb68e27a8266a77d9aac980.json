@@ -1,0 +1,30 @@
+{
+    "objectID": "808db5347fb68e27a8266a77d9aac980",
+    "name": "9285 Unterschiedsbetrag aus der Abzinsung von Altersversorgungsverpflichtungen \u00a7253 Abs. 6 HGB",
+    "type": "Aktiva",
+    "code": "9285",
+    "description": "Unterschiedsbetrag aus der Abzinsung von Altersversorgungsverpflichtungen nach \u00a7253 Abs. 6 HGB (Haben)",
+    "categories": [
+        "9285-9286 Unterschiedsbetrag aus der Abzinsung von Altersversorgungsverpflichtungen nach \u00a7253 Abs. 6 HGB",
+        "9280-9286 Statistische Konten f\u00fcr die im Anhang anzugebenden sonstigen finanziellen Verpflichtungen",
+        "9270-9485 STATISTISCHE KONTEN F\u00dcR IN DER BILANZ AUSZUWEISENDE HAFTUNGSVERH\u00c4LTNISSE",
+        "9 Statistik- & Vortragskonten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "9 Statistik- & Vortragskonten > 9270-9485 STATISTISCHE KONTEN F\u00dcR IN DER BILANZ AUSZUWEISENDE HAFTUNGSVERH\u00c4LTNISSE > 9280-9286 Statistische Konten f\u00fcr die im Anhang anzugebenden sonstigen finanziellen Verpflichtungen > 9285-9286 Unterschiedsbetrag aus der Abzinsung von Altersversorgungsverpflichtungen nach \u00a7253 Abs. 6 HGB"
+        },
+        {
+            "lvl2": "9 Statistik- & Vortragskonten > 9270-9485 STATISTISCHE KONTEN F\u00dcR IN DER BILANZ AUSZUWEISENDE HAFTUNGSVERH\u00c4LTNISSE > 9280-9286 Statistische Konten f\u00fcr die im Anhang anzugebenden sonstigen finanziellen Verpflichtungen"
+        },
+        {
+            "lvl1": "9 Statistik- & Vortragskonten > 9270-9485 STATISTISCHE KONTEN F\u00dcR IN DER BILANZ AUSZUWEISENDE HAFTUNGSVERH\u00c4LTNISSE"
+        },
+        {
+            "lvl0": "9 Statistik- & Vortragskonten"
+        }
+    ],
+    "leaf": true,
+    "notes": "Konto f\u00fcr das Buchungsjahr 2017 neu eingef\u00fchrt.",
+    "parent": "1a70f64456e8fc29a2a24633824f6281"
+}

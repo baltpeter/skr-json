@@ -1,0 +1,23 @@
+{
+    "objectID": "3a683a4194f51a96a006ed8870658dca",
+    "name": "0920-0960 Kasse, Bank",
+    "type": "Aktiva",
+    "code": "0920-0960",
+    "description": "Barkassen & Bankkonten",
+    "categories": [
+        "0600-0989 UMLAUFVERM\u00d6GEN",
+        "0 aktive Verm\u00f6gensposten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN"
+        },
+        {
+            "lvl0": "0 aktive Verm\u00f6gensposten"
+        }
+    ],
+    "leaf": false,
+    "notes": "0940-0955: \u2026oder Verbindlichkeiten gegen\u00fcber Kreditinstituten\n(Schecks und Barkassen haben immer positive Guthaben, Girokonten nicht unbedingt.)",
+    "placeholder": true,
+    "parent": "0c37c40d2c6a59254c28e40326c5b971"
+}

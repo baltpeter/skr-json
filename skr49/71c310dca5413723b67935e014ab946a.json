@@ -1,0 +1,22 @@
+{
+    "objectID": "71c310dca5413723b67935e014ab946a",
+    "name": "2110+2120 Mitgliedsbeitr\u00e4ge",
+    "type": "Ertrag",
+    "code": "2110+2120",
+    "description": "Mitgliedsbeitr\u00e4ge",
+    "categories": [
+        "2000 EINNAHMEN",
+        "2 Erfolgskonten ideeller Bereich"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "2 Erfolgskonten ideeller Bereich > 2000 EINNAHMEN"
+        },
+        {
+            "lvl0": "2 Erfolgskonten ideeller Bereich"
+        }
+    ],
+    "leaf": false,
+    "placeholder": true,
+    "parent": "7f9acf479f01b83b7313ab3082f3e64a"
+}

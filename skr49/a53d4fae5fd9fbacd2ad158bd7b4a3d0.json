@@ -1,0 +1,21 @@
+{
+    "objectID": "a53d4fae5fd9fbacd2ad158bd7b4a3d0",
+    "name": "9490 Statistisches Konto f\u00fcr den Gewinnzuschlag",
+    "type": "Aktiva",
+    "code": "9490",
+    "description": "Statistisches Konto f\u00fcr den Gewinnzuschlag nach \u00a7\u00a7 6b, 6c und 7g a. F. EStG (Haben)",
+    "categories": [
+        "9490-9491 STATISTISCHE KONTEN F\u00dcR GEWINNZUSCHLAG",
+        "9 Statistik- & Vortragskonten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "9 Statistik- & Vortragskonten > 9490-9491 STATISTISCHE KONTEN F\u00dcR GEWINNZUSCHLAG"
+        },
+        {
+            "lvl0": "9 Statistik- & Vortragskonten"
+        }
+    ],
+    "leaf": true,
+    "parent": "a51bed7deb2f18c79589fe98f79da293"
+}

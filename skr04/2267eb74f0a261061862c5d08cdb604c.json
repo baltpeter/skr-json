@@ -1,0 +1,18 @@
+{
+    "objectID": "2267eb74f0a261061862c5d08cdb604c",
+    "name": "Bestandsver\u00e4nd.unfertige Erzeugnisse",
+    "type": "Ertrag",
+    "code": "4810",
+    "description": "",
+    "categories": [
+        "02. Erh\u00f6hung oder Verminderung des Bestandes an fertigen und unfertigen Erzeugnissen"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl0": "02. Erh\u00f6hung oder Verminderung des Bestandes an fertigen und unfertigen Erzeugnissen"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "1e39012da3dcba7d9581752aa72fdac3"
+}

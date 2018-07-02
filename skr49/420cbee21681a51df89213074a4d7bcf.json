@@ -1,0 +1,21 @@
+{
+    "objectID": "420cbee21681a51df89213074a4d7bcf",
+    "name": "9270 Gegenkonto zu 9273-9279 (Soll-Buchung)",
+    "type": "Aktiva",
+    "code": "9270",
+    "description": "Gegenkonto zu 9273-9279 (Soll-Buchung)",
+    "categories": [
+        "9270-9485 STATISTISCHE KONTEN F\u00dcR IN DER BILANZ AUSZUWEISENDE HAFTUNGSVERH\u00c4LTNISSE",
+        "9 Statistik- & Vortragskonten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "9 Statistik- & Vortragskonten > 9270-9485 STATISTISCHE KONTEN F\u00dcR IN DER BILANZ AUSZUWEISENDE HAFTUNGSVERH\u00c4LTNISSE"
+        },
+        {
+            "lvl0": "9 Statistik- & Vortragskonten"
+        }
+    ],
+    "leaf": true,
+    "parent": "4a4977a3aea7f63adea0e6188330d4a1"
+}

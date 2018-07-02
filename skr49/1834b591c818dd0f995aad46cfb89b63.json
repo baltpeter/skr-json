@@ -1,0 +1,25 @@
+{
+    "objectID": "1834b591c818dd0f995aad46cfb89b63",
+    "name": "0415 B\u00fcroeinrichtung",
+    "type": "Aktiva",
+    "code": "0415",
+    "description": "B\u00fcroeinrichtung",
+    "categories": [
+        "0400 Sonstige Anlagen und Ausstattung",
+        "0250-0599 ANDERE ANLAGEN, BETRIEBS- UND GESCH\u00c4FTSAUSSTATTUNG",
+        "0 aktive Verm\u00f6gensposten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "0 aktive Verm\u00f6gensposten > 0250-0599 ANDERE ANLAGEN, BETRIEBS- UND GESCH\u00c4FTSAUSSTATTUNG > 0400 Sonstige Anlagen und Ausstattung"
+        },
+        {
+            "lvl1": "0 aktive Verm\u00f6gensposten > 0250-0599 ANDERE ANLAGEN, BETRIEBS- UND GESCH\u00c4FTSAUSSTATTUNG"
+        },
+        {
+            "lvl0": "0 aktive Verm\u00f6gensposten"
+        }
+    ],
+    "leaf": true,
+    "parent": "b60afedd03609c1848b6081702030ae1"
+}

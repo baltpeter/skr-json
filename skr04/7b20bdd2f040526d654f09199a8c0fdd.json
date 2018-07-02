@@ -1,0 +1,23 @@
+{
+    "objectID": "7b20bdd2f040526d654f09199a8c0fdd",
+    "name": "Entnahmen aus satzungsm\u00e4\u00dfigen R\u00fccklagen",
+    "type": "Eigenkapital",
+    "code": "7745",
+    "description": "",
+    "categories": [
+        "02. Entnahmen aus Gewinnr\u00fccklagen",
+        "21. Ver\u00e4nderungen Vortr\u00e4ge und R\u00fccklagen"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "21. Ver\u00e4nderungen Vortr\u00e4ge und R\u00fccklagen > 02. Entnahmen aus Gewinnr\u00fccklagen"
+        },
+        {
+            "lvl0": "21. Ver\u00e4nderungen Vortr\u00e4ge und R\u00fccklagen"
+        }
+    ],
+    "leaf": true,
+    "notes": "Aufwandskonten?",
+    "placeholder": false,
+    "parent": "e250efca9681cba74a7eb7f31361d9af"
+}

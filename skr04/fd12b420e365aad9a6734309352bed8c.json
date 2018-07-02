@@ -1,0 +1,30 @@
+{
+    "objectID": "fd12b420e365aad9a6734309352bed8c",
+    "name": "Sonstige Raumkosten f\u00fcr Geb\u00e4ude, die nicht zum Betriebsverm\u00f6gen geh\u00f6ren",
+    "type": "Aufwand",
+    "code": "6346",
+    "description": "",
+    "categories": [
+        "Sonstige Raumkosten",
+        "1) Raumkosten",
+        "a) ordentliche betriebliche Aufwendungen",
+        "08. sonstige betriebliche Aufwendungen"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen > 1) Raumkosten > Sonstige Raumkosten"
+        },
+        {
+            "lvl2": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen > 1) Raumkosten"
+        },
+        {
+            "lvl1": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen"
+        },
+        {
+            "lvl0": "08. sonstige betriebliche Aufwendungen"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "b1a207f5806c06679e077f8d6880f0b4"
+}

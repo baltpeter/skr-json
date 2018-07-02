@@ -1,0 +1,26 @@
+{
+    "objectID": "50c6c3e215775bc40d571f027d07dfed",
+    "name": "03. sonstige Wertpapiere",
+    "type": "Aktiva",
+    "code": "1510",
+    "description": "",
+    "categories": [
+        "III. Wertpapiere",
+        "B. Umlaufverm\u00f6gen",
+        "Aktiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "Aktiva > B. Umlaufverm\u00f6gen > III. Wertpapiere"
+        },
+        {
+            "lvl1": "Aktiva > B. Umlaufverm\u00f6gen"
+        },
+        {
+            "lvl0": "Aktiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "b5f9eb28630b90bc2fca2d7e31a06ab3"
+}

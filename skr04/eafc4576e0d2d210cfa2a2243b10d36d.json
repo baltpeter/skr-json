@@ -1,0 +1,22 @@
+{
+    "objectID": "eafc4576e0d2d210cfa2a2243b10d36d",
+    "name": "Erl\u00f6sschm\u00e4lerung EG-Lieferung 16% USt",
+    "type": "Ertrag",
+    "code": "4726",
+    "description": "",
+    "categories": [
+        "Erl\u00f6sschm\u00e4lerungen",
+        "01. Betriebliche Ertr\u00e4ge"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "01. Betriebliche Ertr\u00e4ge > Erl\u00f6sschm\u00e4lerungen"
+        },
+        {
+            "lvl0": "01. Betriebliche Ertr\u00e4ge"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "2210f6850f7a649cf982df696a48e4b7"
+}

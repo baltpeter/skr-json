@@ -1,0 +1,22 @@
+{
+    "objectID": "31db50549ce9368f1bda573031c2776a",
+    "name": "4420-4443 Zins- und Kursertr\u00e4ge",
+    "type": "Ertrag",
+    "code": "4420-4443",
+    "description": "Zins- und Kursertr\u00e4ge (ngV)",
+    "categories": [
+        "4400-4499 EINNAHMEN NGV",
+        "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4400-4499 EINNAHMEN NGV"
+        },
+        {
+            "lvl0": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung"
+        }
+    ],
+    "leaf": false,
+    "placeholder": true,
+    "parent": "def48fc49fcbfcb147a97ad39b9d8928"
+}

@@ -1,0 +1,26 @@
+{
+    "objectID": "664bd49a2bbb9ed51a0d1325dd849a22",
+    "name": "Ingangsetzungs- und Erweiterungsaufwand",
+    "type": "Aktiva",
+    "code": "0095",
+    "description": "",
+    "categories": [
+        "II. Ingangsetzung und Erweiterung des Gesch\u00e4ftsbetriebes",
+        "A. Anlageverm\u00f6gen",
+        "Aktiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "Aktiva > A. Anlageverm\u00f6gen > II. Ingangsetzung und Erweiterung des Gesch\u00e4ftsbetriebes"
+        },
+        {
+            "lvl1": "Aktiva > A. Anlageverm\u00f6gen"
+        },
+        {
+            "lvl0": "Aktiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "6ecb789e06f3feac57be62f87a44beba"
+}

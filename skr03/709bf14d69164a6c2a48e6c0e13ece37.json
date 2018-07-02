@@ -1,0 +1,18 @@
+{
+    "objectID": "709bf14d69164a6c2a48e6c0e13ece37",
+    "name": "Versicherungsbeitr\u00e4ge",
+    "type": "Aufwand",
+    "code": -1,
+    "description": "",
+    "categories": [
+        "Aufwendungen 2/4"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl0": "Aufwendungen 2/4"
+        }
+    ],
+    "leaf": false,
+    "placeholder": true,
+    "parent": "be324e400d3b67510f89afd18de776e3"
+}

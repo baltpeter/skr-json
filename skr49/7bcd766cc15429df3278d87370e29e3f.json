@@ -1,0 +1,26 @@
+{
+    "objectID": "7bcd766cc15429df3278d87370e29e3f",
+    "name": "0610 Unfertige Erzeugnisse, Leistungen",
+    "type": "Aktiva",
+    "code": "0610",
+    "description": "Unfertige Erzeugnisse, Leistungen (Bestand)",
+    "categories": [
+        "0600-0629 Vorr\u00e4te",
+        "0600-0989 UMLAUFVERM\u00d6GEN",
+        "0 aktive Verm\u00f6gensposten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0600-0629 Vorr\u00e4te"
+        },
+        {
+            "lvl1": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN"
+        },
+        {
+            "lvl0": "0 aktive Verm\u00f6gensposten"
+        }
+    ],
+    "leaf": true,
+    "notes": "Bestand",
+    "parent": "6819284684797a0e73fdf3c7d3070c4c"
+}

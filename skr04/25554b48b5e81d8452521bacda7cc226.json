@@ -1,0 +1,19 @@
+{
+    "objectID": "25554b48b5e81d8452521bacda7cc226",
+    "name": "A. Anlageverm\u00f6gen",
+    "type": "Aktiva",
+    "code": -1,
+    "description": "",
+    "categories": [
+        "Aktiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl0": "Aktiva"
+        }
+    ],
+    "leaf": false,
+    "placeholder": false,
+    "tax-related": false,
+    "parent": "5431c68bfabcf5fdbef88abedd861198"
+}

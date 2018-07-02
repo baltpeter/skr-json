@@ -1,0 +1,31 @@
+{
+    "objectID": "c2d1862f573ec66d66e8e84c31df4a50",
+    "name": "Sonstige Betriebs- und Gesch\u00e4ftsausstattung",
+    "type": "Aktiva",
+    "code": "0690",
+    "description": "",
+    "categories": [
+        "03. Andere Anlagen, Betriebs- und Gesch\u00e4ftsausstattung",
+        "IV. Sachanlagen",
+        "A. Anlageverm\u00f6gen",
+        "Aktiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "Aktiva > A. Anlageverm\u00f6gen > IV. Sachanlagen > 03. Andere Anlagen, Betriebs- und Gesch\u00e4ftsausstattung"
+        },
+        {
+            "lvl2": "Aktiva > A. Anlageverm\u00f6gen > IV. Sachanlagen"
+        },
+        {
+            "lvl1": "Aktiva > A. Anlageverm\u00f6gen"
+        },
+        {
+            "lvl0": "Aktiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "tax-related": false,
+    "parent": "9c897b2b8563220f6ba863b5d7bcb0aa"
+}

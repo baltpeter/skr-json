@@ -1,0 +1,22 @@
+{
+    "objectID": "9bf908bfc78429d448d917b0f9f433dd",
+    "name": "Gew\u00e4hrte Rabatte",
+    "type": "Ertrag",
+    "code": "4770",
+    "description": "",
+    "categories": [
+        "Erl\u00f6sschm\u00e4lerungen",
+        "01. Betriebliche Ertr\u00e4ge"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "01. Betriebliche Ertr\u00e4ge > Erl\u00f6sschm\u00e4lerungen"
+        },
+        {
+            "lvl0": "01. Betriebliche Ertr\u00e4ge"
+        }
+    ],
+    "leaf": true,
+    "placeholder": true,
+    "parent": "2210f6850f7a649cf982df696a48e4b7"
+}

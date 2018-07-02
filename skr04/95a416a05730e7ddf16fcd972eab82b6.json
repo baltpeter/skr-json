@@ -1,0 +1,30 @@
+{
+    "objectID": "95a416a05730e7ddf16fcd972eab82b6",
+    "name": "Zuwendungen, Spenden -79",
+    "type": "Fremdkapital",
+    "code": "2650",
+    "description": "",
+    "categories": [
+        "IV. Privat Teilhafter",
+        "a) Personengesellschaft",
+        "A. Eigenkapital",
+        "Passiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "Passiva > A. Eigenkapital > a) Personengesellschaft > IV. Privat Teilhafter"
+        },
+        {
+            "lvl2": "Passiva > A. Eigenkapital > a) Personengesellschaft"
+        },
+        {
+            "lvl1": "Passiva > A. Eigenkapital"
+        },
+        {
+            "lvl0": "Passiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "3260c1391626c6d4390a92d314f6d047"
+}

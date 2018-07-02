@@ -1,0 +1,34 @@
+{
+    "objectID": "5e4e256cf81cdb6b18e5e2d587b94be8",
+    "name": "Zweifelhafte Forderungen (bis 1 Jahr)",
+    "type": "Forderung",
+    "code": "1241",
+    "description": "",
+    "categories": [
+        "Zweifelhafte Forderungen",
+        "01. Forderungen aus Lieferungen und Leistungen",
+        "II. Forderungen und sonstige Verm\u00f6gensgegenst\u00e4nde",
+        "B. Umlaufverm\u00f6gen",
+        "Aktiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl4": "Aktiva > B. Umlaufverm\u00f6gen > II. Forderungen und sonstige Verm\u00f6gensgegenst\u00e4nde > 01. Forderungen aus Lieferungen und Leistungen > Zweifelhafte Forderungen"
+        },
+        {
+            "lvl3": "Aktiva > B. Umlaufverm\u00f6gen > II. Forderungen und sonstige Verm\u00f6gensgegenst\u00e4nde > 01. Forderungen aus Lieferungen und Leistungen"
+        },
+        {
+            "lvl2": "Aktiva > B. Umlaufverm\u00f6gen > II. Forderungen und sonstige Verm\u00f6gensgegenst\u00e4nde"
+        },
+        {
+            "lvl1": "Aktiva > B. Umlaufverm\u00f6gen"
+        },
+        {
+            "lvl0": "Aktiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "9c12aa23ce66851b83316b04a40c28e3"
+}

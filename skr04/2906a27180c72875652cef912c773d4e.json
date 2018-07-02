@@ -1,0 +1,22 @@
+{
+    "objectID": "2906a27180c72875652cef912c773d4e",
+    "name": "- davon f\u00fcr Altersversorgung",
+    "type": "Aufwand",
+    "code": -1,
+    "description": "",
+    "categories": [
+        "b) soziale Abgaben und Aufwendungen f\u00fcr Altersversorgung und Unterst\u00fctzung",
+        "06. Personalaufwand"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "06. Personalaufwand > b) soziale Abgaben und Aufwendungen f\u00fcr Altersversorgung und Unterst\u00fctzung"
+        },
+        {
+            "lvl0": "06. Personalaufwand"
+        }
+    ],
+    "leaf": false,
+    "placeholder": true,
+    "parent": "a943872d0d0623064a3c76ccff77965e"
+}

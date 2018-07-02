@@ -1,0 +1,26 @@
+{
+    "objectID": "e372143fdb11893eaa5ceadb0e65bf2a",
+    "name": "Kfz-Versicherungen",
+    "type": "Aufwand",
+    "code": "6520",
+    "description": "",
+    "categories": [
+        "5) Fahrzeugkosten",
+        "a) ordentliche betriebliche Aufwendungen",
+        "08. sonstige betriebliche Aufwendungen"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen > 5) Fahrzeugkosten"
+        },
+        {
+            "lvl1": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen"
+        },
+        {
+            "lvl0": "08. sonstige betriebliche Aufwendungen"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "56d46dd3b373b38c30ecf7fe5321a12c"
+}

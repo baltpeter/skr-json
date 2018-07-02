@@ -1,0 +1,39 @@
+{
+    "objectID": "c4abbd95f9660b8abfffae76ff7b9ba1",
+    "name": "0879 K\u00f6rperschaftsteuerguthaben nach \u00a737 KStG <1 Jahr",
+    "type": "Forderung",
+    "code": "0879",
+    "description": "VERALTET!",
+    "categories": [
+        "0878 K\u00f6rperschaftsteuerr\u00fcckforderung",
+        "0877-0883 Sonstige Forderungen an Finaz\u00e4mter & BA",
+        "0700 Sonstige Verm\u00f6gensgegenst\u00e4nde",
+        "0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde",
+        "0600-0989 UMLAUFVERM\u00d6GEN",
+        "0 aktive Verm\u00f6gensposten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl5": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde > 0700 Sonstige Verm\u00f6gensgegenst\u00e4nde > 0877-0883 Sonstige Forderungen an Finaz\u00e4mter & BA > 0878 K\u00f6rperschaftsteuerr\u00fcckforderung"
+        },
+        {
+            "lvl4": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde > 0700 Sonstige Verm\u00f6gensgegenst\u00e4nde > 0877-0883 Sonstige Forderungen an Finaz\u00e4mter & BA"
+        },
+        {
+            "lvl3": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde > 0700 Sonstige Verm\u00f6gensgegenst\u00e4nde"
+        },
+        {
+            "lvl2": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde"
+        },
+        {
+            "lvl1": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN"
+        },
+        {
+            "lvl0": "0 aktive Verm\u00f6gensposten"
+        }
+    ],
+    "leaf": true,
+    "notes": "K\u00f6rperschaftsteuerguthaben nach \u00a737 KStG \u2013 Restlaufzeit bis 1 Jahr\nDas Konto wird nur noch f\u00fcr Auswertungen mit Vorjahresvergleich ben\u00f6tigt und wird im folgenden Jahr gel\u00f6scht.",
+    "placeholder": true,
+    "parent": "670e6a5e40146479c22dbf23782a3879"
+}

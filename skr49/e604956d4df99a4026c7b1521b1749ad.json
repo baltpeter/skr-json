@@ -1,0 +1,30 @@
+{
+    "objectID": "e604956d4df99a4026c7b1521b1749ad",
+    "name": "1105 Zuf\u00fchrung aus Ergebnisr\u00fccklagen",
+    "type": "Fremdkapital",
+    "code": "1105",
+    "description": "Zuf\u00fchrung aus Ergebnisr\u00fccklagen",
+    "categories": [
+        "1100-1105 Stiftungskapital",
+        "1100-1125 Stiftungsverm\u00f6gen",
+        "1000-1179 VERM\u00d6GEN / EIGENKAPITAL",
+        "1 passive Verm\u00f6gensposten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL > 1100-1125 Stiftungsverm\u00f6gen > 1100-1105 Stiftungskapital"
+        },
+        {
+            "lvl2": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL > 1100-1125 Stiftungsverm\u00f6gen"
+        },
+        {
+            "lvl1": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL"
+        },
+        {
+            "lvl0": "1 passive Verm\u00f6gensposten"
+        }
+    ],
+    "leaf": true,
+    "notes": "Nur f\u00fcr Stiftungen!",
+    "parent": "9fe27132e2d85345f37a9c94620b7e05"
+}

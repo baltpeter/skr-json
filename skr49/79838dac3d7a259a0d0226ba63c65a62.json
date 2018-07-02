@@ -1,0 +1,18 @@
+{
+    "objectID": "79838dac3d7a259a0d0226ba63c65a62",
+    "name": "1180-1199 SONDERPOSTEN",
+    "type": "Fremdkapital",
+    "code": "1180-1199",
+    "description": "Sonderposten",
+    "categories": [
+        "1 passive Verm\u00f6gensposten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl0": "1 passive Verm\u00f6gensposten"
+        }
+    ],
+    "leaf": false,
+    "placeholder": true,
+    "parent": "1d27222a8423625bfe5a54fcf23df229"
+}

@@ -1,0 +1,22 @@
+{
+    "objectID": "c5ede0a1501fa6d356d43e07b6cc1528",
+    "name": "Zusch\u00fcsse der Agenturen f\u00fcr Arbeit",
+    "type": "Aufwand",
+    "code": "6075",
+    "description": "Haben!",
+    "categories": [
+        "a) L\u00f6hne und Geh\u00e4lter",
+        "06. Personalaufwand"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "06. Personalaufwand > a) L\u00f6hne und Geh\u00e4lter"
+        },
+        {
+            "lvl0": "06. Personalaufwand"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "603fcd641f765110cac07fca1a8d47f1"
+}

@@ -1,0 +1,18 @@
+{
+    "objectID": "304af5d5813350397a1032bb86ee866a",
+    "name": "Ertr\u00e4ge aus anderen Wertpapieren und Ausleihungen des Finanzanlageverm\u00f6gens",
+    "type": "Ertrag",
+    "code": "7010",
+    "description": "",
+    "categories": [
+        "10. Ertr\u00e4ge aus anderen Wertpapieren und Ausleihungen des Finanzanlageverm\u00f6gens"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl0": "10. Ertr\u00e4ge aus anderen Wertpapieren und Ausleihungen des Finanzanlageverm\u00f6gens"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "a4dfbe8fc2ff45d59632ba7d387d5eaa"
+}

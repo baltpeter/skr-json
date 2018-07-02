@@ -1,0 +1,33 @@
+{
+    "objectID": "c03c9d300595afa3fbc8d16881435891",
+    "name": "6570 Veranstaltungsgebundene Zusch\u00fcsse",
+    "type": "Ertrag",
+    "code": "6570",
+    "description": "Veranstaltungsgebundene Zusch\u00fcsse",
+    "categories": [
+        "6560 Sonstige betriebliche Ertr\u00e4ge",
+        "6500-6669 EINNAHMEN / ERTR\u00c4GE",
+        "6500-6989 SONSTIGE ZWECKBETRIEBE 2",
+        "6000-6989 SONSTIGE ZWECKBETRIEBE",
+        "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl4": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE > 6500-6989 SONSTIGE ZWECKBETRIEBE 2 > 6500-6669 EINNAHMEN / ERTR\u00c4GE > 6560 Sonstige betriebliche Ertr\u00e4ge"
+        },
+        {
+            "lvl3": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE > 6500-6989 SONSTIGE ZWECKBETRIEBE 2 > 6500-6669 EINNAHMEN / ERTR\u00c4GE"
+        },
+        {
+            "lvl2": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE > 6500-6989 SONSTIGE ZWECKBETRIEBE 2"
+        },
+        {
+            "lvl1": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE"
+        },
+        {
+            "lvl0": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe"
+        }
+    ],
+    "leaf": true,
+    "parent": "71247a60b8c245e52e7ec859f0bb083a"
+}

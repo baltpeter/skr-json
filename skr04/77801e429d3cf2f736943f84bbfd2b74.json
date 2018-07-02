@@ -1,0 +1,30 @@
+{
+    "objectID": "77801e429d3cf2f736943f84bbfd2b74",
+    "name": "Anleihen, nicht konvertibel (g.5 Jahre)",
+    "type": "Verbindlichkeit",
+    "code": "3110",
+    "description": "",
+    "categories": [
+        "a) Anleihen, nicht konvertibel",
+        "01. Anleihen",
+        "C. Verbindlichkeiten",
+        "Passiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "Passiva > C. Verbindlichkeiten > 01. Anleihen > a) Anleihen, nicht konvertibel"
+        },
+        {
+            "lvl2": "Passiva > C. Verbindlichkeiten > 01. Anleihen"
+        },
+        {
+            "lvl1": "Passiva > C. Verbindlichkeiten"
+        },
+        {
+            "lvl0": "Passiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "5915a4522e747674c7831a0d5edc376d"
+}

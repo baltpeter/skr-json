@@ -1,0 +1,30 @@
+{
+    "objectID": "3a5877c67b62cd8b530e4360ece4687d",
+    "name": "4971 Reisekosten Arbeitnehmer Verpflegungsmehraufwand",
+    "type": "Aufwand",
+    "code": "4971",
+    "description": "Reisekosten Arbeitnehmer Verpflegungsmehraufwand",
+    "categories": [
+        "4970 Reisekosten Arbeitnehmer",
+        "4510 Ausgaben Bereich 4000",
+        "4500-4999 AUSGABEN / WERBUNGSKOSTEN",
+        "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4500-4999 AUSGABEN / WERBUNGSKOSTEN > 4510 Ausgaben Bereich 4000 > 4970 Reisekosten Arbeitnehmer"
+        },
+        {
+            "lvl2": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4500-4999 AUSGABEN / WERBUNGSKOSTEN > 4510 Ausgaben Bereich 4000"
+        },
+        {
+            "lvl1": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4500-4999 AUSGABEN / WERBUNGSKOSTEN"
+        },
+        {
+            "lvl0": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung"
+        }
+    ],
+    "leaf": true,
+    "notes": "Konto f\u00fcr das Buchungsjahr 2017 neu eingef\u00fchrt.",
+    "parent": "f2e2c8c3c2e58eed31f167805ef3701c"
+}

@@ -1,0 +1,30 @@
+{
+    "objectID": "0fa17f3721cfdbee57682773a67bae9c",
+    "name": "Nicht abziehbare Vorsteuer 16%",
+    "type": "Aufwand",
+    "code": "6870",
+    "description": "",
+    "categories": [
+        "Nicht abziehbare Vorsteuer",
+        "8) verschiedene betriebliche Kosten",
+        "a) ordentliche betriebliche Aufwendungen",
+        "08. sonstige betriebliche Aufwendungen"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen > 8) verschiedene betriebliche Kosten > Nicht abziehbare Vorsteuer"
+        },
+        {
+            "lvl2": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen > 8) verschiedene betriebliche Kosten"
+        },
+        {
+            "lvl1": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen"
+        },
+        {
+            "lvl0": "08. sonstige betriebliche Aufwendungen"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "409e30043821b8a8cc676a839f7ad79c"
+}

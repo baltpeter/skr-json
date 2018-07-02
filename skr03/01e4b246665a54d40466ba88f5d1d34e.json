@@ -1,0 +1,22 @@
+{
+    "objectID": "01e4b246665a54d40466ba88f5d1d34e",
+    "name": "3400 Wareneingang VSt. 19%",
+    "type": "Aktiva",
+    "code": "3400",
+    "description": "",
+    "categories": [
+        "Wareneingangs- u. Bestandskonten 3",
+        "Aktiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "Aktiva > Wareneingangs- u. Bestandskonten 3"
+        },
+        {
+            "lvl0": "Aktiva"
+        }
+    ],
+    "leaf": true,
+    "tax-related": false,
+    "parent": "a26df9927a82bcb58a1facb4cde6f221"
+}

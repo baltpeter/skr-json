@@ -1,0 +1,26 @@
+{
+    "objectID": "88e555c3ff54038607ef4ac4384276c1",
+    "name": "Als Aufwand ber\u00fccksichtigte Umsatzsteuer auf Anzahlungen",
+    "type": "Aktiva",
+    "code": "1930",
+    "description": "",
+    "categories": [
+        "Aktive Rechnungsabgrenzung",
+        "C. Rechnungsabgrenzungsposten Umlaufverm\u00f6gen",
+        "Aktiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "Aktiva > C. Rechnungsabgrenzungsposten Umlaufverm\u00f6gen > Aktive Rechnungsabgrenzung"
+        },
+        {
+            "lvl1": "Aktiva > C. Rechnungsabgrenzungsposten Umlaufverm\u00f6gen"
+        },
+        {
+            "lvl0": "Aktiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "4e5d0f817835ddf3b0e9e68135cb873c"
+}

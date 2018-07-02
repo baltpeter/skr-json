@@ -1,0 +1,25 @@
+{
+    "objectID": "2f133e66ac195bbdb4faaeb3c1dccbc8",
+    "name": "1300 Anleihen, nicht konvertibel",
+    "type": "Verbindlichkeit",
+    "code": "1300",
+    "description": "Nicht konvertible Anleihen",
+    "categories": [
+        "1300-1318 Anleihen",
+        "1300-1989 VERBINDLICHKEITEN",
+        "1 passive Verm\u00f6gensposten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "1 passive Verm\u00f6gensposten > 1300-1989 VERBINDLICHKEITEN > 1300-1318 Anleihen"
+        },
+        {
+            "lvl1": "1 passive Verm\u00f6gensposten > 1300-1989 VERBINDLICHKEITEN"
+        },
+        {
+            "lvl0": "1 passive Verm\u00f6gensposten"
+        }
+    ],
+    "leaf": true,
+    "parent": "6649b6cf1297db59eed0f379522f5f3e"
+}

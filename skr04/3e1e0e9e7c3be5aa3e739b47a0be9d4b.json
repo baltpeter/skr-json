@@ -1,0 +1,34 @@
+{
+    "objectID": "3e1e0e9e7c3be5aa3e739b47a0be9d4b",
+    "name": "Sonderposten mit R\u00fccklageanteil f\u00fcr F\u00f6rderung nach \u00a73 ZonenRFG/\u00a74-6 F\u00f6rdergebietsG",
+    "type": "Fremdkapital",
+    "code": "2995",
+    "description": "",
+    "categories": [
+        "Sonderposten mit R\u00fccklageanteil, steuerfreie R\u00fccklagen",
+        "III. Sonderposten mit R\u00fccklageanteil",
+        "c) alle",
+        "A. Eigenkapital",
+        "Passiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl4": "Passiva > A. Eigenkapital > c) alle > III. Sonderposten mit R\u00fccklageanteil > Sonderposten mit R\u00fccklageanteil, steuerfreie R\u00fccklagen"
+        },
+        {
+            "lvl3": "Passiva > A. Eigenkapital > c) alle > III. Sonderposten mit R\u00fccklageanteil"
+        },
+        {
+            "lvl2": "Passiva > A. Eigenkapital > c) alle"
+        },
+        {
+            "lvl1": "Passiva > A. Eigenkapital"
+        },
+        {
+            "lvl0": "Passiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "6033548eda9d17974781c8d9b2770f0c"
+}

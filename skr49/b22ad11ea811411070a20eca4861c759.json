@@ -1,0 +1,29 @@
+{
+    "objectID": "b22ad11ea811411070a20eca4861c759",
+    "name": "2451 Verrechnete Sachbez\u00fcge Arbeitnehmer",
+    "type": "Ertrag",
+    "code": "2451",
+    "description": "Verrechnete Sachbez\u00fcge Arbeitnehmer",
+    "categories": [
+        "2450 Verrechnete/aufgeteilte Einnahmen ideeller Bereich",
+        "2400 Sonstige Einnahmen ideeller Bereich",
+        "2000 EINNAHMEN",
+        "2 Erfolgskonten ideeller Bereich"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "2 Erfolgskonten ideeller Bereich > 2000 EINNAHMEN > 2400 Sonstige Einnahmen ideeller Bereich > 2450 Verrechnete/aufgeteilte Einnahmen ideeller Bereich"
+        },
+        {
+            "lvl2": "2 Erfolgskonten ideeller Bereich > 2000 EINNAHMEN > 2400 Sonstige Einnahmen ideeller Bereich"
+        },
+        {
+            "lvl1": "2 Erfolgskonten ideeller Bereich > 2000 EINNAHMEN"
+        },
+        {
+            "lvl0": "2 Erfolgskonten ideeller Bereich"
+        }
+    ],
+    "leaf": true,
+    "parent": "7c497fd7e964d3377b77dc72e134c1a6"
+}

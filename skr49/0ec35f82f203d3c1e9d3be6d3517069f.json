@@ -1,0 +1,26 @@
+{
+    "objectID": "0ec35f82f203d3c1e9d3be6d3517069f",
+    "name": "2110 Echte Mitgliedsbeitr\u00e4ge <300\u20ac",
+    "type": "Ertrag",
+    "code": "2110",
+    "description": "Echte Mitgliedsbeitr\u00e4ge bis 300 Euro",
+    "categories": [
+        "2110+2120 Mitgliedsbeitr\u00e4ge",
+        "2000 EINNAHMEN",
+        "2 Erfolgskonten ideeller Bereich"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "2 Erfolgskonten ideeller Bereich > 2000 EINNAHMEN > 2110+2120 Mitgliedsbeitr\u00e4ge"
+        },
+        {
+            "lvl1": "2 Erfolgskonten ideeller Bereich > 2000 EINNAHMEN"
+        },
+        {
+            "lvl0": "2 Erfolgskonten ideeller Bereich"
+        }
+    ],
+    "leaf": true,
+    "notes": "Betr\u00e4ge aus \u00a718 ErbStG bzw. AEAO zu \u00a752 AO Nr. 1.1.\n(ehemals 256\u20ac!)",
+    "parent": "71c310dca5413723b67935e014ab946a"
+}

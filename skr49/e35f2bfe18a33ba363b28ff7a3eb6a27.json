@@ -1,0 +1,34 @@
+{
+    "objectID": "e35f2bfe18a33ba363b28ff7a3eb6a27",
+    "name": "3453 Solidarit\u00e4tszuschlag",
+    "type": "Aufwand",
+    "code": "3453",
+    "description": "Solidarit\u00e4tszuschlag zur KSt",
+    "categories": [
+        "3451-3453 Steuern",
+        "3450 Nicht abziehbare Ausgaben Bereich 4000",
+        "3400-3499 Verm\u00f6gensverwaltung",
+        "3200-3899  ERTRAGSNEUTRALE POSTEN",
+        "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl4": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN > 3400-3499 Verm\u00f6gensverwaltung > 3450 Nicht abziehbare Ausgaben Bereich 4000 > 3451-3453 Steuern"
+        },
+        {
+            "lvl3": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN > 3400-3499 Verm\u00f6gensverwaltung > 3450 Nicht abziehbare Ausgaben Bereich 4000"
+        },
+        {
+            "lvl2": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN > 3400-3499 Verm\u00f6gensverwaltung"
+        },
+        {
+            "lvl1": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN"
+        },
+        {
+            "lvl0": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
+        }
+    ],
+    "leaf": true,
+    "notes": "K\u00f6rperschaftssteuer",
+    "parent": "10a975d8276f4705ee20fd580bcb72e2"
+}

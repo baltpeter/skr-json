@@ -1,0 +1,26 @@
+{
+    "objectID": "9f7b971d6c9aa930d20d042577f6e7e4",
+    "name": "Gesch\u00e4ftsf\u00fchrergeh\u00e4lter der GmbH-Gesellschafter",
+    "type": "Aufwand",
+    "code": "6024",
+    "description": "",
+    "categories": [
+        "Geh\u00e4lter",
+        "a) L\u00f6hne und Geh\u00e4lter",
+        "06. Personalaufwand"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "06. Personalaufwand > a) L\u00f6hne und Geh\u00e4lter > Geh\u00e4lter"
+        },
+        {
+            "lvl1": "06. Personalaufwand > a) L\u00f6hne und Geh\u00e4lter"
+        },
+        {
+            "lvl0": "06. Personalaufwand"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "d7762789c469b9ba0c995ecac00fa353"
+}

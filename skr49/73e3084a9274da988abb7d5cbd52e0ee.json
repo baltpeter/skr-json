@@ -1,0 +1,34 @@
+{
+    "objectID": "73e3084a9274da988abb7d5cbd52e0ee",
+    "name": "1911 Umsatzsteuer-Vorauszahlungen 1/11",
+    "type": "Fremdkapital",
+    "code": "1911",
+    "description": "Sammelkonto Umsatzsteuer-Vorauszahlung 1/11",
+    "categories": [
+        "1910 Umsatzsteuer-Vorauszahlung/-Erstattung",
+        "1815-1989 Umsatzsteuer-Konten",
+        "1600-1989 Sonstige Verbindlichkeiten oder sonstige Verm\u00f6gensgegenst\u00e4nde",
+        "1300-1989 VERBINDLICHKEITEN",
+        "1 passive Verm\u00f6gensposten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl4": "1 passive Verm\u00f6gensposten > 1300-1989 VERBINDLICHKEITEN > 1600-1989 Sonstige Verbindlichkeiten oder sonstige Verm\u00f6gensgegenst\u00e4nde > 1815-1989 Umsatzsteuer-Konten > 1910 Umsatzsteuer-Vorauszahlung/-Erstattung"
+        },
+        {
+            "lvl3": "1 passive Verm\u00f6gensposten > 1300-1989 VERBINDLICHKEITEN > 1600-1989 Sonstige Verbindlichkeiten oder sonstige Verm\u00f6gensgegenst\u00e4nde > 1815-1989 Umsatzsteuer-Konten"
+        },
+        {
+            "lvl2": "1 passive Verm\u00f6gensposten > 1300-1989 VERBINDLICHKEITEN > 1600-1989 Sonstige Verbindlichkeiten oder sonstige Verm\u00f6gensgegenst\u00e4nde"
+        },
+        {
+            "lvl1": "1 passive Verm\u00f6gensposten > 1300-1989 VERBINDLICHKEITEN"
+        },
+        {
+            "lvl0": "1 passive Verm\u00f6gensposten"
+        }
+    ],
+    "leaf": true,
+    "notes": "\u00dcberschu\u00dfrechner \u2013 keine Zuordnung",
+    "parent": "6f8a190190c3eda7743debf4c0f08191"
+}

@@ -1,0 +1,31 @@
+{
+    "objectID": "7b4aa2404f72b2be84f744b1584cacf3",
+    "name": "3983 Entnahmen aus der Kapitalr\u00fccklage",
+    "type": "Ertrag",
+    "code": "3983",
+    "description": "VERALTET!",
+    "categories": [
+        "3980-3989 Ergebnisverwendung (GmbHs)",
+        "3968-3988 Ergebnisverwendung (Stiftungen & GmbHs)",
+        "3900-3999 ERGEBNISVERWENDUNGSRECHNUNG",
+        "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3900-3999 ERGEBNISVERWENDUNGSRECHNUNG > 3968-3988 Ergebnisverwendung (Stiftungen & GmbHs) > 3980-3989 Ergebnisverwendung (GmbHs)"
+        },
+        {
+            "lvl2": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3900-3999 ERGEBNISVERWENDUNGSRECHNUNG > 3968-3988 Ergebnisverwendung (Stiftungen & GmbHs)"
+        },
+        {
+            "lvl1": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3900-3999 ERGEBNISVERWENDUNGSRECHNUNG"
+        },
+        {
+            "lvl0": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
+        }
+    ],
+    "leaf": true,
+    "notes": "verschoben nach 3968",
+    "placeholder": true,
+    "parent": "503b475a143f854fb30218487f913493"
+}

@@ -1,0 +1,26 @@
+{
+    "objectID": "cb112e9d5b6bf4ca0149302b9b35722b",
+    "name": "a) Kapitalgesellschaft",
+    "type": "Aktiva",
+    "code": -1,
+    "description": "",
+    "categories": [
+        "I. Ausstehende Einlagen",
+        "A. Anlageverm\u00f6gen",
+        "Aktiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "Aktiva > A. Anlageverm\u00f6gen > I. Ausstehende Einlagen"
+        },
+        {
+            "lvl1": "Aktiva > A. Anlageverm\u00f6gen"
+        },
+        {
+            "lvl0": "Aktiva"
+        }
+    ],
+    "leaf": false,
+    "placeholder": true,
+    "parent": "60a53513911abc31ce93dfddbc9c96c5"
+}

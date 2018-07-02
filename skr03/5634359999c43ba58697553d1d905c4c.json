@@ -1,0 +1,21 @@
+{
+    "objectID": "5634359999c43ba58697553d1d905c4c",
+    "name": "2500 Au\u00dferordentliche Ertr\u00e4ge",
+    "type": "Ertrag",
+    "code": "2500",
+    "description": "",
+    "categories": [
+        "Ertragskonten 2",
+        "Erl\u00f6se u. Ertr\u00e4ge 2/8"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "Erl\u00f6se u. Ertr\u00e4ge 2/8 > Ertragskonten 2"
+        },
+        {
+            "lvl0": "Erl\u00f6se u. Ertr\u00e4ge 2/8"
+        }
+    ],
+    "leaf": true,
+    "parent": "4f552b822559c82eaa816d0049f70064"
+}

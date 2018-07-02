@@ -1,0 +1,30 @@
+{
+    "objectID": "be0a3a594fb9945cc4ffdca22fcd2e58",
+    "name": "Verbindlichkeit.gg. Gesellschaftern g. 5 J",
+    "type": "Verbindlichkeit",
+    "code": "3517",
+    "description": "",
+    "categories": [
+        "Verbindlichkeiten gegen\u00fcber Gesellschaftern",
+        "08. sonstige Verbindlichkeiten",
+        "C. Verbindlichkeiten",
+        "Passiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "Passiva > C. Verbindlichkeiten > 08. sonstige Verbindlichkeiten > Verbindlichkeiten gegen\u00fcber Gesellschaftern"
+        },
+        {
+            "lvl2": "Passiva > C. Verbindlichkeiten > 08. sonstige Verbindlichkeiten"
+        },
+        {
+            "lvl1": "Passiva > C. Verbindlichkeiten"
+        },
+        {
+            "lvl0": "Passiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "3c6fad03081857dacd8a1b210903521b"
+}

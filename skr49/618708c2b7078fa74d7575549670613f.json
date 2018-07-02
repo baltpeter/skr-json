@@ -1,0 +1,29 @@
+{
+    "objectID": "618708c2b7078fa74d7575549670613f",
+    "name": "1075 R\u00fccklage aus sonstigen zeitnah zu verwendenden Mitteln",
+    "type": "Fremdkapital",
+    "code": "1075",
+    "description": "R\u00fccklage aus sonstigen zeitnah zu verwendenden Mitteln",
+    "categories": [
+        "1075-1079 Sonstige R\u00fccklagen",
+        "1000-1079 Gewinnr\u00fccklagen",
+        "1000-1179 VERM\u00d6GEN / EIGENKAPITAL",
+        "1 passive Verm\u00f6gensposten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL > 1000-1079 Gewinnr\u00fccklagen > 1075-1079 Sonstige R\u00fccklagen"
+        },
+        {
+            "lvl2": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL > 1000-1079 Gewinnr\u00fccklagen"
+        },
+        {
+            "lvl1": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL"
+        },
+        {
+            "lvl0": "1 passive Verm\u00f6gensposten"
+        }
+    ],
+    "leaf": true,
+    "parent": "58b57fceb4dbe33501ba14f8ac5387d9"
+}

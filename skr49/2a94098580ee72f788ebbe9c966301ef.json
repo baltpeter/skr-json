@@ -1,0 +1,25 @@
+{
+    "objectID": "2a94098580ee72f788ebbe9c966301ef",
+    "name": "0920 Kasse",
+    "type": "Bargeld",
+    "code": "0920",
+    "description": "Kasse",
+    "categories": [
+        "0920-0960 Kasse, Bank",
+        "0600-0989 UMLAUFVERM\u00d6GEN",
+        "0 aktive Verm\u00f6gensposten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0920-0960 Kasse, Bank"
+        },
+        {
+            "lvl1": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN"
+        },
+        {
+            "lvl0": "0 aktive Verm\u00f6gensposten"
+        }
+    ],
+    "leaf": true,
+    "parent": "3a683a4194f51a96a006ed8870658dca"
+}

@@ -1,0 +1,26 @@
+{
+    "objectID": "4b1c7f834582f0b2f309044fb6854f2a",
+    "name": "01. Anteile an verbundenen Unternehmen (Umlaufverm\u00f6gen)",
+    "type": "Aktiva",
+    "code": "1500",
+    "description": "",
+    "categories": [
+        "III. Wertpapiere",
+        "B. Umlaufverm\u00f6gen",
+        "Aktiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "Aktiva > B. Umlaufverm\u00f6gen > III. Wertpapiere"
+        },
+        {
+            "lvl1": "Aktiva > B. Umlaufverm\u00f6gen"
+        },
+        {
+            "lvl0": "Aktiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "b5f9eb28630b90bc2fca2d7e31a06ab3"
+}

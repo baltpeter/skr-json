@@ -1,0 +1,26 @@
+{
+    "objectID": "afffbf8ca31e8d9c5a0f876d5201b0b7",
+    "name": "Sonderabschreibungen nach 7g Abs. 1 und 2 EStG (ohne Kfz)",
+    "type": "Aufwand",
+    "code": "6241",
+    "description": "",
+    "categories": [
+        "Abschreibungen auf das Anlageverm\u00f6gen",
+        "a) auf immaterielle Verm\u00f6gensgegenst\u00e4nde des Anlageverm\u00f6gens und Sachanlagen",
+        "07. Abschreibungen"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "07. Abschreibungen > a) auf immaterielle Verm\u00f6gensgegenst\u00e4nde des Anlageverm\u00f6gens und Sachanlagen > Abschreibungen auf das Anlageverm\u00f6gen"
+        },
+        {
+            "lvl1": "07. Abschreibungen > a) auf immaterielle Verm\u00f6gensgegenst\u00e4nde des Anlageverm\u00f6gens und Sachanlagen"
+        },
+        {
+            "lvl0": "07. Abschreibungen"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "135aeefb7cce9adb6f4b62a86a81385a"
+}

@@ -1,0 +1,26 @@
+{
+    "objectID": "5924bab6272a6f176af3b187d7c3d126",
+    "name": "R\u00fcckstellungen f\u00fcr Gew\u00e4hrleistung",
+    "type": "Fremdkapital",
+    "code": "3090",
+    "description": "Gegenkonto 6790",
+    "categories": [
+        "03. Sonstige R\u00fcckstellungen",
+        "B. R\u00fcckstellungen",
+        "Passiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "Passiva > B. R\u00fcckstellungen > 03. Sonstige R\u00fcckstellungen"
+        },
+        {
+            "lvl1": "Passiva > B. R\u00fcckstellungen"
+        },
+        {
+            "lvl0": "Passiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "984e3a4bbeb1a32db7dd6df9437e6ee1"
+}

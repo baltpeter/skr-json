@@ -1,0 +1,22 @@
+{
+    "objectID": "99e113ed0416a564d64005711d670e91",
+    "name": "Steuererstattungen Vorjahre f\u00fcr sonstige Steuern",
+    "type": "Ertrag",
+    "code": "7692",
+    "description": "",
+    "categories": [
+        "Sonstige Steuern",
+        "19. sonstige Steuern"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "19. sonstige Steuern > Sonstige Steuern"
+        },
+        {
+            "lvl0": "19. sonstige Steuern"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "a5866629e278f3178e1a89e670c364f1"
+}

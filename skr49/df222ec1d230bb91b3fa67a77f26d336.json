@@ -1,0 +1,30 @@
+{
+    "objectID": "df222ec1d230bb91b3fa67a77f26d336",
+    "name": "3690 Umsatzsteuer auf unentgeltliche Wertabgaben",
+    "type": "Aufwand",
+    "code": "3690",
+    "description": "Umsatzsteuer auf unentgeltliche Wertabgaben",
+    "categories": [
+        "3650 Nicht abziehbare Ausgaben Bereich 6000",
+        "3600-3699 Sonstige Zweckbetriebe",
+        "3200-3899  ERTRAGSNEUTRALE POSTEN",
+        "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN > 3600-3699 Sonstige Zweckbetriebe > 3650 Nicht abziehbare Ausgaben Bereich 6000"
+        },
+        {
+            "lvl2": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN > 3600-3699 Sonstige Zweckbetriebe"
+        },
+        {
+            "lvl1": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN"
+        },
+        {
+            "lvl0": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
+        }
+    ],
+    "leaf": true,
+    "notes": "\u00a73 Abs. 1b, Abs. 9a UStG",
+    "parent": "f3bc0afdde1ae993b827c599afd7bb09"
+}

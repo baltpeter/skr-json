@@ -1,0 +1,22 @@
+{
+    "objectID": "83d0177a3bf8ecab71f864adb04c678e",
+    "name": "03. erhaltene Anzahlungen auf Bestellungen",
+    "type": "Verbindlichkeit",
+    "code": -1,
+    "description": "",
+    "categories": [
+        "C. Verbindlichkeiten",
+        "Passiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "Passiva > C. Verbindlichkeiten"
+        },
+        {
+            "lvl0": "Passiva"
+        }
+    ],
+    "leaf": false,
+    "placeholder": true,
+    "parent": "8755bf4081c942798c5ac5f34c5b1aac"
+}

@@ -1,0 +1,33 @@
+{
+    "objectID": "942f8a1e7fdd2c530aa85a0380e97e47",
+    "name": "3220 Erhaltene Spenden / Zuwendungen",
+    "type": "Ertrag",
+    "code": "3220",
+    "description": "Erhaltene Spenden und Zuwendungen",
+    "categories": [
+        "3220-3249 Spenden",
+        "3200 Steuerneutrale Einnahmen ideeller Bereich",
+        "3200-3399 Ideeller Bereich",
+        "3200-3899  ERTRAGSNEUTRALE POSTEN",
+        "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl4": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN > 3200-3399 Ideeller Bereich > 3200 Steuerneutrale Einnahmen ideeller Bereich > 3220-3249 Spenden"
+        },
+        {
+            "lvl3": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN > 3200-3399 Ideeller Bereich > 3200 Steuerneutrale Einnahmen ideeller Bereich"
+        },
+        {
+            "lvl2": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN > 3200-3399 Ideeller Bereich"
+        },
+        {
+            "lvl1": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN"
+        },
+        {
+            "lvl0": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
+        }
+    ],
+    "leaf": true,
+    "parent": "cb50ff94b7f4cb78ef0c5bd6c052a5e6"
+}

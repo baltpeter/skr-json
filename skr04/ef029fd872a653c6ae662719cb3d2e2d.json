@@ -1,0 +1,26 @@
+{
+    "objectID": "ef029fd872a653c6ae662719cb3d2e2d",
+    "name": "III. Sonderposten mit R\u00fccklageanteil",
+    "type": "Fremdkapital",
+    "code": -1,
+    "description": "",
+    "categories": [
+        "c) alle",
+        "A. Eigenkapital",
+        "Passiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "Passiva > A. Eigenkapital > c) alle"
+        },
+        {
+            "lvl1": "Passiva > A. Eigenkapital"
+        },
+        {
+            "lvl0": "Passiva"
+        }
+    ],
+    "leaf": false,
+    "placeholder": true,
+    "parent": "03f020a835b1fb5ba5b79c0622007f0c"
+}

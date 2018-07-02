@@ -1,0 +1,26 @@
+{
+    "objectID": "4d7d697312057888a0cbfbd970608584",
+    "name": "0677-0678+0690-0699 Forderungen / Verbindlichkeiten (Unternehmen, mit denen ein Beteiligungsverh\u00e4ltnis besteht)",
+    "type": "Forderung",
+    "code": "0677-0678+0690-0699",
+    "description": "Forderungen gegen Unternehmen, mit denen ein Beteiligungsverh\u00e4ltnis besteht oder Verbindlichkeiten gegen\u00fcber Unternehmen, mit denen ein Beteiligungsverh\u00e4ltnis besteht",
+    "categories": [
+        "0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde",
+        "0600-0989 UMLAUFVERM\u00d6GEN",
+        "0 aktive Verm\u00f6gensposten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde"
+        },
+        {
+            "lvl1": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN"
+        },
+        {
+            "lvl0": "0 aktive Verm\u00f6gensposten"
+        }
+    ],
+    "leaf": false,
+    "placeholder": true,
+    "parent": "7c67e6354bb5a3e8a06595099386bee2"
+}

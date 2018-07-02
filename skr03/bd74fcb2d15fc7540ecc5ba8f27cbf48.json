@@ -1,0 +1,21 @@
+{
+    "objectID": "bd74fcb2d15fc7540ecc5ba8f27cbf48",
+    "name": "0565 Darlehen",
+    "type": "Aktiva",
+    "code": "0565",
+    "description": "",
+    "categories": [
+        "Anlage- u. Kapitalkonten 0",
+        "Aktiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "Aktiva > Anlage- u. Kapitalkonten 0"
+        },
+        {
+            "lvl0": "Aktiva"
+        }
+    ],
+    "leaf": true,
+    "parent": "27356188a1963c1dbf943022441d095f"
+}

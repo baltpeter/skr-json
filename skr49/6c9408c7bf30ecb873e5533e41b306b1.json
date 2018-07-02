@@ -1,0 +1,23 @@
+{
+    "objectID": "6c9408c7bf30ecb873e5533e41b306b1",
+    "name": "9515 Wareneinkauf zum allgemeinen Umsatzsteuersatz",
+    "type": "Aktiva",
+    "code": "9515",
+    "description": "Wareneinkauf zum allgemeinen Umsatzsteuersatz",
+    "categories": [
+        "9500-9599 STATISTISCHE WERTE F\u00dcR ANLAGE E\u00dcR",
+        "9 Statistik- & Vortragskonten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "9 Statistik- & Vortragskonten > 9500-9599 STATISTISCHE WERTE F\u00dcR ANLAGE E\u00dcR"
+        },
+        {
+            "lvl0": "9 Statistik- & Vortragskonten"
+        }
+    ],
+    "leaf": true,
+    "notes": "Veraltet, in der Version 2017 nicht mehr enthalten!",
+    "placeholder": true,
+    "parent": "baac2841267ad2422440263668815280"
+}

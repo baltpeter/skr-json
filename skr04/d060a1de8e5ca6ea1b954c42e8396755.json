@@ -1,0 +1,35 @@
+{
+    "objectID": "d060a1de8e5ca6ea1b954c42e8396755",
+    "name": "Forderungen aus L+L erm\u00e4\u00dfigt. Steuersatz",
+    "type": "Forderung",
+    "code": "1216",
+    "description": "",
+    "categories": [
+        "Forderungen aus Lieferungen und Leistungen ohne Kontokorrent",
+        "01. Forderungen aus Lieferungen und Leistungen",
+        "II. Forderungen und sonstige Verm\u00f6gensgegenst\u00e4nde",
+        "B. Umlaufverm\u00f6gen",
+        "Aktiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl4": "Aktiva > B. Umlaufverm\u00f6gen > II. Forderungen und sonstige Verm\u00f6gensgegenst\u00e4nde > 01. Forderungen aus Lieferungen und Leistungen > Forderungen aus Lieferungen und Leistungen ohne Kontokorrent"
+        },
+        {
+            "lvl3": "Aktiva > B. Umlaufverm\u00f6gen > II. Forderungen und sonstige Verm\u00f6gensgegenst\u00e4nde > 01. Forderungen aus Lieferungen und Leistungen"
+        },
+        {
+            "lvl2": "Aktiva > B. Umlaufverm\u00f6gen > II. Forderungen und sonstige Verm\u00f6gensgegenst\u00e4nde"
+        },
+        {
+            "lvl1": "Aktiva > B. Umlaufverm\u00f6gen"
+        },
+        {
+            "lvl0": "Aktiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "tax-related": false,
+    "parent": "76c54d31f188167d8a031d96045283fd"
+}

@@ -1,0 +1,25 @@
+{
+    "objectID": "d19765dc933d1fcbde1458e45a84e7bf",
+    "name": "9690 Gegenkonto f\u00fcr statistische Buchungen",
+    "type": "Aktiva",
+    "code": "9690",
+    "description": "Gegenkonto f\u00fcr statistische Buchungen zu 9620-9689",
+    "categories": [
+        "9600-9849 Statistische Werte f\u00fcr BWA",
+        "9600-9998 WEITERE STATISTIK- UND VORTRAGSKONTEN",
+        "9 Statistik- & Vortragskonten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "9 Statistik- & Vortragskonten > 9600-9998 WEITERE STATISTIK- UND VORTRAGSKONTEN > 9600-9849 Statistische Werte f\u00fcr BWA"
+        },
+        {
+            "lvl1": "9 Statistik- & Vortragskonten > 9600-9998 WEITERE STATISTIK- UND VORTRAGSKONTEN"
+        },
+        {
+            "lvl0": "9 Statistik- & Vortragskonten"
+        }
+    ],
+    "leaf": true,
+    "parent": "ce6ef6340d8c65efd124f5950fcbb6a8"
+}

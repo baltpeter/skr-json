@@ -1,0 +1,27 @@
+{
+    "objectID": "503b475a143f854fb30218487f913493",
+    "name": "3980-3989 Ergebnisverwendung (GmbHs)",
+    "type": "Ertrag",
+    "code": "3980-3989",
+    "description": "Zus\u00e4tzlich f\u00fcr GmbHs",
+    "categories": [
+        "3968-3988 Ergebnisverwendung (Stiftungen & GmbHs)",
+        "3900-3999 ERGEBNISVERWENDUNGSRECHNUNG",
+        "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3900-3999 ERGEBNISVERWENDUNGSRECHNUNG > 3968-3988 Ergebnisverwendung (Stiftungen & GmbHs)"
+        },
+        {
+            "lvl1": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3900-3999 ERGEBNISVERWENDUNGSRECHNUNG"
+        },
+        {
+            "lvl0": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
+        }
+    ],
+    "leaf": false,
+    "notes": "Nur GmbH!",
+    "placeholder": true,
+    "parent": "1cecd6b4ad34399da287c6e649acfac1"
+}

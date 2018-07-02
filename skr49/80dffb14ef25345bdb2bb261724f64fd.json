@@ -1,0 +1,29 @@
+{
+    "objectID": "80dffb14ef25345bdb2bb261724f64fd",
+    "name": "0935 Nebenkasse 2",
+    "type": "Bargeld",
+    "code": "0935",
+    "description": "Nebenkasse 2",
+    "categories": [
+        "0920 Kasse",
+        "0920-0960 Kasse, Bank",
+        "0600-0989 UMLAUFVERM\u00d6GEN",
+        "0 aktive Verm\u00f6gensposten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0920-0960 Kasse, Bank > 0920 Kasse"
+        },
+        {
+            "lvl2": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0920-0960 Kasse, Bank"
+        },
+        {
+            "lvl1": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN"
+        },
+        {
+            "lvl0": "0 aktive Verm\u00f6gensposten"
+        }
+    ],
+    "leaf": true,
+    "parent": "2a94098580ee72f788ebbe9c966301ef"
+}

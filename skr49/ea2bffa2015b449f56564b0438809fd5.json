@@ -1,0 +1,29 @@
+{
+    "objectID": "ea2bffa2015b449f56564b0438809fd5",
+    "name": "4201 Erl\u00f6se Werbeunternehmen 7% USt",
+    "type": "Ertrag",
+    "code": "4201",
+    "description": "Erl\u00f6se Werbeunternehmen 7% USt",
+    "categories": [
+        "4200 Erl\u00f6se von Werbeunternehmen",
+        "4200-4203 Ertr\u00e4ge Werbung",
+        "4000-4399 EINNAHMEN GV",
+        "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4000-4399 EINNAHMEN GV > 4200-4203 Ertr\u00e4ge Werbung > 4200 Erl\u00f6se von Werbeunternehmen"
+        },
+        {
+            "lvl2": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4000-4399 EINNAHMEN GV > 4200-4203 Ertr\u00e4ge Werbung"
+        },
+        {
+            "lvl1": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4000-4399 EINNAHMEN GV"
+        },
+        {
+            "lvl0": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung"
+        }
+    ],
+    "leaf": true,
+    "parent": "fca2b6509817842e3ced43bc2493bb95"
+}

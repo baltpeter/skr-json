@@ -1,0 +1,21 @@
+{
+    "objectID": "b7732f38a5495d3996ba74b5b4683389",
+    "name": "6990 Umgebuchte Einnahmen B 6000",
+    "type": "Ertrag",
+    "code": "6990",
+    "description": "Umgebuchte Einnahmen B 6000 (Gegenkonto 8980)",
+    "categories": [
+        "6990-6999 ERGEBNISUMBUCHUNG NACH 8980",
+        "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6990-6999 ERGEBNISUMBUCHUNG NACH 8980"
+        },
+        {
+            "lvl0": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe"
+        }
+    ],
+    "leaf": true,
+    "parent": "bf4eff8eec48c2bb0359d5bb8a4c2ca0"
+}

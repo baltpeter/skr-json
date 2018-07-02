@@ -1,0 +1,22 @@
+{
+    "objectID": "1966a089d55a2ad1e46f39a708db8ed0",
+    "name": "Zinsen und \u00e4hnliche Aufwendungen an verbundene Unterbundenen nehmen",
+    "type": "Aufwand",
+    "code": "7309",
+    "description": "",
+    "categories": [
+        "- davon an verbundene Unternehmen",
+        "13. Zinsen und \u00e4hnliche Aufwendungen"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "13. Zinsen und \u00e4hnliche Aufwendungen > - davon an verbundene Unternehmen"
+        },
+        {
+            "lvl0": "13. Zinsen und \u00e4hnliche Aufwendungen"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "1d2e4fdc63afeae1c59bf9b936518804"
+}

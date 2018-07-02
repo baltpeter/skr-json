@@ -1,0 +1,18 @@
+{
+    "objectID": "a31fca8b7c5eb2cb0111f1f97696ac93",
+    "name": "Verbindlichkeiten",
+    "type": "Fremdkapital",
+    "code": -1,
+    "description": "",
+    "categories": [
+        "Passiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl0": "Passiva"
+        }
+    ],
+    "leaf": false,
+    "placeholder": true,
+    "parent": "845b29bc14787bded30488e8d51eec0b"
+}

@@ -1,0 +1,26 @@
+{
+    "objectID": "db74e9c8106b9ac6b9ba311d6fbb129d",
+    "name": "1149 Nachschusskapital",
+    "type": "Fremdkapital",
+    "code": "1149",
+    "description": "Nachschusskapital",
+    "categories": [
+        "1145-1149 Kapitalr\u00fccklagen",
+        "1000-1179 VERM\u00d6GEN / EIGENKAPITAL",
+        "1 passive Verm\u00f6gensposten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL > 1145-1149 Kapitalr\u00fccklagen"
+        },
+        {
+            "lvl1": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL"
+        },
+        {
+            "lvl0": "1 passive Verm\u00f6gensposten"
+        }
+    ],
+    "leaf": true,
+    "notes": "Nur GmbH!\nGegenkonto: 0641",
+    "parent": "ec3e38658b62a68edd0809eca41f301d"
+}

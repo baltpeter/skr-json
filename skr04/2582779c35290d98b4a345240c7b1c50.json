@@ -1,0 +1,27 @@
+{
+    "objectID": "2582779c35290d98b4a345240c7b1c50",
+    "name": "Reparaturen und Instandhaltung von Bauten",
+    "type": "Aufwand",
+    "code": "6450",
+    "description": "",
+    "categories": [
+        "4) Reparaturen und Instandhaltungen",
+        "a) ordentliche betriebliche Aufwendungen",
+        "08. sonstige betriebliche Aufwendungen"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen > 4) Reparaturen und Instandhaltungen"
+        },
+        {
+            "lvl1": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen"
+        },
+        {
+            "lvl0": "08. sonstige betriebliche Aufwendungen"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "tax-related": false,
+    "parent": "5925fef34d2d43bd1a1fbe06d7cf5515"
+}

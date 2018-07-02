@@ -1,0 +1,22 @@
+{
+    "objectID": "4121067de11cd1fc1254f618245835d5",
+    "name": "Abgrenzungen zur unterj\u00e4hrigen Kostenverrechnung f\u00fcr BWA",
+    "type": "Fremdkapital",
+    "code": "3950",
+    "description": "",
+    "categories": [
+        "D. Rechnungsabgrenzungsposten Fremdkapital",
+        "Passiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "Passiva > D. Rechnungsabgrenzungsposten Fremdkapital"
+        },
+        {
+            "lvl0": "Passiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "ca4f3be70076340cc2702f8863077d48"
+}

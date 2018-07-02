@@ -1,0 +1,27 @@
+{
+    "objectID": "33aec1d789df7fdee6154e6d150e779e",
+    "name": "3994 Entnahmen aus dem Vereinskapital Mittelverwendung",
+    "type": "Ertrag",
+    "code": "3994",
+    "description": "VERALTET!",
+    "categories": [
+        "3994+3996 Ergebnisverwendung (Vereine)",
+        "3900-3999 ERGEBNISVERWENDUNGSRECHNUNG",
+        "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3900-3999 ERGEBNISVERWENDUNGSRECHNUNG > 3994+3996 Ergebnisverwendung (Vereine)"
+        },
+        {
+            "lvl1": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3900-3999 ERGEBNISVERWENDUNGSRECHNUNG"
+        },
+        {
+            "lvl0": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
+        }
+    ],
+    "leaf": true,
+    "notes": "verschoben nach 3952\nDas Konto wird ab 2019 gel\u00f6scht. Bitte ab 2017 das neue Konto bebuchen.",
+    "placeholder": true,
+    "parent": "a7d64f41e0d5ef44a28f591ae6b2e775"
+}

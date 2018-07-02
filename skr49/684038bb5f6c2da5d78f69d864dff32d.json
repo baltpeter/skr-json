@@ -1,0 +1,21 @@
+{
+    "objectID": "684038bb5f6c2da5d78f69d864dff32d",
+    "name": "9073 Offene Posten aus 2003",
+    "type": "Aktiva",
+    "code": "9073",
+    "description": "Offene Posten aus 2003",
+    "categories": [
+        "9000-9249 STATISTISCHE KONTEN",
+        "9 Statistik- & Vortragskonten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "9 Statistik- & Vortragskonten > 9000-9249 STATISTISCHE KONTEN"
+        },
+        {
+            "lvl0": "9 Statistik- & Vortragskonten"
+        }
+    ],
+    "leaf": true,
+    "parent": "ffca2686cb9963bea1089b796763dda0"
+}

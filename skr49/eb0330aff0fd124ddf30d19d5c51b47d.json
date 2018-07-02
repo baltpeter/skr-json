@@ -1,0 +1,29 @@
+{
+    "objectID": "eb0330aff0fd124ddf30d19d5c51b47d",
+    "name": "1004 Wiederbeschaffungsr\u00fccklage \u00a762 Abs. 1 Nr. 2 AO",
+    "type": "Fremdkapital",
+    "code": "1004",
+    "description": "Wiederbeschaffungsr\u00fccklage gem\u00e4\u00df \u00a762 Absatz 1 Nummer 2 Abgabenordnung",
+    "categories": [
+        "1000-1069 Gebundene R\u00fccklagen",
+        "1000-1079 Gewinnr\u00fccklagen",
+        "1000-1179 VERM\u00d6GEN / EIGENKAPITAL",
+        "1 passive Verm\u00f6gensposten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL > 1000-1079 Gewinnr\u00fccklagen > 1000-1069 Gebundene R\u00fccklagen"
+        },
+        {
+            "lvl2": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL > 1000-1079 Gewinnr\u00fccklagen"
+        },
+        {
+            "lvl1": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL"
+        },
+        {
+            "lvl0": "1 passive Verm\u00f6gensposten"
+        }
+    ],
+    "leaf": true,
+    "parent": "2609183d3d6dd20810723b745c8eb0db"
+}

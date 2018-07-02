@@ -1,0 +1,26 @@
+{
+    "objectID": "c7d8aaca5031405857793ef2c808290b",
+    "name": "9001-9007 Saldenvortr\u00e4ge, Sachkonten",
+    "type": "Aktiva",
+    "code": "9001-9007",
+    "description": "Saldenvortr\u00e4ge, Sachkonten",
+    "categories": [
+        "9000 Saldenvortr\u00e4ge Sachkonten",
+        "9000-9249 STATISTISCHE KONTEN",
+        "9 Statistik- & Vortragskonten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "9 Statistik- & Vortragskonten > 9000-9249 STATISTISCHE KONTEN > 9000 Saldenvortr\u00e4ge Sachkonten"
+        },
+        {
+            "lvl1": "9 Statistik- & Vortragskonten > 9000-9249 STATISTISCHE KONTEN"
+        },
+        {
+            "lvl0": "9 Statistik- & Vortragskonten"
+        }
+    ],
+    "leaf": false,
+    "placeholder": true,
+    "parent": "597b9a70754011ac40c2a5a55eed5292"
+}

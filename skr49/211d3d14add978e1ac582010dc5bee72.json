@@ -1,0 +1,25 @@
+{
+    "objectID": "211d3d14add978e1ac582010dc5bee72",
+    "name": "2802 Geschenke, Jubil\u00e4en, Ehrungen",
+    "type": "Aufwand",
+    "code": "2802",
+    "description": "Geschenke, Jubil\u00e4en, Ehrungen",
+    "categories": [
+        "2510 \u00dcbrige Ausgaben",
+        "2500-2999 AUSGABEN",
+        "2 Erfolgskonten ideeller Bereich"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN > 2510 \u00dcbrige Ausgaben"
+        },
+        {
+            "lvl1": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN"
+        },
+        {
+            "lvl0": "2 Erfolgskonten ideeller Bereich"
+        }
+    ],
+    "leaf": true,
+    "parent": "75d38fa3ae63128e2bd6a0ba80dc904b"
+}

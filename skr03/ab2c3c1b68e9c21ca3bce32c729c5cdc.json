@@ -1,0 +1,21 @@
+{
+    "objectID": "ab2c3c1b68e9c21ca3bce32c729c5cdc",
+    "name": "1850 Au\u00dfergew\u00f6hnliche Belastungen",
+    "type": "Eigenkapital",
+    "code": "1850",
+    "description": "",
+    "categories": [
+        "Privatentnahmen/-einlagen",
+        "Privatkonten 1"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "Privatkonten 1 > Privatentnahmen/-einlagen"
+        },
+        {
+            "lvl0": "Privatkonten 1"
+        }
+    ],
+    "leaf": true,
+    "parent": "b9ae1b059749ea81c757a9adad39db1b"
+}

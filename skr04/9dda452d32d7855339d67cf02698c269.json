@@ -1,0 +1,22 @@
+{
+    "objectID": "9dda452d32d7855339d67cf02698c269",
+    "name": "Forderungsverluste",
+    "type": "Aufwand",
+    "code": "6280",
+    "description": "(soweit un\u00fcblich hoch)",
+    "categories": [
+        "b) auf Verm\u00f6gensgegenst\u00e4nde des Umlaufverm\u00f6gens",
+        "07. Abschreibungen"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "07. Abschreibungen > b) auf Verm\u00f6gensgegenst\u00e4nde des Umlaufverm\u00f6gens"
+        },
+        {
+            "lvl0": "07. Abschreibungen"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "d4c9d630bdd7fffa3a7ab0aa5e69796e"
+}

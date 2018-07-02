@@ -1,0 +1,30 @@
+{
+    "objectID": "3c954281df44d8574f3c65bcca0e0166",
+    "name": "Kommandit-Kapital",
+    "type": "Fremdkapital",
+    "code": "2050",
+    "description": "",
+    "categories": [
+        "II. Kapital / Teilhafter",
+        "a) Personengesellschaft",
+        "A. Eigenkapital",
+        "Passiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "Passiva > A. Eigenkapital > a) Personengesellschaft > II. Kapital / Teilhafter"
+        },
+        {
+            "lvl2": "Passiva > A. Eigenkapital > a) Personengesellschaft"
+        },
+        {
+            "lvl1": "Passiva > A. Eigenkapital"
+        },
+        {
+            "lvl0": "Passiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "9caf6e580a978dba2f91d63e21422abd"
+}

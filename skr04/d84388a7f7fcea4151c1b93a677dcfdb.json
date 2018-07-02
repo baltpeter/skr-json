@@ -1,0 +1,22 @@
+{
+    "objectID": "d84388a7f7fcea4151c1b93a677dcfdb",
+    "name": "Nicht abzugsf\u00e4hige Schuldzinsen (kurzfristig) gem\u00e4\u00df \u00a74 Abs. 4a EStG",
+    "type": "Aufwand",
+    "code": "7314",
+    "description": "Hinzurechnungsbetrag",
+    "categories": [
+        "Zinsaufwendungen f\u00fcr kurzfristige Verbindlichkeiten",
+        "13. Zinsen und \u00e4hnliche Aufwendungen"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "13. Zinsen und \u00e4hnliche Aufwendungen > Zinsaufwendungen f\u00fcr kurzfristige Verbindlichkeiten"
+        },
+        {
+            "lvl0": "13. Zinsen und \u00e4hnliche Aufwendungen"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "71a9174e0b5d1b37537fbaae957435e9"
+}

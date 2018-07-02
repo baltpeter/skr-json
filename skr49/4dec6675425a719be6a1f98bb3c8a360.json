@@ -1,0 +1,34 @@
+{
+    "objectID": "4dec6675425a719be6a1f98bb3c8a360",
+    "name": "3890 Umsatzsteuer auf unentgeltliche Wertabgaben",
+    "type": "Aufwand",
+    "code": "3890",
+    "description": "Umsatzsteuer auf unentgeltliche Wertabgaben",
+    "categories": [
+        "3853-3857+3864-3890 Steuern",
+        "3850 Nicht abziehb. Ausg. zu Bereich 8000",
+        "3800-3899 Sonstige wirtschaftliche Gesch\u00e4ftsbetriebe",
+        "3200-3899  ERTRAGSNEUTRALE POSTEN",
+        "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl4": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN > 3800-3899 Sonstige wirtschaftliche Gesch\u00e4ftsbetriebe > 3850 Nicht abziehb. Ausg. zu Bereich 8000 > 3853-3857+3864-3890 Steuern"
+        },
+        {
+            "lvl3": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN > 3800-3899 Sonstige wirtschaftliche Gesch\u00e4ftsbetriebe > 3850 Nicht abziehb. Ausg. zu Bereich 8000"
+        },
+        {
+            "lvl2": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN > 3800-3899 Sonstige wirtschaftliche Gesch\u00e4ftsbetriebe"
+        },
+        {
+            "lvl1": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN"
+        },
+        {
+            "lvl0": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
+        }
+    ],
+    "leaf": true,
+    "notes": "\u00a73 Abs. 1 b, Abs. 9a UStG",
+    "parent": "3789bb15f7f5346c912672c9fdf913e9"
+}

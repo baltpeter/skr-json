@@ -1,0 +1,18 @@
+{
+    "objectID": "094e09462e1b0d687aa5beeb3e52e6af",
+    "name": "Sonstige Zinsen und \u00e4hnliche Ertr\u00e4ge",
+    "type": "Ertrag",
+    "code": "7100",
+    "description": "",
+    "categories": [
+        "11. sonstige Zinsen und \u00e4hnliche Ertr\u00e4ge"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl0": "11. sonstige Zinsen und \u00e4hnliche Ertr\u00e4ge"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "f9c832cff024c6324b0712d6abfb61dc"
+}

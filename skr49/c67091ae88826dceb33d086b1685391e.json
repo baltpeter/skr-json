@@ -1,0 +1,25 @@
+{
+    "objectID": "c67091ae88826dceb33d086b1685391e",
+    "name": "3800 Steuerneutrale Einnahmen Bereich 8000",
+    "type": "Ertrag",
+    "code": "3800",
+    "description": "Steuerneutrale Einnahmen Bereich 8000",
+    "categories": [
+        "3800-3899 Sonstige wirtschaftliche Gesch\u00e4ftsbetriebe",
+        "3200-3899  ERTRAGSNEUTRALE POSTEN",
+        "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN > 3800-3899 Sonstige wirtschaftliche Gesch\u00e4ftsbetriebe"
+        },
+        {
+            "lvl1": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN"
+        },
+        {
+            "lvl0": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
+        }
+    ],
+    "leaf": true,
+    "parent": "92e35b83d926c2748ef653f8e0cba49e"
+}

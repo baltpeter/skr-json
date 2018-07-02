@@ -1,0 +1,30 @@
+{
+    "objectID": "24489cef074d3d39d8c777d06ef71963",
+    "name": "Instandhaltung betrieblicher R\u00e4ume in Geb\u00e4uden, die nicht zum Betriebs- Gesch\u00e4ftsausverm\u00f6gen geh\u00f6ren",
+    "type": "Aufwand",
+    "code": "6338",
+    "description": "",
+    "categories": [
+        "Instandhaltung betrieblicher R\u00e4ume",
+        "1) Raumkosten",
+        "a) ordentliche betriebliche Aufwendungen",
+        "08. sonstige betriebliche Aufwendungen"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen > 1) Raumkosten > Instandhaltung betrieblicher R\u00e4ume"
+        },
+        {
+            "lvl2": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen > 1) Raumkosten"
+        },
+        {
+            "lvl1": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen"
+        },
+        {
+            "lvl0": "08. sonstige betriebliche Aufwendungen"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "bba153d5f2ebf6a03242582df4cd0af7"
+}

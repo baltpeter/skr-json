@@ -1,0 +1,18 @@
+{
+    "objectID": "dea7f32e6a447d2d1cd7048932c98265",
+    "name": "Umsatzsteuer",
+    "type": "Fremdkapital",
+    "code": -1,
+    "description": "",
+    "categories": [
+        "Passiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl0": "Passiva"
+        }
+    ],
+    "leaf": false,
+    "placeholder": true,
+    "parent": "845b29bc14787bded30488e8d51eec0b"
+}

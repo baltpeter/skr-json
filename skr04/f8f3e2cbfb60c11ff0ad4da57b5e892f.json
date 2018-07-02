@@ -1,0 +1,26 @@
+{
+    "objectID": "f8f3e2cbfb60c11ff0ad4da57b5e892f",
+    "name": "Verpackungsmaterial",
+    "type": "Aufwand",
+    "code": "6710",
+    "description": "",
+    "categories": [
+        "7) Kosten der Warenabgabe",
+        "a) ordentliche betriebliche Aufwendungen",
+        "08. sonstige betriebliche Aufwendungen"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen > 7) Kosten der Warenabgabe"
+        },
+        {
+            "lvl1": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen"
+        },
+        {
+            "lvl0": "08. sonstige betriebliche Aufwendungen"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "f426b343a06164be037f65c82153a874"
+}

@@ -1,0 +1,30 @@
+{
+    "objectID": "d125ce4ce35f853aa5425940706a91aa",
+    "name": "In Ausf\u00fchrung befindl. Bauauftr\u00e4ge",
+    "type": "Aktiva",
+    "code": "1090",
+    "description": "",
+    "categories": [
+        "02. Unfertige Erzeugnisse, unfertige Leistungen (Bestand)",
+        "I. Vorr\u00e4te",
+        "B. Umlaufverm\u00f6gen",
+        "Aktiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "Aktiva > B. Umlaufverm\u00f6gen > I. Vorr\u00e4te > 02. Unfertige Erzeugnisse, unfertige Leistungen (Bestand)"
+        },
+        {
+            "lvl2": "Aktiva > B. Umlaufverm\u00f6gen > I. Vorr\u00e4te"
+        },
+        {
+            "lvl1": "Aktiva > B. Umlaufverm\u00f6gen"
+        },
+        {
+            "lvl0": "Aktiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "e79214338437068dfebeff5025bb49db"
+}

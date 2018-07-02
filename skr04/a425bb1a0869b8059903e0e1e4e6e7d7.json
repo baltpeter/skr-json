@@ -1,0 +1,19 @@
+{
+    "objectID": "a425bb1a0869b8059903e0e1e4e6e7d7",
+    "name": "Au\u00dferordentliche Aufwendungen",
+    "type": "Aufwand",
+    "code": "7500",
+    "description": "",
+    "categories": [
+        "16. au\u00dferordentliche Aufwendungen"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl0": "16. au\u00dferordentliche Aufwendungen"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "tax-related": false,
+    "parent": "17d4b5a4b578ad6b4b9c1ba56a4822bd"
+}

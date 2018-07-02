@@ -1,0 +1,22 @@
+{
+    "objectID": "815036103fbfcdc67d0fcee3c4bd7279",
+    "name": "02. Verbindlichkeiten gegen\u00fcber Kreditinstituten",
+    "type": "Verbindlichkeit",
+    "code": -1,
+    "description": "",
+    "categories": [
+        "C. Verbindlichkeiten",
+        "Passiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "Passiva > C. Verbindlichkeiten"
+        },
+        {
+            "lvl0": "Passiva"
+        }
+    ],
+    "leaf": false,
+    "placeholder": true,
+    "parent": "8755bf4081c942798c5ac5f34c5b1aac"
+}

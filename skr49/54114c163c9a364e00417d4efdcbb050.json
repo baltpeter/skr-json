@@ -1,0 +1,23 @@
+{
+    "objectID": "54114c163c9a364e00417d4efdcbb050",
+    "name": "9599 Gegenkonto zu 9500 bis 9598",
+    "type": "Aktiva",
+    "code": "9599",
+    "description": "Gegenkonto zu 9500 bis 9598",
+    "categories": [
+        "9500-9599 STATISTISCHE WERTE F\u00dcR ANLAGE E\u00dcR",
+        "9 Statistik- & Vortragskonten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "9 Statistik- & Vortragskonten > 9500-9599 STATISTISCHE WERTE F\u00dcR ANLAGE E\u00dcR"
+        },
+        {
+            "lvl0": "9 Statistik- & Vortragskonten"
+        }
+    ],
+    "leaf": true,
+    "notes": "Veraltet, in der Version 2017 nicht mehr enthalten!",
+    "placeholder": true,
+    "parent": "baac2841267ad2422440263668815280"
+}

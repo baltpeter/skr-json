@@ -1,0 +1,25 @@
+{
+    "objectID": "212bede16823b9ad728389bcec82f348",
+    "name": "9990 Ertr\u00e4ge von au\u00dfergew\u00f6hnlicher Gr\u00f6\u00dfenordnung oder Bedeutung",
+    "type": "Aktiva",
+    "code": "9990",
+    "description": "Ertr\u00e4ge von au\u00dfergew\u00f6hnlicher Gr\u00f6\u00dfenordnung oder Bedeutung",
+    "categories": [
+        "9990-9998 Statistische Konten f\u00fcr au\u00dfergew\u00f6hnliche und aperiodische Gesch\u00e4ftsvorf\u00e4lle",
+        "9600-9998 WEITERE STATISTIK- UND VORTRAGSKONTEN",
+        "9 Statistik- & Vortragskonten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "9 Statistik- & Vortragskonten > 9600-9998 WEITERE STATISTIK- UND VORTRAGSKONTEN > 9990-9998 Statistische Konten f\u00fcr au\u00dfergew\u00f6hnliche und aperiodische Gesch\u00e4ftsvorf\u00e4lle"
+        },
+        {
+            "lvl1": "9 Statistik- & Vortragskonten > 9600-9998 WEITERE STATISTIK- UND VORTRAGSKONTEN"
+        },
+        {
+            "lvl0": "9 Statistik- & Vortragskonten"
+        }
+    ],
+    "leaf": true,
+    "parent": "2d36efb9f684419bb9f2190f62f919e6"
+}

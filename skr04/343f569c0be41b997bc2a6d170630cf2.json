@@ -1,0 +1,26 @@
+{
+    "objectID": "343f569c0be41b997bc2a6d170630cf2",
+    "name": "Als Aufwand ber\u00fccksichtigte Z\u00f6lle und Verbrauchsteuern auf Vorr\u00e4te",
+    "type": "Aktiva",
+    "code": "1920",
+    "description": "",
+    "categories": [
+        "Aktive Rechnungsabgrenzung",
+        "C. Rechnungsabgrenzungsposten Umlaufverm\u00f6gen",
+        "Aktiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "Aktiva > C. Rechnungsabgrenzungsposten Umlaufverm\u00f6gen > Aktive Rechnungsabgrenzung"
+        },
+        {
+            "lvl1": "Aktiva > C. Rechnungsabgrenzungsposten Umlaufverm\u00f6gen"
+        },
+        {
+            "lvl0": "Aktiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "4e5d0f817835ddf3b0e9e68135cb873c"
+}

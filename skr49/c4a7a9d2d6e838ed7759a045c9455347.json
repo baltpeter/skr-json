@@ -1,0 +1,23 @@
+{
+    "objectID": "c4a7a9d2d6e838ed7759a045c9455347",
+    "name": "9511 Erl\u00f6se zum erm\u00e4\u00dfigten Umsatzsteuersatz",
+    "type": "Aktiva",
+    "code": "9511",
+    "description": "Erl\u00f6se zum erm\u00e4\u00dfigten Umsatzsteuersatz",
+    "categories": [
+        "9500-9599 STATISTISCHE WERTE F\u00dcR ANLAGE E\u00dcR",
+        "9 Statistik- & Vortragskonten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "9 Statistik- & Vortragskonten > 9500-9599 STATISTISCHE WERTE F\u00dcR ANLAGE E\u00dcR"
+        },
+        {
+            "lvl0": "9 Statistik- & Vortragskonten"
+        }
+    ],
+    "leaf": true,
+    "notes": "Veraltet, in der Version 2017 nicht mehr enthalten!",
+    "placeholder": true,
+    "parent": "baac2841267ad2422440263668815280"
+}

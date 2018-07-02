@@ -1,0 +1,30 @@
+{
+    "objectID": "65fae52de15e89901bfd554a39986c1b",
+    "name": "1115 Kapitalerhaltungsr\u00fccklage",
+    "type": "Fremdkapital",
+    "code": "1115",
+    "description": "Kapitalerhaltungsr\u00fccklage",
+    "categories": [
+        "1115-1125 Ergebnisr\u00fccklagen",
+        "1100-1125 Stiftungsverm\u00f6gen",
+        "1000-1179 VERM\u00d6GEN / EIGENKAPITAL",
+        "1 passive Verm\u00f6gensposten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL > 1100-1125 Stiftungsverm\u00f6gen > 1115-1125 Ergebnisr\u00fccklagen"
+        },
+        {
+            "lvl2": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL > 1100-1125 Stiftungsverm\u00f6gen"
+        },
+        {
+            "lvl1": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL"
+        },
+        {
+            "lvl0": "1 passive Verm\u00f6gensposten"
+        }
+    ],
+    "leaf": true,
+    "notes": "Nur f\u00fcr Stiftungen!",
+    "parent": "3d43c496e04398c7f3783d1ff22b0198"
+}

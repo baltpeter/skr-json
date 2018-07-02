@@ -1,0 +1,26 @@
+{
+    "objectID": "67d612f507d543b26e5880b2ca856a95",
+    "name": "Reparaturen und Instandhaltung von anderen Anlagen",
+    "type": "Aufwand",
+    "code": "6485",
+    "description": "",
+    "categories": [
+        "4) Reparaturen und Instandhaltungen",
+        "a) ordentliche betriebliche Aufwendungen",
+        "08. sonstige betriebliche Aufwendungen"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen > 4) Reparaturen und Instandhaltungen"
+        },
+        {
+            "lvl1": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen"
+        },
+        {
+            "lvl0": "08. sonstige betriebliche Aufwendungen"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "5925fef34d2d43bd1a1fbe06d7cf5515"
+}

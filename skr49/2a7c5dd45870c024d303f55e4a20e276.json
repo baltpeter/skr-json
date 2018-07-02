@@ -1,0 +1,34 @@
+{
+    "objectID": "2a7c5dd45870c024d303f55e4a20e276",
+    "name": "3424 Verkaufserl\u00f6se Wertpapiere",
+    "type": "Ertrag",
+    "code": "3424",
+    "description": "Verkaufserl\u00f6se Wertpapiere",
+    "categories": [
+        "3420 Verkaufserl\u00f6se Verm\u00f6gensverwaltung",
+        "3400 Steuerneutrale Einnahmen Bereich 4000",
+        "3400-3499 Verm\u00f6gensverwaltung",
+        "3200-3899  ERTRAGSNEUTRALE POSTEN",
+        "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl4": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN > 3400-3499 Verm\u00f6gensverwaltung > 3400 Steuerneutrale Einnahmen Bereich 4000 > 3420 Verkaufserl\u00f6se Verm\u00f6gensverwaltung"
+        },
+        {
+            "lvl3": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN > 3400-3499 Verm\u00f6gensverwaltung > 3400 Steuerneutrale Einnahmen Bereich 4000"
+        },
+        {
+            "lvl2": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN > 3400-3499 Verm\u00f6gensverwaltung"
+        },
+        {
+            "lvl1": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN"
+        },
+        {
+            "lvl0": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
+        }
+    ],
+    "leaf": true,
+    "notes": "In der Version 2017 nicht mehr enthalten!",
+    "parent": "2b59f03d031bfd56b14e206734773fe7"
+}

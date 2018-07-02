@@ -1,0 +1,19 @@
+{
+    "objectID": "101369a9f7f4ed7a21cd543dcd27ab0b",
+    "name": "6000-6989 SONSTIGE ZWECKBETRIEBE",
+    "type": "Ertrag",
+    "code": "6000-6989",
+    "description": "SONSTIGE ZWECKBETRIEBE",
+    "categories": [
+        "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl0": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe"
+        }
+    ],
+    "leaf": false,
+    "notes": "Ertragsteuerfreie Zweckbetriebe: \u00a767a Abs. 1 AO, wenn Zweckbetriebsgrenze 45000 EUR (ab 2013) Jahresbruttoeinnahmen nicht \u00fcberschritten wird (bei nachtr\u00e4glichem \u00dcberschreiten vgl. TB 8980)",
+    "placeholder": true,
+    "parent": "e4fe21e792713de019d70850d5e5f6f9"
+}

@@ -1,0 +1,30 @@
+{
+    "objectID": "8e559eae0ee39e2c548f4e6c7146123f",
+    "name": "Gewerbesteuerlich zu ber\u00fccksichtigendes Mietleasing \u00a78 GewStG",
+    "type": "Aufwand",
+    "code": "6844",
+    "description": "",
+    "categories": [
+        "Mietleasing",
+        "8) verschiedene betriebliche Kosten",
+        "a) ordentliche betriebliche Aufwendungen",
+        "08. sonstige betriebliche Aufwendungen"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen > 8) verschiedene betriebliche Kosten > Mietleasing"
+        },
+        {
+            "lvl2": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen > 8) verschiedene betriebliche Kosten"
+        },
+        {
+            "lvl1": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen"
+        },
+        {
+            "lvl0": "08. sonstige betriebliche Aufwendungen"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "0cd495cd4ee05f9d842a95fd5579bec8"
+}

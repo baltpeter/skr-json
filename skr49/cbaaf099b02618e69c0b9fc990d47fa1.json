@@ -1,0 +1,34 @@
+{
+    "objectID": "cbaaf099b02618e69c0b9fc990d47fa1",
+    "name": "7050 Einnahmen aus Fu\u00dfballspielen mit Lizenzspielern",
+    "type": "Ertrag",
+    "code": "7050",
+    "description": "Einnahmen aus Fu\u00dfballspielen mit Lizenzspielern",
+    "categories": [
+        "7000-7150+7154-7199 Umsatzerl\u00f6se",
+        "7000-7199 EINNAHMEN / ERTR\u00c4GE",
+        "7000-7799 GESCH\u00c4FTSBETRIEBE SPORT",
+        "7000-7999 GESCH\u00c4FTSBETRIEBE SPORT",
+        "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl4": "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport > 7000-7999 GESCH\u00c4FTSBETRIEBE SPORT > 7000-7799 GESCH\u00c4FTSBETRIEBE SPORT > 7000-7199 EINNAHMEN / ERTR\u00c4GE > 7000-7150+7154-7199 Umsatzerl\u00f6se"
+        },
+        {
+            "lvl3": "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport > 7000-7999 GESCH\u00c4FTSBETRIEBE SPORT > 7000-7799 GESCH\u00c4FTSBETRIEBE SPORT > 7000-7199 EINNAHMEN / ERTR\u00c4GE"
+        },
+        {
+            "lvl2": "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport > 7000-7999 GESCH\u00c4FTSBETRIEBE SPORT > 7000-7799 GESCH\u00c4FTSBETRIEBE SPORT"
+        },
+        {
+            "lvl1": "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport > 7000-7999 GESCH\u00c4FTSBETRIEBE SPORT"
+        },
+        {
+            "lvl0": "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport"
+        }
+    ],
+    "leaf": true,
+    "notes": "Umsatzerl\u00f6se aus Fu\u00dfball mit Lizenzspielern",
+    "parent": "9787ee5bc561f2822d3c3f59603e1d1f"
+}

@@ -1,0 +1,29 @@
+{
+    "objectID": "99b5f0d0c0beefc808cf82c548f5f310",
+    "name": "0517 Beteiligungen an Kapitalgesellschaften",
+    "type": "Aktiva",
+    "code": "0517",
+    "description": "Andere Beteiligungen an Kapitalgesellschaften",
+    "categories": [
+        "0510 Beteiligungen",
+        "0500-0599 Finanzanlagen",
+        "0250-0599 ANDERE ANLAGEN, BETRIEBS- UND GESCH\u00c4FTSAUSSTATTUNG",
+        "0 aktive Verm\u00f6gensposten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "0 aktive Verm\u00f6gensposten > 0250-0599 ANDERE ANLAGEN, BETRIEBS- UND GESCH\u00c4FTSAUSSTATTUNG > 0500-0599 Finanzanlagen > 0510 Beteiligungen"
+        },
+        {
+            "lvl2": "0 aktive Verm\u00f6gensposten > 0250-0599 ANDERE ANLAGEN, BETRIEBS- UND GESCH\u00c4FTSAUSSTATTUNG > 0500-0599 Finanzanlagen"
+        },
+        {
+            "lvl1": "0 aktive Verm\u00f6gensposten > 0250-0599 ANDERE ANLAGEN, BETRIEBS- UND GESCH\u00c4FTSAUSSTATTUNG"
+        },
+        {
+            "lvl0": "0 aktive Verm\u00f6gensposten"
+        }
+    ],
+    "leaf": true,
+    "parent": "44338f14094190efa1370d1fcc66fd8a"
+}

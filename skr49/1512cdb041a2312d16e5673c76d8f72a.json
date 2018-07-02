@@ -1,0 +1,22 @@
+{
+    "objectID": "1512cdb041a2312d16e5673c76d8f72a",
+    "name": "1235 R\u00fcckg\u00e4ngig gemachte Bewilligungen",
+    "type": "Forderung",
+    "code": "1235",
+    "description": "R\u00fcckg\u00e4ngig gemachte Bewilligungen",
+    "categories": [
+        "1230+1235 F\u00d6RDERUNGSVERPFLICHTUNGEN",
+        "1 passive Verm\u00f6gensposten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "1 passive Verm\u00f6gensposten > 1230+1235 F\u00d6RDERUNGSVERPFLICHTUNGEN"
+        },
+        {
+            "lvl0": "1 passive Verm\u00f6gensposten"
+        }
+    ],
+    "leaf": true,
+    "notes": "Nur f\u00fcr Stiftungen!",
+    "parent": "21b19ace8ad93ee709f38b785d25a177"
+}

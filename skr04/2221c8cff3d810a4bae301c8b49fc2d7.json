@@ -1,0 +1,27 @@
+{
+    "objectID": "2221c8cff3d810a4bae301c8b49fc2d7",
+    "name": "B\u00fcrobedarf",
+    "type": "Aufwand",
+    "code": "6815",
+    "description": "",
+    "categories": [
+        "8) verschiedene betriebliche Kosten",
+        "a) ordentliche betriebliche Aufwendungen",
+        "08. sonstige betriebliche Aufwendungen"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen > 8) verschiedene betriebliche Kosten"
+        },
+        {
+            "lvl1": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen"
+        },
+        {
+            "lvl0": "08. sonstige betriebliche Aufwendungen"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "tax-related": false,
+    "parent": "34be7b6c3246314364ef3ad2c6aead4c"
+}

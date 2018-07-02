@@ -1,0 +1,25 @@
+{
+    "objectID": "cb6ae5d1827d4abde89041e75c04e56a",
+    "name": "0010 Entgeltlich erworbene Konzessionen, Schutzrechte, \u00e4hnliche Rechte und Lizenzen an solchen",
+    "type": "Aktiva",
+    "code": "0010",
+    "description": "Entgeltlich erworbene Konzessionen, gewerbliche Schutzrechte und \u00e4hnliche Rechte und Werte sowie Lizenzen an solchen Rechten und Werten",
+    "categories": [
+        "0010-0049 Immaterielle Verm\u00f6gensgegenst\u00e4nde",
+        "0010-0249 ANLAGEVERM\u00d6GEN",
+        "0 aktive Verm\u00f6gensposten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "0 aktive Verm\u00f6gensposten > 0010-0249 ANLAGEVERM\u00d6GEN > 0010-0049 Immaterielle Verm\u00f6gensgegenst\u00e4nde"
+        },
+        {
+            "lvl1": "0 aktive Verm\u00f6gensposten > 0010-0249 ANLAGEVERM\u00d6GEN"
+        },
+        {
+            "lvl0": "0 aktive Verm\u00f6gensposten"
+        }
+    ],
+    "leaf": true,
+    "parent": "5e2a8cd8508d8b0128dc7359e3986d76"
+}

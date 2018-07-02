@@ -1,0 +1,29 @@
+{
+    "objectID": "92eb7a969a5582d174dc2f8d1f3799de",
+    "name": "9829 Gegenkonto zu 9802-9828",
+    "type": "Aktiva",
+    "code": "9829",
+    "description": "Gegenkonto zu 9802-9828 (Werte)",
+    "categories": [
+        "9802-9829 freie Konten f\u00fcr Werte",
+        "9600-9849 Statistische Werte f\u00fcr BWA",
+        "9600-9998 WEITERE STATISTIK- UND VORTRAGSKONTEN",
+        "9 Statistik- & Vortragskonten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "9 Statistik- & Vortragskonten > 9600-9998 WEITERE STATISTIK- UND VORTRAGSKONTEN > 9600-9849 Statistische Werte f\u00fcr BWA > 9802-9829 freie Konten f\u00fcr Werte"
+        },
+        {
+            "lvl2": "9 Statistik- & Vortragskonten > 9600-9998 WEITERE STATISTIK- UND VORTRAGSKONTEN > 9600-9849 Statistische Werte f\u00fcr BWA"
+        },
+        {
+            "lvl1": "9 Statistik- & Vortragskonten > 9600-9998 WEITERE STATISTIK- UND VORTRAGSKONTEN"
+        },
+        {
+            "lvl0": "9 Statistik- & Vortragskonten"
+        }
+    ],
+    "leaf": true,
+    "parent": "4c9fa1e3c5f80da5178b29b4886cd4e6"
+}

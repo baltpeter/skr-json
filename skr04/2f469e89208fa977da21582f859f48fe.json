@@ -1,0 +1,26 @@
+{
+    "objectID": "2f469e89208fa977da21582f859f48fe",
+    "name": "Statistisches Konto Wareneinkauf zum erm\u00e4\u00dfigten Umsatzsteuersatz (E\u00dcR)",
+    "type": "Aufwand",
+    "code": "5581",
+    "description": "",
+    "categories": [
+        "03. Statistische Konten E\u00dcR",
+        "a) Aufwendungen f\u00fcr Roh-, Hilfs- und Betriebsstoffe und f\u00fcr bezogene Waren",
+        "05. Materialaufwand"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "05. Materialaufwand > a) Aufwendungen f\u00fcr Roh-, Hilfs- und Betriebsstoffe und f\u00fcr bezogene Waren > 03. Statistische Konten E\u00dcR"
+        },
+        {
+            "lvl1": "05. Materialaufwand > a) Aufwendungen f\u00fcr Roh-, Hilfs- und Betriebsstoffe und f\u00fcr bezogene Waren"
+        },
+        {
+            "lvl0": "05. Materialaufwand"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "fc97ca612c23df95481f1a141efa72ef"
+}

@@ -1,0 +1,27 @@
+{
+    "objectID": "bba153d5f2ebf6a03242582df4cd0af7",
+    "name": "Instandhaltung betrieblicher R\u00e4ume",
+    "type": "Aufwand",
+    "code": "6335",
+    "description": "",
+    "categories": [
+        "1) Raumkosten",
+        "a) ordentliche betriebliche Aufwendungen",
+        "08. sonstige betriebliche Aufwendungen"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen > 1) Raumkosten"
+        },
+        {
+            "lvl1": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen"
+        },
+        {
+            "lvl0": "08. sonstige betriebliche Aufwendungen"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "tax-related": false,
+    "parent": "70f081631b2bf13005c3453c6d235c6a"
+}

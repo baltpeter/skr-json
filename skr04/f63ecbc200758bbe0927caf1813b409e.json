@@ -1,0 +1,31 @@
+{
+    "objectID": "f63ecbc200758bbe0927caf1813b409e",
+    "name": "Nachsteuer",
+    "type": "Verbindlichkeit",
+    "code": "3832",
+    "description": "UstVa Zl. 52, Kz. 65",
+    "categories": [
+        "Umsatzsteuervorauszahlungen",
+        "10. Umsatzsteuer",
+        "C. Verbindlichkeiten",
+        "Passiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "Passiva > C. Verbindlichkeiten > 10. Umsatzsteuer > Umsatzsteuervorauszahlungen"
+        },
+        {
+            "lvl2": "Passiva > C. Verbindlichkeiten > 10. Umsatzsteuer"
+        },
+        {
+            "lvl1": "Passiva > C. Verbindlichkeiten"
+        },
+        {
+            "lvl0": "Passiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "tax-related": false,
+    "parent": "b0b8449ed3962e5c8932ad6ca1e29792"
+}

@@ -1,0 +1,27 @@
+{
+    "objectID": "29b7b2b34b2d36ebd857522c8ec50e73",
+    "name": "Forderungsverluste 7% USt",
+    "type": "Aufwand",
+    "code": "6281",
+    "description": "soweit un\u00fcblich hoch",
+    "categories": [
+        "Forderungsverluste",
+        "b) auf Verm\u00f6gensgegenst\u00e4nde des Umlaufverm\u00f6gens",
+        "07. Abschreibungen"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "07. Abschreibungen > b) auf Verm\u00f6gensgegenst\u00e4nde des Umlaufverm\u00f6gens > Forderungsverluste"
+        },
+        {
+            "lvl1": "07. Abschreibungen > b) auf Verm\u00f6gensgegenst\u00e4nde des Umlaufverm\u00f6gens"
+        },
+        {
+            "lvl0": "07. Abschreibungen"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "tax-related": false,
+    "parent": "9dda452d32d7855339d67cf02698c269"
+}

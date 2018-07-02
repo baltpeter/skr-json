@@ -1,0 +1,22 @@
+{
+    "objectID": "69e12c96fe4807bae694dc8aece426b2",
+    "name": "4410-4415 Miet- und Pachtertr\u00e4ge",
+    "type": "Ertrag",
+    "code": "4410-4415",
+    "description": "Miet- und Pachtertr\u00e4ge (ngV)",
+    "categories": [
+        "4400-4499 EINNAHMEN NGV",
+        "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4400-4499 EINNAHMEN NGV"
+        },
+        {
+            "lvl0": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung"
+        }
+    ],
+    "leaf": false,
+    "placeholder": true,
+    "parent": "def48fc49fcbfcb147a97ad39b9d8928"
+}

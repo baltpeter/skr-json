@@ -1,0 +1,30 @@
+{
+    "objectID": "77e77b74a15b93ac9e59657d7f804448",
+    "name": "Gewinnvortrag 40% Vorbelastung",
+    "type": "Fremdkapital",
+    "code": "2972",
+    "description": "",
+    "categories": [
+        "II. Gewinnvortrag/Verlustvortrag vor Verwendung",
+        "c) alle",
+        "A. Eigenkapital",
+        "Passiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "Passiva > A. Eigenkapital > c) alle > II. Gewinnvortrag/Verlustvortrag vor Verwendung"
+        },
+        {
+            "lvl2": "Passiva > A. Eigenkapital > c) alle"
+        },
+        {
+            "lvl1": "Passiva > A. Eigenkapital"
+        },
+        {
+            "lvl0": "Passiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "8de79e4312296a8f5aa1d8e81d90fff8"
+}

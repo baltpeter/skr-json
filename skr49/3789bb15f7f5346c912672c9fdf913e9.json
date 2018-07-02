@@ -1,0 +1,30 @@
+{
+    "objectID": "3789bb15f7f5346c912672c9fdf913e9",
+    "name": "3853-3857+3864-3890 Steuern",
+    "type": "Aufwand",
+    "code": "3853-3857+3864-3890",
+    "description": "Steuern",
+    "categories": [
+        "3850 Nicht abziehb. Ausg. zu Bereich 8000",
+        "3800-3899 Sonstige wirtschaftliche Gesch\u00e4ftsbetriebe",
+        "3200-3899  ERTRAGSNEUTRALE POSTEN",
+        "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN > 3800-3899 Sonstige wirtschaftliche Gesch\u00e4ftsbetriebe > 3850 Nicht abziehb. Ausg. zu Bereich 8000"
+        },
+        {
+            "lvl2": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN > 3800-3899 Sonstige wirtschaftliche Gesch\u00e4ftsbetriebe"
+        },
+        {
+            "lvl1": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN"
+        },
+        {
+            "lvl0": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
+        }
+    ],
+    "leaf": false,
+    "placeholder": true,
+    "parent": "eec0aff4d3550b569235bba703f86358"
+}

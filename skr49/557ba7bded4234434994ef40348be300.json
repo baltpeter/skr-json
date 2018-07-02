@@ -1,0 +1,25 @@
+{
+    "objectID": "557ba7bded4234434994ef40348be300",
+    "name": "9966 Hinzurechnung Investitionsabzugsbetrag \u00a77g Abs. 2 EStG aus dem 2. vorangegangenen Wirtschaftsjahr (Haben)",
+    "type": "Aktiva",
+    "code": "9966",
+    "description": "Hinzurechnung Investitionsabzugsbetrag \u00a77g Abs. 2 EStG aus dem 2. vorangegangenen Wirtschaftsjahr, au\u00dferbilanziell (Haben)",
+    "categories": [
+        "9966-9975 Statistische Konten f\u00fcr den au\u00dferhalb der Bilanz zu ber\u00fccksichtigenden Investitionsabzugsbetrag",
+        "9600-9998 WEITERE STATISTIK- UND VORTRAGSKONTEN",
+        "9 Statistik- & Vortragskonten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "9 Statistik- & Vortragskonten > 9600-9998 WEITERE STATISTIK- UND VORTRAGSKONTEN > 9966-9975 Statistische Konten f\u00fcr den au\u00dferhalb der Bilanz zu ber\u00fccksichtigenden Investitionsabzugsbetrag"
+        },
+        {
+            "lvl1": "9 Statistik- & Vortragskonten > 9600-9998 WEITERE STATISTIK- UND VORTRAGSKONTEN"
+        },
+        {
+            "lvl0": "9 Statistik- & Vortragskonten"
+        }
+    ],
+    "leaf": true,
+    "parent": "332ab057b6da4c93c7c19853adaf07b2"
+}

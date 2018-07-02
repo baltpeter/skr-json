@@ -1,0 +1,23 @@
+{
+    "objectID": "c562e74c418164c16fb280ba61d51b83",
+    "name": "9502 Forderungen aus steuerfreien oder nicht steuerbaren Lieferungen und Leistungen",
+    "type": "Forderung",
+    "code": "9502",
+    "description": "Forderungen aus steuerfreien oder nicht steuerbaren Lieferungen und Leistungen",
+    "categories": [
+        "9500-9599 STATISTISCHE WERTE F\u00dcR ANLAGE E\u00dcR",
+        "9 Statistik- & Vortragskonten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "9 Statistik- & Vortragskonten > 9500-9599 STATISTISCHE WERTE F\u00dcR ANLAGE E\u00dcR"
+        },
+        {
+            "lvl0": "9 Statistik- & Vortragskonten"
+        }
+    ],
+    "leaf": true,
+    "notes": "Veraltet, in der Version 2017 nicht mehr enthalten!",
+    "placeholder": true,
+    "parent": "baac2841267ad2422440263668815280"
+}

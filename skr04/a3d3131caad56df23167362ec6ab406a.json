@@ -1,0 +1,26 @@
+{
+    "objectID": "a3d3131caad56df23167362ec6ab406a",
+    "name": "Verbindlichkeiten aus Lieferungen und Leistungen ohne Kontokorrent",
+    "type": "Verbindlichkeit",
+    "code": "3310",
+    "description": "",
+    "categories": [
+        "04. Verbindlichkeiten aus Lieferungen und Leistungen",
+        "C. Verbindlichkeiten",
+        "Passiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "Passiva > C. Verbindlichkeiten > 04. Verbindlichkeiten aus Lieferungen und Leistungen"
+        },
+        {
+            "lvl1": "Passiva > C. Verbindlichkeiten"
+        },
+        {
+            "lvl0": "Passiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": true,
+    "parent": "e98ae511eab7e00712870af910a33ce0"
+}

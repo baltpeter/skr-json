@@ -1,0 +1,33 @@
+{
+    "objectID": "cb966e6a245874b378f9ae80c3f7d742",
+    "name": "0699 Forderungen >1 Jahr aus Lieferungen und Leistungen gegen Unternehmen, mit denen ein Beteiligungsverh\u00e4ltnis besteht",
+    "type": "Forderung",
+    "code": "0699",
+    "description": "Forderungen aus Lieferungen und Leistungen gegen Unternehmen, mit denen ein Beteiligungsverh\u00e4ltnis besteht \u2013 Restlaufzeit mehr als 1 Jahr",
+    "categories": [
+        "0697 Forderungen aus Lieferungen und Leistungen gegen Unternehmen, mit denen ein Beteiligungsverh\u00e4ltnis besteht",
+        "0677-0678+0690-0699 Forderungen / Verbindlichkeiten (Unternehmen, mit denen ein Beteiligungsverh\u00e4ltnis besteht)",
+        "0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde",
+        "0600-0989 UMLAUFVERM\u00d6GEN",
+        "0 aktive Verm\u00f6gensposten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl4": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde > 0677-0678+0690-0699 Forderungen / Verbindlichkeiten (Unternehmen, mit denen ein Beteiligungsverh\u00e4ltnis besteht) > 0697 Forderungen aus Lieferungen und Leistungen gegen Unternehmen, mit denen ein Beteiligungsverh\u00e4ltnis besteht"
+        },
+        {
+            "lvl3": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde > 0677-0678+0690-0699 Forderungen / Verbindlichkeiten (Unternehmen, mit denen ein Beteiligungsverh\u00e4ltnis besteht)"
+        },
+        {
+            "lvl2": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde"
+        },
+        {
+            "lvl1": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN"
+        },
+        {
+            "lvl0": "0 aktive Verm\u00f6gensposten"
+        }
+    ],
+    "leaf": true,
+    "parent": "564ec09b1a9f496d641896bd79183c99"
+}

@@ -1,0 +1,29 @@
+{
+    "objectID": "7001de1a3b5541cd69a627df571342c4",
+    "name": "4508 Verrechnete kalkulatorische Abschreibungen",
+    "type": "Aufwand",
+    "code": "4508",
+    "description": "Verrechnete kalkulatorische Abschreibungen",
+    "categories": [
+        "4506 Kalkulatorische Abschreibungen",
+        "4510 Ausgaben Bereich 4000",
+        "4500-4999 AUSGABEN / WERBUNGSKOSTEN",
+        "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4500-4999 AUSGABEN / WERBUNGSKOSTEN > 4510 Ausgaben Bereich 4000 > 4506 Kalkulatorische Abschreibungen"
+        },
+        {
+            "lvl2": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4500-4999 AUSGABEN / WERBUNGSKOSTEN > 4510 Ausgaben Bereich 4000"
+        },
+        {
+            "lvl1": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4500-4999 AUSGABEN / WERBUNGSKOSTEN"
+        },
+        {
+            "lvl0": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung"
+        }
+    ],
+    "leaf": true,
+    "parent": "e4c01c7dc75dc222844f4506ec6beaca"
+}

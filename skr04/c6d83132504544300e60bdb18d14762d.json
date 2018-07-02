@@ -1,0 +1,18 @@
+{
+    "objectID": "c6d83132504544300e60bdb18d14762d",
+    "name": "Laufende Ertr\u00e4ge aus Anteilen an Kapitalgesellschaften (Finanzanlageverm\u00f6gen) 100 %/50 % steuerfrei",
+    "type": "Ertrag",
+    "code": "7014",
+    "description": "inl\u00e4ndische Kap.Ges.",
+    "categories": [
+        "10. Ertr\u00e4ge aus anderen Wertpapieren und Ausleihungen des Finanzanlageverm\u00f6gens"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl0": "10. Ertr\u00e4ge aus anderen Wertpapieren und Ausleihungen des Finanzanlageverm\u00f6gens"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "a4dfbe8fc2ff45d59632ba7d387d5eaa"
+}

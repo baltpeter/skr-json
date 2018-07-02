@@ -1,0 +1,30 @@
+{
+    "objectID": "ef41480b428310b7a65210a53a8a2d71",
+    "name": "Atypische stille Beteiligungen",
+    "type": "Aktiva",
+    "code": "0840",
+    "description": "",
+    "categories": [
+        "03. Beteiligungen",
+        "V. Finanzanlagen",
+        "A. Anlageverm\u00f6gen",
+        "Aktiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "Aktiva > A. Anlageverm\u00f6gen > V. Finanzanlagen > 03. Beteiligungen"
+        },
+        {
+            "lvl2": "Aktiva > A. Anlageverm\u00f6gen > V. Finanzanlagen"
+        },
+        {
+            "lvl1": "Aktiva > A. Anlageverm\u00f6gen"
+        },
+        {
+            "lvl0": "Aktiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "d55ac7e08716a24f25f1c8aee576869a"
+}

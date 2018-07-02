@@ -1,0 +1,21 @@
+{
+    "objectID": "61bbaacd28387926344298c26c3c47c7",
+    "name": "1360 Verbindlichkeiten gegen\u00fcber verbundenen Unternehmen",
+    "type": "Fremdkapital",
+    "code": "1360",
+    "description": "Verbindlichkeiten oder Forderungen gegen(\u00fcber) verbundene(n) Unternehmen",
+    "categories": [
+        "1300-1989 VERBINDLICHKEITEN",
+        "1 passive Verm\u00f6gensposten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "1 passive Verm\u00f6gensposten > 1300-1989 VERBINDLICHKEITEN"
+        },
+        {
+            "lvl0": "1 passive Verm\u00f6gensposten"
+        }
+    ],
+    "leaf": true,
+    "parent": "78cc538c805fb581c743d7d030cd32dd"
+}

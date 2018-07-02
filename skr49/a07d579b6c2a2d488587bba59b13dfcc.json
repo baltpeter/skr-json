@@ -1,0 +1,30 @@
+{
+    "objectID": "a07d579b6c2a2d488587bba59b13dfcc",
+    "name": "1343 Verbindlichkeiten aus L&L ohne Vorsteuerabzug",
+    "type": "Verbindlichkeit",
+    "code": "1343",
+    "description": "Verbindlichkeiten aus Lieferungen und Leistungen ohne Vorsteuerabzug (E\u00dcR)",
+    "categories": [
+        "1340 Verbindlichkeiten aus L&L",
+        "1335-1349 Verbindlichkeiten aus L&L",
+        "1300-1989 VERBINDLICHKEITEN",
+        "1 passive Verm\u00f6gensposten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "1 passive Verm\u00f6gensposten > 1300-1989 VERBINDLICHKEITEN > 1335-1349 Verbindlichkeiten aus L&L > 1340 Verbindlichkeiten aus L&L"
+        },
+        {
+            "lvl2": "1 passive Verm\u00f6gensposten > 1300-1989 VERBINDLICHKEITEN > 1335-1349 Verbindlichkeiten aus L&L"
+        },
+        {
+            "lvl1": "1 passive Verm\u00f6gensposten > 1300-1989 VERBINDLICHKEITEN"
+        },
+        {
+            "lvl0": "1 passive Verm\u00f6gensposten"
+        }
+    ],
+    "leaf": true,
+    "notes": "Einnahmen\u00fcberschu\u00dfrechnung",
+    "parent": "c1edff52384d6b90bf6c9b81a7158af2"
+}

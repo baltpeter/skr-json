@@ -1,0 +1,41 @@
+{
+    "objectID": "6e1a31832c22727f65a53ce78de8be28",
+    "name": "5279 Zuschreibungen",
+    "type": "Ertrag",
+    "code": "5279",
+    "description": "Ertr\u00e4ge aus Zuschreibungen des Sachanlageverm\u00f6gens",
+    "categories": [
+        "5270-5274+5279 Sonstige betriebliche Ertr\u00e4ge",
+        "5250-5279 Sonstige betriebliche Ertr\u00e4ge und Umsatzerl\u00f6se aus Sonstigem",
+        "5200-5279 Sonstige betriebliche Ertr\u00e4ge",
+        "5000-5279 EINNAHMEN / ERTR\u00c4GE",
+        "5000-5699 ZWECKBETRIEBE SPORT 1",
+        "5000-5889 ZWECKBETRIEBE SPORT",
+        "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl6": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5000-5889 ZWECKBETRIEBE SPORT > 5000-5699 ZWECKBETRIEBE SPORT 1 > 5000-5279 EINNAHMEN / ERTR\u00c4GE > 5200-5279 Sonstige betriebliche Ertr\u00e4ge > 5250-5279 Sonstige betriebliche Ertr\u00e4ge und Umsatzerl\u00f6se aus Sonstigem > 5270-5274+5279 Sonstige betriebliche Ertr\u00e4ge"
+        },
+        {
+            "lvl5": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5000-5889 ZWECKBETRIEBE SPORT > 5000-5699 ZWECKBETRIEBE SPORT 1 > 5000-5279 EINNAHMEN / ERTR\u00c4GE > 5200-5279 Sonstige betriebliche Ertr\u00e4ge > 5250-5279 Sonstige betriebliche Ertr\u00e4ge und Umsatzerl\u00f6se aus Sonstigem"
+        },
+        {
+            "lvl4": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5000-5889 ZWECKBETRIEBE SPORT > 5000-5699 ZWECKBETRIEBE SPORT 1 > 5000-5279 EINNAHMEN / ERTR\u00c4GE > 5200-5279 Sonstige betriebliche Ertr\u00e4ge"
+        },
+        {
+            "lvl3": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5000-5889 ZWECKBETRIEBE SPORT > 5000-5699 ZWECKBETRIEBE SPORT 1 > 5000-5279 EINNAHMEN / ERTR\u00c4GE"
+        },
+        {
+            "lvl2": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5000-5889 ZWECKBETRIEBE SPORT > 5000-5699 ZWECKBETRIEBE SPORT 1"
+        },
+        {
+            "lvl1": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5000-5889 ZWECKBETRIEBE SPORT"
+        },
+        {
+            "lvl0": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport"
+        }
+    ],
+    "leaf": true,
+    "parent": "04bfe9e4d6023a096f98da78b58af0b4"
+}

@@ -1,0 +1,31 @@
+{
+    "objectID": "0161187758b3306b3dd5a1ff2e0c5dd2",
+    "name": "B\u00fcroeinrichtung",
+    "type": "Aktiva",
+    "code": "0650",
+    "description": "",
+    "categories": [
+        "03. Andere Anlagen, Betriebs- und Gesch\u00e4ftsausstattung",
+        "IV. Sachanlagen",
+        "A. Anlageverm\u00f6gen",
+        "Aktiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "Aktiva > A. Anlageverm\u00f6gen > IV. Sachanlagen > 03. Andere Anlagen, Betriebs- und Gesch\u00e4ftsausstattung"
+        },
+        {
+            "lvl2": "Aktiva > A. Anlageverm\u00f6gen > IV. Sachanlagen"
+        },
+        {
+            "lvl1": "Aktiva > A. Anlageverm\u00f6gen"
+        },
+        {
+            "lvl0": "Aktiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "tax-related": false,
+    "parent": "9c897b2b8563220f6ba863b5d7bcb0aa"
+}

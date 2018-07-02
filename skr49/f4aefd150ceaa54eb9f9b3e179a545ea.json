@@ -1,0 +1,30 @@
+{
+    "objectID": "f4aefd150ceaa54eb9f9b3e179a545ea",
+    "name": "0675-0676 Wertberichtigungen auf Forderungen gegen verbundene Unternehmen",
+    "type": "Forderung",
+    "code": "0675-0676",
+    "description": "Wertberichtigungen auf Forderungen gegen verbundene Unternehmen",
+    "categories": [
+        "0675-0676+0680-0689 Forderungen / Verbindlichkeiten (verbundene Unternehmen)",
+        "0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde",
+        "0600-0989 UMLAUFVERM\u00d6GEN",
+        "0 aktive Verm\u00f6gensposten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl3": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde > 0675-0676+0680-0689 Forderungen / Verbindlichkeiten (verbundene Unternehmen)"
+        },
+        {
+            "lvl2": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde"
+        },
+        {
+            "lvl1": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN"
+        },
+        {
+            "lvl0": "0 aktive Verm\u00f6gensposten"
+        }
+    ],
+    "leaf": false,
+    "placeholder": true,
+    "parent": "728db50b29cb2a5c199af6cf6c8a380a"
+}

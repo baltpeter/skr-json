@@ -1,0 +1,25 @@
+{
+    "objectID": "e23ca7bbabb88fb0e8ef0abae621ae97",
+    "name": "4504 Abschreibungen auf den Sammelposten Wirtschaftsg\u00fcter",
+    "type": "Aufwand",
+    "code": "4504",
+    "description": "Abschreibungen auf den Sammelposten geringwertige Wirtschaftsg\u00fcter",
+    "categories": [
+        "4500-4504 Abschreibungen",
+        "4500-4999 AUSGABEN / WERBUNGSKOSTEN",
+        "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4500-4999 AUSGABEN / WERBUNGSKOSTEN > 4500-4504 Abschreibungen"
+        },
+        {
+            "lvl1": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4500-4999 AUSGABEN / WERBUNGSKOSTEN"
+        },
+        {
+            "lvl0": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung"
+        }
+    ],
+    "leaf": true,
+    "parent": "c89187aa8ec760e7b89896e1bd301dd3"
+}

@@ -1,0 +1,25 @@
+{
+    "objectID": "5ce5cf152de96cf2b88a2ceeb7609373",
+    "name": "2902 Verrechnete/aufgeteilte Kosten",
+    "type": "Aufwand",
+    "code": "2902",
+    "description": "Verrechnete/aufgeteilte Kosten",
+    "categories": [
+        "2510 \u00dcbrige Ausgaben",
+        "2500-2999 AUSGABEN",
+        "2 Erfolgskonten ideeller Bereich"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN > 2510 \u00dcbrige Ausgaben"
+        },
+        {
+            "lvl1": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN"
+        },
+        {
+            "lvl0": "2 Erfolgskonten ideeller Bereich"
+        }
+    ],
+    "leaf": true,
+    "parent": "75d38fa3ae63128e2bd6a0ba80dc904b"
+}

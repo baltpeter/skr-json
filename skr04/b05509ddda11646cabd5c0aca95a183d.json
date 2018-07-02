@@ -1,0 +1,27 @@
+{
+    "objectID": "b05509ddda11646cabd5c0aca95a183d",
+    "name": "In Rechnung unberechtigt ausgewiesene und geschuldete Steuerbetr\u00e4ge",
+    "type": "Verbindlichkeit",
+    "code": "3851",
+    "description": "UstVa Zl. 63f, Kz. 69",
+    "categories": [
+        "10. Umsatzsteuer",
+        "C. Verbindlichkeiten",
+        "Passiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl2": "Passiva > C. Verbindlichkeiten > 10. Umsatzsteuer"
+        },
+        {
+            "lvl1": "Passiva > C. Verbindlichkeiten"
+        },
+        {
+            "lvl0": "Passiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "tax-related": false,
+    "parent": "a4ca09669a36f58cc3081d5ecff9cdb6"
+}

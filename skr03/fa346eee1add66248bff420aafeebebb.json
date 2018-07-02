@@ -1,0 +1,21 @@
+{
+    "objectID": "fa346eee1add66248bff420aafeebebb",
+    "name": "9000 Saldenvortrag Sachkonten",
+    "type": "Eigenkapital",
+    "code": "9000",
+    "description": "",
+    "categories": [
+        "Saldenvortragskonten",
+        "Anfangsbestand 9"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl1": "Anfangsbestand 9 > Saldenvortragskonten"
+        },
+        {
+            "lvl0": "Anfangsbestand 9"
+        }
+    ],
+    "leaf": true,
+    "parent": "26c3f10c1c7621661c1b813d6141280d"
+}

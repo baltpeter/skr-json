@@ -1,0 +1,34 @@
+{
+    "objectID": "014760aa72d2729ab185c33298d730aa",
+    "name": "Besitzwechsel gegen verbundene UN > 1J",
+    "type": "Aktiva",
+    "code": "1268",
+    "description": "",
+    "categories": [
+        "Besitzwechsel gegen verbund. Unternehmen",
+        "02. Forderungen gegen verbundene Unternehmen",
+        "II. Forderungen und sonstige Verm\u00f6gensgegenst\u00e4nde",
+        "B. Umlaufverm\u00f6gen",
+        "Aktiva"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl4": "Aktiva > B. Umlaufverm\u00f6gen > II. Forderungen und sonstige Verm\u00f6gensgegenst\u00e4nde > 02. Forderungen gegen verbundene Unternehmen > Besitzwechsel gegen verbund. Unternehmen"
+        },
+        {
+            "lvl3": "Aktiva > B. Umlaufverm\u00f6gen > II. Forderungen und sonstige Verm\u00f6gensgegenst\u00e4nde > 02. Forderungen gegen verbundene Unternehmen"
+        },
+        {
+            "lvl2": "Aktiva > B. Umlaufverm\u00f6gen > II. Forderungen und sonstige Verm\u00f6gensgegenst\u00e4nde"
+        },
+        {
+            "lvl1": "Aktiva > B. Umlaufverm\u00f6gen"
+        },
+        {
+            "lvl0": "Aktiva"
+        }
+    ],
+    "leaf": true,
+    "placeholder": false,
+    "parent": "46852c0e336ef18d52ad05455bfb3dcc"
+}

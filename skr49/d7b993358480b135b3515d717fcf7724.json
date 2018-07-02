@@ -1,0 +1,33 @@
+{
+    "objectID": "d7b993358480b135b3515d717fcf7724",
+    "name": "0682 Forderungen gegen verbundene Unternehmen >1 Jahr",
+    "type": "Forderung",
+    "code": "0682",
+    "description": "Forderungen gegen verbundene Unternehmen \u2013 Restlaufzeit mehr als 1 Jahr",
+    "categories": [
+        "0680 Forderungen gegen verbundene Unternehmen",
+        "0675-0676+0680-0689 Forderungen / Verbindlichkeiten (verbundene Unternehmen)",
+        "0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde",
+        "0600-0989 UMLAUFVERM\u00d6GEN",
+        "0 aktive Verm\u00f6gensposten"
+    ],
+    "hierarchicalCategories": [
+        {
+            "lvl4": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde > 0675-0676+0680-0689 Forderungen / Verbindlichkeiten (verbundene Unternehmen) > 0680 Forderungen gegen verbundene Unternehmen"
+        },
+        {
+            "lvl3": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde > 0675-0676+0680-0689 Forderungen / Verbindlichkeiten (verbundene Unternehmen)"
+        },
+        {
+            "lvl2": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde"
+        },
+        {
+            "lvl1": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN"
+        },
+        {
+            "lvl0": "0 aktive Verm\u00f6gensposten"
+        }
+    ],
+    "leaf": true,
+    "parent": "1bd270f66fc6870699f0bc185d75ca12"
+}
