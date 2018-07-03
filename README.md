@@ -7,5 +7,5 @@ In addition, the following JSONs are already preconverted:
 | Abbreviation | Name | Description |
 | - | - | - |
 | SKR03 | Standard-Kontenrahmen 03 | für kleine Personengesellschaften |
-| SKR04 | Standard-Kontenrahmen 03 | für kleine Kapitalgesellschaften |
-| SKR49 | Standard-Kontenrahmen 03 | für Vereine, Stiftungen und gGmbHs |
+| SKR04 | Standard-Kontenrahmen 04 | für kleine Kapitalgesellschaften |
+| SKR49 | Standard-Kontenrahmen 49 | für Vereine, Stiftungen und gGmbHs |
