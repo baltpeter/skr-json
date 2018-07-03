@@ -41,7 +41,7 @@
     },
     {
         "objectID": "8275e7a0b489940a2ba993f9019a898f",
-        "name": "0027 EDV-Software",
+        "name": "EDV-Software",
         "type": "Aktiva",
         "code": "0027",
         "description": "",
@@ -63,7 +63,7 @@
     },
     {
         "objectID": "a588283077bd935dede66d13b2ee478f",
-        "name": "0410 Gesch\u00e4ftsausstattung",
+        "name": "Gesch\u00e4ftsausstattung",
         "type": "Aktiva",
         "code": "0410",
         "description": "",
@@ -85,7 +85,7 @@
     },
     {
         "objectID": "573063d23b81fe3f9917d80fe6cc41e7",
-        "name": "0420 B\u00fcroeinrichtung",
+        "name": "B\u00fcroeinrichtung",
         "type": "Aktiva",
         "code": "0420",
         "description": "",
@@ -107,7 +107,7 @@
     },
     {
         "objectID": "bd74fcb2d15fc7540ecc5ba8f27cbf48",
-        "name": "0565 Darlehen",
+        "name": "Darlehen",
         "type": "Aktiva",
         "code": "0565",
         "description": "",
@@ -128,7 +128,7 @@
     },
     {
         "objectID": "904b262e6f84659046267cad87ac5e90",
-        "name": "0210 Maschinen",
+        "name": "Maschinen",
         "type": "Aktiva",
         "code": "0210",
         "description": "",
@@ -149,7 +149,7 @@
     },
     {
         "objectID": "910d6c057660045a9958fb5a57ffc899",
-        "name": "0400 Betriebsausstattung",
+        "name": "Betriebsausstattung",
         "type": "Aktiva",
         "code": "0400",
         "description": "",
@@ -170,7 +170,7 @@
     },
     {
         "objectID": "2876b41c069107076e7a18ec39bf4f9c",
-        "name": "0430 Ladeneinrichtung",
+        "name": "Ladeneinrichtung",
         "type": "Aktiva",
         "code": "0430",
         "description": "",
@@ -209,7 +209,7 @@
     },
     {
         "objectID": "9fe8d61dac9cf62b3f12e6c71a4385b2",
-        "name": "1100 Postbank",
+        "name": "Postbank",
         "type": "Bank",
         "code": "1100",
         "description": "",
@@ -230,7 +230,7 @@
     },
     {
         "objectID": "875ec51cd332f3b75c15a2a9ca309ebd",
-        "name": "1200 Bankkonto",
+        "name": "Bankkonto",
         "type": "Bank",
         "code": "1200",
         "description": "",
@@ -251,7 +251,7 @@
     },
     {
         "objectID": "f048cb49a135a298d5df958a4c63ba22",
-        "name": "1590 Durchlaufende Posten",
+        "name": "Durchlaufende Posten",
         "type": "Aktiva",
         "code": "1590",
         "description": "",
@@ -272,7 +272,7 @@
     },
     {
         "objectID": "58c8b84a785d7feac255d381943076df",
-        "name": "1371 Gewinnermittlung \u00a74/3 nicht Ergebniswirksam",
+        "name": "Gewinnermittlung \u00a74/3 nicht Ergebniswirksam",
         "type": "Aktiva",
         "code": "1371",
         "description": "",
@@ -293,7 +293,7 @@
     },
     {
         "objectID": "7edc3c319713c53035b3e439ccec5e2b",
-        "name": "1571 Abziehbare VSt. 7%",
+        "name": "Abziehbare VSt. 7%",
         "type": "Aktiva",
         "code": "1571",
         "description": "",
@@ -314,7 +314,7 @@
     },
     {
         "objectID": "507b25d5d47d57ba115929b70a32fa5e",
-        "name": "1576 Abziehbare VSt. 19%",
+        "name": "Abziehbare VSt. 19%",
         "type": "Aktiva",
         "code": "1576",
         "description": "",
@@ -335,7 +335,7 @@
     },
     {
         "objectID": "ac0fb64d0cfc2b88444527ce8c8682fe",
-        "name": "1577 Abziehbare VStr. nach \u00a713b UStG 19%",
+        "name": "Abziehbare VStr. nach \u00a713b UStG 19%",
         "type": "Aktiva",
         "code": "1577",
         "description": "",
@@ -356,7 +356,7 @@
     },
     {
         "objectID": "2fe36b4ddde053387e42aa893a94b91b",
-        "name": "1400 Ford. a. Lieferungen und Leistungen",
+        "name": "Ford. a. Lieferungen und Leistungen",
         "type": "Forderung",
         "code": "1400",
         "description": "",
@@ -395,7 +395,7 @@
     },
     {
         "objectID": "39c180a4e3647d347ebc3e16e984372b",
-        "name": "3120 Leistungen \u00a713b UStG 19% Vorsteuer, 19% Umsatzsteuer",
+        "name": "Leistungen \u00a713b UStG 19% Vorsteuer, 19% Umsatzsteuer",
         "type": "Aktiva",
         "code": "3120",
         "description": "",
@@ -416,7 +416,7 @@
     },
     {
         "objectID": "01e4b246665a54d40466ba88f5d1d34e",
-        "name": "3400 Wareneingang VSt. 19%",
+        "name": "Wareneingang VSt. 19%",
         "type": "Aktiva",
         "code": "3400",
         "description": "",
@@ -468,7 +468,7 @@
     },
     {
         "objectID": "d699c440f7817339d2fe60dd875520b6",
-        "name": "1771 Umsatzsteuer 7%",
+        "name": "Umsatzsteuer 7%",
         "type": "Fremdkapital",
         "code": "1771",
         "description": "",
@@ -489,7 +489,7 @@
     },
     {
         "objectID": "55a2876edef147ed7631486de4af558c",
-        "name": "1776 Umsatzsteuer 19%",
+        "name": "Umsatzsteuer 19%",
         "type": "Fremdkapital",
         "code": "1776",
         "description": "",
@@ -510,7 +510,7 @@
     },
     {
         "objectID": "4b5e1c2b17024a7721d0955c9f140dd6",
-        "name": "1780 Umsatzsteuer-Vorauszahlung",
+        "name": "Umsatzsteuer-Vorauszahlung",
         "type": "Fremdkapital",
         "code": "1780",
         "description": "",
@@ -531,7 +531,7 @@
     },
     {
         "objectID": "08793cd11dfca23d7b435a7338db02da",
-        "name": "1781 Umsatzsteuer-Vorauszahlung 1/11",
+        "name": "Umsatzsteuer-Vorauszahlung 1/11",
         "type": "Fremdkapital",
         "code": "1781",
         "description": "",
@@ -552,7 +552,7 @@
     },
     {
         "objectID": "8e1583dfe60365b756f5365741250001",
-        "name": "1787 Umsatzsteuer \u00a7 13b UStG 19%",
+        "name": "Umsatzsteuer \u00a7 13b UStG 19%",
         "type": "Fremdkapital",
         "code": "1787",
         "description": "",
@@ -573,7 +573,7 @@
     },
     {
         "objectID": "635fe36261db8b9beda522420f564028",
-        "name": "1790 Umsatzsteuer Vorjahr",
+        "name": "Umsatzsteuer Vorjahr",
         "type": "Fremdkapital",
         "code": "1790",
         "description": "",
@@ -594,7 +594,7 @@
     },
     {
         "objectID": "b2d79b416fee27d4d6a38643f6ad0d45",
-        "name": "1791 Umsatzsteuer fr\u00fchere Jahre",
+        "name": "Umsatzsteuer fr\u00fchere Jahre",
         "type": "Fremdkapital",
         "code": "1791",
         "description": "",
@@ -633,7 +633,7 @@
     },
     {
         "objectID": "1bf9f2675a36b278adcf6da68a7e4cbe",
-        "name": "1600 Verblk. aus Lieferungen u. Leistungen",
+        "name": "Verblk. aus Lieferungen u. Leistungen",
         "type": "Verbindlichkeit",
         "code": "1600",
         "description": "",
@@ -684,7 +684,7 @@
     },
     {
         "objectID": "d75d796e879b0ad9b2732d698ae9e838",
-        "name": "8400 Erl\u00f6se USt. 19%",
+        "name": "Erl\u00f6se USt. 19%",
         "type": "Ertrag",
         "code": "8400",
         "description": "",
@@ -706,7 +706,7 @@
     },
     {
         "objectID": "0c82316c2aecaa02ce1b4ecb223f6f5d",
-        "name": "8300 Erl\u00f6se USt. 7%",
+        "name": "Erl\u00f6se USt. 7%",
         "type": "Ertrag",
         "code": "8300",
         "description": "",
@@ -745,7 +745,7 @@
     },
     {
         "objectID": "cc08ab7c747853f5f7ea6b384fdd8b4d",
-        "name": "2650 sonstige Zinsen und \u00e4hnliche Ertr\u00e4ge",
+        "name": "sonstige Zinsen und \u00e4hnliche Ertr\u00e4ge",
         "type": "Ertrag",
         "code": "2650",
         "description": "",
@@ -766,7 +766,7 @@
     },
     {
         "objectID": "5634359999c43ba58697553d1d905c4c",
-        "name": "2500 Au\u00dferordentliche Ertr\u00e4ge",
+        "name": "Au\u00dferordentliche Ertr\u00e4ge",
         "type": "Ertrag",
         "code": "2500",
         "description": "",
@@ -787,7 +787,7 @@
     },
     {
         "objectID": "067716095fef7e694a2e0c40f1eaaefd",
-        "name": "2700 Sonstige Ertr\u00e4ge",
+        "name": "Sonstige Ertr\u00e4ge",
         "type": "Ertrag",
         "code": "2700",
         "description": "",
@@ -838,7 +838,7 @@
     },
     {
         "objectID": "cf214c888424ce036704bd526650a4c1",
-        "name": "4855 Sofortabschreibung GWG",
+        "name": "Sofortabschreibung GWG",
         "type": "Aufwand",
         "code": "4855",
         "description": "",
@@ -877,7 +877,7 @@
     },
     {
         "objectID": "4355e4bceaa024b71efb3223ac6576c0",
-        "name": "4510 Kfz-Steuer",
+        "name": "Kfz-Steuer",
         "type": "Aufwand",
         "code": "4510",
         "description": "",
@@ -898,7 +898,7 @@
     },
     {
         "objectID": "4395e7b49fc7d34db620e6249836d747",
-        "name": "4520 Kfz-Versicherungen",
+        "name": "Kfz-Versicherungen",
         "type": "Aufwand",
         "code": "4520",
         "description": "",
@@ -919,7 +919,7 @@
     },
     {
         "objectID": "9bcbd663916f135d81b8eff6dc8b8819",
-        "name": "4530 laufende Kfz-Betriebskosten",
+        "name": "laufende Kfz-Betriebskosten",
         "type": "Aufwand",
         "code": "4530",
         "description": "",
@@ -940,7 +940,7 @@
     },
     {
         "objectID": "5359164e661dd33c4bdb98b5149b07d1",
-        "name": "4540 Kfz-Reparaturen",
+        "name": "Kfz-Reparaturen",
         "type": "Aufwand",
         "code": "4540",
         "description": "",
@@ -961,7 +961,7 @@
     },
     {
         "objectID": "3b92417001893aa765edaa7109b2d48a",
-        "name": "4570 Fremdfahrzeuge",
+        "name": "Fremdfahrzeuge",
         "type": "Aufwand",
         "code": "4570",
         "description": "",
@@ -982,7 +982,7 @@
     },
     {
         "objectID": "e4c3ff3a921558869191a648aeb9b0e3",
-        "name": "4580 sonstige Kfz-Kosten",
+        "name": "sonstige Kfz-Kosten",
         "type": "Aufwand",
         "code": "4580",
         "description": "",
@@ -1021,7 +1021,7 @@
     },
     {
         "objectID": "8f21199517fcfd70ad2ad6aaa3e714b6",
-        "name": "4120 Geh\u00e4lter",
+        "name": "Geh\u00e4lter",
         "type": "Aufwand",
         "code": "4120",
         "description": "",
@@ -1042,7 +1042,7 @@
     },
     {
         "objectID": "46ba645d075b6a1f3a38824d812f8818",
-        "name": "4130 gesetzliche soziale Aufwendungen",
+        "name": "gesetzliche soziale Aufwendungen",
         "type": "Aufwand",
         "code": "4130",
         "description": "",
@@ -1063,7 +1063,7 @@
     },
     {
         "objectID": "e89eafba1acc736a7ba74882a7f8c836",
-        "name": "4165 Aufwendungen f\u00fcr Altersvorsorge",
+        "name": "Aufwendungen f\u00fcr Altersvorsorge",
         "type": "Aufwand",
         "code": "4165",
         "description": "",
@@ -1084,7 +1084,7 @@
     },
     {
         "objectID": "88bc69e1ff8977cd70c52567dde8107d",
-        "name": "4170 Verm\u00f6genswirksame Leistungen",
+        "name": "Verm\u00f6genswirksame Leistungen",
         "type": "Aufwand",
         "code": "4170",
         "description": "",
@@ -1105,7 +1105,7 @@
     },
     {
         "objectID": "d74350b9ad5583b533fd906ec837d9fe",
-        "name": "4190 Aushilfsl\u00f6hne",
+        "name": "Aushilfsl\u00f6hne",
         "type": "Aufwand",
         "code": "4190",
         "description": "",
@@ -1144,7 +1144,7 @@
     },
     {
         "objectID": "b6e84a2fcf1754f1f6f1f71913f03a1d",
-        "name": "4210 Miete und Nebenkosten",
+        "name": "Miete und Nebenkosten",
         "type": "Aufwand",
         "code": "4210",
         "description": "",
@@ -1165,7 +1165,7 @@
     },
     {
         "objectID": "d41823e7c279286dd74c6ec757dcb305",
-        "name": "4240 Gas, Wasser, Strom (Verwaltung, Vertrieb)",
+        "name": "Gas, Wasser, Strom (Verwaltung, Vertrieb)",
         "type": "Aufwand",
         "code": "4240",
         "description": "",
@@ -1186,7 +1186,7 @@
     },
     {
         "objectID": "db313359a146b610ce80a36dde18bf01",
-        "name": "4250 Reinigung",
+        "name": "Reinigung",
         "type": "Aufwand",
         "code": "4250",
         "description": "",
@@ -1225,7 +1225,7 @@
     },
     {
         "objectID": "b5d6461bb3028d13faa8bee2981925a1",
-        "name": "4805 Reparatur u. Instandh. von Anlagen/Maschinen u. Betriebs- u. Gesch\u00e4ftsausst.",
+        "name": "Reparatur u. Instandh. von Anlagen/Maschinen u. Betriebs- u. Gesch\u00e4ftsausst.",
         "type": "Aufwand",
         "code": "4805",
         "description": "",
@@ -1264,7 +1264,7 @@
     },
     {
         "objectID": "7484251f3d5fc7ec71419b2fba733a78",
-        "name": "4360 Versicherungen",
+        "name": "Versicherungen",
         "type": "Aufwand",
         "code": "4360",
         "description": "",
@@ -1285,7 +1285,7 @@
     },
     {
         "objectID": "f2b1ad75fd3b7fc4473972a9c2675cbf",
-        "name": "4380 Beitr\u00e4ge",
+        "name": "Beitr\u00e4ge",
         "type": "Aufwand",
         "code": "4380",
         "description": "",
@@ -1306,7 +1306,7 @@
     },
     {
         "objectID": "a2d552e480b95123e90be434b3ac9653",
-        "name": "4390 sonstige Ausgaben",
+        "name": "sonstige Ausgaben",
         "type": "Aufwand",
         "code": "4390",
         "description": "",
@@ -1327,7 +1327,7 @@
     },
     {
         "objectID": "0c73c5dc5e72bb4962b83ddc85991101",
-        "name": "4396 steuerlich abzugsf\u00e4hige Versp\u00e4tungszuschl\u00e4ge und Zwangsgelder",
+        "name": "steuerlich abzugsf\u00e4hige Versp\u00e4tungszuschl\u00e4ge und Zwangsgelder",
         "type": "Aufwand",
         "code": "4396",
         "description": "",
@@ -1366,7 +1366,7 @@
     },
     {
         "objectID": "2d90f835fcb74d7a77b4a2a2b40c777a",
-        "name": "4610 Werbekosten",
+        "name": "Werbekosten",
         "type": "Aufwand",
         "code": "4610",
         "description": "",
@@ -1387,7 +1387,7 @@
     },
     {
         "objectID": "790770c5f93cff7d585bca1627446716",
-        "name": "4653 Aufmerksamkeiten",
+        "name": "Aufmerksamkeiten",
         "type": "Aufwand",
         "code": "4653",
         "description": "",
@@ -1408,7 +1408,7 @@
     },
     {
         "objectID": "235a6225c2c7d2ffa865345e78cae283",
-        "name": "4665 nicht abzugsf\u00e4hige Betriebsausg. aus Werbe-, Repr\u00e4s.- u. Reisekosten",
+        "name": "nicht abzugsf\u00e4hige Betriebsausg. aus Werbe-, Repr\u00e4s.- u. Reisekosten",
         "type": "Aufwand",
         "code": "4665",
         "description": "",
@@ -1429,7 +1429,7 @@
     },
     {
         "objectID": "dda3ae53573975cd05fab1d3cdf40806",
-        "name": "4670 Reisekosten Unternehmer",
+        "name": "Reisekosten Unternehmer",
         "type": "Aufwand",
         "code": "4670",
         "description": "",
@@ -1468,7 +1468,7 @@
     },
     {
         "objectID": "b84666b6b2d17f4be4a2cc15e595b30d",
-        "name": "4910 Porto",
+        "name": "Porto",
         "type": "Aufwand",
         "code": "4910",
         "description": "",
@@ -1489,7 +1489,7 @@
     },
     {
         "objectID": "892bb0974aa6c422f63b5df5354e8f7f",
-        "name": "4920 Telekom",
+        "name": "Telekom",
         "type": "Aufwand",
         "code": "4920",
         "description": "",
@@ -1510,7 +1510,7 @@
     },
     {
         "objectID": "20a13b07d90c5b385e78190525439aa2",
-        "name": "4921 Mobilfunk D2",
+        "name": "Mobilfunk D2",
         "type": "Aufwand",
         "code": "4921",
         "description": "",
@@ -1531,7 +1531,7 @@
     },
     {
         "objectID": "4d57d9103ab150ad4f01bc7a918fd0cc",
-        "name": "4922 Internet",
+        "name": "Internet",
         "type": "Aufwand",
         "code": "4922",
         "description": "",
@@ -1552,7 +1552,7 @@
     },
     {
         "objectID": "ac4d7c452835096c373f1a94dc3104f4",
-        "name": "4930 B\u00fcrobedarf",
+        "name": "B\u00fcrobedarf",
         "type": "Aufwand",
         "code": "4930",
         "description": "",
@@ -1573,7 +1573,7 @@
     },
     {
         "objectID": "1bac306450e7bc0619e42c11ab791204",
-        "name": "4940 Zeitschriften, B\u00fccher",
+        "name": "Zeitschriften, B\u00fccher",
         "type": "Aufwand",
         "code": "4940",
         "description": "",
@@ -1594,7 +1594,7 @@
     },
     {
         "objectID": "6be35acc206b144ee23c07086bc7a856",
-        "name": "4945 Fortbildungskosten",
+        "name": "Fortbildungskosten",
         "type": "Aufwand",
         "code": "4945",
         "description": "",
@@ -1615,7 +1615,7 @@
     },
     {
         "objectID": "25afa584627e0c0e8681bd8a82a77d14",
-        "name": "4955 Buchf\u00fchrungskosten",
+        "name": "Buchf\u00fchrungskosten",
         "type": "Aufwand",
         "code": "4955",
         "description": "",
@@ -1636,7 +1636,7 @@
     },
     {
         "objectID": "bf093094a55c036a193357ebcafcab67",
-        "name": "4957 Abschlu\u00df- u. Pr\u00fcfungskosten",
+        "name": "Abschlu\u00df- u. Pr\u00fcfungskosten",
         "type": "Aufwand",
         "code": "4957",
         "description": "",
@@ -1657,7 +1657,7 @@
     },
     {
         "objectID": "4f476c9b65684d56630db45690b9d4fc",
-        "name": "4970 Nebenkosten des Geldverkehrs",
+        "name": "Nebenkosten des Geldverkehrs",
         "type": "Aufwand",
         "code": "4970",
         "description": "",
@@ -1678,7 +1678,7 @@
     },
     {
         "objectID": "a5b36148c3fc06080973a5d25f28225b",
-        "name": "4985 Werkzeuge und Kleinger\u00e4te",
+        "name": "Werkzeuge und Kleinger\u00e4te",
         "type": "Aufwand",
         "code": "4985",
         "description": "",
@@ -1717,7 +1717,7 @@
     },
     {
         "objectID": "2d20e36f8abb4e366c8e3e2783bdafab",
-        "name": "2110 Zinsaufwendungen f\u00fcr kurzfristige Verbindlichkeiten",
+        "name": "Zinsaufwendungen f\u00fcr kurzfristige Verbindlichkeiten",
         "type": "Aufwand",
         "code": "2110",
         "description": "",
@@ -1738,7 +1738,7 @@
     },
     {
         "objectID": "17651501792b93b06832634462ddddae",
-        "name": "2121 Zinsaufwendungen f\u00fcr KFZ Finanzierung",
+        "name": "Zinsaufwendungen f\u00fcr KFZ Finanzierung",
         "type": "Aufwand",
         "code": "2121",
         "description": "",
@@ -1789,7 +1789,7 @@
     },
     {
         "objectID": "fa346eee1add66248bff420aafeebebb",
-        "name": "9000 Saldenvortrag Sachkonten",
+        "name": "Saldenvortrag Sachkonten",
         "type": "Eigenkapital",
         "code": "9000",
         "description": "",
@@ -1810,7 +1810,7 @@
     },
     {
         "objectID": "1f36ecbf065faa2b25a0749ceee72efa",
-        "name": "9008 Saldenvortr\u00e4ge Debitoren",
+        "name": "Saldenvortr\u00e4ge Debitoren",
         "type": "Eigenkapital",
         "code": "9008",
         "description": "",
@@ -1831,7 +1831,7 @@
     },
     {
         "objectID": "a6c754f12d0b9129790d9f52c5361778",
-        "name": "9009 Saldenvortr\u00e4ge Kreditoren",
+        "name": "Saldenvortr\u00e4ge Kreditoren",
         "type": "Eigenkapital",
         "code": "9009",
         "description": "",
@@ -1882,7 +1882,7 @@
     },
     {
         "objectID": "0e6b8f9c973149c8d1c00e40919e9e21",
-        "name": "1800 Privatentnahme allgemein",
+        "name": "Privatentnahme allgemein",
         "type": "Eigenkapital",
         "code": "1800",
         "description": "",
@@ -1903,7 +1903,7 @@
     },
     {
         "objectID": "fff2b92b43dc9d9690a7e5c365d2baf6",
-        "name": "1810 Privatsteuern",
+        "name": "Privatsteuern",
         "type": "Eigenkapital",
         "code": "1810",
         "description": "",
@@ -1924,7 +1924,7 @@
     },
     {
         "objectID": "5c008564ba99d0dfe6f20166adde5e6c",
-        "name": "1820 Sonderausgaben beschr\u00e4nkt abzugsf\u00e4hig",
+        "name": "Sonderausgaben beschr\u00e4nkt abzugsf\u00e4hig",
         "type": "Eigenkapital",
         "code": "1820",
         "description": "",
@@ -1945,7 +1945,7 @@
     },
     {
         "objectID": "d89a53718b4753ac5407b38ab43f1339",
-        "name": "1830 Sonderausgaben unbeschr\u00e4nkt abzugsf\u00e4hig",
+        "name": "Sonderausgaben unbeschr\u00e4nkt abzugsf\u00e4hig",
         "type": "Eigenkapital",
         "code": "1830",
         "description": "",
@@ -1966,7 +1966,7 @@
     },
     {
         "objectID": "ab2c3c1b68e9c21ca3bce32c729c5cdc",
-        "name": "1850 Au\u00dfergew\u00f6hnliche Belastungen",
+        "name": "Au\u00dfergew\u00f6hnliche Belastungen",
         "type": "Eigenkapital",
         "code": "1850",
         "description": "",
@@ -1987,7 +1987,7 @@
     },
     {
         "objectID": "4057a69542c170211849f7705354aadb",
-        "name": "1890 Privateinlagen",
+        "name": "Privateinlagen",
         "type": "Eigenkapital",
         "code": "1890",
         "description": "",

@@ -4,6 +4,7 @@ from collections import OrderedDict
 import json
 import os
 import sys
+import re
 
 TYPE_TRANSLATIONS = {
 	"root": "Oberkonto",
@@ -74,7 +75,7 @@ def main():
 
 			account = {
 				"objectID": act_xml["act:id"]["#text"],
-				"name": act_xml["act:name"],
+				"name": re.sub(r'^(\d{4}[+-]?)+ ', '', act_xml["act:name"]),
 				"type": TYPE_TRANSLATIONS[act_xml["act:type"].lower()] if "act:type" in act_xml else "",
 				"code": act_xml["act:code"] if "act:code" in act_xml else -1,
 				"description": act_xml["act:description"] if "act:description" in act_xml else "",

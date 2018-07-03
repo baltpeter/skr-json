@@ -1,6 +1,6 @@
 {
     "objectID": "bd25d0f2d884aeee3ed95b0bbe64d79e",
-    "name": "0653 Forderungen aus L&L ohne KK < 1 Jahr",
+    "name": "Forderungen aus L&L ohne KK < 1 Jahr",
     "type": "Forderung",
     "code": "0653",
     "description": "Forderungen aus Lieferungen und Leistungen ohne Kontokorrent mit Restlaufzeit mehr als ein Jahr",
