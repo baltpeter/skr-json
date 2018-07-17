@@ -1,5 +1,4 @@
 import xmltodict
-import pprint
 from collections import OrderedDict
 import json
 import os
