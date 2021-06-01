@@ -1,22 +1,17 @@
 {
-    "objectID": "de598aefa44164bf18998f6e74bcf4a2",
+    "id": "de598aefa44164bf18998f6e74bcf4a2",
     "name": "Abschreibungen auf Aufwendungen f\u00fcr die W\u00e4hrungsumstellung auf den Euro",
     "type": "Aufwand",
     "code": "6269",
+    "sort-code": 6269,
     "description": "",
     "categories": [
         "a) auf immaterielle Verm\u00f6gensgegenst\u00e4nde des Anlageverm\u00f6gens und Sachanlagen",
         "07. Abschreibungen"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "07. Abschreibungen > a) auf immaterielle Verm\u00f6gensgegenst\u00e4nde des Anlageverm\u00f6gens und Sachanlagen"
-        },
-        {
-            "lvl0": "07. Abschreibungen"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl1": "07. Abschreibungen > a) auf immaterielle Verm\u00f6gensgegenst\u00e4nde des Anlageverm\u00f6gens und Sachanlagen",
+    "hierarchicalCategories.lvl0": "07. Abschreibungen",
     "notes": "Abschreibungen auf Verm\u00f6gensgegenstnde des Umlaufverm\u00f6gens, soweit diese die in der Kapitalgesellschaft \u00fcblichen Abschreibungen \u00fcberschreiten",
     "placeholder": false,
     "parent": "190d32a7a4ab84dd1b8b1ab0ef80434c"

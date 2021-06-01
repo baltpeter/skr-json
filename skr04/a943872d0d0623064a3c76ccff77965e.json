@@ -1,18 +1,15 @@
 {
-    "objectID": "a943872d0d0623064a3c76ccff77965e",
+    "id": "a943872d0d0623064a3c76ccff77965e",
     "name": "b) soziale Abgaben und Aufwendungen f\u00fcr Altersversorgung und Unterst\u00fctzung",
     "type": "Aufwand",
     "code": "6100",
+    "sort-code": 6100,
     "description": "",
     "categories": [
         "06. Personalaufwand"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl0": "06. Personalaufwand"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl0": "06. Personalaufwand",
     "placeholder": false,
     "parent": "6dd2362a27e92ab13554c41721b91795"
 }

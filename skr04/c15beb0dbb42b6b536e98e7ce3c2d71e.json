@@ -1,8 +1,9 @@
 {
-    "objectID": "c15beb0dbb42b6b536e98e7ce3c2d71e",
+    "id": "c15beb0dbb42b6b536e98e7ce3c2d71e",
     "name": "Abgaben f\u00fcr Grundbesitz, der nicht zum Betriebsverm\u00f6gen geh\u00f6rt",
     "type": "Aufwand",
     "code": "6343",
+    "sort-code": 6343,
     "description": "",
     "categories": [
         "Abgaben f\u00fcr betrieblich genutzen Grundbesitz",
@@ -10,21 +11,11 @@
         "a) ordentliche betriebliche Aufwendungen",
         "08. sonstige betriebliche Aufwendungen"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl3": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen > 1) Raumkosten > Abgaben f\u00fcr betrieblich genutzen Grundbesitz"
-        },
-        {
-            "lvl2": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen > 1) Raumkosten"
-        },
-        {
-            "lvl1": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen"
-        },
-        {
-            "lvl0": "08. sonstige betriebliche Aufwendungen"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl3": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen > 1) Raumkosten > Abgaben f\u00fcr betrieblich genutzen Grundbesitz",
+    "hierarchicalCategories.lvl2": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen > 1) Raumkosten",
+    "hierarchicalCategories.lvl1": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen",
+    "hierarchicalCategories.lvl0": "08. sonstige betriebliche Aufwendungen",
     "placeholder": false,
     "parent": "bd23b4e1d0987776bf8b4a2e1cc365f7"
 }

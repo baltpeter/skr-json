@@ -1,22 +1,17 @@
 {
-    "objectID": "c4f157aa055b2df995b3ecb00a255372",
+    "id": "c4f157aa055b2df995b3ecb00a255372",
     "name": "6) Werbe- und Reisekosten",
     "type": "Aufwand",
     "code": -1,
+    "sort-code": 9999,
     "description": "",
     "categories": [
         "a) ordentliche betriebliche Aufwendungen",
         "08. sonstige betriebliche Aufwendungen"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen"
-        },
-        {
-            "lvl0": "08. sonstige betriebliche Aufwendungen"
-        }
-    ],
     "leaf": false,
+    "hierarchicalCategories.lvl1": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen",
+    "hierarchicalCategories.lvl0": "08. sonstige betriebliche Aufwendungen",
     "placeholder": true,
     "parent": "02bf19f7916e6dc15c403335dd274ccb"
 }

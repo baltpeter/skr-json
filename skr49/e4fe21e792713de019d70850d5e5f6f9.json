@@ -1,11 +1,11 @@
 {
-    "objectID": "e4fe21e792713de019d70850d5e5f6f9",
+    "id": "e4fe21e792713de019d70850d5e5f6f9",
     "name": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe",
     "type": "Ertrag",
     "code": "6",
+    "sort-code": 9999,
     "description": "Betriebseinnahmen und -Ausgaben aus anderen steuerbeg\u00fcnstigten Zweckbetrieben gemeinn\u00fctziger Vereine",
     "categories": [],
-    "hierarchicalCategories": [],
     "leaf": false,
     "notes": "Klasse 6: Ergebnisposten (T\u00e4tigkeitsbereich 6000)\nBetriebseinnahmen und Betriebsausgaben aus anderen steuerbeg\u00fcnstigten Zweckbetrieben gemeinn\u00fctziger Vereine wie Kultur, Lotterien und Ausspielungen u. a. \nUSt-Hinweis: 0%/7%; USt-Vorsteuerabzug m\u00f6glich",
     "placeholder": true,

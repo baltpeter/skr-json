@@ -1,8 +1,9 @@
 {
-    "objectID": "8c3f9d0055b29dd57359401735c8cb4b",
+    "id": "8c3f9d0055b29dd57359401735c8cb4b",
     "name": "Abschreibungen auf Umlaufverm\u00f6gen",
     "type": "Aufwand",
     "code": "5855",
+    "sort-code": 5855,
     "description": "Abschreibungen auf Umlaufverm\u00f6gen (un\u00fcblich hoch)",
     "categories": [
         "5840-5859 Abschreibungen",
@@ -11,24 +12,12 @@
         "5000-5889 ZWECKBETRIEBE SPORT",
         "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl4": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5000-5889 ZWECKBETRIEBE SPORT > 5700-5999 ZWECKBETRIEBE SPORT 2 > 5800-5899 AUSGABEN / AUFWENDUNGEN > 5840-5859 Abschreibungen"
-        },
-        {
-            "lvl3": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5000-5889 ZWECKBETRIEBE SPORT > 5700-5999 ZWECKBETRIEBE SPORT 2 > 5800-5899 AUSGABEN / AUFWENDUNGEN"
-        },
-        {
-            "lvl2": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5000-5889 ZWECKBETRIEBE SPORT > 5700-5999 ZWECKBETRIEBE SPORT 2"
-        },
-        {
-            "lvl1": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5000-5889 ZWECKBETRIEBE SPORT"
-        },
-        {
-            "lvl0": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl4": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5000-5889 ZWECKBETRIEBE SPORT > 5700-5999 ZWECKBETRIEBE SPORT 2 > 5800-5899 AUSGABEN / AUFWENDUNGEN > 5840-5859 Abschreibungen",
+    "hierarchicalCategories.lvl3": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5000-5889 ZWECKBETRIEBE SPORT > 5700-5999 ZWECKBETRIEBE SPORT 2 > 5800-5899 AUSGABEN / AUFWENDUNGEN",
+    "hierarchicalCategories.lvl2": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5000-5889 ZWECKBETRIEBE SPORT > 5700-5999 ZWECKBETRIEBE SPORT 2",
+    "hierarchicalCategories.lvl1": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5000-5889 ZWECKBETRIEBE SPORT",
+    "hierarchicalCategories.lvl0": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport",
     "notes": "Abschreibungen auf Umlaufverm\u00f6gen, steuerrechtlich bedingt (soweit un\u00fcblich hoch)",
     "parent": "0faf01e2495f13dc424bef6ec4d667a7"
 }

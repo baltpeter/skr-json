@@ -1,8 +1,9 @@
 {
-    "objectID": "adae6b16c656c60634e4df5ba6c1c91e",
+    "id": "adae6b16c656c60634e4df5ba6c1c91e",
     "name": "Zuschreibungen",
     "type": "Ertrag",
     "code": "8640",
+    "sort-code": 8640,
     "description": "Zuschreibungen",
     "categories": [
         "8600 Sonstige betriebliche Ertr\u00e4ge",
@@ -11,23 +12,11 @@
         "8000-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE",
         "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl4": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe > 8000-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE > 8500-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE 2 > 8500-8649 EINNAHMEN / ERTR\u00c4GE > 8600 Sonstige betriebliche Ertr\u00e4ge"
-        },
-        {
-            "lvl3": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe > 8000-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE > 8500-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE 2 > 8500-8649 EINNAHMEN / ERTR\u00c4GE"
-        },
-        {
-            "lvl2": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe > 8000-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE > 8500-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE 2"
-        },
-        {
-            "lvl1": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe > 8000-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE"
-        },
-        {
-            "lvl0": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl4": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe > 8000-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE > 8500-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE 2 > 8500-8649 EINNAHMEN / ERTR\u00c4GE > 8600 Sonstige betriebliche Ertr\u00e4ge",
+    "hierarchicalCategories.lvl3": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe > 8000-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE > 8500-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE 2 > 8500-8649 EINNAHMEN / ERTR\u00c4GE",
+    "hierarchicalCategories.lvl2": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe > 8000-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE > 8500-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE 2",
+    "hierarchicalCategories.lvl1": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe > 8000-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE",
+    "hierarchicalCategories.lvl0": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe",
     "parent": "3162132f8e2cafe2be6fcdb0bdf2d3ae"
 }

@@ -1,26 +1,19 @@
 {
-    "objectID": "cc58dab474a61b30c313cd1cd8ec90c2",
+    "id": "cc58dab474a61b30c313cd1cd8ec90c2",
     "name": "Umsatzsteuer laufendes Jahr",
     "type": "Verbindlichkeit",
     "code": "3840",
+    "sort-code": 3840,
     "description": "",
     "categories": [
         "10. Umsatzsteuer",
         "C. Verbindlichkeiten",
         "Passiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "Passiva > C. Verbindlichkeiten > 10. Umsatzsteuer"
-        },
-        {
-            "lvl1": "Passiva > C. Verbindlichkeiten"
-        },
-        {
-            "lvl0": "Passiva"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "Passiva > C. Verbindlichkeiten > 10. Umsatzsteuer",
+    "hierarchicalCategories.lvl1": "Passiva > C. Verbindlichkeiten",
+    "hierarchicalCategories.lvl0": "Passiva",
     "placeholder": false,
     "parent": "a4ca09669a36f58cc3081d5ecff9cdb6"
 }

@@ -1,25 +1,18 @@
 {
-    "objectID": "35b3b91bb353b4817eab2356015cdc76",
+    "id": "35b3b91bb353b4817eab2356015cdc76",
     "name": "Anlagenabg\u00e4nge Sachanlagen",
     "type": "Ertrag",
     "code": "4495",
+    "sort-code": 4495,
     "description": "Anlagenabg\u00e4nge Sachanlagen (Restbuchwert bei Buchgewinn)",
     "categories": [
         "4400 Steuerpflichtige Einnahmen",
         "4400-4499 EINNAHMEN NGV",
         "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4400-4499 EINNAHMEN NGV > 4400 Steuerpflichtige Einnahmen"
-        },
-        {
-            "lvl1": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4400-4499 EINNAHMEN NGV"
-        },
-        {
-            "lvl0": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4400-4499 EINNAHMEN NGV > 4400 Steuerpflichtige Einnahmen",
+    "hierarchicalCategories.lvl1": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4400-4499 EINNAHMEN NGV",
+    "hierarchicalCategories.lvl0": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung",
     "parent": "381598618cc0baf4bd0acca9cb0ad79b"
 }

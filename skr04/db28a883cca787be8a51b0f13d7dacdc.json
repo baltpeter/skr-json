@@ -1,18 +1,15 @@
 {
-    "objectID": "db28a883cca787be8a51b0f13d7dacdc",
+    "id": "db28a883cca787be8a51b0f13d7dacdc",
     "name": "Ertr\u00e4ge aus dem Abgang von Gegenst\u00e4nden des Umlaufverm\u00f6gens (au\u00dfer Vorr\u00e4ten) 100%/50% steuerfrei",
     "type": "Ertrag",
     "code": "4906",
+    "sort-code": 4906,
     "description": "(inl\u00e4ndische Kap.Ges.)",
     "categories": [
         "04. Sonstige betriebliche Ertr\u00e4ge"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl0": "04. Sonstige betriebliche Ertr\u00e4ge"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl0": "04. Sonstige betriebliche Ertr\u00e4ge",
     "placeholder": false,
     "parent": "4c0c1557fe54e71d7ed717587a0c0b4d"
 }

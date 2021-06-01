@@ -1,8 +1,9 @@
 {
-    "objectID": "39d53d94fbe3eb44de4d31b23dfdf74b",
+    "id": "39d53d94fbe3eb44de4d31b23dfdf74b",
     "name": "Soziale Abgaben",
     "type": "Aufwand",
     "code": "7250",
+    "sort-code": 7250,
     "description": "Gesetzliche soziale Aufwendungen",
     "categories": [
         "7200-7799 AUSGABEN / AUFWENDUNGEN",
@@ -10,21 +11,11 @@
         "7000-7999 GESCH\u00c4FTSBETRIEBE SPORT",
         "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl3": "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport > 7000-7999 GESCH\u00c4FTSBETRIEBE SPORT > 7000-7799 GESCH\u00c4FTSBETRIEBE SPORT > 7200-7799 AUSGABEN / AUFWENDUNGEN"
-        },
-        {
-            "lvl2": "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport > 7000-7999 GESCH\u00c4FTSBETRIEBE SPORT > 7000-7799 GESCH\u00c4FTSBETRIEBE SPORT"
-        },
-        {
-            "lvl1": "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport > 7000-7999 GESCH\u00c4FTSBETRIEBE SPORT"
-        },
-        {
-            "lvl0": "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl3": "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport > 7000-7999 GESCH\u00c4FTSBETRIEBE SPORT > 7000-7799 GESCH\u00c4FTSBETRIEBE SPORT > 7200-7799 AUSGABEN / AUFWENDUNGEN",
+    "hierarchicalCategories.lvl2": "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport > 7000-7999 GESCH\u00c4FTSBETRIEBE SPORT > 7000-7799 GESCH\u00c4FTSBETRIEBE SPORT",
+    "hierarchicalCategories.lvl1": "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport > 7000-7999 GESCH\u00c4FTSBETRIEBE SPORT",
+    "hierarchicalCategories.lvl0": "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport",
     "notes": "Sozialversicherungsbeitr\u00e4ge",
     "parent": "cac0ac6173cf9b5846cf0b2cd7b128aa"
 }

@@ -1,8 +1,9 @@
 {
-    "objectID": "ab5f1859e44f5043657659808d6abcf0",
+    "id": "ab5f1859e44f5043657659808d6abcf0",
     "name": "Sonstige Wertpapiere",
     "type": "Aktiva",
     "code": "0915",
+    "sort-code": 915,
     "description": "Sonstige Wertpapiere",
     "categories": [
         "0910-0919 Sonstige Wertpapiere",
@@ -10,20 +11,10 @@
         "0600-0989 UMLAUFVERM\u00d6GEN",
         "0 aktive Verm\u00f6gensposten"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl3": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0900-0919 Wertpapiere > 0910-0919 Sonstige Wertpapiere"
-        },
-        {
-            "lvl2": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0900-0919 Wertpapiere"
-        },
-        {
-            "lvl1": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN"
-        },
-        {
-            "lvl0": "0 aktive Verm\u00f6gensposten"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl3": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0900-0919 Wertpapiere > 0910-0919 Sonstige Wertpapiere",
+    "hierarchicalCategories.lvl2": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0900-0919 Wertpapiere",
+    "hierarchicalCategories.lvl1": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN",
+    "hierarchicalCategories.lvl0": "0 aktive Verm\u00f6gensposten",
     "parent": "4f990498fef1e40775c72fddbfc1e92e"
 }

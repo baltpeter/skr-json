@@ -1,8 +1,9 @@
 {
-    "objectID": "675c2b002fcccf3d732ff6a10c7b0c04",
+    "id": "675c2b002fcccf3d732ff6a10c7b0c04",
     "name": "Nachl\u00e4sse aus innergemeinschaftlichem Erwerb 7% Vorsteuer/USt",
     "type": "Aufwand",
     "code": "5724",
+    "sort-code": 5724,
     "description": "",
     "categories": [
         "Nachl\u00e4sse",
@@ -10,21 +11,11 @@
         "a) Aufwendungen f\u00fcr Roh-, Hilfs- und Betriebsstoffe und f\u00fcr bezogene Waren",
         "05. Materialaufwand"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl3": "05. Materialaufwand > a) Aufwendungen f\u00fcr Roh-, Hilfs- und Betriebsstoffe und f\u00fcr bezogene Waren > 03. Statistische Konten E\u00dcR > Nachl\u00e4sse"
-        },
-        {
-            "lvl2": "05. Materialaufwand > a) Aufwendungen f\u00fcr Roh-, Hilfs- und Betriebsstoffe und f\u00fcr bezogene Waren > 03. Statistische Konten E\u00dcR"
-        },
-        {
-            "lvl1": "05. Materialaufwand > a) Aufwendungen f\u00fcr Roh-, Hilfs- und Betriebsstoffe und f\u00fcr bezogene Waren"
-        },
-        {
-            "lvl0": "05. Materialaufwand"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl3": "05. Materialaufwand > a) Aufwendungen f\u00fcr Roh-, Hilfs- und Betriebsstoffe und f\u00fcr bezogene Waren > 03. Statistische Konten E\u00dcR > Nachl\u00e4sse",
+    "hierarchicalCategories.lvl2": "05. Materialaufwand > a) Aufwendungen f\u00fcr Roh-, Hilfs- und Betriebsstoffe und f\u00fcr bezogene Waren > 03. Statistische Konten E\u00dcR",
+    "hierarchicalCategories.lvl1": "05. Materialaufwand > a) Aufwendungen f\u00fcr Roh-, Hilfs- und Betriebsstoffe und f\u00fcr bezogene Waren",
+    "hierarchicalCategories.lvl0": "05. Materialaufwand",
     "placeholder": false,
     "parent": "af24e50ccea7ed9d9b7ec2c1c3351487"
 }

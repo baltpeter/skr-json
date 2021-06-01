@@ -1,18 +1,15 @@
 {
-    "objectID": "4a4977a3aea7f63adea0e6188330d4a1",
+    "id": "4a4977a3aea7f63adea0e6188330d4a1",
     "name": "STATISTISCHE KONTEN F\u00dcR IN DER BILANZ AUSZUWEISENDE HAFTUNGSVERH\u00c4LTNISSE",
     "type": "Aktiva",
     "code": "9270-9485",
+    "sort-code": 9999,
     "description": "STATISTISCHE KONTEN F\u00dcR IN DER BILANZ AUSZUWEISENDE HAFTUNGSVERH\u00c4LTNISSE",
     "categories": [
         "9 Statistik- & Vortragskonten"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl0": "9 Statistik- & Vortragskonten"
-        }
-    ],
     "leaf": false,
+    "hierarchicalCategories.lvl0": "9 Statistik- & Vortragskonten",
     "placeholder": true,
     "parent": "3f14162b8e47da34d1705080f97af853"
 }

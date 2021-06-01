@@ -1,21 +1,16 @@
 {
-    "objectID": "cf214c888424ce036704bd526650a4c1",
+    "id": "cf214c888424ce036704bd526650a4c1",
     "name": "Sofortabschreibung GWG",
     "type": "Aufwand",
     "code": "4855",
+    "sort-code": 4855,
     "description": "",
     "categories": [
         "Abschreibungen",
         "Aufwendungen 2/4"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "Aufwendungen 2/4 > Abschreibungen"
-        },
-        {
-            "lvl0": "Aufwendungen 2/4"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl1": "Aufwendungen 2/4 > Abschreibungen",
+    "hierarchicalCategories.lvl0": "Aufwendungen 2/4",
     "parent": "ad3f063a8200c1faa0331e2d9eb3ae04"
 }

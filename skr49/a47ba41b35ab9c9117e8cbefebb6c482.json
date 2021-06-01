@@ -1,26 +1,19 @@
 {
-    "objectID": "a47ba41b35ab9c9117e8cbefebb6c482",
+    "id": "a47ba41b35ab9c9117e8cbefebb6c482",
     "name": "Umschichtungsergebnisse",
     "type": "Fremdkapital",
     "code": "1110",
+    "sort-code": 1110,
     "description": "Ergebnisse Verm\u00f6gensumschichtung",
     "categories": [
         "1100-1125 Stiftungsverm\u00f6gen",
         "1000-1179 VERM\u00d6GEN / EIGENKAPITAL",
         "1 passive Verm\u00f6gensposten"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL > 1100-1125 Stiftungsverm\u00f6gen"
-        },
-        {
-            "lvl1": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL"
-        },
-        {
-            "lvl0": "1 passive Verm\u00f6gensposten"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL > 1100-1125 Stiftungsverm\u00f6gen",
+    "hierarchicalCategories.lvl1": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL",
+    "hierarchicalCategories.lvl0": "1 passive Verm\u00f6gensposten",
     "notes": "Nur f\u00fcr Stiftungen!",
     "parent": "b064f0344c982abd459f17ce593f2fc4"
 }

@@ -1,25 +1,18 @@
 {
-    "objectID": "eae43c6aec074a02baa2bfc32f771778",
+    "id": "eae43c6aec074a02baa2bfc32f771778",
     "name": "Steuerneutrale Einnahmen Bereich 6000",
     "type": "Ertrag",
     "code": "3600",
+    "sort-code": 3600,
     "description": "Steuerneutrale Einnahmen Bereich 6000",
     "categories": [
         "3600-3699 Sonstige Zweckbetriebe",
         "3200-3899  ERTRAGSNEUTRALE POSTEN",
         "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN > 3600-3699 Sonstige Zweckbetriebe"
-        },
-        {
-            "lvl1": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN"
-        },
-        {
-            "lvl0": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN > 3600-3699 Sonstige Zweckbetriebe",
+    "hierarchicalCategories.lvl1": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN",
+    "hierarchicalCategories.lvl0": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten",
     "parent": "bac74b941374b6ecc83833a2493e4d43"
 }

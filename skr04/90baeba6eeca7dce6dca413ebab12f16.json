@@ -1,22 +1,17 @@
 {
-    "objectID": "90baeba6eeca7dce6dca413ebab12f16",
+    "id": "90baeba6eeca7dce6dca413ebab12f16",
     "name": "Bedienungsgelder",
     "type": "Aufwand",
     "code": "6045",
+    "sort-code": 6045,
     "description": "",
     "categories": [
         "a) L\u00f6hne und Geh\u00e4lter",
         "06. Personalaufwand"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "06. Personalaufwand > a) L\u00f6hne und Geh\u00e4lter"
-        },
-        {
-            "lvl0": "06. Personalaufwand"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl1": "06. Personalaufwand > a) L\u00f6hne und Geh\u00e4lter",
+    "hierarchicalCategories.lvl0": "06. Personalaufwand",
     "placeholder": false,
     "parent": "603fcd641f765110cac07fca1a8d47f1"
 }

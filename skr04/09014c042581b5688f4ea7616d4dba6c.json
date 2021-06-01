@@ -1,22 +1,17 @@
 {
-    "objectID": "09014c042581b5688f4ea7616d4dba6c",
+    "id": "09014c042581b5688f4ea7616d4dba6c",
     "name": "Zinsaufwendungen f\u00fcr langfristige Verbindlichkeiten an verbundene Unternehmen",
     "type": "Aufwand",
     "code": "7329",
+    "sort-code": 7329,
     "description": "",
     "categories": [
         "- davon an verbundene Unternehmen",
         "13. Zinsen und \u00e4hnliche Aufwendungen"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "13. Zinsen und \u00e4hnliche Aufwendungen > - davon an verbundene Unternehmen"
-        },
-        {
-            "lvl0": "13. Zinsen und \u00e4hnliche Aufwendungen"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl1": "13. Zinsen und \u00e4hnliche Aufwendungen > - davon an verbundene Unternehmen",
+    "hierarchicalCategories.lvl0": "13. Zinsen und \u00e4hnliche Aufwendungen",
     "placeholder": false,
     "parent": "1d2e4fdc63afeae1c59bf9b936518804"
 }

@@ -1,26 +1,19 @@
 {
-    "objectID": "99f7e61a734cfa3e5c4b75505763507f",
+    "id": "99f7e61a734cfa3e5c4b75505763507f",
     "name": "Fortbildungskosten",
     "type": "Aufwand",
     "code": "6821",
+    "sort-code": 6821,
     "description": "",
     "categories": [
         "8) verschiedene betriebliche Kosten",
         "a) ordentliche betriebliche Aufwendungen",
         "08. sonstige betriebliche Aufwendungen"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen > 8) verschiedene betriebliche Kosten"
-        },
-        {
-            "lvl1": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen"
-        },
-        {
-            "lvl0": "08. sonstige betriebliche Aufwendungen"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen > 8) verschiedene betriebliche Kosten",
+    "hierarchicalCategories.lvl1": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen",
+    "hierarchicalCategories.lvl0": "08. sonstige betriebliche Aufwendungen",
     "placeholder": false,
     "parent": "34be7b6c3246314364ef3ad2c6aead4c"
 }

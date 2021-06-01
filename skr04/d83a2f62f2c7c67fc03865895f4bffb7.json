@@ -1,8 +1,9 @@
 {
-    "objectID": "d83a2f62f2c7c67fc03865895f4bffb7",
+    "id": "d83a2f62f2c7c67fc03865895f4bffb7",
     "name": "Andere Gewinnr\u00fccklagen 0% Vorbelastung (steuerliches Einlagekonto)",
     "type": "Fremdkapital",
     "code": "2966",
+    "sort-code": 2966,
     "description": "",
     "categories": [
         "04. Andere Gewinnr\u00fccklagen",
@@ -11,24 +12,12 @@
         "A. Eigenkapital",
         "Passiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl4": "Passiva > A. Eigenkapital > c) alle > I. Gewinnr\u00fccklagen > 04. Andere Gewinnr\u00fccklagen"
-        },
-        {
-            "lvl3": "Passiva > A. Eigenkapital > c) alle > I. Gewinnr\u00fccklagen"
-        },
-        {
-            "lvl2": "Passiva > A. Eigenkapital > c) alle"
-        },
-        {
-            "lvl1": "Passiva > A. Eigenkapital"
-        },
-        {
-            "lvl0": "Passiva"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl4": "Passiva > A. Eigenkapital > c) alle > I. Gewinnr\u00fccklagen > 04. Andere Gewinnr\u00fccklagen",
+    "hierarchicalCategories.lvl3": "Passiva > A. Eigenkapital > c) alle > I. Gewinnr\u00fccklagen",
+    "hierarchicalCategories.lvl2": "Passiva > A. Eigenkapital > c) alle",
+    "hierarchicalCategories.lvl1": "Passiva > A. Eigenkapital",
+    "hierarchicalCategories.lvl0": "Passiva",
     "placeholder": false,
     "parent": "22676e23b2512574214dec23e28d61f1"
 }

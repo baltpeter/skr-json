@@ -1,8 +1,9 @@
 {
-    "objectID": "419c0e8d658536a3a268f8d667c04b85",
+    "id": "419c0e8d658536a3a268f8d667c04b85",
     "name": "Ausgaben i.S.v. \u00a74 Abs. 5 EStG",
     "type": "Aufwand",
     "code": "3861",
+    "sort-code": 3861,
     "description": "Ausgaben im Sinne von \u00a74 Abs. 5 EStG",
     "categories": [
         "3850 Nicht abziehb. Ausg. zu Bereich 8000",
@@ -10,20 +11,10 @@
         "3200-3899  ERTRAGSNEUTRALE POSTEN",
         "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl3": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN > 3800-3899 Sonstige wirtschaftliche Gesch\u00e4ftsbetriebe > 3850 Nicht abziehb. Ausg. zu Bereich 8000"
-        },
-        {
-            "lvl2": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN > 3800-3899 Sonstige wirtschaftliche Gesch\u00e4ftsbetriebe"
-        },
-        {
-            "lvl1": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN"
-        },
-        {
-            "lvl0": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl3": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN > 3800-3899 Sonstige wirtschaftliche Gesch\u00e4ftsbetriebe > 3850 Nicht abziehb. Ausg. zu Bereich 8000",
+    "hierarchicalCategories.lvl2": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN > 3800-3899 Sonstige wirtschaftliche Gesch\u00e4ftsbetriebe",
+    "hierarchicalCategories.lvl1": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN",
+    "hierarchicalCategories.lvl0": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten",
     "parent": "eec0aff4d3550b569235bba703f86358"
 }

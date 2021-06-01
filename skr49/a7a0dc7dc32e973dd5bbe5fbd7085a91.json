@@ -1,26 +1,19 @@
 {
-    "objectID": "a7a0dc7dc32e973dd5bbe5fbd7085a91",
+    "id": "a7a0dc7dc32e973dd5bbe5fbd7085a91",
     "name": "Entnahmen aus der Kapitalr\u00fccklage",
     "type": "Ertrag",
     "code": "3968",
+    "sort-code": 3968,
     "description": "Entnahmen aus der Kapitalr\u00fccklage",
     "categories": [
         "3968-3988 Ergebnisverwendung (Stiftungen & GmbHs)",
         "3900-3999 ERGEBNISVERWENDUNGSRECHNUNG",
         "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3900-3999 ERGEBNISVERWENDUNGSRECHNUNG > 3968-3988 Ergebnisverwendung (Stiftungen & GmbHs)"
-        },
-        {
-            "lvl1": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3900-3999 ERGEBNISVERWENDUNGSRECHNUNG"
-        },
-        {
-            "lvl0": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3900-3999 ERGEBNISVERWENDUNGSRECHNUNG > 3968-3988 Ergebnisverwendung (Stiftungen & GmbHs)",
+    "hierarchicalCategories.lvl1": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3900-3999 ERGEBNISVERWENDUNGSRECHNUNG",
+    "hierarchicalCategories.lvl0": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten",
     "notes": "Nur GmbH und Stiftungen!\nverschoben von 3983",
     "parent": "1cecd6b4ad34399da287c6e649acfac1"
 }

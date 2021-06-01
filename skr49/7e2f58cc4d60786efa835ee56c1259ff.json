@@ -1,8 +1,9 @@
 {
-    "objectID": "7e2f58cc4d60786efa835ee56c1259ff",
+    "id": "7e2f58cc4d60786efa835ee56c1259ff",
     "name": "Betriebsmittelr\u00fccklage",
     "type": "Fremdkapital",
     "code": "1002",
+    "sort-code": 1002,
     "description": "Betriebsmittelr\u00fccklage",
     "categories": [
         "1000-1069 Gebundene R\u00fccklagen",
@@ -10,20 +11,10 @@
         "1000-1179 VERM\u00d6GEN / EIGENKAPITAL",
         "1 passive Verm\u00f6gensposten"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl3": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL > 1000-1079 Gewinnr\u00fccklagen > 1000-1069 Gebundene R\u00fccklagen"
-        },
-        {
-            "lvl2": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL > 1000-1079 Gewinnr\u00fccklagen"
-        },
-        {
-            "lvl1": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL"
-        },
-        {
-            "lvl0": "1 passive Verm\u00f6gensposten"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl3": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL > 1000-1079 Gewinnr\u00fccklagen > 1000-1069 Gebundene R\u00fccklagen",
+    "hierarchicalCategories.lvl2": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL > 1000-1079 Gewinnr\u00fccklagen",
+    "hierarchicalCategories.lvl1": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL",
+    "hierarchicalCategories.lvl0": "1 passive Verm\u00f6gensposten",
     "parent": "2609183d3d6dd20810723b745c8eb0db"
 }

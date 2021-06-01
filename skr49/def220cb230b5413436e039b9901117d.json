@@ -1,8 +1,9 @@
 {
-    "objectID": "def220cb230b5413436e039b9901117d",
+    "id": "def220cb230b5413436e039b9901117d",
     "name": "reserviert",
     "type": "Aktiva",
     "code": "0837",
+    "sort-code": 837,
     "description": "VERALTET!",
     "categories": [
         "0825 Aufzuteilende Vorsteuer",
@@ -12,27 +13,13 @@
         "0600-0989 UMLAUFVERM\u00d6GEN",
         "0 aktive Verm\u00f6gensposten"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl5": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde > 0700 Sonstige Verm\u00f6gensgegenst\u00e4nde > 0730-0866 Umsatzsteuer-Konten > 0825 Aufzuteilende Vorsteuer"
-        },
-        {
-            "lvl4": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde > 0700 Sonstige Verm\u00f6gensgegenst\u00e4nde > 0730-0866 Umsatzsteuer-Konten"
-        },
-        {
-            "lvl3": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde > 0700 Sonstige Verm\u00f6gensgegenst\u00e4nde"
-        },
-        {
-            "lvl2": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde"
-        },
-        {
-            "lvl1": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN"
-        },
-        {
-            "lvl0": "0 aktive Verm\u00f6gensposten"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl5": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde > 0700 Sonstige Verm\u00f6gensgegenst\u00e4nde > 0730-0866 Umsatzsteuer-Konten > 0825 Aufzuteilende Vorsteuer",
+    "hierarchicalCategories.lvl4": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde > 0700 Sonstige Verm\u00f6gensgegenst\u00e4nde > 0730-0866 Umsatzsteuer-Konten",
+    "hierarchicalCategories.lvl3": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde > 0700 Sonstige Verm\u00f6gensgegenst\u00e4nde",
+    "hierarchicalCategories.lvl2": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde",
+    "hierarchicalCategories.lvl1": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN",
+    "hierarchicalCategories.lvl0": "0 aktive Verm\u00f6gensposten",
     "notes": "\u00dcberschu\u00dfrechner \u2013 keine Zuordnung",
     "placeholder": true,
     "parent": "0af4b7bbc2a07c6c1ffb91ce77372bfb"

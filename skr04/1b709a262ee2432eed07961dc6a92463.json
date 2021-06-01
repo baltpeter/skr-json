@@ -1,11 +1,11 @@
 {
-    "objectID": "1b709a262ee2432eed07961dc6a92463",
+    "id": "1b709a262ee2432eed07961dc6a92463",
     "name": "07. Abschreibungen",
     "type": "Aufwand",
     "code": -1,
+    "sort-code": 9999,
     "description": "",
     "categories": [],
-    "hierarchicalCategories": [],
     "leaf": false,
     "placeholder": false,
     "parent": "1972cce2e2364f95b2b0bc014502661d"

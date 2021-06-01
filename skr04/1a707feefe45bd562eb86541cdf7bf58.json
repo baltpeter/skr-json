@@ -1,18 +1,15 @@
 {
-    "objectID": "1a707feefe45bd562eb86541cdf7bf58",
+    "id": "1a707feefe45bd562eb86541cdf7bf58",
     "name": "Andere aktivierte Eigenleistungen",
     "type": "Ertrag",
     "code": "4820",
+    "sort-code": 4820,
     "description": "",
     "categories": [
         "03. Andere aktivierte Eigenleistungen"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl0": "03. Andere aktivierte Eigenleistungen"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl0": "03. Andere aktivierte Eigenleistungen",
     "placeholder": false,
     "parent": "65a4c9e673990503afd7bd9e0f005db7"
 }

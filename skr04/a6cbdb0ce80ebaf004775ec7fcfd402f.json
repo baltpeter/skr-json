@@ -1,26 +1,19 @@
 {
-    "objectID": "a6cbdb0ce80ebaf004775ec7fcfd402f",
+    "id": "a6cbdb0ce80ebaf004775ec7fcfd402f",
     "name": "Bank",
     "type": "Bank",
     "code": "1800",
+    "sort-code": 1800,
     "description": "",
     "categories": [
         "IV. Kassenbestand, Bundesbankguthaben, Guthaben bei Kreditinstituten und Schecks",
         "B. Umlaufverm\u00f6gen",
         "Aktiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "Aktiva > B. Umlaufverm\u00f6gen > IV. Kassenbestand, Bundesbankguthaben, Guthaben bei Kreditinstituten und Schecks"
-        },
-        {
-            "lvl1": "Aktiva > B. Umlaufverm\u00f6gen"
-        },
-        {
-            "lvl0": "Aktiva"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "Aktiva > B. Umlaufverm\u00f6gen > IV. Kassenbestand, Bundesbankguthaben, Guthaben bei Kreditinstituten und Schecks",
+    "hierarchicalCategories.lvl1": "Aktiva > B. Umlaufverm\u00f6gen",
+    "hierarchicalCategories.lvl0": "Aktiva",
     "placeholder": false,
     "parent": "9743059255b8318a7eb5ba07b2dd3e0e"
 }

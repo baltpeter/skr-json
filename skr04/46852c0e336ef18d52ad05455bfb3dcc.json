@@ -1,8 +1,9 @@
 {
-    "objectID": "46852c0e336ef18d52ad05455bfb3dcc",
+    "id": "46852c0e336ef18d52ad05455bfb3dcc",
     "name": "Besitzwechsel gegen verbund. Unternehmen",
     "type": "Aktiva",
     "code": "1266",
+    "sort-code": 1266,
     "description": "",
     "categories": [
         "02. Forderungen gegen verbundene Unternehmen",
@@ -10,21 +11,11 @@
         "B. Umlaufverm\u00f6gen",
         "Aktiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl3": "Aktiva > B. Umlaufverm\u00f6gen > II. Forderungen und sonstige Verm\u00f6gensgegenst\u00e4nde > 02. Forderungen gegen verbundene Unternehmen"
-        },
-        {
-            "lvl2": "Aktiva > B. Umlaufverm\u00f6gen > II. Forderungen und sonstige Verm\u00f6gensgegenst\u00e4nde"
-        },
-        {
-            "lvl1": "Aktiva > B. Umlaufverm\u00f6gen"
-        },
-        {
-            "lvl0": "Aktiva"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl3": "Aktiva > B. Umlaufverm\u00f6gen > II. Forderungen und sonstige Verm\u00f6gensgegenst\u00e4nde > 02. Forderungen gegen verbundene Unternehmen",
+    "hierarchicalCategories.lvl2": "Aktiva > B. Umlaufverm\u00f6gen > II. Forderungen und sonstige Verm\u00f6gensgegenst\u00e4nde",
+    "hierarchicalCategories.lvl1": "Aktiva > B. Umlaufverm\u00f6gen",
+    "hierarchicalCategories.lvl0": "Aktiva",
     "placeholder": true,
     "parent": "2206ddc60ecf97df41c9a90d71fdd94d"
 }

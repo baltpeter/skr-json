@@ -1,8 +1,9 @@
 {
-    "objectID": "69f1728d34c200f18f7902443ac50f61",
+    "id": "69f1728d34c200f18f7902443ac50f61",
     "name": "Wertpapieranlagen im Rahmen der kurzfristigen Finanzdisposition",
     "type": "Aktiva",
     "code": "1530",
+    "sort-code": 1530,
     "description": "",
     "categories": [
         "03. sonstige Wertpapiere",
@@ -10,21 +11,11 @@
         "B. Umlaufverm\u00f6gen",
         "Aktiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl3": "Aktiva > B. Umlaufverm\u00f6gen > III. Wertpapiere > 03. sonstige Wertpapiere"
-        },
-        {
-            "lvl2": "Aktiva > B. Umlaufverm\u00f6gen > III. Wertpapiere"
-        },
-        {
-            "lvl1": "Aktiva > B. Umlaufverm\u00f6gen"
-        },
-        {
-            "lvl0": "Aktiva"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl3": "Aktiva > B. Umlaufverm\u00f6gen > III. Wertpapiere > 03. sonstige Wertpapiere",
+    "hierarchicalCategories.lvl2": "Aktiva > B. Umlaufverm\u00f6gen > III. Wertpapiere",
+    "hierarchicalCategories.lvl1": "Aktiva > B. Umlaufverm\u00f6gen",
+    "hierarchicalCategories.lvl0": "Aktiva",
     "placeholder": false,
     "parent": "50c6c3e215775bc40d571f027d07dfed"
 }

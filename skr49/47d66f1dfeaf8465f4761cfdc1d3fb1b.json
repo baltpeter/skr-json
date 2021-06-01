@@ -1,26 +1,19 @@
 {
-    "objectID": "47d66f1dfeaf8465f4761cfdc1d3fb1b",
+    "id": "47d66f1dfeaf8465f4761cfdc1d3fb1b",
     "name": "Ergebnisverwendung (Stiftungen)",
     "type": "Ertrag",
     "code": "3970-3979",
+    "sort-code": 9999,
     "description": "Zus\u00e4tzlich f\u00fcr Stiftungen",
     "categories": [
         "3968-3988 Ergebnisverwendung (Stiftungen & GmbHs)",
         "3900-3999 ERGEBNISVERWENDUNGSRECHNUNG",
         "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3900-3999 ERGEBNISVERWENDUNGSRECHNUNG > 3968-3988 Ergebnisverwendung (Stiftungen & GmbHs)"
-        },
-        {
-            "lvl1": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3900-3999 ERGEBNISVERWENDUNGSRECHNUNG"
-        },
-        {
-            "lvl0": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
-        }
-    ],
     "leaf": false,
+    "hierarchicalCategories.lvl2": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3900-3999 ERGEBNISVERWENDUNGSRECHNUNG > 3968-3988 Ergebnisverwendung (Stiftungen & GmbHs)",
+    "hierarchicalCategories.lvl1": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3900-3999 ERGEBNISVERWENDUNGSRECHNUNG",
+    "hierarchicalCategories.lvl0": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten",
     "notes": "Nur f\u00fcr Stiftungen!",
     "placeholder": true,
     "parent": "1cecd6b4ad34399da287c6e649acfac1"

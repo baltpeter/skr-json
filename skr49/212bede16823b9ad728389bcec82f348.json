@@ -1,25 +1,18 @@
 {
-    "objectID": "212bede16823b9ad728389bcec82f348",
+    "id": "212bede16823b9ad728389bcec82f348",
     "name": "Ertr\u00e4ge von au\u00dfergew\u00f6hnlicher Gr\u00f6\u00dfenordnung oder Bedeutung",
     "type": "Aktiva",
     "code": "9990",
+    "sort-code": 9990,
     "description": "Ertr\u00e4ge von au\u00dfergew\u00f6hnlicher Gr\u00f6\u00dfenordnung oder Bedeutung",
     "categories": [
         "9990-9998 Statistische Konten f\u00fcr au\u00dfergew\u00f6hnliche und aperiodische Gesch\u00e4ftsvorf\u00e4lle",
         "9600-9998 WEITERE STATISTIK- UND VORTRAGSKONTEN",
         "9 Statistik- & Vortragskonten"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "9 Statistik- & Vortragskonten > 9600-9998 WEITERE STATISTIK- UND VORTRAGSKONTEN > 9990-9998 Statistische Konten f\u00fcr au\u00dfergew\u00f6hnliche und aperiodische Gesch\u00e4ftsvorf\u00e4lle"
-        },
-        {
-            "lvl1": "9 Statistik- & Vortragskonten > 9600-9998 WEITERE STATISTIK- UND VORTRAGSKONTEN"
-        },
-        {
-            "lvl0": "9 Statistik- & Vortragskonten"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "9 Statistik- & Vortragskonten > 9600-9998 WEITERE STATISTIK- UND VORTRAGSKONTEN > 9990-9998 Statistische Konten f\u00fcr au\u00dfergew\u00f6hnliche und aperiodische Gesch\u00e4ftsvorf\u00e4lle",
+    "hierarchicalCategories.lvl1": "9 Statistik- & Vortragskonten > 9600-9998 WEITERE STATISTIK- UND VORTRAGSKONTEN",
+    "hierarchicalCategories.lvl0": "9 Statistik- & Vortragskonten",
     "parent": "2d36efb9f684419bb9f2190f62f919e6"
 }

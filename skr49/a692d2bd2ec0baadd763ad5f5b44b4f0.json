@@ -1,26 +1,19 @@
 {
-    "objectID": "a692d2bd2ec0baadd763ad5f5b44b4f0",
+    "id": "a692d2bd2ec0baadd763ad5f5b44b4f0",
     "name": "AUSGABEN / AUFWENDUNGEN",
     "type": "Aufwand",
     "code": "7850-7999",
+    "sort-code": 9999,
     "description": "Sonstige betriebliche Aufwendungen",
     "categories": [
         "7800-7999 NEBENT\u00c4TIGKEITEN SPORT",
         "7000-7999 GESCH\u00c4FTSBETRIEBE SPORT",
         "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport > 7000-7999 GESCH\u00c4FTSBETRIEBE SPORT > 7800-7999 NEBENT\u00c4TIGKEITEN SPORT"
-        },
-        {
-            "lvl1": "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport > 7000-7999 GESCH\u00c4FTSBETRIEBE SPORT"
-        },
-        {
-            "lvl0": "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport"
-        }
-    ],
     "leaf": false,
+    "hierarchicalCategories.lvl2": "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport > 7000-7999 GESCH\u00c4FTSBETRIEBE SPORT > 7800-7999 NEBENT\u00c4TIGKEITEN SPORT",
+    "hierarchicalCategories.lvl1": "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport > 7000-7999 GESCH\u00c4FTSBETRIEBE SPORT",
+    "hierarchicalCategories.lvl0": "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport",
     "notes": "Diese Ausgaben umfassen nur \u201eSonstige betriebliche Aufwendungen\u201c als einzige \u201eHaupt-Unterkategorie\u201c, so da\u00df es hier keine tiefe Verschachtelung von Unterkonten gibt.",
     "placeholder": true,
     "parent": "51cd5ec969172e0d6310e5bae680e2d7"

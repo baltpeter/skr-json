@@ -1,8 +1,9 @@
 {
-    "objectID": "5157c18456daaee9ea1896c9ce451791",
+    "id": "5157c18456daaee9ea1896c9ce451791",
     "name": "Erhaltene Kautionen (1-5 Jahre)",
     "type": "Verbindlichkeit",
     "code": "3554",
+    "sort-code": 3554,
     "description": "",
     "categories": [
         "Erhaltene Kautionen",
@@ -10,21 +11,11 @@
         "C. Verbindlichkeiten",
         "Passiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl3": "Passiva > C. Verbindlichkeiten > 08. sonstige Verbindlichkeiten > Erhaltene Kautionen"
-        },
-        {
-            "lvl2": "Passiva > C. Verbindlichkeiten > 08. sonstige Verbindlichkeiten"
-        },
-        {
-            "lvl1": "Passiva > C. Verbindlichkeiten"
-        },
-        {
-            "lvl0": "Passiva"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl3": "Passiva > C. Verbindlichkeiten > 08. sonstige Verbindlichkeiten > Erhaltene Kautionen",
+    "hierarchicalCategories.lvl2": "Passiva > C. Verbindlichkeiten > 08. sonstige Verbindlichkeiten",
+    "hierarchicalCategories.lvl1": "Passiva > C. Verbindlichkeiten",
+    "hierarchicalCategories.lvl0": "Passiva",
     "placeholder": false,
     "parent": "57a400aeb55463d303ce9dd7b76a9433"
 }

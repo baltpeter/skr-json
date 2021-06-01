@@ -1,26 +1,19 @@
 {
-    "objectID": "c7b1ce06c9a38ccf3896f3a12112be77",
+    "id": "c7b1ce06c9a38ccf3896f3a12112be77",
     "name": "Au\u00dferplanm\u00e4\u00dfige Abschreibungen auf aktivierte geringwertige Wirtschaftsg\u00fcter",
     "type": "Aufwand",
     "code": "6266",
+    "sort-code": 6266,
     "description": "",
     "categories": [
         "Sofortabschreibungen geringwertiger Wirtschaftsg\u00fcter",
         "a) auf immaterielle Verm\u00f6gensgegenst\u00e4nde des Anlageverm\u00f6gens und Sachanlagen",
         "07. Abschreibungen"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "07. Abschreibungen > a) auf immaterielle Verm\u00f6gensgegenst\u00e4nde des Anlageverm\u00f6gens und Sachanlagen > Sofortabschreibungen geringwertiger Wirtschaftsg\u00fcter"
-        },
-        {
-            "lvl1": "07. Abschreibungen > a) auf immaterielle Verm\u00f6gensgegenst\u00e4nde des Anlageverm\u00f6gens und Sachanlagen"
-        },
-        {
-            "lvl0": "07. Abschreibungen"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "07. Abschreibungen > a) auf immaterielle Verm\u00f6gensgegenst\u00e4nde des Anlageverm\u00f6gens und Sachanlagen > Sofortabschreibungen geringwertiger Wirtschaftsg\u00fcter",
+    "hierarchicalCategories.lvl1": "07. Abschreibungen > a) auf immaterielle Verm\u00f6gensgegenst\u00e4nde des Anlageverm\u00f6gens und Sachanlagen",
+    "hierarchicalCategories.lvl0": "07. Abschreibungen",
     "placeholder": false,
     "parent": "a7613509835f15ac7bf195a1d755a8c6"
 }

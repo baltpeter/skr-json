@@ -1,8 +1,9 @@
 {
-    "objectID": "d2815ecf2dcb9e14cabf3432c0ab3b3d",
+    "id": "d2815ecf2dcb9e14cabf3432c0ab3b3d",
     "name": "Reisekosten",
     "type": "Aufwand",
     "code": "8336",
+    "sort-code": 8336,
     "description": "Reisekosten",
     "categories": [
         "8330 Werbe- und Reisekosten",
@@ -13,30 +14,14 @@
         "8000-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE",
         "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl6": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe > 8000-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE > 8000-8499 SONSTIGE GESCH\u00c4FTSBETRIEBE 1 > 8150-8499 AUSGABEN / AUFWENDUNGEN > 8300-8499 Sonstige betriebliche Ertr\u00e4ge und Aufwendungen > 8300-8314+8318-8339 Sonstige betriebliche Aufwendungen > 8330 Werbe- und Reisekosten"
-        },
-        {
-            "lvl5": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe > 8000-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE > 8000-8499 SONSTIGE GESCH\u00c4FTSBETRIEBE 1 > 8150-8499 AUSGABEN / AUFWENDUNGEN > 8300-8499 Sonstige betriebliche Ertr\u00e4ge und Aufwendungen > 8300-8314+8318-8339 Sonstige betriebliche Aufwendungen"
-        },
-        {
-            "lvl4": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe > 8000-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE > 8000-8499 SONSTIGE GESCH\u00c4FTSBETRIEBE 1 > 8150-8499 AUSGABEN / AUFWENDUNGEN > 8300-8499 Sonstige betriebliche Ertr\u00e4ge und Aufwendungen"
-        },
-        {
-            "lvl3": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe > 8000-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE > 8000-8499 SONSTIGE GESCH\u00c4FTSBETRIEBE 1 > 8150-8499 AUSGABEN / AUFWENDUNGEN"
-        },
-        {
-            "lvl2": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe > 8000-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE > 8000-8499 SONSTIGE GESCH\u00c4FTSBETRIEBE 1"
-        },
-        {
-            "lvl1": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe > 8000-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE"
-        },
-        {
-            "lvl0": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl6": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe > 8000-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE > 8000-8499 SONSTIGE GESCH\u00c4FTSBETRIEBE 1 > 8150-8499 AUSGABEN / AUFWENDUNGEN > 8300-8499 Sonstige betriebliche Ertr\u00e4ge und Aufwendungen > 8300-8314+8318-8339 Sonstige betriebliche Aufwendungen > 8330 Werbe- und Reisekosten",
+    "hierarchicalCategories.lvl5": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe > 8000-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE > 8000-8499 SONSTIGE GESCH\u00c4FTSBETRIEBE 1 > 8150-8499 AUSGABEN / AUFWENDUNGEN > 8300-8499 Sonstige betriebliche Ertr\u00e4ge und Aufwendungen > 8300-8314+8318-8339 Sonstige betriebliche Aufwendungen",
+    "hierarchicalCategories.lvl4": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe > 8000-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE > 8000-8499 SONSTIGE GESCH\u00c4FTSBETRIEBE 1 > 8150-8499 AUSGABEN / AUFWENDUNGEN > 8300-8499 Sonstige betriebliche Ertr\u00e4ge und Aufwendungen",
+    "hierarchicalCategories.lvl3": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe > 8000-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE > 8000-8499 SONSTIGE GESCH\u00c4FTSBETRIEBE 1 > 8150-8499 AUSGABEN / AUFWENDUNGEN",
+    "hierarchicalCategories.lvl2": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe > 8000-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE > 8000-8499 SONSTIGE GESCH\u00c4FTSBETRIEBE 1",
+    "hierarchicalCategories.lvl1": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe > 8000-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE",
+    "hierarchicalCategories.lvl0": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe",
     "notes": "ehemals \u201eReisekosten Arbeitnehmer\u201c (verschoben nach 8339)",
     "parent": "fd037298dda44bdd3b599d7b2cbd286c"
 }

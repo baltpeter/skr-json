@@ -1,18 +1,15 @@
 {
-    "objectID": "e5cb03707f1435c681379f2924800bd3",
+    "id": "e5cb03707f1435c681379f2924800bd3",
     "name": "A. Eigenkapital",
     "type": "Fremdkapital",
     "code": -1,
+    "sort-code": 9999,
     "description": "",
     "categories": [
         "Passiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl0": "Passiva"
-        }
-    ],
     "leaf": false,
+    "hierarchicalCategories.lvl0": "Passiva",
     "placeholder": false,
     "parent": "67e3afb8f6e39be571749da7aa113b2e"
 }

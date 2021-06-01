@@ -1,26 +1,19 @@
 {
-    "objectID": "56479945b90a7423f1b6943215551444",
+    "id": "56479945b90a7423f1b6943215551444",
     "name": "Anlagenabg\u00e4nge Finanzanlagen",
     "type": "Ertrag",
     "code": "4347",
+    "sort-code": 4347,
     "description": "Anlagenabg\u00e4nge Finanzanlagen (Restbuchwert bei Buchgewinn)",
     "categories": [
         "4000 Steuerfreie Einnahmen gemeinn\u00fctziger Vereine aus Verm\u00f6gensverwaltung",
         "4000-4399 EINNAHMEN GV",
         "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4000-4399 EINNAHMEN GV > 4000 Steuerfreie Einnahmen gemeinn\u00fctziger Vereine aus Verm\u00f6gensverwaltung"
-        },
-        {
-            "lvl1": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4000-4399 EINNAHMEN GV"
-        },
-        {
-            "lvl0": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4000-4399 EINNAHMEN GV > 4000 Steuerfreie Einnahmen gemeinn\u00fctziger Vereine aus Verm\u00f6gensverwaltung",
+    "hierarchicalCategories.lvl1": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4000-4399 EINNAHMEN GV",
+    "hierarchicalCategories.lvl0": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung",
     "notes": "Konto f\u00fcr das Buchungsjahr 2018 neu eingef\u00fchrt.",
     "parent": "a8fec022f04e0b1931e55598df13387f"
 }

@@ -1,18 +1,15 @@
 {
-    "objectID": "781fe2f0b28bdd98d8e87d7c4e03d5ff",
+    "id": "781fe2f0b28bdd98d8e87d7c4e03d5ff",
     "name": "ERTRAGSSTEUERPFLICHTIG GEWORDENE ZWECKBETRIEBE",
     "type": "Ertrag",
     "code": "8980-8999",
+    "sort-code": 9999,
     "description": "ERTRAGSSTEUERPFLICHTIG GEWORDENE ZWECKBETRIEBE",
     "categories": [
         "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl0": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe"
-        }
-    ],
     "leaf": false,
+    "hierarchicalCategories.lvl0": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe",
     "notes": "Teilbereich 8980\nErfolgskonten f\u00fcr umgewandelte Gesch\u00e4ftsbetriebe",
     "placeholder": true,
     "parent": "9f1201504dd568b254eb57fbf82c09f1"

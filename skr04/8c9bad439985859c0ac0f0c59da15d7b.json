@@ -1,22 +1,17 @@
 {
-    "objectID": "8c9bad439985859c0ac0f0c59da15d7b",
+    "id": "8c9bad439985859c0ac0f0c59da15d7b",
     "name": "Verm\u00f6genswirksame Leistungen",
     "type": "Aufwand",
     "code": "6080",
+    "sort-code": 6080,
     "description": "",
     "categories": [
         "a) L\u00f6hne und Geh\u00e4lter",
         "06. Personalaufwand"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "06. Personalaufwand > a) L\u00f6hne und Geh\u00e4lter"
-        },
-        {
-            "lvl0": "06. Personalaufwand"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl1": "06. Personalaufwand > a) L\u00f6hne und Geh\u00e4lter",
+    "hierarchicalCategories.lvl0": "06. Personalaufwand",
     "placeholder": false,
     "parent": "603fcd641f765110cac07fca1a8d47f1"
 }

@@ -1,26 +1,19 @@
 {
-    "objectID": "30a7c2eafca661f30702d1f7d141833b",
+    "id": "30a7c2eafca661f30702d1f7d141833b",
     "name": "Geringwertige Wirtschaftsg\u00fcter",
     "type": "Aktiva",
     "code": "0475",
+    "sort-code": 475,
     "description": "Geringwertige Wirtschaftsg\u00fcter",
     "categories": [
         "0400 Sonstige Anlagen und Ausstattung",
         "0250-0599 ANDERE ANLAGEN, BETRIEBS- UND GESCH\u00c4FTSAUSSTATTUNG",
         "0 aktive Verm\u00f6gensposten"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "0 aktive Verm\u00f6gensposten > 0250-0599 ANDERE ANLAGEN, BETRIEBS- UND GESCH\u00c4FTSAUSSTATTUNG > 0400 Sonstige Anlagen und Ausstattung"
-        },
-        {
-            "lvl1": "0 aktive Verm\u00f6gensposten > 0250-0599 ANDERE ANLAGEN, BETRIEBS- UND GESCH\u00c4FTSAUSSTATTUNG"
-        },
-        {
-            "lvl0": "0 aktive Verm\u00f6gensposten"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "0 aktive Verm\u00f6gensposten > 0250-0599 ANDERE ANLAGEN, BETRIEBS- UND GESCH\u00c4FTSAUSSTATTUNG > 0400 Sonstige Anlagen und Ausstattung",
+    "hierarchicalCategories.lvl1": "0 aktive Verm\u00f6gensposten > 0250-0599 ANDERE ANLAGEN, BETRIEBS- UND GESCH\u00c4FTSAUSSTATTUNG",
+    "hierarchicalCategories.lvl0": "0 aktive Verm\u00f6gensposten",
     "notes": "bis 410\u20ac",
     "parent": "b60afedd03609c1848b6081702030ae1"
 }

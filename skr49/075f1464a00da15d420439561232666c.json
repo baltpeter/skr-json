@@ -1,8 +1,9 @@
 {
-    "objectID": "075f1464a00da15d420439561232666c",
+    "id": "075f1464a00da15d420439561232666c",
     "name": "Andere aktivierte Eigenleistungen",
     "type": "Ertrag",
     "code": "8595",
+    "sort-code": 8595,
     "description": "Andere aktivierte Eigenleistungen",
     "categories": [
         "8500-8649 EINNAHMEN / ERTR\u00c4GE",
@@ -10,20 +11,10 @@
         "8000-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE",
         "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl3": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe > 8000-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE > 8500-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE 2 > 8500-8649 EINNAHMEN / ERTR\u00c4GE"
-        },
-        {
-            "lvl2": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe > 8000-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE > 8500-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE 2"
-        },
-        {
-            "lvl1": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe > 8000-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE"
-        },
-        {
-            "lvl0": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl3": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe > 8000-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE > 8500-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE 2 > 8500-8649 EINNAHMEN / ERTR\u00c4GE",
+    "hierarchicalCategories.lvl2": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe > 8000-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE > 8500-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE 2",
+    "hierarchicalCategories.lvl1": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe > 8000-8979 SONSTIGE GESCH\u00c4FTSBETRIEBE",
+    "hierarchicalCategories.lvl0": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe",
     "parent": "ac67ae21edef34264da8c75f71dbcc82"
 }

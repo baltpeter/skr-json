@@ -1,18 +1,15 @@
 {
-    "objectID": "60554bba92a99e140fa842c54b7c75f5",
+    "id": "60554bba92a99e140fa842c54b7c75f5",
     "name": "Verrechnete sonstige Sachbez\u00fcge ohne Umsatzsteuer",
     "type": "Ertrag",
     "code": "4949",
+    "sort-code": 4949,
     "description": "",
     "categories": [
         "04. Sonstige betriebliche Ertr\u00e4ge"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl0": "04. Sonstige betriebliche Ertr\u00e4ge"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl0": "04. Sonstige betriebliche Ertr\u00e4ge",
     "placeholder": false,
     "parent": "4c0c1557fe54e71d7ed717587a0c0b4d"
 }

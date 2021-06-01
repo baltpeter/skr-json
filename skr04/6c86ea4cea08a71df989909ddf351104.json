@@ -1,8 +1,9 @@
 {
-    "objectID": "6c86ea4cea08a71df989909ddf351104",
+    "id": "6c86ea4cea08a71df989909ddf351104",
     "name": "Andere Gewinnr\u00fccklagen 0% Vorbelastung (EK02)",
     "type": "Fremdkapital",
     "code": "2967",
+    "sort-code": 2967,
     "description": "",
     "categories": [
         "04. Andere Gewinnr\u00fccklagen",
@@ -11,24 +12,12 @@
         "A. Eigenkapital",
         "Passiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl4": "Passiva > A. Eigenkapital > c) alle > I. Gewinnr\u00fccklagen > 04. Andere Gewinnr\u00fccklagen"
-        },
-        {
-            "lvl3": "Passiva > A. Eigenkapital > c) alle > I. Gewinnr\u00fccklagen"
-        },
-        {
-            "lvl2": "Passiva > A. Eigenkapital > c) alle"
-        },
-        {
-            "lvl1": "Passiva > A. Eigenkapital"
-        },
-        {
-            "lvl0": "Passiva"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl4": "Passiva > A. Eigenkapital > c) alle > I. Gewinnr\u00fccklagen > 04. Andere Gewinnr\u00fccklagen",
+    "hierarchicalCategories.lvl3": "Passiva > A. Eigenkapital > c) alle > I. Gewinnr\u00fccklagen",
+    "hierarchicalCategories.lvl2": "Passiva > A. Eigenkapital > c) alle",
+    "hierarchicalCategories.lvl1": "Passiva > A. Eigenkapital",
+    "hierarchicalCategories.lvl0": "Passiva",
     "placeholder": false,
     "parent": "22676e23b2512574214dec23e28d61f1"
 }

@@ -1,26 +1,19 @@
 {
-    "objectID": "f47307d6e04a1b6505f3cb25663e5eb6",
+    "id": "f47307d6e04a1b6505f3cb25663e5eb6",
     "name": "Aufwendungen aus der Ver\u00e4u\u00dferung von Anteilen an Kapitalgesellschaften 100 %/50 % nicht abzugsf\u00e4hig",
     "type": "Aufwand",
     "code": "6857",
+    "sort-code": 6857,
     "description": "inl\u00e4ndische Kap.Ges.",
     "categories": [
         "8) verschiedene betriebliche Kosten",
         "a) ordentliche betriebliche Aufwendungen",
         "08. sonstige betriebliche Aufwendungen"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen > 8) verschiedene betriebliche Kosten"
-        },
-        {
-            "lvl1": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen"
-        },
-        {
-            "lvl0": "08. sonstige betriebliche Aufwendungen"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen > 8) verschiedene betriebliche Kosten",
+    "hierarchicalCategories.lvl1": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen",
+    "hierarchicalCategories.lvl0": "08. sonstige betriebliche Aufwendungen",
     "placeholder": false,
     "parent": "34be7b6c3246314364ef3ad2c6aead4c"
 }

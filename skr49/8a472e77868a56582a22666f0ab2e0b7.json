@@ -1,25 +1,18 @@
 {
-    "objectID": "8a472e77868a56582a22666f0ab2e0b7",
+    "id": "8a472e77868a56582a22666f0ab2e0b7",
     "name": "Geleistete Kautionen",
     "type": "Aktiva",
     "code": "0555",
+    "sort-code": 555,
     "description": "Geleistete Kautionen",
     "categories": [
         "0550 Sonstige Ausleihungen",
         "0250-0599 ANDERE ANLAGEN, BETRIEBS- UND GESCH\u00c4FTSAUSSTATTUNG",
         "0 aktive Verm\u00f6gensposten"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "0 aktive Verm\u00f6gensposten > 0250-0599 ANDERE ANLAGEN, BETRIEBS- UND GESCH\u00c4FTSAUSSTATTUNG > 0550 Sonstige Ausleihungen"
-        },
-        {
-            "lvl1": "0 aktive Verm\u00f6gensposten > 0250-0599 ANDERE ANLAGEN, BETRIEBS- UND GESCH\u00c4FTSAUSSTATTUNG"
-        },
-        {
-            "lvl0": "0 aktive Verm\u00f6gensposten"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "0 aktive Verm\u00f6gensposten > 0250-0599 ANDERE ANLAGEN, BETRIEBS- UND GESCH\u00c4FTSAUSSTATTUNG > 0550 Sonstige Ausleihungen",
+    "hierarchicalCategories.lvl1": "0 aktive Verm\u00f6gensposten > 0250-0599 ANDERE ANLAGEN, BETRIEBS- UND GESCH\u00c4FTSAUSSTATTUNG",
+    "hierarchicalCategories.lvl0": "0 aktive Verm\u00f6gensposten",
     "parent": "84cfe3a6dac0e5c7c1ba14b443f393ea"
 }

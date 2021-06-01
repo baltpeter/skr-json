@@ -1,8 +1,9 @@
 {
-    "objectID": "67add3ef11f352a2888d0bd59f8e7897",
+    "id": "67add3ef11f352a2888d0bd59f8e7897",
     "name": "Anteilige Zinsaufwendungen",
     "type": "Aufwand",
     "code": "6360",
+    "sort-code": 6360,
     "description": "Anteilige Zinsaufwendungen",
     "categories": [
         "6450 Zinsen und \u00e4hnliche Aufwendungen",
@@ -11,23 +12,11 @@
         "6000-6989 SONSTIGE ZWECKBETRIEBE",
         "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl4": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE > 6000-6499 SONSTIGE ZWECKBETRIEBE 1 > 6170-6499 AUSGABEN / AUFWENDUNGEN > 6450 Zinsen und \u00e4hnliche Aufwendungen"
-        },
-        {
-            "lvl3": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE > 6000-6499 SONSTIGE ZWECKBETRIEBE 1 > 6170-6499 AUSGABEN / AUFWENDUNGEN"
-        },
-        {
-            "lvl2": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE > 6000-6499 SONSTIGE ZWECKBETRIEBE 1"
-        },
-        {
-            "lvl1": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE"
-        },
-        {
-            "lvl0": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl4": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE > 6000-6499 SONSTIGE ZWECKBETRIEBE 1 > 6170-6499 AUSGABEN / AUFWENDUNGEN > 6450 Zinsen und \u00e4hnliche Aufwendungen",
+    "hierarchicalCategories.lvl3": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE > 6000-6499 SONSTIGE ZWECKBETRIEBE 1 > 6170-6499 AUSGABEN / AUFWENDUNGEN",
+    "hierarchicalCategories.lvl2": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE > 6000-6499 SONSTIGE ZWECKBETRIEBE 1",
+    "hierarchicalCategories.lvl1": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE",
+    "hierarchicalCategories.lvl0": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe",
     "parent": "022720189cdf0a582e6c5a2a967e0f50"
 }

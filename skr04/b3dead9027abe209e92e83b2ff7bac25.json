@@ -1,8 +1,9 @@
 {
-    "objectID": "b3dead9027abe209e92e83b2ff7bac25",
+    "id": "b3dead9027abe209e92e83b2ff7bac25",
     "name": "01. Gesetzliche R\u00fccklage",
     "type": "Fremdkapital",
     "code": "2930",
+    "sort-code": 2930,
     "description": "",
     "categories": [
         "I. Gewinnr\u00fccklagen",
@@ -10,21 +11,11 @@
         "A. Eigenkapital",
         "Passiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl3": "Passiva > A. Eigenkapital > c) alle > I. Gewinnr\u00fccklagen"
-        },
-        {
-            "lvl2": "Passiva > A. Eigenkapital > c) alle"
-        },
-        {
-            "lvl1": "Passiva > A. Eigenkapital"
-        },
-        {
-            "lvl0": "Passiva"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl3": "Passiva > A. Eigenkapital > c) alle > I. Gewinnr\u00fccklagen",
+    "hierarchicalCategories.lvl2": "Passiva > A. Eigenkapital > c) alle",
+    "hierarchicalCategories.lvl1": "Passiva > A. Eigenkapital",
+    "hierarchicalCategories.lvl0": "Passiva",
     "placeholder": true,
     "parent": "ef9e2cde3ed8ea553ecd7266fab83db4"
 }

@@ -1,21 +1,16 @@
 {
-    "objectID": "075885856ca2bb9d9883f21530fc113f",
+    "id": "075885856ca2bb9d9883f21530fc113f",
     "name": "Personalaufwand",
     "type": "Aufwand",
     "code": "4980-4999",
+    "sort-code": 9999,
     "description": "Personalaufwand",
     "categories": [
         "4500-4999 AUSGABEN / WERBUNGSKOSTEN",
         "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4500-4999 AUSGABEN / WERBUNGSKOSTEN"
-        },
-        {
-            "lvl0": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung"
-        }
-    ],
     "leaf": false,
+    "hierarchicalCategories.lvl1": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4500-4999 AUSGABEN / WERBUNGSKOSTEN",
+    "hierarchicalCategories.lvl0": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung",
     "parent": "05c81399d2afb9a71deb38740612a19c"
 }

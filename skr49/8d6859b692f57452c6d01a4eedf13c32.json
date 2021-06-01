@@ -1,25 +1,18 @@
 {
-    "objectID": "8d6859b692f57452c6d01a4eedf13c32",
+    "id": "8d6859b692f57452c6d01a4eedf13c32",
     "name": "Forderungen aus Verk\u00e4ufen immaterieller Verm\u00f6gensgegenst\u00e4nde bei sonstigen Verm\u00f6gensgegenst\u00e4nden",
     "type": "Aktiva",
     "code": "9246",
+    "sort-code": 9246,
     "description": "Forderungen aus Verk\u00e4ufen immaterieller Verm\u00f6gensgegenst\u00e4nde bei sonstigen Verm\u00f6gensgegenst\u00e4nden",
     "categories": [
         "9240-9249 Statistische Konten f\u00fcr die Kapitalflussrechnung",
         "9000-9249 STATISTISCHE KONTEN",
         "9 Statistik- & Vortragskonten"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "9 Statistik- & Vortragskonten > 9000-9249 STATISTISCHE KONTEN > 9240-9249 Statistische Konten f\u00fcr die Kapitalflussrechnung"
-        },
-        {
-            "lvl1": "9 Statistik- & Vortragskonten > 9000-9249 STATISTISCHE KONTEN"
-        },
-        {
-            "lvl0": "9 Statistik- & Vortragskonten"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "9 Statistik- & Vortragskonten > 9000-9249 STATISTISCHE KONTEN > 9240-9249 Statistische Konten f\u00fcr die Kapitalflussrechnung",
+    "hierarchicalCategories.lvl1": "9 Statistik- & Vortragskonten > 9000-9249 STATISTISCHE KONTEN",
+    "hierarchicalCategories.lvl0": "9 Statistik- & Vortragskonten",
     "parent": "05b05f4c0b474b47b4cced5499251116"
 }

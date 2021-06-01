@@ -1,26 +1,19 @@
 {
-    "objectID": "592db4c9c14a80a8e7456ecd8ec7a955",
+    "id": "592db4c9c14a80a8e7456ecd8ec7a955",
     "name": "Au\u00dferplanm\u00e4\u00dfige Abschreibungen auf immaterielle Verm\u00f6gensgegenst\u00e4nde",
     "type": "Aufwand",
     "code": "6210",
+    "sort-code": 6210,
     "description": "",
     "categories": [
         "Abschreibungen auf immaterielle Verm\u00f6gensgegenst\u00e4nde",
         "a) auf immaterielle Verm\u00f6gensgegenst\u00e4nde des Anlageverm\u00f6gens und Sachanlagen",
         "07. Abschreibungen"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "07. Abschreibungen > a) auf immaterielle Verm\u00f6gensgegenst\u00e4nde des Anlageverm\u00f6gens und Sachanlagen > Abschreibungen auf immaterielle Verm\u00f6gensgegenst\u00e4nde"
-        },
-        {
-            "lvl1": "07. Abschreibungen > a) auf immaterielle Verm\u00f6gensgegenst\u00e4nde des Anlageverm\u00f6gens und Sachanlagen"
-        },
-        {
-            "lvl0": "07. Abschreibungen"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "07. Abschreibungen > a) auf immaterielle Verm\u00f6gensgegenst\u00e4nde des Anlageverm\u00f6gens und Sachanlagen > Abschreibungen auf immaterielle Verm\u00f6gensgegenst\u00e4nde",
+    "hierarchicalCategories.lvl1": "07. Abschreibungen > a) auf immaterielle Verm\u00f6gensgegenst\u00e4nde des Anlageverm\u00f6gens und Sachanlagen",
+    "hierarchicalCategories.lvl0": "07. Abschreibungen",
     "placeholder": false,
     "parent": "8e1b717f577f8c5207766572a74b82c1"
 }

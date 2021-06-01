@@ -1,11 +1,11 @@
 {
-    "objectID": "077d47ff0c858e8c31c31e0203042482",
+    "id": "077d47ff0c858e8c31c31e0203042482",
     "name": "09. Ertr\u00e4ge aus Beteiligungen",
     "type": "Ertrag",
     "code": -1,
+    "sort-code": 9999,
     "description": "",
     "categories": [],
-    "hierarchicalCategories": [],
     "leaf": false,
     "placeholder": false,
     "parent": "1972cce2e2364f95b2b0bc014502661d"

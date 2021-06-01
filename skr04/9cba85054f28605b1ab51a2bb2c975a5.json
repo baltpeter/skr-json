@@ -1,22 +1,17 @@
 {
-    "objectID": "9cba85054f28605b1ab51a2bb2c975a5",
+    "id": "9cba85054f28605b1ab51a2bb2c975a5",
     "name": "Grundsteuer",
     "type": "Aufwand",
     "code": "7680",
+    "sort-code": 7680,
     "description": "",
     "categories": [
         "Sonstige Steuern",
         "19. sonstige Steuern"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "19. sonstige Steuern > Sonstige Steuern"
-        },
-        {
-            "lvl0": "19. sonstige Steuern"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl1": "19. sonstige Steuern > Sonstige Steuern",
+    "hierarchicalCategories.lvl0": "19. sonstige Steuern",
     "placeholder": false,
     "parent": "a5866629e278f3178e1a89e670c364f1"
 }

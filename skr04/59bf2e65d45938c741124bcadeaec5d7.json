@@ -1,22 +1,17 @@
 {
-    "objectID": "59bf2e65d45938c741124bcadeaec5d7",
+    "id": "59bf2e65d45938c741124bcadeaec5d7",
     "name": "02. Wareneingang",
     "type": "Aufwand",
     "code": -1,
+    "sort-code": 9999,
     "description": "",
     "categories": [
         "a) Aufwendungen f\u00fcr Roh-, Hilfs- und Betriebsstoffe und f\u00fcr bezogene Waren",
         "05. Materialaufwand"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "05. Materialaufwand > a) Aufwendungen f\u00fcr Roh-, Hilfs- und Betriebsstoffe und f\u00fcr bezogene Waren"
-        },
-        {
-            "lvl0": "05. Materialaufwand"
-        }
-    ],
     "leaf": false,
+    "hierarchicalCategories.lvl1": "05. Materialaufwand > a) Aufwendungen f\u00fcr Roh-, Hilfs- und Betriebsstoffe und f\u00fcr bezogene Waren",
+    "hierarchicalCategories.lvl0": "05. Materialaufwand",
     "placeholder": true,
     "parent": "3cc4cb3a122624f62657777491c1ac38"
 }

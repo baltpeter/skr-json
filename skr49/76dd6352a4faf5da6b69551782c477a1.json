@@ -1,8 +1,9 @@
 {
-    "objectID": "76dd6352a4faf5da6b69551782c477a1",
+    "id": "76dd6352a4faf5da6b69551782c477a1",
     "name": "Abschreibungen auf Umlaufverm\u00f6gen",
     "type": "Aufwand",
     "code": "6290",
+    "sort-code": 6290,
     "description": "Abschreibungen auf Umlaufverm\u00f6gen (un\u00fcblich hoch)",
     "categories": [
         "6280-6290 Abschreibungen",
@@ -11,24 +12,12 @@
         "6000-6989 SONSTIGE ZWECKBETRIEBE",
         "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl4": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE > 6000-6499 SONSTIGE ZWECKBETRIEBE 1 > 6170-6499 AUSGABEN / AUFWENDUNGEN > 6280-6290 Abschreibungen"
-        },
-        {
-            "lvl3": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE > 6000-6499 SONSTIGE ZWECKBETRIEBE 1 > 6170-6499 AUSGABEN / AUFWENDUNGEN"
-        },
-        {
-            "lvl2": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE > 6000-6499 SONSTIGE ZWECKBETRIEBE 1"
-        },
-        {
-            "lvl1": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE"
-        },
-        {
-            "lvl0": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl4": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE > 6000-6499 SONSTIGE ZWECKBETRIEBE 1 > 6170-6499 AUSGABEN / AUFWENDUNGEN > 6280-6290 Abschreibungen",
+    "hierarchicalCategories.lvl3": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE > 6000-6499 SONSTIGE ZWECKBETRIEBE 1 > 6170-6499 AUSGABEN / AUFWENDUNGEN",
+    "hierarchicalCategories.lvl2": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE > 6000-6499 SONSTIGE ZWECKBETRIEBE 1",
+    "hierarchicalCategories.lvl1": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE",
+    "hierarchicalCategories.lvl0": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe",
     "notes": "Abschreibungen auf Umlaufverm\u00f6gen, steuerrechtlich bedingt (soweit un\u00fcblich hoch)",
     "parent": "c66239036d2ba0872227115b6b658fcc"
 }

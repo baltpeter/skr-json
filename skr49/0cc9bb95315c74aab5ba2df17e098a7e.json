@@ -1,8 +1,9 @@
 {
-    "objectID": "0cc9bb95315c74aab5ba2df17e098a7e",
+    "id": "0cc9bb95315c74aab5ba2df17e098a7e",
     "name": "Forderungen aus Lieferungen und Leistungen gegen Gesellschafter <1 Jahr",
     "type": "Forderung",
     "code": "0671",
+    "sort-code": 671,
     "description": "Forderungen aus Lieferungen und Leistungen gegen Gesellschafter \u2013 Restlaufzeit bis 1 Jahr",
     "categories": [
         "0670 Forderungen aus Lieferungen und Leistungen gegen Gesellschafter",
@@ -11,23 +12,11 @@
         "0600-0989 UMLAUFVERM\u00d6GEN",
         "0 aktive Verm\u00f6gensposten"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl4": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde > 0650-0674 Forderungen aus Lieferungen und Leistungen > 0670 Forderungen aus Lieferungen und Leistungen gegen Gesellschafter"
-        },
-        {
-            "lvl3": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde > 0650-0674 Forderungen aus Lieferungen und Leistungen"
-        },
-        {
-            "lvl2": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde"
-        },
-        {
-            "lvl1": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN"
-        },
-        {
-            "lvl0": "0 aktive Verm\u00f6gensposten"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl4": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde > 0650-0674 Forderungen aus Lieferungen und Leistungen > 0670 Forderungen aus Lieferungen und Leistungen gegen Gesellschafter",
+    "hierarchicalCategories.lvl3": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde > 0650-0674 Forderungen aus Lieferungen und Leistungen",
+    "hierarchicalCategories.lvl2": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde",
+    "hierarchicalCategories.lvl1": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN",
+    "hierarchicalCategories.lvl0": "0 aktive Verm\u00f6gensposten",
     "parent": "e65e68bcb70f0a31d43ad966d02d7234"
 }

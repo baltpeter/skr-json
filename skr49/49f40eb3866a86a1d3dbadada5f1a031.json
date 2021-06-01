@@ -1,22 +1,17 @@
 {
-    "objectID": "49f40eb3866a86a1d3dbadada5f1a031",
+    "id": "49f40eb3866a86a1d3dbadada5f1a031",
     "name": "Offene Posten aus 1999",
     "type": "Aktiva",
     "code": "9099",
+    "sort-code": 9099,
     "description": "Offene Posten aus 1999",
     "categories": [
         "9000-9249 STATISTISCHE KONTEN",
         "9 Statistik- & Vortragskonten"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "9 Statistik- & Vortragskonten > 9000-9249 STATISTISCHE KONTEN"
-        },
-        {
-            "lvl0": "9 Statistik- & Vortragskonten"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl1": "9 Statistik- & Vortragskonten > 9000-9249 STATISTISCHE KONTEN",
+    "hierarchicalCategories.lvl0": "9 Statistik- & Vortragskonten",
     "notes": "Das Konto wird nur noch f\u00fcr Auswertungen mit Vorjahresvergleich ben\u00f6tigt und wird im folgenden Jahr gel\u00f6scht.",
     "placeholder": true,
     "parent": "ffca2686cb9963bea1089b796763dda0"

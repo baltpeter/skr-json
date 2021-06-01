@@ -1,8 +1,9 @@
 {
-    "objectID": "2d2b915bac65b4c05931f6ef00ba80e0",
+    "id": "2d2b915bac65b4c05931f6ef00ba80e0",
     "name": "Geringwertige Wirtschaftsg\u00fcter bis 410\u20ac",
     "type": "Aktiva",
     "code": "0670",
+    "sort-code": 670,
     "description": "",
     "categories": [
         "03. Andere Anlagen, Betriebs- und Gesch\u00e4ftsausstattung",
@@ -10,21 +11,11 @@
         "A. Anlageverm\u00f6gen",
         "Aktiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl3": "Aktiva > A. Anlageverm\u00f6gen > IV. Sachanlagen > 03. Andere Anlagen, Betriebs- und Gesch\u00e4ftsausstattung"
-        },
-        {
-            "lvl2": "Aktiva > A. Anlageverm\u00f6gen > IV. Sachanlagen"
-        },
-        {
-            "lvl1": "Aktiva > A. Anlageverm\u00f6gen"
-        },
-        {
-            "lvl0": "Aktiva"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl3": "Aktiva > A. Anlageverm\u00f6gen > IV. Sachanlagen > 03. Andere Anlagen, Betriebs- und Gesch\u00e4ftsausstattung",
+    "hierarchicalCategories.lvl2": "Aktiva > A. Anlageverm\u00f6gen > IV. Sachanlagen",
+    "hierarchicalCategories.lvl1": "Aktiva > A. Anlageverm\u00f6gen",
+    "hierarchicalCategories.lvl0": "Aktiva",
     "placeholder": false,
     "tax-related": false,
     "parent": "9c897b2b8563220f6ba863b5d7bcb0aa"

@@ -1,8 +1,9 @@
 {
-    "objectID": "0ccbd03f122bdf3a0e0896d8e6076ab1",
+    "id": "0ccbd03f122bdf3a0e0896d8e6076ab1",
     "name": "Raumnebenkosten",
     "type": "Aufwand",
     "code": "4967",
+    "sort-code": 4967,
     "description": "Raumnebenkosten",
     "categories": [
         "4965-4967 Raumkosten",
@@ -10,21 +11,11 @@
         "4500-4999 AUSGABEN / WERBUNGSKOSTEN",
         "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl3": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4500-4999 AUSGABEN / WERBUNGSKOSTEN > 4510 Ausgaben Bereich 4000 > 4965-4967 Raumkosten"
-        },
-        {
-            "lvl2": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4500-4999 AUSGABEN / WERBUNGSKOSTEN > 4510 Ausgaben Bereich 4000"
-        },
-        {
-            "lvl1": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4500-4999 AUSGABEN / WERBUNGSKOSTEN"
-        },
-        {
-            "lvl0": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl3": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4500-4999 AUSGABEN / WERBUNGSKOSTEN > 4510 Ausgaben Bereich 4000 > 4965-4967 Raumkosten",
+    "hierarchicalCategories.lvl2": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4500-4999 AUSGABEN / WERBUNGSKOSTEN > 4510 Ausgaben Bereich 4000",
+    "hierarchicalCategories.lvl1": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4500-4999 AUSGABEN / WERBUNGSKOSTEN",
+    "hierarchicalCategories.lvl0": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung",
     "notes": "Konto f\u00fcr das Buchungsjahr 2017 neu eingef\u00fchrt.",
     "parent": "563d13e91ec6cd4b98f370d8b3e7ed41"
 }

@@ -1,26 +1,19 @@
 {
-    "objectID": "7174a4afb8ae5f4511e62f03412093b2",
+    "id": "7174a4afb8ae5f4511e62f03412093b2",
     "name": "Sonstige Grundst\u00fccksaufwendungen",
     "type": "Aufwand",
     "code": "6350",
+    "sort-code": 6350,
     "description": "",
     "categories": [
         "1) Raumkosten",
         "a) ordentliche betriebliche Aufwendungen",
         "08. sonstige betriebliche Aufwendungen"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen > 1) Raumkosten"
-        },
-        {
-            "lvl1": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen"
-        },
-        {
-            "lvl0": "08. sonstige betriebliche Aufwendungen"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen > 1) Raumkosten",
+    "hierarchicalCategories.lvl1": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen",
+    "hierarchicalCategories.lvl0": "08. sonstige betriebliche Aufwendungen",
     "placeholder": false,
     "tax-related": false,
     "parent": "70f081631b2bf13005c3453c6d235c6a"

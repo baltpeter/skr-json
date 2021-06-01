@@ -1,8 +1,9 @@
 {
-    "objectID": "52862a56692726129c73604f7c12d9af",
+    "id": "52862a56692726129c73604f7c12d9af",
     "name": "Erhaltene Anzahlungen 16% MWSt",
     "type": "Aktiva",
     "code": "1194",
+    "sort-code": 1194,
     "description": "",
     "categories": [
         "05. Erhaltene Anzahlungen auf Bestellungen",
@@ -10,21 +11,11 @@
         "B. Umlaufverm\u00f6gen",
         "Aktiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl3": "Aktiva > B. Umlaufverm\u00f6gen > I. Vorr\u00e4te > 05. Erhaltene Anzahlungen auf Bestellungen"
-        },
-        {
-            "lvl2": "Aktiva > B. Umlaufverm\u00f6gen > I. Vorr\u00e4te"
-        },
-        {
-            "lvl1": "Aktiva > B. Umlaufverm\u00f6gen"
-        },
-        {
-            "lvl0": "Aktiva"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl3": "Aktiva > B. Umlaufverm\u00f6gen > I. Vorr\u00e4te > 05. Erhaltene Anzahlungen auf Bestellungen",
+    "hierarchicalCategories.lvl2": "Aktiva > B. Umlaufverm\u00f6gen > I. Vorr\u00e4te",
+    "hierarchicalCategories.lvl1": "Aktiva > B. Umlaufverm\u00f6gen",
+    "hierarchicalCategories.lvl0": "Aktiva",
     "placeholder": false,
     "parent": "c4ecd4b8292df74335546eda34e7e375"
 }

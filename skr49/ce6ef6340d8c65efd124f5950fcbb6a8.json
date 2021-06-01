@@ -1,22 +1,17 @@
 {
-    "objectID": "ce6ef6340d8c65efd124f5950fcbb6a8",
+    "id": "ce6ef6340d8c65efd124f5950fcbb6a8",
     "name": "Statistische Werte f\u00fcr BWA",
     "type": "Aktiva",
     "code": "9600-9849",
+    "sort-code": 9999,
     "description": "Statistische Werte f\u00fcr BWA",
     "categories": [
         "9600-9998 WEITERE STATISTIK- UND VORTRAGSKONTEN",
         "9 Statistik- & Vortragskonten"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "9 Statistik- & Vortragskonten > 9600-9998 WEITERE STATISTIK- UND VORTRAGSKONTEN"
-        },
-        {
-            "lvl0": "9 Statistik- & Vortragskonten"
-        }
-    ],
     "leaf": false,
+    "hierarchicalCategories.lvl1": "9 Statistik- & Vortragskonten > 9600-9998 WEITERE STATISTIK- UND VORTRAGSKONTEN",
+    "hierarchicalCategories.lvl0": "9 Statistik- & Vortragskonten",
     "placeholder": true,
     "parent": "cafd8ada4152cfeb9eb49cdeff92764e"
 }

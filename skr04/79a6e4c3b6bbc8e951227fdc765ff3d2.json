@@ -1,18 +1,15 @@
 {
-    "objectID": "79a6e4c3b6bbc8e951227fdc765ff3d2",
+    "id": "79a6e4c3b6bbc8e951227fdc765ff3d2",
     "name": "Abg\u00e4nge Finanzanlagen",
     "type": "Ertrag",
     "code": "4857",
+    "sort-code": 4857,
     "description": "(Restbuchwert bei Buchgewinn)",
     "categories": [
         "04. Sonstige betriebliche Ertr\u00e4ge"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl0": "04. Sonstige betriebliche Ertr\u00e4ge"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl0": "04. Sonstige betriebliche Ertr\u00e4ge",
     "placeholder": false,
     "parent": "4c0c1557fe54e71d7ed717587a0c0b4d"
 }

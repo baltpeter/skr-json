@@ -1,18 +1,15 @@
 {
-    "objectID": "24fb49d038024435fa2b8a4783a43c54",
+    "id": "24fb49d038024435fa2b8a4783a43c54",
     "name": "Verrechnete sonstige Sachbez\u00fcge",
     "type": "Ertrag",
     "code": "4946",
+    "sort-code": 4946,
     "description": "",
     "categories": [
         "04. Sonstige betriebliche Ertr\u00e4ge"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl0": "04. Sonstige betriebliche Ertr\u00e4ge"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl0": "04. Sonstige betriebliche Ertr\u00e4ge",
     "placeholder": false,
     "parent": "4c0c1557fe54e71d7ed717587a0c0b4d"
 }

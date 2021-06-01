@@ -1,8 +1,9 @@
 {
-    "objectID": "7b47ea07965dee1d377504b49179ff74",
+    "id": "7b47ea07965dee1d377504b49179ff74",
     "name": "Ausgaben i.S.v. \u00a74 Abs. 5 EStG",
     "type": "Aufwand",
     "code": "3781",
+    "sort-code": 3781,
     "description": "Ausgaben im Sinne von \u00a74 Abs. 5 EStG",
     "categories": [
         "3750 Nicht abziehbare Ausgaben Bereich 7000",
@@ -10,20 +11,10 @@
         "3200-3899  ERTRAGSNEUTRALE POSTEN",
         "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl3": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN > 3700-3799 Gesch\u00e4ftsbetriebe Sport > 3750 Nicht abziehbare Ausgaben Bereich 7000"
-        },
-        {
-            "lvl2": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN > 3700-3799 Gesch\u00e4ftsbetriebe Sport"
-        },
-        {
-            "lvl1": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN"
-        },
-        {
-            "lvl0": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl3": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN > 3700-3799 Gesch\u00e4ftsbetriebe Sport > 3750 Nicht abziehbare Ausgaben Bereich 7000",
+    "hierarchicalCategories.lvl2": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN > 3700-3799 Gesch\u00e4ftsbetriebe Sport",
+    "hierarchicalCategories.lvl1": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN",
+    "hierarchicalCategories.lvl0": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten",
     "parent": "60f05759a7baa3c1ce45ef3e686c5b6c"
 }

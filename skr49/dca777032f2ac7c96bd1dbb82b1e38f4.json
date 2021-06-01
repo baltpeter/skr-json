@@ -1,8 +1,9 @@
 {
-    "objectID": "dca777032f2ac7c96bd1dbb82b1e38f4",
+    "id": "dca777032f2ac7c96bd1dbb82b1e38f4",
     "name": "Umsatzerl\u00f6se",
     "type": "Ertrag",
     "code": "5700-5769+5784",
+    "sort-code": 9999,
     "description": "Umsatzerl\u00f6se",
     "categories": [
         "5700-5799 EINNAHMEN / ERTR\u00c4GE",
@@ -10,21 +11,11 @@
         "5000-5889 ZWECKBETRIEBE SPORT",
         "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl3": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5000-5889 ZWECKBETRIEBE SPORT > 5700-5999 ZWECKBETRIEBE SPORT 2 > 5700-5799 EINNAHMEN / ERTR\u00c4GE"
-        },
-        {
-            "lvl2": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5000-5889 ZWECKBETRIEBE SPORT > 5700-5999 ZWECKBETRIEBE SPORT 2"
-        },
-        {
-            "lvl1": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5000-5889 ZWECKBETRIEBE SPORT"
-        },
-        {
-            "lvl0": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport"
-        }
-    ],
     "leaf": false,
+    "hierarchicalCategories.lvl3": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5000-5889 ZWECKBETRIEBE SPORT > 5700-5999 ZWECKBETRIEBE SPORT 2 > 5700-5799 EINNAHMEN / ERTR\u00c4GE",
+    "hierarchicalCategories.lvl2": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5000-5889 ZWECKBETRIEBE SPORT > 5700-5999 ZWECKBETRIEBE SPORT 2",
+    "hierarchicalCategories.lvl1": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5000-5889 ZWECKBETRIEBE SPORT",
+    "hierarchicalCategories.lvl0": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport",
     "placeholder": true,
     "parent": "109ff2320bb028470111cb66cd7c4204"
 }

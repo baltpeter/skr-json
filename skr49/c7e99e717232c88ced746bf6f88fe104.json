@@ -1,8 +1,9 @@
 {
-    "objectID": "c7e99e717232c88ced746bf6f88fe104",
+    "id": "c7e99e717232c88ced746bf6f88fe104",
     "name": "R\u00fccklagen Gesch\u00e4ftsbetriebe bis 2018",
     "type": "Fremdkapital",
     "code": "1048",
+    "sort-code": 1048,
     "description": "R\u00fccklagen Gesch\u00e4ftsbetriebe bis 2018",
     "categories": [
         "1040-1049 R\u00fccklagen Gesch\u00e4ftsbetriebe",
@@ -11,24 +12,12 @@
         "1000-1179 VERM\u00d6GEN / EIGENKAPITAL",
         "1 passive Verm\u00f6gensposten"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl4": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL > 1000-1079 Gewinnr\u00fccklagen > 1000-1069 Gebundene R\u00fccklagen > 1040-1049 R\u00fccklagen Gesch\u00e4ftsbetriebe"
-        },
-        {
-            "lvl3": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL > 1000-1079 Gewinnr\u00fccklagen > 1000-1069 Gebundene R\u00fccklagen"
-        },
-        {
-            "lvl2": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL > 1000-1079 Gewinnr\u00fccklagen"
-        },
-        {
-            "lvl1": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL"
-        },
-        {
-            "lvl0": "1 passive Verm\u00f6gensposten"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl4": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL > 1000-1079 Gewinnr\u00fccklagen > 1000-1069 Gebundene R\u00fccklagen > 1040-1049 R\u00fccklagen Gesch\u00e4ftsbetriebe",
+    "hierarchicalCategories.lvl3": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL > 1000-1079 Gewinnr\u00fccklagen > 1000-1069 Gebundene R\u00fccklagen",
+    "hierarchicalCategories.lvl2": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL > 1000-1079 Gewinnr\u00fccklagen",
+    "hierarchicalCategories.lvl1": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL",
+    "hierarchicalCategories.lvl0": "1 passive Verm\u00f6gensposten",
     "notes": "Ehemals \u201eR\u00fccklagen Gesch\u00e4ftsbetriebe bis 2008\u201c",
     "parent": "99565e79641b9360e6d302c8b2c5c3c6"
 }

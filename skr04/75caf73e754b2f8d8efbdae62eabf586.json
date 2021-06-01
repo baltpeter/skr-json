@@ -1,8 +1,9 @@
 {
-    "objectID": "75caf73e754b2f8d8efbdae62eabf586",
+    "id": "75caf73e754b2f8d8efbdae62eabf586",
     "name": "Verschmelzungsmehrwert",
     "type": "Aktiva",
     "code": "0160",
+    "sort-code": 160,
     "description": "",
     "categories": [
         "02. Gesch\u00e4fts- oder Firmenwert",
@@ -10,21 +11,11 @@
         "A. Anlageverm\u00f6gen",
         "Aktiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl3": "Aktiva > A. Anlageverm\u00f6gen > III. Immaterielle Verm\u00f6gensgegenst\u00e4nde > 02. Gesch\u00e4fts- oder Firmenwert"
-        },
-        {
-            "lvl2": "Aktiva > A. Anlageverm\u00f6gen > III. Immaterielle Verm\u00f6gensgegenst\u00e4nde"
-        },
-        {
-            "lvl1": "Aktiva > A. Anlageverm\u00f6gen"
-        },
-        {
-            "lvl0": "Aktiva"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl3": "Aktiva > A. Anlageverm\u00f6gen > III. Immaterielle Verm\u00f6gensgegenst\u00e4nde > 02. Gesch\u00e4fts- oder Firmenwert",
+    "hierarchicalCategories.lvl2": "Aktiva > A. Anlageverm\u00f6gen > III. Immaterielle Verm\u00f6gensgegenst\u00e4nde",
+    "hierarchicalCategories.lvl1": "Aktiva > A. Anlageverm\u00f6gen",
+    "hierarchicalCategories.lvl0": "Aktiva",
     "placeholder": false,
     "parent": "0497673b94b5f5d818d646ab831a2cdb"
 }

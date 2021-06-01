@@ -1,26 +1,19 @@
 {
-    "objectID": "2206ddc60ecf97df41c9a90d71fdd94d",
+    "id": "2206ddc60ecf97df41c9a90d71fdd94d",
     "name": "02. Forderungen gegen verbundene Unternehmen",
     "type": "Forderung",
     "code": "1260",
+    "sort-code": 1260,
     "description": "",
     "categories": [
         "II. Forderungen und sonstige Verm\u00f6gensgegenst\u00e4nde",
         "B. Umlaufverm\u00f6gen",
         "Aktiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "Aktiva > B. Umlaufverm\u00f6gen > II. Forderungen und sonstige Verm\u00f6gensgegenst\u00e4nde"
-        },
-        {
-            "lvl1": "Aktiva > B. Umlaufverm\u00f6gen"
-        },
-        {
-            "lvl0": "Aktiva"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "Aktiva > B. Umlaufverm\u00f6gen > II. Forderungen und sonstige Verm\u00f6gensgegenst\u00e4nde",
+    "hierarchicalCategories.lvl1": "Aktiva > B. Umlaufverm\u00f6gen",
+    "hierarchicalCategories.lvl0": "Aktiva",
     "placeholder": true,
     "parent": "045196223f1e151347db1f23d28b3dc5"
 }

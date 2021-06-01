@@ -1,26 +1,19 @@
 {
-    "objectID": "7beb322246f002bd4296c28dbddd499d",
+    "id": "7beb322246f002bd4296c28dbddd499d",
     "name": "Aufwendungen aus Anteilen an Kapitalgesellschaften 100 %/ 50 % nicht abzugsf\u00e4hig (inl\u00e4ndische Kap.Ges.)",
     "type": "Aufwand",
     "code": "6856",
+    "sort-code": 6856,
     "description": "",
     "categories": [
         "8) verschiedene betriebliche Kosten",
         "a) ordentliche betriebliche Aufwendungen",
         "08. sonstige betriebliche Aufwendungen"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen > 8) verschiedene betriebliche Kosten"
-        },
-        {
-            "lvl1": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen"
-        },
-        {
-            "lvl0": "08. sonstige betriebliche Aufwendungen"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen > 8) verschiedene betriebliche Kosten",
+    "hierarchicalCategories.lvl1": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen",
+    "hierarchicalCategories.lvl0": "08. sonstige betriebliche Aufwendungen",
     "placeholder": false,
     "parent": "34be7b6c3246314364ef3ad2c6aead4c"
 }

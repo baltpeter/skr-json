@@ -1,26 +1,19 @@
 {
-    "objectID": "01e2a02fcc78023b208ce6090680ba78",
+    "id": "01e2a02fcc78023b208ce6090680ba78",
     "name": "Au\u00dferordentliche Aufwendungen",
     "type": "Aufwand",
     "code": "4530",
+    "sort-code": 4530,
     "description": "VERALTET!",
     "categories": [
         "4510 Ausgaben Bereich 4000",
         "4500-4999 AUSGABEN / WERBUNGSKOSTEN",
         "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4500-4999 AUSGABEN / WERBUNGSKOSTEN > 4510 Ausgaben Bereich 4000"
-        },
-        {
-            "lvl1": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4500-4999 AUSGABEN / WERBUNGSKOSTEN"
-        },
-        {
-            "lvl0": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4500-4999 AUSGABEN / WERBUNGSKOSTEN > 4510 Ausgaben Bereich 4000",
+    "hierarchicalCategories.lvl1": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4500-4999 AUSGABEN / WERBUNGSKOSTEN",
+    "hierarchicalCategories.lvl0": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung",
     "notes": "veraltet, reserviert",
     "placeholder": true,
     "parent": "01f25b36390c5ee24774bf6498916a9a"

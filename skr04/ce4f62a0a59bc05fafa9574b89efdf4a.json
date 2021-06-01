@@ -1,8 +1,9 @@
 {
-    "objectID": "ce4f62a0a59bc05fafa9574b89efdf4a",
+    "id": "ce4f62a0a59bc05fafa9574b89efdf4a",
     "name": "Fabrikbauten",
     "type": "Aktiva",
     "code": "0350",
+    "sort-code": 350,
     "description": "",
     "categories": [
         "Bauten auf fremden Grundst\u00fccken",
@@ -11,24 +12,12 @@
         "A. Anlageverm\u00f6gen",
         "Aktiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl4": "Aktiva > A. Anlageverm\u00f6gen > IV. Sachanlagen > 01. Grundst\u00fccke, grundst\u00fccksgleiche Rechte und Bauten einschlie\u00dflich der Bauten auf fremden Grundst\u00fccken > Bauten auf fremden Grundst\u00fccken"
-        },
-        {
-            "lvl3": "Aktiva > A. Anlageverm\u00f6gen > IV. Sachanlagen > 01. Grundst\u00fccke, grundst\u00fccksgleiche Rechte und Bauten einschlie\u00dflich der Bauten auf fremden Grundst\u00fccken"
-        },
-        {
-            "lvl2": "Aktiva > A. Anlageverm\u00f6gen > IV. Sachanlagen"
-        },
-        {
-            "lvl1": "Aktiva > A. Anlageverm\u00f6gen"
-        },
-        {
-            "lvl0": "Aktiva"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl4": "Aktiva > A. Anlageverm\u00f6gen > IV. Sachanlagen > 01. Grundst\u00fccke, grundst\u00fccksgleiche Rechte und Bauten einschlie\u00dflich der Bauten auf fremden Grundst\u00fccken > Bauten auf fremden Grundst\u00fccken",
+    "hierarchicalCategories.lvl3": "Aktiva > A. Anlageverm\u00f6gen > IV. Sachanlagen > 01. Grundst\u00fccke, grundst\u00fccksgleiche Rechte und Bauten einschlie\u00dflich der Bauten auf fremden Grundst\u00fccken",
+    "hierarchicalCategories.lvl2": "Aktiva > A. Anlageverm\u00f6gen > IV. Sachanlagen",
+    "hierarchicalCategories.lvl1": "Aktiva > A. Anlageverm\u00f6gen",
+    "hierarchicalCategories.lvl0": "Aktiva",
     "placeholder": false,
     "parent": "252f491c8729c4533228e2a479a35471"
 }

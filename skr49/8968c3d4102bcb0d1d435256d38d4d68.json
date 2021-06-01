@@ -1,8 +1,9 @@
 {
-    "objectID": "8968c3d4102bcb0d1d435256d38d4d68",
+    "id": "8968c3d4102bcb0d1d435256d38d4d68",
     "name": "Vorsteuer aus Investitionen \u00a74 Abs. 3 EStG",
     "type": "Aktiva",
     "code": "0857",
+    "sort-code": 857,
     "description": "Vorsteuer aus Investitionen \u00a74 Absatz 3 EStG",
     "categories": [
         "0761-0785+0810-0820+0849-0857 Sonstige Verm\u00f6gensgegenst\u00e4nde oder sonstige Verbindlichkeiten",
@@ -13,29 +14,13 @@
         "0600-0989 UMLAUFVERM\u00d6GEN",
         "0 aktive Verm\u00f6gensposten"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl6": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde > 0700 Sonstige Verm\u00f6gensgegenst\u00e4nde > 0730-0866 Umsatzsteuer-Konten > 0730-0742+0761-0820+0849-0857 Saldo USt-Konten > 0761-0785+0810-0820+0849-0857 Sonstige Verm\u00f6gensgegenst\u00e4nde oder sonstige Verbindlichkeiten"
-        },
-        {
-            "lvl5": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde > 0700 Sonstige Verm\u00f6gensgegenst\u00e4nde > 0730-0866 Umsatzsteuer-Konten > 0730-0742+0761-0820+0849-0857 Saldo USt-Konten"
-        },
-        {
-            "lvl4": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde > 0700 Sonstige Verm\u00f6gensgegenst\u00e4nde > 0730-0866 Umsatzsteuer-Konten"
-        },
-        {
-            "lvl3": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde > 0700 Sonstige Verm\u00f6gensgegenst\u00e4nde"
-        },
-        {
-            "lvl2": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde"
-        },
-        {
-            "lvl1": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN"
-        },
-        {
-            "lvl0": "0 aktive Verm\u00f6gensposten"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl6": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde > 0700 Sonstige Verm\u00f6gensgegenst\u00e4nde > 0730-0866 Umsatzsteuer-Konten > 0730-0742+0761-0820+0849-0857 Saldo USt-Konten > 0761-0785+0810-0820+0849-0857 Sonstige Verm\u00f6gensgegenst\u00e4nde oder sonstige Verbindlichkeiten",
+    "hierarchicalCategories.lvl5": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde > 0700 Sonstige Verm\u00f6gensgegenst\u00e4nde > 0730-0866 Umsatzsteuer-Konten > 0730-0742+0761-0820+0849-0857 Saldo USt-Konten",
+    "hierarchicalCategories.lvl4": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde > 0700 Sonstige Verm\u00f6gensgegenst\u00e4nde > 0730-0866 Umsatzsteuer-Konten",
+    "hierarchicalCategories.lvl3": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde > 0700 Sonstige Verm\u00f6gensgegenst\u00e4nde",
+    "hierarchicalCategories.lvl2": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde",
+    "hierarchicalCategories.lvl1": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN",
+    "hierarchicalCategories.lvl0": "0 aktive Verm\u00f6gensposten",
     "parent": "d9fcdf78be7f5a14a6863d3d3bdcfdad"
 }

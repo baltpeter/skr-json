@@ -1,26 +1,19 @@
 {
-    "objectID": "da92ba1f3e5569c97f3659e85ea96724",
+    "id": "da92ba1f3e5569c97f3659e85ea96724",
     "name": "Gew\u00e4hrte Rabatte 16% USt",
     "type": "Ertrag",
     "code": "4790",
+    "sort-code": 4790,
     "description": "",
     "categories": [
         "Gew\u00e4hrte Rabatte",
         "Erl\u00f6sschm\u00e4lerungen",
         "01. Betriebliche Ertr\u00e4ge"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "01. Betriebliche Ertr\u00e4ge > Erl\u00f6sschm\u00e4lerungen > Gew\u00e4hrte Rabatte"
-        },
-        {
-            "lvl1": "01. Betriebliche Ertr\u00e4ge > Erl\u00f6sschm\u00e4lerungen"
-        },
-        {
-            "lvl0": "01. Betriebliche Ertr\u00e4ge"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "01. Betriebliche Ertr\u00e4ge > Erl\u00f6sschm\u00e4lerungen > Gew\u00e4hrte Rabatte",
+    "hierarchicalCategories.lvl1": "01. Betriebliche Ertr\u00e4ge > Erl\u00f6sschm\u00e4lerungen",
+    "hierarchicalCategories.lvl0": "01. Betriebliche Ertr\u00e4ge",
     "placeholder": false,
     "parent": "9bf908bfc78429d448d917b0f9f433dd"
 }

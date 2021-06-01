@@ -1,26 +1,19 @@
 {
-    "objectID": "8afd48599e56b6ad92ecbe09c54be7a4",
+    "id": "8afd48599e56b6ad92ecbe09c54be7a4",
     "name": "Aufwendungen f\u00fcr ein h\u00e4usliches Arbeitszimmer (abziehbarer Anteil)",
     "type": "Aufwand",
     "code": "6348",
+    "sort-code": 6348,
     "description": "",
     "categories": [
         "1) Raumkosten",
         "a) ordentliche betriebliche Aufwendungen",
         "08. sonstige betriebliche Aufwendungen"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen > 1) Raumkosten"
-        },
-        {
-            "lvl1": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen"
-        },
-        {
-            "lvl0": "08. sonstige betriebliche Aufwendungen"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen > 1) Raumkosten",
+    "hierarchicalCategories.lvl1": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen",
+    "hierarchicalCategories.lvl0": "08. sonstige betriebliche Aufwendungen",
     "placeholder": false,
     "parent": "70f081631b2bf13005c3453c6d235c6a"
 }

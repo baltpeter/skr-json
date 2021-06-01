@@ -1,8 +1,9 @@
 {
-    "objectID": "9aaf3fe8760c7349e65692b1fba69673",
+    "id": "9aaf3fe8760c7349e65692b1fba69673",
     "name": "Grundst\u00fccke mit Substanzverzehr",
     "type": "Aktiva",
     "code": "0225",
+    "sort-code": 225,
     "description": "",
     "categories": [
         "Grundst\u00fccke und grundst\u00fccksgleiche Rechte ohne Bauten",
@@ -11,24 +12,12 @@
         "A. Anlageverm\u00f6gen",
         "Aktiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl4": "Aktiva > A. Anlageverm\u00f6gen > IV. Sachanlagen > 01. Grundst\u00fccke, grundst\u00fccksgleiche Rechte und Bauten einschlie\u00dflich der Bauten auf fremden Grundst\u00fccken > Grundst\u00fccke und grundst\u00fccksgleiche Rechte ohne Bauten"
-        },
-        {
-            "lvl3": "Aktiva > A. Anlageverm\u00f6gen > IV. Sachanlagen > 01. Grundst\u00fccke, grundst\u00fccksgleiche Rechte und Bauten einschlie\u00dflich der Bauten auf fremden Grundst\u00fccken"
-        },
-        {
-            "lvl2": "Aktiva > A. Anlageverm\u00f6gen > IV. Sachanlagen"
-        },
-        {
-            "lvl1": "Aktiva > A. Anlageverm\u00f6gen"
-        },
-        {
-            "lvl0": "Aktiva"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl4": "Aktiva > A. Anlageverm\u00f6gen > IV. Sachanlagen > 01. Grundst\u00fccke, grundst\u00fccksgleiche Rechte und Bauten einschlie\u00dflich der Bauten auf fremden Grundst\u00fccken > Grundst\u00fccke und grundst\u00fccksgleiche Rechte ohne Bauten",
+    "hierarchicalCategories.lvl3": "Aktiva > A. Anlageverm\u00f6gen > IV. Sachanlagen > 01. Grundst\u00fccke, grundst\u00fccksgleiche Rechte und Bauten einschlie\u00dflich der Bauten auf fremden Grundst\u00fccken",
+    "hierarchicalCategories.lvl2": "Aktiva > A. Anlageverm\u00f6gen > IV. Sachanlagen",
+    "hierarchicalCategories.lvl1": "Aktiva > A. Anlageverm\u00f6gen",
+    "hierarchicalCategories.lvl0": "Aktiva",
     "placeholder": false,
     "parent": "ac73b8fb60a236482d3932e1bc6f3509"
 }

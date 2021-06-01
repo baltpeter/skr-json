@@ -1,8 +1,9 @@
 {
-    "objectID": "da0a29d71fd1bf6f6c7b97f5dff4c021",
+    "id": "da0a29d71fd1bf6f6c7b97f5dff4c021",
     "name": "Sonstige Kosten Zweckbetrieb Sport",
     "type": "Aufwand",
     "code": "5650",
+    "sort-code": 5650,
     "description": "Sonstige Kosten Zweckbetrieb Sport 1",
     "categories": [
         "5500-5699 Sonstige betriebliche Aufwendungen",
@@ -11,23 +12,11 @@
         "5000-5889 ZWECKBETRIEBE SPORT",
         "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl4": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5000-5889 ZWECKBETRIEBE SPORT > 5000-5699 ZWECKBETRIEBE SPORT 1 > 5280-5699 AUSGABEN / AUFWENDUNGEN > 5500-5699 Sonstige betriebliche Aufwendungen"
-        },
-        {
-            "lvl3": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5000-5889 ZWECKBETRIEBE SPORT > 5000-5699 ZWECKBETRIEBE SPORT 1 > 5280-5699 AUSGABEN / AUFWENDUNGEN"
-        },
-        {
-            "lvl2": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5000-5889 ZWECKBETRIEBE SPORT > 5000-5699 ZWECKBETRIEBE SPORT 1"
-        },
-        {
-            "lvl1": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5000-5889 ZWECKBETRIEBE SPORT"
-        },
-        {
-            "lvl0": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl4": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5000-5889 ZWECKBETRIEBE SPORT > 5000-5699 ZWECKBETRIEBE SPORT 1 > 5280-5699 AUSGABEN / AUFWENDUNGEN > 5500-5699 Sonstige betriebliche Aufwendungen",
+    "hierarchicalCategories.lvl3": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5000-5889 ZWECKBETRIEBE SPORT > 5000-5699 ZWECKBETRIEBE SPORT 1 > 5280-5699 AUSGABEN / AUFWENDUNGEN",
+    "hierarchicalCategories.lvl2": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5000-5889 ZWECKBETRIEBE SPORT > 5000-5699 ZWECKBETRIEBE SPORT 1",
+    "hierarchicalCategories.lvl1": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5000-5889 ZWECKBETRIEBE SPORT",
+    "hierarchicalCategories.lvl0": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport",
     "parent": "ebc181b093a4ddd4016b4e1934856be9"
 }

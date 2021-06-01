@@ -1,22 +1,17 @@
 {
-    "objectID": "92e35b83d926c2748ef653f8e0cba49e",
+    "id": "92e35b83d926c2748ef653f8e0cba49e",
     "name": "Sonstige wirtschaftliche Gesch\u00e4ftsbetriebe",
     "type": "Ertrag",
     "code": "3800-3899",
+    "sort-code": 9999,
     "description": "Sonstige wirtschaftliche Gesch\u00e4ftsbetriebe",
     "categories": [
         "3200-3899  ERTRAGSNEUTRALE POSTEN",
         "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN"
-        },
-        {
-            "lvl0": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
-        }
-    ],
     "leaf": false,
+    "hierarchicalCategories.lvl1": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN",
+    "hierarchicalCategories.lvl0": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten",
     "notes": "alte Version des Kontenrahmens: \u201eZweckbetriebe Sport\u201c",
     "placeholder": true,
     "parent": "4cab17561d5837bb03169cd54a4fd601"

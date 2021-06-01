@@ -1,8 +1,9 @@
 {
-    "objectID": "7f5facf787a4db8e649742f953a6bd50",
+    "id": "7f5facf787a4db8e649742f953a6bd50",
     "name": "Errichtungskapital",
     "type": "Fremdkapital",
     "code": "1100",
+    "sort-code": 1100,
     "description": "Errichtungskapital",
     "categories": [
         "1100-1103 Grundstockverm\u00f6gen",
@@ -11,24 +12,12 @@
         "1000-1179 VERM\u00d6GEN / EIGENKAPITAL",
         "1 passive Verm\u00f6gensposten"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl4": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL > 1100-1125 Stiftungsverm\u00f6gen > 1100-1105 Stiftungskapital > 1100-1103 Grundstockverm\u00f6gen"
-        },
-        {
-            "lvl3": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL > 1100-1125 Stiftungsverm\u00f6gen > 1100-1105 Stiftungskapital"
-        },
-        {
-            "lvl2": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL > 1100-1125 Stiftungsverm\u00f6gen"
-        },
-        {
-            "lvl1": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL"
-        },
-        {
-            "lvl0": "1 passive Verm\u00f6gensposten"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl4": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL > 1100-1125 Stiftungsverm\u00f6gen > 1100-1105 Stiftungskapital > 1100-1103 Grundstockverm\u00f6gen",
+    "hierarchicalCategories.lvl3": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL > 1100-1125 Stiftungsverm\u00f6gen > 1100-1105 Stiftungskapital",
+    "hierarchicalCategories.lvl2": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL > 1100-1125 Stiftungsverm\u00f6gen",
+    "hierarchicalCategories.lvl1": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL",
+    "hierarchicalCategories.lvl0": "1 passive Verm\u00f6gensposten",
     "notes": "Nur f\u00fcr Stiftungen!",
     "parent": "4f03711b76a91ad51faa27ee92f3269c"
 }

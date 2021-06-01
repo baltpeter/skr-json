@@ -1,26 +1,19 @@
 {
-    "objectID": "a30e2d60c18d1830e071ceee4605c482",
+    "id": "a30e2d60c18d1830e071ceee4605c482",
     "name": "Ver\u00e4u\u00dferungserl\u00f6se ideeller Bereich",
     "type": "Ertrag",
     "code": "2421",
+    "sort-code": 2421,
     "description": "Erl\u00f6se aus Verk\u00e4ufen Sachanlageverm\u00f6gen",
     "categories": [
         "2400 Sonstige Einnahmen ideeller Bereich",
         "2000 EINNAHMEN",
         "2 Erfolgskonten ideeller Bereich"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "2 Erfolgskonten ideeller Bereich > 2000 EINNAHMEN > 2400 Sonstige Einnahmen ideeller Bereich"
-        },
-        {
-            "lvl1": "2 Erfolgskonten ideeller Bereich > 2000 EINNAHMEN"
-        },
-        {
-            "lvl0": "2 Erfolgskonten ideeller Bereich"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "2 Erfolgskonten ideeller Bereich > 2000 EINNAHMEN > 2400 Sonstige Einnahmen ideeller Bereich",
+    "hierarchicalCategories.lvl1": "2 Erfolgskonten ideeller Bereich > 2000 EINNAHMEN",
+    "hierarchicalCategories.lvl0": "2 Erfolgskonten ideeller Bereich",
     "notes": "bei Buchgewinn",
     "parent": "8c605e342aae45f2df00242e3c7ace6c"
 }

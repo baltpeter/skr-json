@@ -1,8 +1,9 @@
 {
-    "objectID": "006023ac0884d4b358f98427d42fe760",
+    "id": "006023ac0884d4b358f98427d42fe760",
     "name": "Verbindlichkeiten aus Lieferungen und Leistungen ohne Kontokorrent - Restlaufzeit <= 1 Jahr",
     "type": "Verbindlichkeit",
     "code": "3335",
+    "sort-code": 3335,
     "description": "",
     "categories": [
         "Verbindlichkeiten aus Lieferungen und Leistungen ohne Kontokorrent",
@@ -10,21 +11,11 @@
         "C. Verbindlichkeiten",
         "Passiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl3": "Passiva > C. Verbindlichkeiten > 04. Verbindlichkeiten aus Lieferungen und Leistungen > Verbindlichkeiten aus Lieferungen und Leistungen ohne Kontokorrent"
-        },
-        {
-            "lvl2": "Passiva > C. Verbindlichkeiten > 04. Verbindlichkeiten aus Lieferungen und Leistungen"
-        },
-        {
-            "lvl1": "Passiva > C. Verbindlichkeiten"
-        },
-        {
-            "lvl0": "Passiva"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl3": "Passiva > C. Verbindlichkeiten > 04. Verbindlichkeiten aus Lieferungen und Leistungen > Verbindlichkeiten aus Lieferungen und Leistungen ohne Kontokorrent",
+    "hierarchicalCategories.lvl2": "Passiva > C. Verbindlichkeiten > 04. Verbindlichkeiten aus Lieferungen und Leistungen",
+    "hierarchicalCategories.lvl1": "Passiva > C. Verbindlichkeiten",
+    "hierarchicalCategories.lvl0": "Passiva",
     "placeholder": false,
     "parent": "a3d3131caad56df23167362ec6ab406a"
 }

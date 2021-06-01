@@ -1,8 +1,9 @@
 {
-    "objectID": "61971a78c1376fead9b9bc03a73ae410",
+    "id": "61971a78c1376fead9b9bc03a73ae410",
     "name": "Innergemeinschaftlicher Erwerb",
     "type": "Aufwand",
     "code": "2930-2945",
+    "sort-code": 9999,
     "description": "Innergemeinschaftlicher Erwerb",
     "categories": [
         "2903-2945 Umsatzsteuer-Konten",
@@ -10,21 +11,11 @@
         "2500-2999 AUSGABEN",
         "2 Erfolgskonten ideeller Bereich"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl3": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN > 2510 \u00dcbrige Ausgaben > 2903-2945 Umsatzsteuer-Konten"
-        },
-        {
-            "lvl2": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN > 2510 \u00dcbrige Ausgaben"
-        },
-        {
-            "lvl1": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN"
-        },
-        {
-            "lvl0": "2 Erfolgskonten ideeller Bereich"
-        }
-    ],
     "leaf": false,
+    "hierarchicalCategories.lvl3": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN > 2510 \u00dcbrige Ausgaben > 2903-2945 Umsatzsteuer-Konten",
+    "hierarchicalCategories.lvl2": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN > 2510 \u00dcbrige Ausgaben",
+    "hierarchicalCategories.lvl1": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN",
+    "hierarchicalCategories.lvl0": "2 Erfolgskonten ideeller Bereich",
     "placeholder": true,
     "parent": "c8039ffb5f63d52dbc5a464062e625bf"
 }

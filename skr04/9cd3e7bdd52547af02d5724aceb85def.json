@@ -1,8 +1,9 @@
 {
-    "objectID": "9cd3e7bdd52547af02d5724aceb85def",
+    "id": "9cd3e7bdd52547af02d5724aceb85def",
     "name": "Variables Kapital",
     "type": "Fremdkapital",
     "code": "2010",
+    "sort-code": 2010,
     "description": "",
     "categories": [
         "I. Kapital / Vollhafter / Einzelunternehmer",
@@ -10,21 +11,11 @@
         "A. Eigenkapital",
         "Passiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl3": "Passiva > A. Eigenkapital > a) Personengesellschaft > I. Kapital / Vollhafter / Einzelunternehmer"
-        },
-        {
-            "lvl2": "Passiva > A. Eigenkapital > a) Personengesellschaft"
-        },
-        {
-            "lvl1": "Passiva > A. Eigenkapital"
-        },
-        {
-            "lvl0": "Passiva"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl3": "Passiva > A. Eigenkapital > a) Personengesellschaft > I. Kapital / Vollhafter / Einzelunternehmer",
+    "hierarchicalCategories.lvl2": "Passiva > A. Eigenkapital > a) Personengesellschaft",
+    "hierarchicalCategories.lvl1": "Passiva > A. Eigenkapital",
+    "hierarchicalCategories.lvl0": "Passiva",
     "placeholder": false,
     "parent": "19972a0e65d1f25f0878a3b9fba9343f"
 }

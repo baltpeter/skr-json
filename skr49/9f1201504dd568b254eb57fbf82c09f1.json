@@ -1,11 +1,11 @@
 {
-    "objectID": "9f1201504dd568b254eb57fbf82c09f1",
+    "id": "9f1201504dd568b254eb57fbf82c09f1",
     "name": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe",
     "type": "Ertrag",
     "code": "8",
+    "sort-code": 9999,
     "description": "Betriebseinnahmen und -Ausgaben aus anderen nicht steuerbeg\u00fcnstigten wirtschaftlichen Gesch\u00e4ftsbetrieben von Vereinen",
     "categories": [],
-    "hierarchicalCategories": [],
     "leaf": false,
     "notes": "Klasse 8: Ergebnisposten (T\u00e4tigkeitsbereich 8000)\nBetriebseinnahmen und Betriebsausgaben aus anderen nicht steuerbeg\u00fcnstigten wirtschaftlichen Gesch\u00e4ftsbetrieben gemeinn\u00fctziger Vereine und nicht gemeinn\u00fctziger Vereine\nUSt-Hinweis: 0%/7%/19%; USt-Vorsteuerabzug m\u00f6glich",
     "placeholder": true,

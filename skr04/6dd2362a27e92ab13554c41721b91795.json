@@ -1,11 +1,11 @@
 {
-    "objectID": "6dd2362a27e92ab13554c41721b91795",
+    "id": "6dd2362a27e92ab13554c41721b91795",
     "name": "06. Personalaufwand",
     "type": "Aufwand",
     "code": -1,
+    "sort-code": 9999,
     "description": "",
     "categories": [],
-    "hierarchicalCategories": [],
     "leaf": false,
     "placeholder": false,
     "parent": "1972cce2e2364f95b2b0bc014502661d"

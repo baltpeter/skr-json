@@ -1,18 +1,15 @@
 {
-    "objectID": "c7edd8fb9cddc27408d0b8de058bc8e3",
+    "id": "c7edd8fb9cddc27408d0b8de058bc8e3",
     "name": "Umsatzsteuer-Verg\u00fctungen",
     "type": "Ertrag",
     "code": "4695",
+    "sort-code": 4695,
     "description": "",
     "categories": [
         "01. Betriebliche Ertr\u00e4ge"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl0": "01. Betriebliche Ertr\u00e4ge"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl0": "01. Betriebliche Ertr\u00e4ge",
     "placeholder": false,
     "parent": "ef9980b6277cc8f46bc1b1411ea65c87"
 }

@@ -1,21 +1,16 @@
 {
-    "objectID": "7fab6ff8cb7b4dbbbd88f3cc4732806d",
+    "id": "7fab6ff8cb7b4dbbbd88f3cc4732806d",
     "name": "Verbindlichkeiten aus der Begebung und \u00dcbertragung von Wechseln",
     "type": "Verbindlichkeit",
     "code": "9271",
+    "sort-code": 9271,
     "description": "Verbindlichkeiten aus der Begebung und \u00dcbertragung von Wechseln",
     "categories": [
         "9270-9485 STATISTISCHE KONTEN F\u00dcR IN DER BILANZ AUSZUWEISENDE HAFTUNGSVERH\u00c4LTNISSE",
         "9 Statistik- & Vortragskonten"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "9 Statistik- & Vortragskonten > 9270-9485 STATISTISCHE KONTEN F\u00dcR IN DER BILANZ AUSZUWEISENDE HAFTUNGSVERH\u00c4LTNISSE"
-        },
-        {
-            "lvl0": "9 Statistik- & Vortragskonten"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl1": "9 Statistik- & Vortragskonten > 9270-9485 STATISTISCHE KONTEN F\u00dcR IN DER BILANZ AUSZUWEISENDE HAFTUNGSVERH\u00c4LTNISSE",
+    "hierarchicalCategories.lvl0": "9 Statistik- & Vortragskonten",
     "parent": "4a4977a3aea7f63adea0e6188330d4a1"
 }

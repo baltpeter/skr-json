@@ -1,8 +1,9 @@
 {
-    "objectID": "bc278fde80ed05b44c843c3db96a4e77",
+    "id": "bc278fde80ed05b44c843c3db96a4e77",
     "name": "Reisekosten Arbeitnehmer",
     "type": "Aufwand",
     "code": "6820",
+    "sort-code": 6820,
     "description": "Reisekosten Arbeitnehmer",
     "categories": [
         "6810 Reisekosten",
@@ -12,26 +13,12 @@
         "6000-6989 SONSTIGE ZWECKBETRIEBE",
         "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl5": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE > 6500-6989 SONSTIGE ZWECKBETRIEBE 2 > 6670-6989 AUSGABEN / AUFWENDUNGEN > 6800 Sonstige betriebliche Aufwendungen > 6810 Reisekosten"
-        },
-        {
-            "lvl4": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE > 6500-6989 SONSTIGE ZWECKBETRIEBE 2 > 6670-6989 AUSGABEN / AUFWENDUNGEN > 6800 Sonstige betriebliche Aufwendungen"
-        },
-        {
-            "lvl3": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE > 6500-6989 SONSTIGE ZWECKBETRIEBE 2 > 6670-6989 AUSGABEN / AUFWENDUNGEN"
-        },
-        {
-            "lvl2": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE > 6500-6989 SONSTIGE ZWECKBETRIEBE 2"
-        },
-        {
-            "lvl1": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE"
-        },
-        {
-            "lvl0": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl5": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE > 6500-6989 SONSTIGE ZWECKBETRIEBE 2 > 6670-6989 AUSGABEN / AUFWENDUNGEN > 6800 Sonstige betriebliche Aufwendungen > 6810 Reisekosten",
+    "hierarchicalCategories.lvl4": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE > 6500-6989 SONSTIGE ZWECKBETRIEBE 2 > 6670-6989 AUSGABEN / AUFWENDUNGEN > 6800 Sonstige betriebliche Aufwendungen",
+    "hierarchicalCategories.lvl3": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE > 6500-6989 SONSTIGE ZWECKBETRIEBE 2 > 6670-6989 AUSGABEN / AUFWENDUNGEN",
+    "hierarchicalCategories.lvl2": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE > 6500-6989 SONSTIGE ZWECKBETRIEBE 2",
+    "hierarchicalCategories.lvl1": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE",
+    "hierarchicalCategories.lvl0": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe",
     "parent": "a31b6877d1399ecc6f5fcfc423fde089"
 }

@@ -1,22 +1,17 @@
 {
-    "objectID": "c0e507fe6c93db3fb2e93205c33d49db",
+    "id": "c0e507fe6c93db3fb2e93205c33d49db",
     "name": "06. Verbindlichkeiten gegen\u00fcber verbundenen Untenehmen",
     "type": "Verbindlichkeit",
     "code": -1,
+    "sort-code": 9999,
     "description": "",
     "categories": [
         "C. Verbindlichkeiten",
         "Passiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "Passiva > C. Verbindlichkeiten"
-        },
-        {
-            "lvl0": "Passiva"
-        }
-    ],
     "leaf": false,
+    "hierarchicalCategories.lvl1": "Passiva > C. Verbindlichkeiten",
+    "hierarchicalCategories.lvl0": "Passiva",
     "placeholder": true,
     "parent": "8755bf4081c942798c5ac5f34c5b1aac"
 }

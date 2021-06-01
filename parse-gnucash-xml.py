@@ -46,7 +46,7 @@ def get_categories(act_xml, xml):
 		return id_category_cache[act_xml["act:id"]["#text"]]
 
 	categories = []
-	hierarchicalCategories = []
+	hierarchicalCategories = {}
 
 	current_act = act_xml
 	while "act:parent" in current_act:
@@ -54,7 +54,7 @@ def get_categories(act_xml, xml):
 		if current_act["act:name"] != "Root Account": categories.append(current_act["act:name"])
 
 	for i, cat in reversed(list(enumerate(categories))):
-		hierarchicalCategories.append({ "lvl" + str(i): " > ".join(list(reversed(categories))[:i+1])})
+		hierarchicalCategories["lvl" + str(i)] = " > ".join(list(reversed(categories))[:i+1])
 
 	id_category_cache[act_xml["act:id"]["#text"]] = (categories, hierarchicalCategories)
 	return categories, hierarchicalCategories
@@ -72,16 +72,23 @@ def main():
 		for act_xml in xml["gnc-account-example"]["gnc:account"]:
 			slots_dict = parse_slots(act_xml)
 
+			is_leaf = False
+			if "act:code" in act_xml:
+				is_leaf = not "-" in act_xml["act:code"] and len(act_xml["act:code"]) == 4
+
 			account = {
-				"objectID": act_xml["act:id"]["#text"],
+				"id": act_xml["act:id"]["#text"],
 				"name": re.sub(r'^(\d{4}[+-]?)+ ', '', act_xml["act:name"]),
 				"type": TYPE_TRANSLATIONS[act_xml["act:type"].lower()] if "act:type" in act_xml else "",
 				"code": act_xml["act:code"] if "act:code" in act_xml else -1,
+				"sort-code": int(act_xml["act:code"] if "act:code" in act_xml else 9999) if is_leaf else 9999,
 				"description": act_xml["act:description"] if "act:description" in act_xml else "",
 				"categories": get_categories(act_xml, xml)[0],
-				"hierarchicalCategories": get_categories(act_xml, xml)[1],
-				"leaf": False
+				"leaf": is_leaf
 			}
+
+			for lvl, cat in get_categories(act_xml, xml)[1].items():
+				account["hierarchicalCategories." + lvl] = cat
 
 			if "notes" in slots_dict:
 				account["notes"] = slots_dict["notes"]
@@ -89,8 +96,6 @@ def main():
 				account["placeholder"] = slots_dict["placeholder"] == "true"
 			if "tax-related" in slots_dict:	
 				account["tax-related"] = slots_dict["tax-related"] == "true"
-			if "act:code" in act_xml:
-				account["leaf"] = not "-" in act_xml["act:code"] and len(act_xml["act:code"]) == 4
 			if "act:parent" in act_xml:
 				account["parent"] = act_xml["act:parent"]["#text"]
 
@@ -101,7 +106,7 @@ def main():
 			json.dump(accounts, f, indent=4)
 	os.makedirs(name, exist_ok=True)
 	for act in accounts:
-		with open(name + "/" + act["objectID"] + ".json", "w", encoding="utf-8") as f:
+		with open(name + "/" + act["id"] + ".json", "w", encoding="utf-8") as f:
 			json.dump(act, f, indent=4)
 
 

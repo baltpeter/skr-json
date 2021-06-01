@@ -1,21 +1,16 @@
 {
-    "objectID": "0c73c5dc5e72bb4962b83ddc85991101",
+    "id": "0c73c5dc5e72bb4962b83ddc85991101",
     "name": "steuerlich abzugsf\u00e4hige Versp\u00e4tungszuschl\u00e4ge und Zwangsgelder",
     "type": "Aufwand",
     "code": "4396",
+    "sort-code": 4396,
     "description": "",
     "categories": [
         "Versicherungsbeitr\u00e4ge",
         "Aufwendungen 2/4"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "Aufwendungen 2/4 > Versicherungsbeitr\u00e4ge"
-        },
-        {
-            "lvl0": "Aufwendungen 2/4"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl1": "Aufwendungen 2/4 > Versicherungsbeitr\u00e4ge",
+    "hierarchicalCategories.lvl0": "Aufwendungen 2/4",
     "parent": "709bf14d69164a6c2a48e6c0e13ece37"
 }

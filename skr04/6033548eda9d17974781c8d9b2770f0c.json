@@ -1,8 +1,9 @@
 {
-    "objectID": "6033548eda9d17974781c8d9b2770f0c",
+    "id": "6033548eda9d17974781c8d9b2770f0c",
     "name": "Sonderposten mit R\u00fccklageanteil, steuerfreie R\u00fccklagen",
     "type": "Fremdkapital",
     "code": "2980",
+    "sort-code": 2980,
     "description": "",
     "categories": [
         "III. Sonderposten mit R\u00fccklageanteil",
@@ -10,21 +11,11 @@
         "A. Eigenkapital",
         "Passiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl3": "Passiva > A. Eigenkapital > c) alle > III. Sonderposten mit R\u00fccklageanteil"
-        },
-        {
-            "lvl2": "Passiva > A. Eigenkapital > c) alle"
-        },
-        {
-            "lvl1": "Passiva > A. Eigenkapital"
-        },
-        {
-            "lvl0": "Passiva"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl3": "Passiva > A. Eigenkapital > c) alle > III. Sonderposten mit R\u00fccklageanteil",
+    "hierarchicalCategories.lvl2": "Passiva > A. Eigenkapital > c) alle",
+    "hierarchicalCategories.lvl1": "Passiva > A. Eigenkapital",
+    "hierarchicalCategories.lvl0": "Passiva",
     "placeholder": true,
     "parent": "ef029fd872a653c6ae662719cb3d2e2d"
 }

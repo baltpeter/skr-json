@@ -1,8 +1,9 @@
 {
-    "objectID": "1e3e2eba2feb63da961a9700abf7d7d5",
+    "id": "1e3e2eba2feb63da961a9700abf7d7d5",
     "name": "Abgaben f\u00fcr Altersversorgung",
     "type": "Aufwand",
     "code": "6775",
+    "sort-code": 6775,
     "description": "Abgaben f\u00fcr Altersversorgung",
     "categories": [
         "6750 Soziale Abgaben",
@@ -12,26 +13,12 @@
         "6000-6989 SONSTIGE ZWECKBETRIEBE",
         "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl5": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE > 6500-6989 SONSTIGE ZWECKBETRIEBE 2 > 6670-6989 AUSGABEN / AUFWENDUNGEN > 6700-6779 Personalaufwand > 6750 Soziale Abgaben"
-        },
-        {
-            "lvl4": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE > 6500-6989 SONSTIGE ZWECKBETRIEBE 2 > 6670-6989 AUSGABEN / AUFWENDUNGEN > 6700-6779 Personalaufwand"
-        },
-        {
-            "lvl3": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE > 6500-6989 SONSTIGE ZWECKBETRIEBE 2 > 6670-6989 AUSGABEN / AUFWENDUNGEN"
-        },
-        {
-            "lvl2": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE > 6500-6989 SONSTIGE ZWECKBETRIEBE 2"
-        },
-        {
-            "lvl1": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE"
-        },
-        {
-            "lvl0": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl5": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE > 6500-6989 SONSTIGE ZWECKBETRIEBE 2 > 6670-6989 AUSGABEN / AUFWENDUNGEN > 6700-6779 Personalaufwand > 6750 Soziale Abgaben",
+    "hierarchicalCategories.lvl4": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE > 6500-6989 SONSTIGE ZWECKBETRIEBE 2 > 6670-6989 AUSGABEN / AUFWENDUNGEN > 6700-6779 Personalaufwand",
+    "hierarchicalCategories.lvl3": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE > 6500-6989 SONSTIGE ZWECKBETRIEBE 2 > 6670-6989 AUSGABEN / AUFWENDUNGEN",
+    "hierarchicalCategories.lvl2": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE > 6500-6989 SONSTIGE ZWECKBETRIEBE 2",
+    "hierarchicalCategories.lvl1": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE",
+    "hierarchicalCategories.lvl0": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe",
     "parent": "02f09193d127c287c20b4a10614f0b89"
 }

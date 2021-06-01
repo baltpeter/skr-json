@@ -1,25 +1,18 @@
 {
-    "objectID": "e8c237c88b8a7b0aec00ba6e6e6f0178",
+    "id": "e8c237c88b8a7b0aec00ba6e6e6f0178",
     "name": "Geb\u00e4ude",
     "type": "Aktiva",
     "code": "0100",
+    "sort-code": 100,
     "description": "Geb\u00e4ude",
     "categories": [
         "0050-0249 Sachanlagen",
         "0010-0249 ANLAGEVERM\u00d6GEN",
         "0 aktive Verm\u00f6gensposten"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "0 aktive Verm\u00f6gensposten > 0010-0249 ANLAGEVERM\u00d6GEN > 0050-0249 Sachanlagen"
-        },
-        {
-            "lvl1": "0 aktive Verm\u00f6gensposten > 0010-0249 ANLAGEVERM\u00d6GEN"
-        },
-        {
-            "lvl0": "0 aktive Verm\u00f6gensposten"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "0 aktive Verm\u00f6gensposten > 0010-0249 ANLAGEVERM\u00d6GEN > 0050-0249 Sachanlagen",
+    "hierarchicalCategories.lvl1": "0 aktive Verm\u00f6gensposten > 0010-0249 ANLAGEVERM\u00d6GEN",
+    "hierarchicalCategories.lvl0": "0 aktive Verm\u00f6gensposten",
     "parent": "0ed43f1031b629ca67048a8eeb0ca76b"
 }

@@ -1,26 +1,19 @@
 {
-    "objectID": "b4e1c6e30e0113e2548d3670a919b4a6",
+    "id": "b4e1c6e30e0113e2548d3670a919b4a6",
     "name": "Sonstige Verm\u00f6gensgegenst\u00e4nde",
     "type": "Aktiva",
     "code": "0700",
+    "sort-code": 700,
     "description": "Sonstige Verm\u00f6gensgegenst\u00e4nde oder sonstige Verbindlichkeiten",
     "categories": [
         "0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde",
         "0600-0989 UMLAUFVERM\u00d6GEN",
         "0 aktive Verm\u00f6gensposten"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde"
-        },
-        {
-            "lvl1": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN"
-        },
-        {
-            "lvl0": "0 aktive Verm\u00f6gensposten"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde",
+    "hierarchicalCategories.lvl1": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN",
+    "hierarchicalCategories.lvl0": "0 aktive Verm\u00f6gensposten",
     "notes": "Umfa\u00dft die Konten bis einschlie\u00dflich 0899; 0700 als eigenst\u00e4ndiges Unterkonto w\u00e4re nicht sinnvoll, da alles irgendwo in die anderen Unterkonten pa\u00dft.\nManche Konten k\u00f6nnen Verbindlichkeiten enthalten.",
     "parent": "7c67e6354bb5a3e8a06595099386bee2"
 }

@@ -1,26 +1,19 @@
 {
-    "objectID": "03e12bf76308d097e15f292f450f0b49",
+    "id": "03e12bf76308d097e15f292f450f0b49",
     "name": "Gezeichnetes Kapital",
     "type": "Fremdkapital",
     "code": "1140",
+    "sort-code": 1140,
     "description": "Gezeichnetes Kapital",
     "categories": [
         "1140-1144 Gezeichnetes Kapital",
         "1000-1179 VERM\u00d6GEN / EIGENKAPITAL",
         "1 passive Verm\u00f6gensposten"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL > 1140-1144 Gezeichnetes Kapital"
-        },
-        {
-            "lvl1": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL"
-        },
-        {
-            "lvl0": "1 passive Verm\u00f6gensposten"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL > 1140-1144 Gezeichnetes Kapital",
+    "hierarchicalCategories.lvl1": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL",
+    "hierarchicalCategories.lvl0": "1 passive Verm\u00f6gensposten",
     "notes": "Nur GmbH!",
     "parent": "deb1ab7acad94e5aaa6d92a9ed53e837"
 }

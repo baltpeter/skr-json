@@ -1,26 +1,19 @@
 {
-    "objectID": "27ded5821fb097fb9a435074d0e20706",
+    "id": "27ded5821fb097fb9a435074d0e20706",
     "name": "Wartungskosten f\u00fcr Hard- und Software",
     "type": "Aufwand",
     "code": "6495",
+    "sort-code": 6495,
     "description": "",
     "categories": [
         "4) Reparaturen und Instandhaltungen",
         "a) ordentliche betriebliche Aufwendungen",
         "08. sonstige betriebliche Aufwendungen"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen > 4) Reparaturen und Instandhaltungen"
-        },
-        {
-            "lvl1": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen"
-        },
-        {
-            "lvl0": "08. sonstige betriebliche Aufwendungen"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen > 4) Reparaturen und Instandhaltungen",
+    "hierarchicalCategories.lvl1": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen",
+    "hierarchicalCategories.lvl0": "08. sonstige betriebliche Aufwendungen",
     "placeholder": false,
     "tax-related": false,
     "parent": "5925fef34d2d43bd1a1fbe06d7cf5515"

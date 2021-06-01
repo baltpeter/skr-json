@@ -1,26 +1,19 @@
 {
-    "objectID": "9279300dbe61fbeaaaa04ba314dd0836",
+    "id": "9279300dbe61fbeaaaa04ba314dd0836",
     "name": "Beitr\u00e4ge zur Berufsgenossenschaft",
     "type": "Aufwand",
     "code": "2558",
+    "sort-code": 2558,
     "description": "Beitr\u00e4ge zur Berufsgenossenschaft",
     "categories": [
         "2550-2559 Personalkosten",
         "2500-2999 AUSGABEN",
         "2 Erfolgskonten ideeller Bereich"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN > 2550-2559 Personalkosten"
-        },
-        {
-            "lvl1": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN"
-        },
-        {
-            "lvl0": "2 Erfolgskonten ideeller Bereich"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN > 2550-2559 Personalkosten",
+    "hierarchicalCategories.lvl1": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN",
+    "hierarchicalCategories.lvl0": "2 Erfolgskonten ideeller Bereich",
     "notes": "Konto f\u00fcr das Buchungsjahr 2018 neu eingef\u00fchrt.",
     "parent": "6ccdcab3780ae380541cf6c351785151"
 }

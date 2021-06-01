@@ -1,18 +1,15 @@
 {
-    "objectID": "383b550427f6939d7ecca7be082dad15",
+    "id": "383b550427f6939d7ecca7be082dad15",
     "name": "Ertr\u00e4ge aus Verlust\u00fcbernahme und aufgrund einer Gewinngemeinschaft, eines Gewinn- oder Teilgewinnabf\u00fchrungsvertrags erhaltene Gewinne",
     "type": "Ertrag",
     "code": -1,
+    "sort-code": 9999,
     "description": "",
     "categories": [
         "11. sonstige Zinsen und \u00e4hnliche Ertr\u00e4ge"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl0": "11. sonstige Zinsen und \u00e4hnliche Ertr\u00e4ge"
-        }
-    ],
     "leaf": false,
+    "hierarchicalCategories.lvl0": "11. sonstige Zinsen und \u00e4hnliche Ertr\u00e4ge",
     "placeholder": false,
     "parent": "f9c832cff024c6324b0712d6abfb61dc"
 }

@@ -1,22 +1,17 @@
 {
-    "objectID": "d9425d48258c29b16537a1120e87a95d",
+    "id": "d9425d48258c29b16537a1120e87a95d",
     "name": "Verluste aus dem Abgang von Gegenst\u00e4nden des Anlageverm\u00f6gens",
     "type": "Aufwand",
     "code": "6900",
+    "sort-code": 6900,
     "description": "",
     "categories": [
         "b) Verluste aus dem Abgang von Gegenst\u00e4nden des Anlageverm\u00f6gens",
         "08. sonstige betriebliche Aufwendungen"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "08. sonstige betriebliche Aufwendungen > b) Verluste aus dem Abgang von Gegenst\u00e4nden des Anlageverm\u00f6gens"
-        },
-        {
-            "lvl0": "08. sonstige betriebliche Aufwendungen"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl1": "08. sonstige betriebliche Aufwendungen > b) Verluste aus dem Abgang von Gegenst\u00e4nden des Anlageverm\u00f6gens",
+    "hierarchicalCategories.lvl0": "08. sonstige betriebliche Aufwendungen",
     "placeholder": false,
     "parent": "47767b5fa390ff8a4dbb0fdf05a3ee3b"
 }

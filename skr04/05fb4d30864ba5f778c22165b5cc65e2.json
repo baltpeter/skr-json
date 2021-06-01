@@ -1,8 +1,9 @@
 {
-    "objectID": "05fb4d30864ba5f778c22165b5cc65e2",
+    "id": "05fb4d30864ba5f778c22165b5cc65e2",
     "name": "Partiarische Darlehen (1-5 Jahre)",
     "type": "Verbindlichkeit",
     "code": "3544",
+    "sort-code": 3544,
     "description": "",
     "categories": [
         "Partiarische Darlehen",
@@ -10,21 +11,11 @@
         "C. Verbindlichkeiten",
         "Passiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl3": "Passiva > C. Verbindlichkeiten > 08. sonstige Verbindlichkeiten > Partiarische Darlehen"
-        },
-        {
-            "lvl2": "Passiva > C. Verbindlichkeiten > 08. sonstige Verbindlichkeiten"
-        },
-        {
-            "lvl1": "Passiva > C. Verbindlichkeiten"
-        },
-        {
-            "lvl0": "Passiva"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl3": "Passiva > C. Verbindlichkeiten > 08. sonstige Verbindlichkeiten > Partiarische Darlehen",
+    "hierarchicalCategories.lvl2": "Passiva > C. Verbindlichkeiten > 08. sonstige Verbindlichkeiten",
+    "hierarchicalCategories.lvl1": "Passiva > C. Verbindlichkeiten",
+    "hierarchicalCategories.lvl0": "Passiva",
     "placeholder": false,
     "parent": "040967754f9301f1256ae5b221fc765c"
 }

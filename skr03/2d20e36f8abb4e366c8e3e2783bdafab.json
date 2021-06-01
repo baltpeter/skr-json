@@ -1,21 +1,16 @@
 {
-    "objectID": "2d20e36f8abb4e366c8e3e2783bdafab",
+    "id": "2d20e36f8abb4e366c8e3e2783bdafab",
     "name": "Zinsaufwendungen f\u00fcr kurzfristige Verbindlichkeiten",
     "type": "Aufwand",
     "code": "2110",
+    "sort-code": 2110,
     "description": "",
     "categories": [
         "Zinsaufwendungen",
         "Aufwendungen 2/4"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "Aufwendungen 2/4 > Zinsaufwendungen"
-        },
-        {
-            "lvl0": "Aufwendungen 2/4"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl1": "Aufwendungen 2/4 > Zinsaufwendungen",
+    "hierarchicalCategories.lvl0": "Aufwendungen 2/4",
     "parent": "8d2641f8bbc41aa863274bb496002f3e"
 }

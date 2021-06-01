@@ -1,18 +1,15 @@
 {
-    "objectID": "0b9c660016fdb2c55e77c6247a4a01d3",
+    "id": "0b9c660016fdb2c55e77c6247a4a01d3",
     "name": "Sonstige Aufwendungen betriebsfremd und regelm\u00e4\u00dfig",
     "type": "Aufwand",
     "code": "6967",
+    "sort-code": 6967,
     "description": "",
     "categories": [
         "08. sonstige betriebliche Aufwendungen"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl0": "08. sonstige betriebliche Aufwendungen"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl0": "08. sonstige betriebliche Aufwendungen",
     "placeholder": false,
     "parent": "cf7f94dcdeb53cd3d602ea87d83aba4e"
 }

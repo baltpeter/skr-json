@@ -1,8 +1,9 @@
 {
-    "objectID": "ccef518edc143959a8f6e15140bfc6cf",
+    "id": "ccef518edc143959a8f6e15140bfc6cf",
     "name": "Privatentnahmen allgemein",
     "type": "Fremdkapital",
     "code": "2500",
+    "sort-code": 2500,
     "description": "",
     "categories": [
         "IV. Privat Teilhafter",
@@ -10,21 +11,11 @@
         "A. Eigenkapital",
         "Passiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl3": "Passiva > A. Eigenkapital > a) Personengesellschaft > IV. Privat Teilhafter"
-        },
-        {
-            "lvl2": "Passiva > A. Eigenkapital > a) Personengesellschaft"
-        },
-        {
-            "lvl1": "Passiva > A. Eigenkapital"
-        },
-        {
-            "lvl0": "Passiva"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl3": "Passiva > A. Eigenkapital > a) Personengesellschaft > IV. Privat Teilhafter",
+    "hierarchicalCategories.lvl2": "Passiva > A. Eigenkapital > a) Personengesellschaft",
+    "hierarchicalCategories.lvl1": "Passiva > A. Eigenkapital",
+    "hierarchicalCategories.lvl0": "Passiva",
     "placeholder": false,
     "parent": "3260c1391626c6d4390a92d314f6d047"
 }

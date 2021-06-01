@@ -1,8 +1,9 @@
 {
-    "objectID": "78982f7e0894e7b8e8526c60fdc60395",
+    "id": "78982f7e0894e7b8e8526c60fdc60395",
     "name": "Festverzinsliche Wertpapiere",
     "type": "Aktiva",
     "code": "0920",
+    "sort-code": 920,
     "description": "",
     "categories": [
         "05. Wertpapiere des Anlageverm\u00f6gens",
@@ -10,21 +11,11 @@
         "A. Anlageverm\u00f6gen",
         "Aktiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl3": "Aktiva > A. Anlageverm\u00f6gen > V. Finanzanlagen > 05. Wertpapiere des Anlageverm\u00f6gens"
-        },
-        {
-            "lvl2": "Aktiva > A. Anlageverm\u00f6gen > V. Finanzanlagen"
-        },
-        {
-            "lvl1": "Aktiva > A. Anlageverm\u00f6gen"
-        },
-        {
-            "lvl0": "Aktiva"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl3": "Aktiva > A. Anlageverm\u00f6gen > V. Finanzanlagen > 05. Wertpapiere des Anlageverm\u00f6gens",
+    "hierarchicalCategories.lvl2": "Aktiva > A. Anlageverm\u00f6gen > V. Finanzanlagen",
+    "hierarchicalCategories.lvl1": "Aktiva > A. Anlageverm\u00f6gen",
+    "hierarchicalCategories.lvl0": "Aktiva",
     "placeholder": false,
     "parent": "6d26d5667745dcf65881a6b5228f9028"
 }

@@ -1,8 +1,9 @@
 {
-    "objectID": "c143c56e844900decfb250502e61bd79",
+    "id": "c143c56e844900decfb250502e61bd79",
     "name": "Anleihen konvertibel(bis 1 Jahr)",
     "type": "Verbindlichkeit",
     "code": "3121",
+    "sort-code": 3121,
     "description": "",
     "categories": [
         "b) Anleihen konvertibel",
@@ -10,21 +11,11 @@
         "C. Verbindlichkeiten",
         "Passiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl3": "Passiva > C. Verbindlichkeiten > 01. Anleihen > b) Anleihen konvertibel"
-        },
-        {
-            "lvl2": "Passiva > C. Verbindlichkeiten > 01. Anleihen"
-        },
-        {
-            "lvl1": "Passiva > C. Verbindlichkeiten"
-        },
-        {
-            "lvl0": "Passiva"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl3": "Passiva > C. Verbindlichkeiten > 01. Anleihen > b) Anleihen konvertibel",
+    "hierarchicalCategories.lvl2": "Passiva > C. Verbindlichkeiten > 01. Anleihen",
+    "hierarchicalCategories.lvl1": "Passiva > C. Verbindlichkeiten",
+    "hierarchicalCategories.lvl0": "Passiva",
     "placeholder": false,
     "parent": "aeacb8efbecfd61776b68ceaabbd1a8e"
 }

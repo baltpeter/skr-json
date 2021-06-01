@@ -1,22 +1,17 @@
 {
-    "objectID": "c9444e4ed6c85ce7d3c1f2c05ba7289b",
+    "id": "c9444e4ed6c85ce7d3c1f2c05ba7289b",
     "name": "Pauschale Steuer f\u00fcr Aushilfen",
     "type": "Aufwand",
     "code": "6040",
+    "sort-code": 6040,
     "description": "",
     "categories": [
         "a) L\u00f6hne und Geh\u00e4lter",
         "06. Personalaufwand"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "06. Personalaufwand > a) L\u00f6hne und Geh\u00e4lter"
-        },
-        {
-            "lvl0": "06. Personalaufwand"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl1": "06. Personalaufwand > a) L\u00f6hne und Geh\u00e4lter",
+    "hierarchicalCategories.lvl0": "06. Personalaufwand",
     "placeholder": false,
     "parent": "603fcd641f765110cac07fca1a8d47f1"
 }

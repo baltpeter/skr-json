@@ -1,8 +1,9 @@
 {
-    "objectID": "928890b540622a6f7cd2054be7bf90a7",
+    "id": "928890b540622a6f7cd2054be7bf90a7",
     "name": "Einbauten in fremde Grundst\u00fccke",
     "type": "Aktiva",
     "code": "0680",
+    "sort-code": 680,
     "description": "",
     "categories": [
         "03. Andere Anlagen, Betriebs- und Gesch\u00e4ftsausstattung",
@@ -10,21 +11,11 @@
         "A. Anlageverm\u00f6gen",
         "Aktiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl3": "Aktiva > A. Anlageverm\u00f6gen > IV. Sachanlagen > 03. Andere Anlagen, Betriebs- und Gesch\u00e4ftsausstattung"
-        },
-        {
-            "lvl2": "Aktiva > A. Anlageverm\u00f6gen > IV. Sachanlagen"
-        },
-        {
-            "lvl1": "Aktiva > A. Anlageverm\u00f6gen"
-        },
-        {
-            "lvl0": "Aktiva"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl3": "Aktiva > A. Anlageverm\u00f6gen > IV. Sachanlagen > 03. Andere Anlagen, Betriebs- und Gesch\u00e4ftsausstattung",
+    "hierarchicalCategories.lvl2": "Aktiva > A. Anlageverm\u00f6gen > IV. Sachanlagen",
+    "hierarchicalCategories.lvl1": "Aktiva > A. Anlageverm\u00f6gen",
+    "hierarchicalCategories.lvl0": "Aktiva",
     "placeholder": false,
     "parent": "9c897b2b8563220f6ba863b5d7bcb0aa"
 }

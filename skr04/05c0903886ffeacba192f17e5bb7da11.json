@@ -1,22 +1,17 @@
 {
-    "objectID": "05c0903886ffeacba192f17e5bb7da11",
+    "id": "05c0903886ffeacba192f17e5bb7da11",
     "name": "Statistisches Konto Erl\u00f6se zum allgemeinen Umsatzsteuersatz (E\u00dcR)",
     "type": "Ertrag",
     "code": "4580",
+    "sort-code": 4580,
     "description": "",
     "categories": [
         "b) Statistische Konten E\u00dcR Umsatzerl\u00f6se",
         "01. Betriebliche Ertr\u00e4ge"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "01. Betriebliche Ertr\u00e4ge > b) Statistische Konten E\u00dcR Umsatzerl\u00f6se"
-        },
-        {
-            "lvl0": "01. Betriebliche Ertr\u00e4ge"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl1": "01. Betriebliche Ertr\u00e4ge > b) Statistische Konten E\u00dcR Umsatzerl\u00f6se",
+    "hierarchicalCategories.lvl0": "01. Betriebliche Ertr\u00e4ge",
     "placeholder": false,
     "parent": "8975598d0c5f97dc274c22fd4dfa9955"
 }

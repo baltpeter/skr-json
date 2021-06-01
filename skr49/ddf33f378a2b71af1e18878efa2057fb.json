@@ -1,22 +1,17 @@
 {
-    "objectID": "ddf33f378a2b71af1e18878efa2057fb",
+    "id": "ddf33f378a2b71af1e18878efa2057fb",
     "name": "Eingeforderte, noch ausstehende Kapitaleinlagen",
     "type": "Forderung",
     "code": "0640",
+    "sort-code": 640,
     "description": "Eingeforderte ausstehende Einlagen auf das gezeichnete Kapital",
     "categories": [
         "0600-0989 UMLAUFVERM\u00d6GEN",
         "0 aktive Verm\u00f6gensposten"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN"
-        },
-        {
-            "lvl0": "0 aktive Verm\u00f6gensposten"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl1": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN",
+    "hierarchicalCategories.lvl0": "0 aktive Verm\u00f6gensposten",
     "notes": "Nur GmbH und Stiftungen!\nForderungen, nicht eingeforderte ausstehende Einlagen siehe Konto 1144!",
     "parent": "0c37c40d2c6a59254c28e40326c5b971"
 }

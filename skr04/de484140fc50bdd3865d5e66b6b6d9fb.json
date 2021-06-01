@@ -1,22 +1,17 @@
 {
-    "objectID": "de484140fc50bdd3865d5e66b6b6d9fb",
+    "id": "de484140fc50bdd3865d5e66b6b6d9fb",
     "name": "Aufwendungen aus Verlust\u00fcbernahme",
     "type": "Aufwand",
     "code": "7390",
+    "sort-code": 7390,
     "description": "",
     "categories": [
         "Aufwendungen aus Verlust\u00fcbernahme und aufgrund einer Gewinngemeinschaft, eines Gewinn- oder Teilgewinnabf\u00fchrungsvertrags abgef\u00fchrte Gewinne",
         "13. Zinsen und \u00e4hnliche Aufwendungen"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "13. Zinsen und \u00e4hnliche Aufwendungen > Aufwendungen aus Verlust\u00fcbernahme und aufgrund einer Gewinngemeinschaft, eines Gewinn- oder Teilgewinnabf\u00fchrungsvertrags abgef\u00fchrte Gewinne"
-        },
-        {
-            "lvl0": "13. Zinsen und \u00e4hnliche Aufwendungen"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl1": "13. Zinsen und \u00e4hnliche Aufwendungen > Aufwendungen aus Verlust\u00fcbernahme und aufgrund einer Gewinngemeinschaft, eines Gewinn- oder Teilgewinnabf\u00fchrungsvertrags abgef\u00fchrte Gewinne",
+    "hierarchicalCategories.lvl0": "13. Zinsen und \u00e4hnliche Aufwendungen",
     "placeholder": false,
     "parent": "61f884f026b5cec86f75f7b9b25ea945"
 }

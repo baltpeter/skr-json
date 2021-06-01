@@ -1,26 +1,19 @@
 {
-    "objectID": "04eeb6ab5382ff6b8282c5a8f949975a",
+    "id": "04eeb6ab5382ff6b8282c5a8f949975a",
     "name": "Gesetzliche R\u00fccklage",
     "type": "Fremdkapital",
     "code": "1150",
+    "sort-code": 1150,
     "description": "Gesetzliche R\u00fccklage",
     "categories": [
         "1150-1159 Gewinnr\u00fccklagen",
         "1000-1179 VERM\u00d6GEN / EIGENKAPITAL",
         "1 passive Verm\u00f6gensposten"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL > 1150-1159 Gewinnr\u00fccklagen"
-        },
-        {
-            "lvl1": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL"
-        },
-        {
-            "lvl0": "1 passive Verm\u00f6gensposten"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL > 1150-1159 Gewinnr\u00fccklagen",
+    "hierarchicalCategories.lvl1": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL",
+    "hierarchicalCategories.lvl0": "1 passive Verm\u00f6gensposten",
     "notes": "Nur GmbH!",
     "parent": "9ec6da0328c8bd00d4f916ddc6a543ce"
 }

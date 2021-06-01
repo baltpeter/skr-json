@@ -1,26 +1,19 @@
 {
-    "objectID": "5037c8cfdf9170c37c565d76c020c8d1",
+    "id": "5037c8cfdf9170c37c565d76c020c8d1",
     "name": "Verbindlichkeiten aus Lieferungen und Leistungen gegen\u00fcber Unternehmen, mit denen ein Beteiligungsverh\u00e4ltnis besteht",
     "type": "Verbindlichkeit",
     "code": "3470",
+    "sort-code": 3470,
     "description": "",
     "categories": [
         "07. Verbindlichkeiten gegen\u00fcber Unternehmen, mit denen ein Beteiligungsverh\u00e4ltnis besteht",
         "C. Verbindlichkeiten",
         "Passiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "Passiva > C. Verbindlichkeiten > 07. Verbindlichkeiten gegen\u00fcber Unternehmen, mit denen ein Beteiligungsverh\u00e4ltnis besteht"
-        },
-        {
-            "lvl1": "Passiva > C. Verbindlichkeiten"
-        },
-        {
-            "lvl0": "Passiva"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "Passiva > C. Verbindlichkeiten > 07. Verbindlichkeiten gegen\u00fcber Unternehmen, mit denen ein Beteiligungsverh\u00e4ltnis besteht",
+    "hierarchicalCategories.lvl1": "Passiva > C. Verbindlichkeiten",
+    "hierarchicalCategories.lvl0": "Passiva",
     "placeholder": true,
     "parent": "72f6fb081f9e61aa689f51a110c3458f"
 }

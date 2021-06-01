@@ -1,22 +1,17 @@
 {
-    "objectID": "e24631f8be473272a47c3b3187dd1b5e",
+    "id": "e24631f8be473272a47c3b3187dd1b5e",
     "name": "Verrechnete kalkulatorische Wagnisse",
     "type": "Aufwand",
     "code": "6988",
+    "sort-code": 6988,
     "description": "",
     "categories": [
         "e) Kalkulatorische Kosten",
         "08. sonstige betriebliche Aufwendungen"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "08. sonstige betriebliche Aufwendungen > e) Kalkulatorische Kosten"
-        },
-        {
-            "lvl0": "08. sonstige betriebliche Aufwendungen"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl1": "08. sonstige betriebliche Aufwendungen > e) Kalkulatorische Kosten",
+    "hierarchicalCategories.lvl0": "08. sonstige betriebliche Aufwendungen",
     "placeholder": false,
     "parent": "69ea025cd488b1084c9fed0d584800e2"
 }

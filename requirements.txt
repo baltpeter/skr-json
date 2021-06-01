@@ -1,2 +1,2 @@
-algoliasearch==1.15.3
+typesense==0.11.0
 xmltodict==0.11.0

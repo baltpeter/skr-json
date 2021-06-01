@@ -1,22 +1,17 @@
 {
-    "objectID": "46adc1106a1c998159c93a6fd256b3f5",
+    "id": "46adc1106a1c998159c93a6fd256b3f5",
     "name": "Einstellungen in andere Gewinnr\u00fccklagen",
     "type": "Eigenkapital",
     "code": "7780",
+    "sort-code": 7780,
     "description": "",
     "categories": [
         "03. Einstellungen in Gewinnr\u00fccklagen",
         "21. Ver\u00e4nderungen Vortr\u00e4ge und R\u00fccklagen"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "21. Ver\u00e4nderungen Vortr\u00e4ge und R\u00fccklagen > 03. Einstellungen in Gewinnr\u00fccklagen"
-        },
-        {
-            "lvl0": "21. Ver\u00e4nderungen Vortr\u00e4ge und R\u00fccklagen"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl1": "21. Ver\u00e4nderungen Vortr\u00e4ge und R\u00fccklagen > 03. Einstellungen in Gewinnr\u00fccklagen",
+    "hierarchicalCategories.lvl0": "21. Ver\u00e4nderungen Vortr\u00e4ge und R\u00fccklagen",
     "placeholder": false,
     "parent": "f14569e730ac327e0d442683013d415a"
 }

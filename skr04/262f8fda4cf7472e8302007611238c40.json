@@ -1,18 +1,15 @@
 {
-    "objectID": "262f8fda4cf7472e8302007611238c40",
+    "id": "262f8fda4cf7472e8302007611238c40",
     "name": "Diskontaufwendungen",
     "type": "Aufwand",
     "code": "7340",
+    "sort-code": 7340,
     "description": "",
     "categories": [
         "13. Zinsen und \u00e4hnliche Aufwendungen"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl0": "13. Zinsen und \u00e4hnliche Aufwendungen"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl0": "13. Zinsen und \u00e4hnliche Aufwendungen",
     "placeholder": false,
     "parent": "1848323dfe915f8ed2a24bc00fef1e16"
 }

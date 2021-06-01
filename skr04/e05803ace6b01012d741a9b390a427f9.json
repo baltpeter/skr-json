@@ -1,26 +1,19 @@
 {
-    "objectID": "e05803ace6b01012d741a9b390a427f9",
+    "id": "e05803ace6b01012d741a9b390a427f9",
     "name": "Werkzeuge und Kleinger\u00e4te",
     "type": "Aufwand",
     "code": "6845",
+    "sort-code": 6845,
     "description": "",
     "categories": [
         "8) verschiedene betriebliche Kosten",
         "a) ordentliche betriebliche Aufwendungen",
         "08. sonstige betriebliche Aufwendungen"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen > 8) verschiedene betriebliche Kosten"
-        },
-        {
-            "lvl1": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen"
-        },
-        {
-            "lvl0": "08. sonstige betriebliche Aufwendungen"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen > 8) verschiedene betriebliche Kosten",
+    "hierarchicalCategories.lvl1": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen",
+    "hierarchicalCategories.lvl0": "08. sonstige betriebliche Aufwendungen",
     "placeholder": false,
     "tax-related": false,
     "parent": "34be7b6c3246314364ef3ad2c6aead4c"

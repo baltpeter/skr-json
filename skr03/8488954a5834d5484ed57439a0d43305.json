@@ -1,18 +1,15 @@
 {
-    "objectID": "8488954a5834d5484ed57439a0d43305",
+    "id": "8488954a5834d5484ed57439a0d43305",
     "name": "Kfz-Kosten",
     "type": "Aufwand",
     "code": -1,
+    "sort-code": 9999,
     "description": "",
     "categories": [
         "Aufwendungen 2/4"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl0": "Aufwendungen 2/4"
-        }
-    ],
     "leaf": false,
+    "hierarchicalCategories.lvl0": "Aufwendungen 2/4",
     "placeholder": true,
     "parent": "be324e400d3b67510f89afd18de776e3"
 }

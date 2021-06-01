@@ -1,8 +1,9 @@
 {
-    "objectID": "cb50ff94b7f4cb78ef0c5bd6c052a5e6",
+    "id": "cb50ff94b7f4cb78ef0c5bd6c052a5e6",
     "name": "Spenden",
     "type": "Ertrag",
     "code": "3220-3249",
+    "sort-code": 9999,
     "description": "Spenden (eingenommen)",
     "categories": [
         "3200 Steuerneutrale Einnahmen ideeller Bereich",
@@ -10,21 +11,11 @@
         "3200-3899  ERTRAGSNEUTRALE POSTEN",
         "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl3": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN > 3200-3399 Ideeller Bereich > 3200 Steuerneutrale Einnahmen ideeller Bereich"
-        },
-        {
-            "lvl2": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN > 3200-3399 Ideeller Bereich"
-        },
-        {
-            "lvl1": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN"
-        },
-        {
-            "lvl0": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
-        }
-    ],
     "leaf": false,
+    "hierarchicalCategories.lvl3": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN > 3200-3399 Ideeller Bereich > 3200 Steuerneutrale Einnahmen ideeller Bereich",
+    "hierarchicalCategories.lvl2": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN > 3200-3399 Ideeller Bereich",
+    "hierarchicalCategories.lvl1": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN",
+    "hierarchicalCategories.lvl0": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten",
     "placeholder": true,
     "parent": "a780e7b18d12154c6db979c821b37c3f"
 }

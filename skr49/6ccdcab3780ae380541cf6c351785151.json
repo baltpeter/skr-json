@@ -1,22 +1,17 @@
 {
-    "objectID": "6ccdcab3780ae380541cf6c351785151",
+    "id": "6ccdcab3780ae380541cf6c351785151",
     "name": "Personalkosten",
     "type": "Aufwand",
     "code": "2550-2559",
+    "sort-code": 9999,
     "description": "Personalkosten",
     "categories": [
         "2500-2999 AUSGABEN",
         "2 Erfolgskonten ideeller Bereich"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN"
-        },
-        {
-            "lvl0": "2 Erfolgskonten ideeller Bereich"
-        }
-    ],
     "leaf": false,
+    "hierarchicalCategories.lvl1": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN",
+    "hierarchicalCategories.lvl0": "2 Erfolgskonten ideeller Bereich",
     "placeholder": true,
     "parent": "48ee122ca8c1c162daf2c936adbc924e"
 }

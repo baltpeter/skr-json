@@ -1,8 +1,9 @@
 {
-    "objectID": "81c22200a064cc2f7aea91bcb73ebd12",
+    "id": "81c22200a064cc2f7aea91bcb73ebd12",
     "name": "Ertrag aus pauschaler Vorsteuer",
     "type": "Ertrag",
     "code": "3515",
+    "sort-code": 3515,
     "description": "Ertrag aus pauschaler Vorsteuer",
     "categories": [
         "3500 Steuerneutrale Einnahmen Bereich 5000",
@@ -10,21 +11,11 @@
         "3200-3899  ERTRAGSNEUTRALE POSTEN",
         "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl3": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN > 3500-3599 Zweckbetriebe Sport > 3500 Steuerneutrale Einnahmen Bereich 5000"
-        },
-        {
-            "lvl2": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN > 3500-3599 Zweckbetriebe Sport"
-        },
-        {
-            "lvl1": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN"
-        },
-        {
-            "lvl0": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl3": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN > 3500-3599 Zweckbetriebe Sport > 3500 Steuerneutrale Einnahmen Bereich 5000",
+    "hierarchicalCategories.lvl2": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN > 3500-3599 Zweckbetriebe Sport",
+    "hierarchicalCategories.lvl1": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN",
+    "hierarchicalCategories.lvl0": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten",
     "notes": "\u00a723a UStG",
     "parent": "54de98a0d455ef80872b2b81a949b3d9"
 }

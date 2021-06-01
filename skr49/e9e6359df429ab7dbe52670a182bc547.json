@@ -1,25 +1,18 @@
 {
-    "objectID": "e9e6359df429ab7dbe52670a182bc547",
+    "id": "e9e6359df429ab7dbe52670a182bc547",
     "name": "Umsatzsteuer Teilbereich 5001",
     "type": "Aktiva",
     "code": "9650",
+    "sort-code": 9650,
     "description": "Umsatzsteuer Teilbereich 5000 Zweckbetrieb Sport 1",
     "categories": [
         "9600-9849 Statistische Werte f\u00fcr BWA",
         "9600-9998 WEITERE STATISTIK- UND VORTRAGSKONTEN",
         "9 Statistik- & Vortragskonten"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "9 Statistik- & Vortragskonten > 9600-9998 WEITERE STATISTIK- UND VORTRAGSKONTEN > 9600-9849 Statistische Werte f\u00fcr BWA"
-        },
-        {
-            "lvl1": "9 Statistik- & Vortragskonten > 9600-9998 WEITERE STATISTIK- UND VORTRAGSKONTEN"
-        },
-        {
-            "lvl0": "9 Statistik- & Vortragskonten"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "9 Statistik- & Vortragskonten > 9600-9998 WEITERE STATISTIK- UND VORTRAGSKONTEN > 9600-9849 Statistische Werte f\u00fcr BWA",
+    "hierarchicalCategories.lvl1": "9 Statistik- & Vortragskonten > 9600-9998 WEITERE STATISTIK- UND VORTRAGSKONTEN",
+    "hierarchicalCategories.lvl0": "9 Statistik- & Vortragskonten",
     "parent": "ce6ef6340d8c65efd124f5950fcbb6a8"
 }

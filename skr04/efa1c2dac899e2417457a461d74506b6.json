@@ -1,22 +1,17 @@
 {
-    "objectID": "efa1c2dac899e2417457a461d74506b6",
+    "id": "efa1c2dac899e2417457a461d74506b6",
     "name": "Verwaltungskosten",
     "type": "Aufwand",
     "code": "6992",
+    "sort-code": 6992,
     "description": "Pos 5. der GUV beim Umsatzkostenverfahren",
     "categories": [
         "f) Kosten bei Anwendung des Umsatzkostenverfahrens",
         "08. sonstige betriebliche Aufwendungen"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "08. sonstige betriebliche Aufwendungen > f) Kosten bei Anwendung des Umsatzkostenverfahrens"
-        },
-        {
-            "lvl0": "08. sonstige betriebliche Aufwendungen"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl1": "08. sonstige betriebliche Aufwendungen > f) Kosten bei Anwendung des Umsatzkostenverfahrens",
+    "hierarchicalCategories.lvl0": "08. sonstige betriebliche Aufwendungen",
     "placeholder": false,
     "parent": "7b9852168571d463059f1a9a038ca8ff"
 }

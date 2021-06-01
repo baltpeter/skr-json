@@ -1,26 +1,19 @@
 {
-    "objectID": "e6f2ce6d2586345f309cf8bc699ee51c",
+    "id": "e6f2ce6d2586345f309cf8bc699ee51c",
     "name": "Postbank",
     "type": "Bank",
     "code": "1700",
+    "sort-code": 1700,
     "description": "",
     "categories": [
         "IV. Kassenbestand, Bundesbankguthaben, Guthaben bei Kreditinstituten und Schecks",
         "B. Umlaufverm\u00f6gen",
         "Aktiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "Aktiva > B. Umlaufverm\u00f6gen > IV. Kassenbestand, Bundesbankguthaben, Guthaben bei Kreditinstituten und Schecks"
-        },
-        {
-            "lvl1": "Aktiva > B. Umlaufverm\u00f6gen"
-        },
-        {
-            "lvl0": "Aktiva"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "Aktiva > B. Umlaufverm\u00f6gen > IV. Kassenbestand, Bundesbankguthaben, Guthaben bei Kreditinstituten und Schecks",
+    "hierarchicalCategories.lvl1": "Aktiva > B. Umlaufverm\u00f6gen",
+    "hierarchicalCategories.lvl0": "Aktiva",
     "placeholder": true,
     "parent": "9743059255b8318a7eb5ba07b2dd3e0e"
 }

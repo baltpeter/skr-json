@@ -1,25 +1,18 @@
 {
-    "objectID": "1774ed6e0755b21a73732b4249dc5ff5",
+    "id": "1774ed6e0755b21a73732b4249dc5ff5",
     "name": "Verbindlichkeiten aus B\u00fcrgschaften, Wechsel- und Scheckb\u00fcrgschaften gegen\u00fcber verbundenen / assoziierten Unternehmen",
     "type": "Verbindlichkeit",
     "code": "9274",
+    "sort-code": 9274,
     "description": "Verbindlichkeiten aus B\u00fcrgschaften, Wechsel- und Scheckb\u00fcrgschaften gegen\u00fcber verbundenen / assoziierten Unternehmen",
     "categories": [
         "9273 Verbindlichkeiten aus B\u00fcrgschaften, Wechsel- und Scheckb\u00fcrgschaften",
         "9270-9485 STATISTISCHE KONTEN F\u00dcR IN DER BILANZ AUSZUWEISENDE HAFTUNGSVERH\u00c4LTNISSE",
         "9 Statistik- & Vortragskonten"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "9 Statistik- & Vortragskonten > 9270-9485 STATISTISCHE KONTEN F\u00dcR IN DER BILANZ AUSZUWEISENDE HAFTUNGSVERH\u00c4LTNISSE > 9273 Verbindlichkeiten aus B\u00fcrgschaften, Wechsel- und Scheckb\u00fcrgschaften"
-        },
-        {
-            "lvl1": "9 Statistik- & Vortragskonten > 9270-9485 STATISTISCHE KONTEN F\u00dcR IN DER BILANZ AUSZUWEISENDE HAFTUNGSVERH\u00c4LTNISSE"
-        },
-        {
-            "lvl0": "9 Statistik- & Vortragskonten"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "9 Statistik- & Vortragskonten > 9270-9485 STATISTISCHE KONTEN F\u00dcR IN DER BILANZ AUSZUWEISENDE HAFTUNGSVERH\u00c4LTNISSE > 9273 Verbindlichkeiten aus B\u00fcrgschaften, Wechsel- und Scheckb\u00fcrgschaften",
+    "hierarchicalCategories.lvl1": "9 Statistik- & Vortragskonten > 9270-9485 STATISTISCHE KONTEN F\u00dcR IN DER BILANZ AUSZUWEISENDE HAFTUNGSVERH\u00c4LTNISSE",
+    "hierarchicalCategories.lvl0": "9 Statistik- & Vortragskonten",
     "parent": "f33d690bd9abd16de2ec98fbb132bfc7"
 }

@@ -1,8 +1,9 @@
 {
-    "objectID": "e04bf8d4a4a41a7557e9b067d05965a3",
+    "id": "e04bf8d4a4a41a7557e9b067d05965a3",
     "name": "Gegenkonto 3305 - 3307 bei Aufteilung der Verbindlichkeiten nach Steuers\u00e4tzen",
     "type": "Fremdkapital",
     "code": "3309",
+    "sort-code": 3309,
     "description": "E\u00dcR",
     "categories": [
         "Verbindlichkeiten aus Lieferungen und Leistungen (Kreditoren)",
@@ -10,21 +11,11 @@
         "C. Verbindlichkeiten",
         "Passiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl3": "Passiva > C. Verbindlichkeiten > 04. Verbindlichkeiten aus Lieferungen und Leistungen > Verbindlichkeiten aus Lieferungen und Leistungen (Kreditoren)"
-        },
-        {
-            "lvl2": "Passiva > C. Verbindlichkeiten > 04. Verbindlichkeiten aus Lieferungen und Leistungen"
-        },
-        {
-            "lvl1": "Passiva > C. Verbindlichkeiten"
-        },
-        {
-            "lvl0": "Passiva"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl3": "Passiva > C. Verbindlichkeiten > 04. Verbindlichkeiten aus Lieferungen und Leistungen > Verbindlichkeiten aus Lieferungen und Leistungen (Kreditoren)",
+    "hierarchicalCategories.lvl2": "Passiva > C. Verbindlichkeiten > 04. Verbindlichkeiten aus Lieferungen und Leistungen",
+    "hierarchicalCategories.lvl1": "Passiva > C. Verbindlichkeiten",
+    "hierarchicalCategories.lvl0": "Passiva",
     "placeholder": false,
     "parent": "a7e6f09fcbf7fab4f58b31620ea09a18"
 }

@@ -1,8 +1,9 @@
 {
-    "objectID": "b720c2af29896886e2e734a0a9a2dfbb",
+    "id": "b720c2af29896886e2e734a0a9a2dfbb",
     "name": "Unfertige Erzeugnisse",
     "type": "Aktiva",
     "code": "1050",
+    "sort-code": 1050,
     "description": "",
     "categories": [
         "02. Unfertige Erzeugnisse, unfertige Leistungen (Bestand)",
@@ -10,21 +11,11 @@
         "B. Umlaufverm\u00f6gen",
         "Aktiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl3": "Aktiva > B. Umlaufverm\u00f6gen > I. Vorr\u00e4te > 02. Unfertige Erzeugnisse, unfertige Leistungen (Bestand)"
-        },
-        {
-            "lvl2": "Aktiva > B. Umlaufverm\u00f6gen > I. Vorr\u00e4te"
-        },
-        {
-            "lvl1": "Aktiva > B. Umlaufverm\u00f6gen"
-        },
-        {
-            "lvl0": "Aktiva"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl3": "Aktiva > B. Umlaufverm\u00f6gen > I. Vorr\u00e4te > 02. Unfertige Erzeugnisse, unfertige Leistungen (Bestand)",
+    "hierarchicalCategories.lvl2": "Aktiva > B. Umlaufverm\u00f6gen > I. Vorr\u00e4te",
+    "hierarchicalCategories.lvl1": "Aktiva > B. Umlaufverm\u00f6gen",
+    "hierarchicalCategories.lvl0": "Aktiva",
     "placeholder": false,
     "parent": "e79214338437068dfebeff5025bb49db"
 }

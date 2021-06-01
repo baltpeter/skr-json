@@ -1,22 +1,17 @@
 {
-    "objectID": "7715faf0cb357f6bfbacbfff01bb422a",
+    "id": "7715faf0cb357f6bfbacbfff01bb422a",
     "name": "Zweckbetriebe Sport",
     "type": "Ertrag",
     "code": "3500-3599",
+    "sort-code": 9999,
     "description": "Zweckbetriebe Sport",
     "categories": [
         "3200-3899  ERTRAGSNEUTRALE POSTEN",
         "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN"
-        },
-        {
-            "lvl0": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
-        }
-    ],
     "leaf": false,
+    "hierarchicalCategories.lvl1": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN",
+    "hierarchicalCategories.lvl0": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten",
     "placeholder": true,
     "parent": "4cab17561d5837bb03169cd54a4fd601"
 }

@@ -1,22 +1,17 @@
 {
-    "objectID": "a7d64f41e0d5ef44a28f591ae6b2e775",
+    "id": "a7d64f41e0d5ef44a28f591ae6b2e775",
     "name": "Ergebnisverwendung (Vereine)",
     "type": "Ertrag",
     "code": "3994+3996",
+    "sort-code": 9999,
     "description": "Zus\u00e4tzlich f\u00fcr Vereine",
     "categories": [
         "3900-3999 ERGEBNISVERWENDUNGSRECHNUNG",
         "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3900-3999 ERGEBNISVERWENDUNGSRECHNUNG"
-        },
-        {
-            "lvl0": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
-        }
-    ],
     "leaf": false,
+    "hierarchicalCategories.lvl1": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3900-3999 ERGEBNISVERWENDUNGSRECHNUNG",
+    "hierarchicalCategories.lvl0": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten",
     "notes": "Veraltet, in der Version 2017 nicht mehr enthalten!",
     "placeholder": true,
     "parent": "895e1d2fafb9d9c74a0ecae1a22d25b9"

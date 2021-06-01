@@ -1,11 +1,11 @@
 {
-    "objectID": "676de19f4a18cfe6f34d77b99c9c0902",
+    "id": "676de19f4a18cfe6f34d77b99c9c0902",
     "name": "12. Abschreibungen auf Finanzanlagen und auf Wertpapiere des Umlaufverm\u00f6gens",
     "type": "Aufwand",
     "code": -1,
+    "sort-code": 9999,
     "description": "",
     "categories": [],
-    "hierarchicalCategories": [],
     "leaf": false,
     "placeholder": false,
     "parent": "1972cce2e2364f95b2b0bc014502661d"

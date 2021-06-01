@@ -1,26 +1,19 @@
 {
-    "objectID": "3e7cc0726990de6806dac81741eaa784",
+    "id": "3e7cc0726990de6806dac81741eaa784",
     "name": "Kalkulatorische Abschreibungen",
     "type": "Aufwand",
     "code": "2503",
+    "sort-code": 2503,
     "description": "Kalkulatorische Abschreibungen",
     "categories": [
         "2510 \u00dcbrige Ausgaben",
         "2500-2999 AUSGABEN",
         "2 Erfolgskonten ideeller Bereich"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN > 2510 \u00dcbrige Ausgaben"
-        },
-        {
-            "lvl1": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN"
-        },
-        {
-            "lvl0": "2 Erfolgskonten ideeller Bereich"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN > 2510 \u00dcbrige Ausgaben",
+    "hierarchicalCategories.lvl1": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN",
+    "hierarchicalCategories.lvl0": "2 Erfolgskonten ideeller Bereich",
     "notes": "Getauscht mit 2502.\nSeltsam, da\u00df die kalkulatorischen Abschreibungen nicht bei den Abschreibungen stehen, aber so ist es im Kontenrahmen aufgeteilt.",
     "parent": "75d38fa3ae63128e2bd6a0ba80dc904b"
 }

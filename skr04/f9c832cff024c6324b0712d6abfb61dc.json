@@ -1,11 +1,11 @@
 {
-    "objectID": "f9c832cff024c6324b0712d6abfb61dc",
+    "id": "f9c832cff024c6324b0712d6abfb61dc",
     "name": "11. sonstige Zinsen und \u00e4hnliche Ertr\u00e4ge",
     "type": "Ertrag",
     "code": -1,
+    "sort-code": 9999,
     "description": "",
     "categories": [],
-    "hierarchicalCategories": [],
     "leaf": false,
     "placeholder": false,
     "parent": "1972cce2e2364f95b2b0bc014502661d"

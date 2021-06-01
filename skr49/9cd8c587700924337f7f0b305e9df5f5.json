@@ -1,26 +1,19 @@
 {
-    "objectID": "9cd8c587700924337f7f0b305e9df5f5",
+    "id": "9cd8c587700924337f7f0b305e9df5f5",
     "name": "Erl\u00f6se aus Verk\u00e4ufen Finanzanlagen",
     "type": "Ertrag",
     "code": "4492",
+    "sort-code": 4492,
     "description": "Erl\u00f6se aus Verk\u00e4ufen Finanzanlagen (beiBuchgewinn)",
     "categories": [
         "4400 Steuerpflichtige Einnahmen",
         "4400-4499 EINNAHMEN NGV",
         "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4400-4499 EINNAHMEN NGV > 4400 Steuerpflichtige Einnahmen"
-        },
-        {
-            "lvl1": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4400-4499 EINNAHMEN NGV"
-        },
-        {
-            "lvl0": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4400-4499 EINNAHMEN NGV > 4400 Steuerpflichtige Einnahmen",
+    "hierarchicalCategories.lvl1": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4400-4499 EINNAHMEN NGV",
+    "hierarchicalCategories.lvl0": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung",
     "notes": "Konto f\u00fcr das Buchungsjahr 2018 neu eingef\u00fchrt.",
     "parent": "381598618cc0baf4bd0acca9cb0ad79b"
 }

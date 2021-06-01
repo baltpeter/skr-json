@@ -1,8 +1,9 @@
 {
-    "objectID": "ea9841bf34aacffb4f9b107a79629b83",
+    "id": "ea9841bf34aacffb4f9b107a79629b83",
     "name": "Maschinengebundene Werkzeuge",
     "type": "Aktiva",
     "code": "0460",
+    "sort-code": 460,
     "description": "",
     "categories": [
         "02. Technische Anlagen und Maschinen",
@@ -10,21 +11,11 @@
         "A. Anlageverm\u00f6gen",
         "Aktiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl3": "Aktiva > A. Anlageverm\u00f6gen > IV. Sachanlagen > 02. Technische Anlagen und Maschinen"
-        },
-        {
-            "lvl2": "Aktiva > A. Anlageverm\u00f6gen > IV. Sachanlagen"
-        },
-        {
-            "lvl1": "Aktiva > A. Anlageverm\u00f6gen"
-        },
-        {
-            "lvl0": "Aktiva"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl3": "Aktiva > A. Anlageverm\u00f6gen > IV. Sachanlagen > 02. Technische Anlagen und Maschinen",
+    "hierarchicalCategories.lvl2": "Aktiva > A. Anlageverm\u00f6gen > IV. Sachanlagen",
+    "hierarchicalCategories.lvl1": "Aktiva > A. Anlageverm\u00f6gen",
+    "hierarchicalCategories.lvl0": "Aktiva",
     "placeholder": false,
     "parent": "02e735cb2ec806f8049cfce36bbb3f91"
 }

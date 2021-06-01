@@ -1,25 +1,18 @@
 {
-    "objectID": "7d1ff52dd817244b44949cf90935c21b",
+    "id": "7d1ff52dd817244b44949cf90935c21b",
     "name": "Ausgegebene Geschenkgutscheine",
     "type": "Verbindlichkeit",
     "code": "1724",
+    "sort-code": 1724,
     "description": "Ausgegebene Geschenkgutscheine",
     "categories": [
         "1600-1989 Sonstige Verbindlichkeiten oder sonstige Verm\u00f6gensgegenst\u00e4nde",
         "1300-1989 VERBINDLICHKEITEN",
         "1 passive Verm\u00f6gensposten"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "1 passive Verm\u00f6gensposten > 1300-1989 VERBINDLICHKEITEN > 1600-1989 Sonstige Verbindlichkeiten oder sonstige Verm\u00f6gensgegenst\u00e4nde"
-        },
-        {
-            "lvl1": "1 passive Verm\u00f6gensposten > 1300-1989 VERBINDLICHKEITEN"
-        },
-        {
-            "lvl0": "1 passive Verm\u00f6gensposten"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "1 passive Verm\u00f6gensposten > 1300-1989 VERBINDLICHKEITEN > 1600-1989 Sonstige Verbindlichkeiten oder sonstige Verm\u00f6gensgegenst\u00e4nde",
+    "hierarchicalCategories.lvl1": "1 passive Verm\u00f6gensposten > 1300-1989 VERBINDLICHKEITEN",
+    "hierarchicalCategories.lvl0": "1 passive Verm\u00f6gensposten",
     "parent": "0fe80f91a76383ae0b204bcfd1630cf9"
 }

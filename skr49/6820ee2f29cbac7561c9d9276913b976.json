@@ -1,22 +1,17 @@
 {
-    "objectID": "6820ee2f29cbac7561c9d9276913b976",
+    "id": "6820ee2f29cbac7561c9d9276913b976",
     "name": "Verbindlichkeiten aus Lieferungen und Leistungen ohne Vorsteuer",
     "type": "Verbindlichkeit",
     "code": "9507",
+    "sort-code": 9507,
     "description": "Verbindlichkeiten aus Lieferungen und Leistungen ohne Vorsteuer",
     "categories": [
         "9500-9599 STATISTISCHE WERTE F\u00dcR ANLAGE E\u00dcR",
         "9 Statistik- & Vortragskonten"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "9 Statistik- & Vortragskonten > 9500-9599 STATISTISCHE WERTE F\u00dcR ANLAGE E\u00dcR"
-        },
-        {
-            "lvl0": "9 Statistik- & Vortragskonten"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl1": "9 Statistik- & Vortragskonten > 9500-9599 STATISTISCHE WERTE F\u00dcR ANLAGE E\u00dcR",
+    "hierarchicalCategories.lvl0": "9 Statistik- & Vortragskonten",
     "notes": "Veraltet, in der Version 2017 nicht mehr enthalten!",
     "placeholder": true,
     "parent": "baac2841267ad2422440263668815280"

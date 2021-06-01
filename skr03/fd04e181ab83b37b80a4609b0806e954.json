@@ -1,18 +1,15 @@
 {
-    "objectID": "fd04e181ab83b37b80a4609b0806e954",
+    "id": "fd04e181ab83b37b80a4609b0806e954",
     "name": "Erl\u00f6skonten 8",
     "type": "Ertrag",
     "code": -1,
+    "sort-code": 9999,
     "description": "",
     "categories": [
         "Erl\u00f6se u. Ertr\u00e4ge 2/8"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl0": "Erl\u00f6se u. Ertr\u00e4ge 2/8"
-        }
-    ],
     "leaf": false,
+    "hierarchicalCategories.lvl0": "Erl\u00f6se u. Ertr\u00e4ge 2/8",
     "placeholder": true,
     "parent": "3f31fc649f19b5201f22f7648c3f7107"
 }

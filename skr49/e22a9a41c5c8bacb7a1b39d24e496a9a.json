@@ -1,25 +1,18 @@
 {
-    "objectID": "e22a9a41c5c8bacb7a1b39d24e496a9a",
+    "id": "e22a9a41c5c8bacb7a1b39d24e496a9a",
     "name": "Nicht abziehbare Ausgaben Bereich 4000",
     "type": "Aufwand",
     "code": "3450",
+    "sort-code": 3450,
     "description": "Nicht abziehbare Ausgaben Bereich 4000",
     "categories": [
         "3400-3499 Verm\u00f6gensverwaltung",
         "3200-3899  ERTRAGSNEUTRALE POSTEN",
         "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN > 3400-3499 Verm\u00f6gensverwaltung"
-        },
-        {
-            "lvl1": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN"
-        },
-        {
-            "lvl0": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN > 3400-3499 Verm\u00f6gensverwaltung",
+    "hierarchicalCategories.lvl1": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN",
+    "hierarchicalCategories.lvl0": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten",
     "parent": "b914ab0aa307dc39252eee7daacab0fe"
 }

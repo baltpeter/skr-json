@@ -1,25 +1,18 @@
 {
-    "objectID": "d3fd2f3f890177529aa07906de780f3e",
+    "id": "d3fd2f3f890177529aa07906de780f3e",
     "name": "Sonstige Kosten ideeller Bereich",
     "type": "Aufwand",
     "code": "2900",
+    "sort-code": 2900,
     "description": "Sonstige Kosten ideeller Bereich",
     "categories": [
         "2510 \u00dcbrige Ausgaben",
         "2500-2999 AUSGABEN",
         "2 Erfolgskonten ideeller Bereich"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN > 2510 \u00dcbrige Ausgaben"
-        },
-        {
-            "lvl1": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN"
-        },
-        {
-            "lvl0": "2 Erfolgskonten ideeller Bereich"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN > 2510 \u00dcbrige Ausgaben",
+    "hierarchicalCategories.lvl1": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN",
+    "hierarchicalCategories.lvl0": "2 Erfolgskonten ideeller Bereich",
     "parent": "75d38fa3ae63128e2bd6a0ba80dc904b"
 }

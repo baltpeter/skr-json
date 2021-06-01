@@ -1,8 +1,9 @@
 {
-    "objectID": "c17a62ed7ccd7708afc6ee29f7783e79",
+    "id": "c17a62ed7ccd7708afc6ee29f7783e79",
     "name": "Wechselverbindlichkeiten (1-5 Jahre)",
     "type": "Verbindlichkeit",
     "code": "3380",
+    "sort-code": 3380,
     "description": "",
     "categories": [
         "Wechselverbindlichkeiten",
@@ -10,21 +11,11 @@
         "C. Verbindlichkeiten",
         "Passiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl3": "Passiva > C. Verbindlichkeiten > 05. Verbindlichkeiten aus der Annahme gezogener Wechsel und der Ausstellung eigener Wechsel > Wechselverbindlichkeiten"
-        },
-        {
-            "lvl2": "Passiva > C. Verbindlichkeiten > 05. Verbindlichkeiten aus der Annahme gezogener Wechsel und der Ausstellung eigener Wechsel"
-        },
-        {
-            "lvl1": "Passiva > C. Verbindlichkeiten"
-        },
-        {
-            "lvl0": "Passiva"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl3": "Passiva > C. Verbindlichkeiten > 05. Verbindlichkeiten aus der Annahme gezogener Wechsel und der Ausstellung eigener Wechsel > Wechselverbindlichkeiten",
+    "hierarchicalCategories.lvl2": "Passiva > C. Verbindlichkeiten > 05. Verbindlichkeiten aus der Annahme gezogener Wechsel und der Ausstellung eigener Wechsel",
+    "hierarchicalCategories.lvl1": "Passiva > C. Verbindlichkeiten",
+    "hierarchicalCategories.lvl0": "Passiva",
     "placeholder": false,
     "parent": "519d50149266a6b5e6ffbb05d85f7dc3"
 }

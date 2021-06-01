@@ -1,18 +1,15 @@
 {
-    "objectID": "0c8fe1fdff73fe37cdadc48114fb925b",
+    "id": "0c8fe1fdff73fe37cdadc48114fb925b",
     "name": "Zinsabschlagsteuer",
     "type": "Aufwand",
     "code": "7635",
+    "sort-code": 7635,
     "description": "",
     "categories": [
         "18. Steuern vom Einkommen und vom Ertrag"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl0": "18. Steuern vom Einkommen und vom Ertrag"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl0": "18. Steuern vom Einkommen und vom Ertrag",
     "placeholder": false,
     "parent": "b1f254106f1e487b31aad762ad1cca11"
 }

@@ -1,22 +1,17 @@
 {
-    "objectID": "045196223f1e151347db1f23d28b3dc5",
+    "id": "045196223f1e151347db1f23d28b3dc5",
     "name": "II. Forderungen und sonstige Verm\u00f6gensgegenst\u00e4nde",
     "type": "Aktiva",
     "code": -1,
+    "sort-code": 9999,
     "description": "SKR04 2005: 1200-1299",
     "categories": [
         "B. Umlaufverm\u00f6gen",
         "Aktiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "Aktiva > B. Umlaufverm\u00f6gen"
-        },
-        {
-            "lvl0": "Aktiva"
-        }
-    ],
     "leaf": false,
+    "hierarchicalCategories.lvl1": "Aktiva > B. Umlaufverm\u00f6gen",
+    "hierarchicalCategories.lvl0": "Aktiva",
     "placeholder": false,
     "parent": "3be1aa86d6868b006741b9af6777cf5f"
 }

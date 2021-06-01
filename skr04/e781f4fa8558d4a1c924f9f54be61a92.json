@@ -1,26 +1,19 @@
 {
-    "objectID": "e781f4fa8558d4a1c924f9f54be61a92",
+    "id": "e781f4fa8558d4a1c924f9f54be61a92",
     "name": "Aufwendungen f\u00fcr Altersversorgung f\u00fcr Mitunternehmer 15 EStG",
     "type": "Aufwand",
     "code": "6148",
+    "sort-code": 6148,
     "description": "",
     "categories": [
         "- davon f\u00fcr Altersversorgung",
         "b) soziale Abgaben und Aufwendungen f\u00fcr Altersversorgung und Unterst\u00fctzung",
         "06. Personalaufwand"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "06. Personalaufwand > b) soziale Abgaben und Aufwendungen f\u00fcr Altersversorgung und Unterst\u00fctzung > - davon f\u00fcr Altersversorgung"
-        },
-        {
-            "lvl1": "06. Personalaufwand > b) soziale Abgaben und Aufwendungen f\u00fcr Altersversorgung und Unterst\u00fctzung"
-        },
-        {
-            "lvl0": "06. Personalaufwand"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "06. Personalaufwand > b) soziale Abgaben und Aufwendungen f\u00fcr Altersversorgung und Unterst\u00fctzung > - davon f\u00fcr Altersversorgung",
+    "hierarchicalCategories.lvl1": "06. Personalaufwand > b) soziale Abgaben und Aufwendungen f\u00fcr Altersversorgung und Unterst\u00fctzung",
+    "hierarchicalCategories.lvl0": "06. Personalaufwand",
     "placeholder": false,
     "parent": "2906a27180c72875652cef912c773d4e"
 }

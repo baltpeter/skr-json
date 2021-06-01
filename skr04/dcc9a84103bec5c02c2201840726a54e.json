@@ -1,8 +1,9 @@
 {
-    "objectID": "dcc9a84103bec5c02c2201840726a54e",
+    "id": "dcc9a84103bec5c02c2201840726a54e",
     "name": "Gezeichnetes Kapital",
     "type": "Fremdkapital",
     "code": "2900",
+    "sort-code": 2900,
     "description": "",
     "categories": [
         "I. Gezeichnetes Kapital",
@@ -10,21 +11,11 @@
         "A. Eigenkapital",
         "Passiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl3": "Passiva > A. Eigenkapital > b) Kapitalgesellschaft > I. Gezeichnetes Kapital"
-        },
-        {
-            "lvl2": "Passiva > A. Eigenkapital > b) Kapitalgesellschaft"
-        },
-        {
-            "lvl1": "Passiva > A. Eigenkapital"
-        },
-        {
-            "lvl0": "Passiva"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl3": "Passiva > A. Eigenkapital > b) Kapitalgesellschaft > I. Gezeichnetes Kapital",
+    "hierarchicalCategories.lvl2": "Passiva > A. Eigenkapital > b) Kapitalgesellschaft",
+    "hierarchicalCategories.lvl1": "Passiva > A. Eigenkapital",
+    "hierarchicalCategories.lvl0": "Passiva",
     "placeholder": false,
     "parent": "5eeae8dd31cc6836e2af04d1e3bf00fd"
 }

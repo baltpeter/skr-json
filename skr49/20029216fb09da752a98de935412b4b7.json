@@ -1,8 +1,9 @@
 {
-    "objectID": "20029216fb09da752a98de935412b4b7",
+    "id": "20029216fb09da752a98de935412b4b7",
     "name": "Hauptkasse",
     "type": "Bargeld",
     "code": "0925",
+    "sort-code": 925,
     "description": "Hauptkasse",
     "categories": [
         "0920 Kasse",
@@ -10,20 +11,10 @@
         "0600-0989 UMLAUFVERM\u00d6GEN",
         "0 aktive Verm\u00f6gensposten"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl3": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0920-0960 Kasse, Bank > 0920 Kasse"
-        },
-        {
-            "lvl2": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0920-0960 Kasse, Bank"
-        },
-        {
-            "lvl1": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN"
-        },
-        {
-            "lvl0": "0 aktive Verm\u00f6gensposten"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl3": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0920-0960 Kasse, Bank > 0920 Kasse",
+    "hierarchicalCategories.lvl2": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0920-0960 Kasse, Bank",
+    "hierarchicalCategories.lvl1": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN",
+    "hierarchicalCategories.lvl0": "0 aktive Verm\u00f6gensposten",
     "parent": "2a94098580ee72f788ebbe9c966301ef"
 }

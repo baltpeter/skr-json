@@ -1,22 +1,17 @@
 {
-    "objectID": "62133a447283b07ff0502169b12fbd1c",
+    "id": "62133a447283b07ff0502169b12fbd1c",
     "name": "01. Fremdleistungen",
     "type": "Aufwand",
     "code": -1,
+    "sort-code": 9999,
     "description": "",
     "categories": [
         "b) Aufwendungen f\u00fcr bezogene Leistungen",
         "05. Materialaufwand"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "05. Materialaufwand > b) Aufwendungen f\u00fcr bezogene Leistungen"
-        },
-        {
-            "lvl0": "05. Materialaufwand"
-        }
-    ],
     "leaf": false,
+    "hierarchicalCategories.lvl1": "05. Materialaufwand > b) Aufwendungen f\u00fcr bezogene Leistungen",
+    "hierarchicalCategories.lvl0": "05. Materialaufwand",
     "placeholder": false,
     "parent": "7862bce521129521ac86d0326f7f8e3c"
 }

@@ -1,22 +1,17 @@
 {
-    "objectID": "1ab72d64e7b05bc69909c41a978c6a50",
+    "id": "1ab72d64e7b05bc69909c41a978c6a50",
     "name": "Zinsaufwendungen f\u00fcr Geb\u00e4ude, die zum Betriebsverm\u00f6gen geh\u00f6ren",
     "type": "Aufwand",
     "code": "7325",
+    "sort-code": 7325,
     "description": "",
     "categories": [
         "Zinsaufwendungen f\u00fcr langfristige Verbindlichkeiten",
         "13. Zinsen und \u00e4hnliche Aufwendungen"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "13. Zinsen und \u00e4hnliche Aufwendungen > Zinsaufwendungen f\u00fcr langfristige Verbindlichkeiten"
-        },
-        {
-            "lvl0": "13. Zinsen und \u00e4hnliche Aufwendungen"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl1": "13. Zinsen und \u00e4hnliche Aufwendungen > Zinsaufwendungen f\u00fcr langfristige Verbindlichkeiten",
+    "hierarchicalCategories.lvl0": "13. Zinsen und \u00e4hnliche Aufwendungen",
     "placeholder": false,
     "parent": "40bbf2cc46016fd17529264fd27c534d"
 }

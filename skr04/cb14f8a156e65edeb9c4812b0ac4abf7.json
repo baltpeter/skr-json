@@ -1,18 +1,15 @@
 {
-    "objectID": "cb14f8a156e65edeb9c4812b0ac4abf7",
+    "id": "cb14f8a156e65edeb9c4812b0ac4abf7",
     "name": "Investitionszulagen",
     "type": "Ertrag",
     "code": "4980",
+    "sort-code": 4980,
     "description": "(steuerfrei)",
     "categories": [
         "04. Sonstige betriebliche Ertr\u00e4ge"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl0": "04. Sonstige betriebliche Ertr\u00e4ge"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl0": "04. Sonstige betriebliche Ertr\u00e4ge",
     "placeholder": false,
     "parent": "4c0c1557fe54e71d7ed717587a0c0b4d"
 }

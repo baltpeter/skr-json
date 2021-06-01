@@ -1,22 +1,17 @@
 {
-    "objectID": "462e2c97bc903216acf22a7de1e2338e",
+    "id": "462e2c97bc903216acf22a7de1e2338e",
     "name": "Sonstige Zinsen und \u00e4hnliche Ertr\u00e4ge aus verbundenen Unternehmen",
     "type": "Ertrag",
     "code": "7109",
+    "sort-code": 7109,
     "description": "",
     "categories": [
         "- davon aus verbundenen Unternehmen",
         "11. sonstige Zinsen und \u00e4hnliche Ertr\u00e4ge"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "11. sonstige Zinsen und \u00e4hnliche Ertr\u00e4ge > - davon aus verbundenen Unternehmen"
-        },
-        {
-            "lvl0": "11. sonstige Zinsen und \u00e4hnliche Ertr\u00e4ge"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl1": "11. sonstige Zinsen und \u00e4hnliche Ertr\u00e4ge > - davon aus verbundenen Unternehmen",
+    "hierarchicalCategories.lvl0": "11. sonstige Zinsen und \u00e4hnliche Ertr\u00e4ge",
     "placeholder": false,
     "parent": "59da6822833517f51e97d993249a13a8"
 }

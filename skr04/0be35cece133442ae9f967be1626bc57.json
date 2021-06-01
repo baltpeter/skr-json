@@ -1,18 +1,15 @@
 {
-    "objectID": "0be35cece133442ae9f967be1626bc57",
+    "id": "0be35cece133442ae9f967be1626bc57",
     "name": "a) Umsatzerl\u00f6se",
     "type": "Ertrag",
     "code": -1,
+    "sort-code": 9999,
     "description": "",
     "categories": [
         "01. Betriebliche Ertr\u00e4ge"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl0": "01. Betriebliche Ertr\u00e4ge"
-        }
-    ],
     "leaf": false,
+    "hierarchicalCategories.lvl0": "01. Betriebliche Ertr\u00e4ge",
     "placeholder": false,
     "parent": "ef9980b6277cc8f46bc1b1411ea65c87"
 }

@@ -1,22 +1,17 @@
 {
-    "objectID": "a43b996f084945695da967e8d6b25762",
+    "id": "a43b996f084945695da967e8d6b25762",
     "name": "Laufende Ertr\u00e4ge aus Anteilen an Kapitalgesellschaften (verbundene Unternehmen) 100 % / 50 % steuerfrei",
     "type": "Ertrag",
     "code": "7006",
+    "sort-code": 7006,
     "description": "inl\u00e4ndische Kap.Ges.",
     "categories": [
         "- davon aus verbundenen Unternehmen",
         "09. Ertr\u00e4ge aus Beteiligungen"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "09. Ertr\u00e4ge aus Beteiligungen > - davon aus verbundenen Unternehmen"
-        },
-        {
-            "lvl0": "09. Ertr\u00e4ge aus Beteiligungen"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl1": "09. Ertr\u00e4ge aus Beteiligungen > - davon aus verbundenen Unternehmen",
+    "hierarchicalCategories.lvl0": "09. Ertr\u00e4ge aus Beteiligungen",
     "placeholder": false,
     "parent": "8bcd67f293fbb107bf8263d34cb6c114"
 }

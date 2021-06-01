@@ -1,18 +1,15 @@
 {
-    "objectID": "958bcef2a9a95bb7fb94cf890c32e22b",
+    "id": "958bcef2a9a95bb7fb94cf890c32e22b",
     "name": "Einstellungen in Sonderposten mit R\u00fccklageanteil (Ansparabschreibungen)",
     "type": "Aufwand",
     "code": "6926",
+    "sort-code": 6926,
     "description": "",
     "categories": [
         "08. sonstige betriebliche Aufwendungen"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl0": "08. sonstige betriebliche Aufwendungen"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl0": "08. sonstige betriebliche Aufwendungen",
     "placeholder": false,
     "parent": "cf7f94dcdeb53cd3d602ea87d83aba4e"
 }

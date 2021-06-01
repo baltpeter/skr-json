@@ -1,22 +1,17 @@
 {
-    "objectID": "7911b18245637ed89f2c415b63d70b4a",
+    "id": "7911b18245637ed89f2c415b63d70b4a",
     "name": "Abschreibungen auf Wertpapiere des Umlaufverm\u00f6gens 100% / 50% nicht abzugsf\u00e4hig",
     "type": "Aufwand",
     "code": "7214",
+    "sort-code": 7214,
     "description": "inl\u00e4ndische Kap.Ges.",
     "categories": [
         "Abschreibungen auf Finanzanlagen",
         "12. Abschreibungen auf Finanzanlagen und auf Wertpapiere des Umlaufverm\u00f6gens"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "12. Abschreibungen auf Finanzanlagen und auf Wertpapiere des Umlaufverm\u00f6gens > Abschreibungen auf Finanzanlagen"
-        },
-        {
-            "lvl0": "12. Abschreibungen auf Finanzanlagen und auf Wertpapiere des Umlaufverm\u00f6gens"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl1": "12. Abschreibungen auf Finanzanlagen und auf Wertpapiere des Umlaufverm\u00f6gens > Abschreibungen auf Finanzanlagen",
+    "hierarchicalCategories.lvl0": "12. Abschreibungen auf Finanzanlagen und auf Wertpapiere des Umlaufverm\u00f6gens",
     "placeholder": false,
     "parent": "330db1de3813d4b598b2646016d5bab4"
 }

@@ -1,26 +1,19 @@
 {
-    "objectID": "47bf618149cbf341315efa956d70097f",
+    "id": "47bf618149cbf341315efa956d70097f",
     "name": "04. Ausleihungen an Unternehmen, mit denen ein Beteiligungsverh\u00e4ltnis besteht",
     "type": "Aktiva",
     "code": "0880",
+    "sort-code": 880,
     "description": "",
     "categories": [
         "V. Finanzanlagen",
         "A. Anlageverm\u00f6gen",
         "Aktiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "Aktiva > A. Anlageverm\u00f6gen > V. Finanzanlagen"
-        },
-        {
-            "lvl1": "Aktiva > A. Anlageverm\u00f6gen"
-        },
-        {
-            "lvl0": "Aktiva"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "Aktiva > A. Anlageverm\u00f6gen > V. Finanzanlagen",
+    "hierarchicalCategories.lvl1": "Aktiva > A. Anlageverm\u00f6gen",
+    "hierarchicalCategories.lvl0": "Aktiva",
     "placeholder": false,
     "parent": "0c02303d139190b2cfded19f03caa096"
 }

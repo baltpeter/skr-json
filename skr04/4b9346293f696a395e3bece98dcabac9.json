@@ -1,8 +1,9 @@
 {
-    "objectID": "4b9346293f696a395e3bece98dcabac9",
+    "id": "4b9346293f696a395e3bece98dcabac9",
     "name": "Verbindlichkeiten f\u00fcr Einbehaltungen von Arbeitnehmern",
     "type": "Verbindlichkeit",
     "code": "3725",
+    "sort-code": 3725,
     "description": "",
     "categories": [
         "Verbindlichkeiten aus Lohn und Gehalt",
@@ -10,21 +11,11 @@
         "C. Verbindlichkeiten",
         "Passiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl3": "Passiva > C. Verbindlichkeiten > 08. sonstige Verbindlichkeiten > Verbindlichkeiten aus Lohn und Gehalt"
-        },
-        {
-            "lvl2": "Passiva > C. Verbindlichkeiten > 08. sonstige Verbindlichkeiten"
-        },
-        {
-            "lvl1": "Passiva > C. Verbindlichkeiten"
-        },
-        {
-            "lvl0": "Passiva"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl3": "Passiva > C. Verbindlichkeiten > 08. sonstige Verbindlichkeiten > Verbindlichkeiten aus Lohn und Gehalt",
+    "hierarchicalCategories.lvl2": "Passiva > C. Verbindlichkeiten > 08. sonstige Verbindlichkeiten",
+    "hierarchicalCategories.lvl1": "Passiva > C. Verbindlichkeiten",
+    "hierarchicalCategories.lvl0": "Passiva",
     "placeholder": false,
     "parent": "dfe419d26acef7e1ab26d3a8a8b7233e"
 }

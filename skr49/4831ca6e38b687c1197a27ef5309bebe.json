@@ -1,11 +1,11 @@
 {
-    "objectID": "4831ca6e38b687c1197a27ef5309bebe",
+    "id": "4831ca6e38b687c1197a27ef5309bebe",
     "name": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport",
     "type": "Ertrag",
     "code": "5",
+    "sort-code": 9999,
     "description": "Betriebseinnahmen und -Ausgaben aus steuerbeg\u00fcnstigten sportlichen Veranstaltungen gemeinn\u00fctziger Vereine",
     "categories": [],
-    "hierarchicalCategories": [],
     "leaf": false,
     "notes": "Klasse 5: Ergebnisposten (T\u00e4tigkeitsbereich 5000)\nBetriebseinnahmen und Betriebsausgaben aus steuerbeg\u00fcnstigten sportlichen Veranstaltungen gemeinn\u00fctziger Vereine nach \u00a767a Abs. 1 oder Abs. 3 S. 1 AO\nUSt-Hinweis: 0%/7%; USt-Vorsteuerabzug m\u00f6glich",
     "placeholder": true,

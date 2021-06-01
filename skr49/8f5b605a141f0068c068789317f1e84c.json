@@ -1,26 +1,19 @@
 {
-    "objectID": "8f5b605a141f0068c068789317f1e84c",
+    "id": "8f5b605a141f0068c068789317f1e84c",
     "name": "Einstellungen in freie R\u00fccklagen gem. \u00a762 Abs. 1 Nr. 3 AO",
     "type": "Aufwand",
     "code": "3965",
+    "sort-code": 3965,
     "description": "Einstellungen in die freien R\u00fccklagen gem\u00e4\u00df \u00a762 Abs. 1 Nr. 3 AO",
     "categories": [
         "3950-3967 Ergebnisverwendung",
         "3900-3999 ERGEBNISVERWENDUNGSRECHNUNG",
         "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3900-3999 ERGEBNISVERWENDUNGSRECHNUNG > 3950-3967 Ergebnisverwendung"
-        },
-        {
-            "lvl1": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3900-3999 ERGEBNISVERWENDUNGSRECHNUNG"
-        },
-        {
-            "lvl0": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3900-3999 ERGEBNISVERWENDUNGSRECHNUNG > 3950-3967 Ergebnisverwendung",
+    "hierarchicalCategories.lvl1": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3900-3999 ERGEBNISVERWENDUNGSRECHNUNG",
+    "hierarchicalCategories.lvl0": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten",
     "notes": "(ehelals gem\u00e4\u00df \u00a758 Nr. 7a AO)",
     "parent": "99ea548f62265618e1930a8c76d855fe"
 }

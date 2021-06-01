@@ -1,25 +1,18 @@
 {
-    "objectID": "4119ab1c21b0ad71a803315bc428bb53",
+    "id": "4119ab1c21b0ad71a803315bc428bb53",
     "name": "Anteilige Raumkosten",
     "type": "Aufwand",
     "code": "2660",
+    "sort-code": 2660,
     "description": "Anteilige Raumkosten",
     "categories": [
         "2660-2663 Raumkosten",
         "2500-2999 AUSGABEN",
         "2 Erfolgskonten ideeller Bereich"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN > 2660-2663 Raumkosten"
-        },
-        {
-            "lvl1": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN"
-        },
-        {
-            "lvl0": "2 Erfolgskonten ideeller Bereich"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN > 2660-2663 Raumkosten",
+    "hierarchicalCategories.lvl1": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN",
+    "hierarchicalCategories.lvl0": "2 Erfolgskonten ideeller Bereich",
     "parent": "6691583e74356457af663428b0554d55"
 }

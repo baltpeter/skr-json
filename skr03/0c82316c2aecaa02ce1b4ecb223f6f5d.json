@@ -1,21 +1,16 @@
 {
-    "objectID": "0c82316c2aecaa02ce1b4ecb223f6f5d",
+    "id": "0c82316c2aecaa02ce1b4ecb223f6f5d",
     "name": "Erl\u00f6se USt. 7%",
     "type": "Ertrag",
     "code": "8300",
+    "sort-code": 8300,
     "description": "",
     "categories": [
         "Erl\u00f6skonten 8",
         "Erl\u00f6se u. Ertr\u00e4ge 2/8"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "Erl\u00f6se u. Ertr\u00e4ge 2/8 > Erl\u00f6skonten 8"
-        },
-        {
-            "lvl0": "Erl\u00f6se u. Ertr\u00e4ge 2/8"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl1": "Erl\u00f6se u. Ertr\u00e4ge 2/8 > Erl\u00f6skonten 8",
+    "hierarchicalCategories.lvl0": "Erl\u00f6se u. Ertr\u00e4ge 2/8",
     "parent": "fd04e181ab83b37b80a4609b0806e954"
 }

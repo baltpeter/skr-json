@@ -1,8 +1,9 @@
 {
-    "objectID": "f5a464d13ca7974ba624215870a7becf",
+    "id": "f5a464d13ca7974ba624215870a7becf",
     "name": "Unentgeltliche Wertabgaben",
     "type": "Fremdkapital",
     "code": "2530",
+    "sort-code": 2530,
     "description": "",
     "categories": [
         "IV. Privat Teilhafter",
@@ -10,21 +11,11 @@
         "A. Eigenkapital",
         "Passiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl3": "Passiva > A. Eigenkapital > a) Personengesellschaft > IV. Privat Teilhafter"
-        },
-        {
-            "lvl2": "Passiva > A. Eigenkapital > a) Personengesellschaft"
-        },
-        {
-            "lvl1": "Passiva > A. Eigenkapital"
-        },
-        {
-            "lvl0": "Passiva"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl3": "Passiva > A. Eigenkapital > a) Personengesellschaft > IV. Privat Teilhafter",
+    "hierarchicalCategories.lvl2": "Passiva > A. Eigenkapital > a) Personengesellschaft",
+    "hierarchicalCategories.lvl1": "Passiva > A. Eigenkapital",
+    "hierarchicalCategories.lvl0": "Passiva",
     "placeholder": false,
     "parent": "3260c1391626c6d4390a92d314f6d047"
 }

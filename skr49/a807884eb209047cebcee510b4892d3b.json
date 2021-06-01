@@ -1,22 +1,17 @@
 {
-    "objectID": "a807884eb209047cebcee510b4892d3b",
+    "id": "a807884eb209047cebcee510b4892d3b",
     "name": "Aufnahmegeb\u00fchren",
     "type": "Ertrag",
     "code": "2150-2170",
+    "sort-code": 9999,
     "description": "Aufnahmegeb\u00fchren",
     "categories": [
         "2000 EINNAHMEN",
         "2 Erfolgskonten ideeller Bereich"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "2 Erfolgskonten ideeller Bereich > 2000 EINNAHMEN"
-        },
-        {
-            "lvl0": "2 Erfolgskonten ideeller Bereich"
-        }
-    ],
     "leaf": false,
+    "hierarchicalCategories.lvl1": "2 Erfolgskonten ideeller Bereich > 2000 EINNAHMEN",
+    "hierarchicalCategories.lvl0": "2 Erfolgskonten ideeller Bereich",
     "placeholder": true,
     "parent": "7f9acf479f01b83b7313ab3082f3e64a"
 }

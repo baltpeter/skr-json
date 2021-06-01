@@ -1,8 +1,9 @@
 {
-    "objectID": "e01fea25919cbdfc85d0feff5d55f1bc",
+    "id": "e01fea25919cbdfc85d0feff5d55f1bc",
     "name": "TZ-Verbindlichkeit. Kreditinstitut(1-5J)",
     "type": "Verbindlichkeit",
     "code": "3190",
+    "sort-code": 3190,
     "description": "",
     "categories": [
         "TZ-Verbindlichkeit. gg. Kreditinstituten",
@@ -10,21 +11,11 @@
         "C. Verbindlichkeiten",
         "Passiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl3": "Passiva > C. Verbindlichkeiten > 02. Verbindlichkeiten gegen\u00fcber Kreditinstituten > TZ-Verbindlichkeit. gg. Kreditinstituten"
-        },
-        {
-            "lvl2": "Passiva > C. Verbindlichkeiten > 02. Verbindlichkeiten gegen\u00fcber Kreditinstituten"
-        },
-        {
-            "lvl1": "Passiva > C. Verbindlichkeiten"
-        },
-        {
-            "lvl0": "Passiva"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl3": "Passiva > C. Verbindlichkeiten > 02. Verbindlichkeiten gegen\u00fcber Kreditinstituten > TZ-Verbindlichkeit. gg. Kreditinstituten",
+    "hierarchicalCategories.lvl2": "Passiva > C. Verbindlichkeiten > 02. Verbindlichkeiten gegen\u00fcber Kreditinstituten",
+    "hierarchicalCategories.lvl1": "Passiva > C. Verbindlichkeiten",
+    "hierarchicalCategories.lvl0": "Passiva",
     "placeholder": false,
     "parent": "347c9d781d57484ed9db61bd43358a91"
 }

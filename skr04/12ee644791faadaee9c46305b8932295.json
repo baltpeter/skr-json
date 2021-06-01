@@ -1,18 +1,15 @@
 {
-    "objectID": "12ee644791faadaee9c46305b8932295",
+    "id": "12ee644791faadaee9c46305b8932295",
     "name": "C. Rechnungsabgrenzungsposten Umlaufverm\u00f6gen",
     "type": "Aktiva",
     "code": -1,
+    "sort-code": 9999,
     "description": "Rechnungsabgrenzungsposten",
     "categories": [
         "Aktiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl0": "Aktiva"
-        }
-    ],
     "leaf": false,
+    "hierarchicalCategories.lvl0": "Aktiva",
     "notes": "1900-1999",
     "placeholder": true,
     "parent": "5431c68bfabcf5fdbef88abedd861198"

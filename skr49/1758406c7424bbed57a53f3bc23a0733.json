@@ -1,25 +1,18 @@
 {
-    "objectID": "1758406c7424bbed57a53f3bc23a0733",
+    "id": "1758406c7424bbed57a53f3bc23a0733",
     "name": "Aufl\u00f6sung Investitionsabzugsbetrag \u00a77g Abs. 2-4 EStG (Soll)",
     "type": "Aktiva",
     "code": "9975",
+    "sort-code": 9975,
     "description": "Aufl\u00f6sung Investitionsabzugsbetrag \u00a77g Abs. 2-4 EStG aus Korrekturen und R\u00fcckg\u00e4ngigmachung fr\u00fcherer Veranlagungszeitr\u00e4ume (Soll) \u2013 Gegenkonto zu 9974",
     "categories": [
         "9966-9975 Statistische Konten f\u00fcr den au\u00dferhalb der Bilanz zu ber\u00fccksichtigenden Investitionsabzugsbetrag",
         "9600-9998 WEITERE STATISTIK- UND VORTRAGSKONTEN",
         "9 Statistik- & Vortragskonten"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "9 Statistik- & Vortragskonten > 9600-9998 WEITERE STATISTIK- UND VORTRAGSKONTEN > 9966-9975 Statistische Konten f\u00fcr den au\u00dferhalb der Bilanz zu ber\u00fccksichtigenden Investitionsabzugsbetrag"
-        },
-        {
-            "lvl1": "9 Statistik- & Vortragskonten > 9600-9998 WEITERE STATISTIK- UND VORTRAGSKONTEN"
-        },
-        {
-            "lvl0": "9 Statistik- & Vortragskonten"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "9 Statistik- & Vortragskonten > 9600-9998 WEITERE STATISTIK- UND VORTRAGSKONTEN > 9966-9975 Statistische Konten f\u00fcr den au\u00dferhalb der Bilanz zu ber\u00fccksichtigenden Investitionsabzugsbetrag",
+    "hierarchicalCategories.lvl1": "9 Statistik- & Vortragskonten > 9600-9998 WEITERE STATISTIK- UND VORTRAGSKONTEN",
+    "hierarchicalCategories.lvl0": "9 Statistik- & Vortragskonten",
     "parent": "332ab057b6da4c93c7c19853adaf07b2"
 }

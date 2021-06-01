@@ -1,22 +1,17 @@
 {
-    "objectID": "7378d4441f6dd694f08bdf075a3c8912",
+    "id": "7378d4441f6dd694f08bdf075a3c8912",
     "name": "Forderungsverluste 15% USt",
     "type": "Aufwand",
     "code": "6937",
+    "sort-code": 6937,
     "description": "\u00fcbliche H\u00f6he",
     "categories": [
         "Forderungsverluste",
         "08. sonstige betriebliche Aufwendungen"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "08. sonstige betriebliche Aufwendungen > Forderungsverluste"
-        },
-        {
-            "lvl0": "08. sonstige betriebliche Aufwendungen"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl1": "08. sonstige betriebliche Aufwendungen > Forderungsverluste",
+    "hierarchicalCategories.lvl0": "08. sonstige betriebliche Aufwendungen",
     "placeholder": false,
     "parent": "18243e4b412ad0a904dc36d08b20f695"
 }

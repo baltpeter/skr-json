@@ -1,26 +1,19 @@
 {
-    "objectID": "86b6f4a37fd0dcea21e4aebcb7f04c5c",
+    "id": "86b6f4a37fd0dcea21e4aebcb7f04c5c",
     "name": "R\u00fcckstellungen f\u00fcr drohende Verluste aus schwebenden Gesch\u00e4ften",
     "type": "Fremdkapital",
     "code": "3092",
+    "sort-code": 3092,
     "description": "",
     "categories": [
         "03. Sonstige R\u00fcckstellungen",
         "B. R\u00fcckstellungen",
         "Passiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "Passiva > B. R\u00fcckstellungen > 03. Sonstige R\u00fcckstellungen"
-        },
-        {
-            "lvl1": "Passiva > B. R\u00fcckstellungen"
-        },
-        {
-            "lvl0": "Passiva"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "Passiva > B. R\u00fcckstellungen > 03. Sonstige R\u00fcckstellungen",
+    "hierarchicalCategories.lvl1": "Passiva > B. R\u00fcckstellungen",
+    "hierarchicalCategories.lvl0": "Passiva",
     "placeholder": false,
     "parent": "984e3a4bbeb1a32db7dd6df9437e6ee1"
 }

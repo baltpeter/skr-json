@@ -1,18 +1,15 @@
 {
-    "objectID": "9ae1bd620b72585ccb331cd711dcf928",
+    "id": "9ae1bd620b72585ccb331cd711dcf928",
     "name": "Sonstige Aufwendungen unregelm\u00e4\u00dfig",
     "type": "Aufwand",
     "code": "6969",
+    "sort-code": 6969,
     "description": "",
     "categories": [
         "08. sonstige betriebliche Aufwendungen"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl0": "08. sonstige betriebliche Aufwendungen"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl0": "08. sonstige betriebliche Aufwendungen",
     "placeholder": false,
     "parent": "cf7f94dcdeb53cd3d602ea87d83aba4e"
 }

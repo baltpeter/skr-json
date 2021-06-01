@@ -1,8 +1,9 @@
 {
-    "objectID": "62e0ed66a661b90fbf2a4405caa18391",
+    "id": "62e0ed66a661b90fbf2a4405caa18391",
     "name": "Verkaufserl\u00f6se Anlageverm\u00f6gen 0% USt",
     "type": "Ertrag",
     "code": "3421",
+    "sort-code": 3421,
     "description": "Ertr\u00e4ge aus dem Abgang von Gegenst\u00e4nden des Anlageverm\u00f6gens ertragsteuerfrei 0% USt",
     "categories": [
         "3420 Verkaufserl\u00f6se Verm\u00f6gensverwaltung",
@@ -11,23 +12,11 @@
         "3200-3899  ERTRAGSNEUTRALE POSTEN",
         "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl4": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN > 3400-3499 Verm\u00f6gensverwaltung > 3400 Steuerneutrale Einnahmen Bereich 4000 > 3420 Verkaufserl\u00f6se Verm\u00f6gensverwaltung"
-        },
-        {
-            "lvl3": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN > 3400-3499 Verm\u00f6gensverwaltung > 3400 Steuerneutrale Einnahmen Bereich 4000"
-        },
-        {
-            "lvl2": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN > 3400-3499 Verm\u00f6gensverwaltung"
-        },
-        {
-            "lvl1": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN"
-        },
-        {
-            "lvl0": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl4": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN > 3400-3499 Verm\u00f6gensverwaltung > 3400 Steuerneutrale Einnahmen Bereich 4000 > 3420 Verkaufserl\u00f6se Verm\u00f6gensverwaltung",
+    "hierarchicalCategories.lvl3": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN > 3400-3499 Verm\u00f6gensverwaltung > 3400 Steuerneutrale Einnahmen Bereich 4000",
+    "hierarchicalCategories.lvl2": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN > 3400-3499 Verm\u00f6gensverwaltung",
+    "hierarchicalCategories.lvl1": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN",
+    "hierarchicalCategories.lvl0": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten",
     "parent": "2b59f03d031bfd56b14e206734773fe7"
 }

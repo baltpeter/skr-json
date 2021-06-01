@@ -1,21 +1,16 @@
 {
-    "objectID": "b5d6461bb3028d13faa8bee2981925a1",
+    "id": "b5d6461bb3028d13faa8bee2981925a1",
     "name": "Reparatur u. Instandh. von Anlagen/Maschinen u. Betriebs- u. Gesch\u00e4ftsausst.",
     "type": "Aufwand",
     "code": "4805",
+    "sort-code": 4805,
     "description": "",
     "categories": [
         "Reparatur/Instandhaltung",
         "Aufwendungen 2/4"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "Aufwendungen 2/4 > Reparatur/Instandhaltung"
-        },
-        {
-            "lvl0": "Aufwendungen 2/4"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl1": "Aufwendungen 2/4 > Reparatur/Instandhaltung",
+    "hierarchicalCategories.lvl0": "Aufwendungen 2/4",
     "parent": "accaec28a4afcf3c82570da4c9343c2d"
 }

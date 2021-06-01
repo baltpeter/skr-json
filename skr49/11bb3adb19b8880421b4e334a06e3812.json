@@ -1,25 +1,18 @@
 {
-    "objectID": "11bb3adb19b8880421b4e334a06e3812",
+    "id": "11bb3adb19b8880421b4e334a06e3812",
     "name": "Vereinskleidung",
     "type": "Aktiva",
     "code": "0305",
+    "sort-code": 305,
     "description": "Vereinskleidung",
     "categories": [
         "0300 Vereinsausstattung",
         "0250-0599 ANDERE ANLAGEN, BETRIEBS- UND GESCH\u00c4FTSAUSSTATTUNG",
         "0 aktive Verm\u00f6gensposten"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "0 aktive Verm\u00f6gensposten > 0250-0599 ANDERE ANLAGEN, BETRIEBS- UND GESCH\u00c4FTSAUSSTATTUNG > 0300 Vereinsausstattung"
-        },
-        {
-            "lvl1": "0 aktive Verm\u00f6gensposten > 0250-0599 ANDERE ANLAGEN, BETRIEBS- UND GESCH\u00c4FTSAUSSTATTUNG"
-        },
-        {
-            "lvl0": "0 aktive Verm\u00f6gensposten"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "0 aktive Verm\u00f6gensposten > 0250-0599 ANDERE ANLAGEN, BETRIEBS- UND GESCH\u00c4FTSAUSSTATTUNG > 0300 Vereinsausstattung",
+    "hierarchicalCategories.lvl1": "0 aktive Verm\u00f6gensposten > 0250-0599 ANDERE ANLAGEN, BETRIEBS- UND GESCH\u00c4FTSAUSSTATTUNG",
+    "hierarchicalCategories.lvl0": "0 aktive Verm\u00f6gensposten",
     "parent": "3fbd54ad3e051bfe7ab9ae141ffa21f8"
 }

@@ -1,22 +1,17 @@
 {
-    "objectID": "e98ae511eab7e00712870af910a33ce0",
+    "id": "e98ae511eab7e00712870af910a33ce0",
     "name": "04. Verbindlichkeiten aus Lieferungen und Leistungen",
     "type": "Verbindlichkeit",
     "code": -1,
+    "sort-code": 9999,
     "description": "",
     "categories": [
         "C. Verbindlichkeiten",
         "Passiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "Passiva > C. Verbindlichkeiten"
-        },
-        {
-            "lvl0": "Passiva"
-        }
-    ],
     "leaf": false,
+    "hierarchicalCategories.lvl1": "Passiva > C. Verbindlichkeiten",
+    "hierarchicalCategories.lvl0": "Passiva",
     "placeholder": true,
     "parent": "8755bf4081c942798c5ac5f34c5b1aac"
 }

@@ -1,25 +1,18 @@
 {
-    "objectID": "868771e1759fad21cabbb1e84963b505",
+    "id": "868771e1759fad21cabbb1e84963b505",
     "name": "Abschreibungen Anlageverm\u00f6gen",
     "type": "Aufwand",
     "code": "2500",
+    "sort-code": 2500,
     "description": "Abschreibungen Anlageverm\u00f6gen",
     "categories": [
         "2500-2502 Abschreibungen",
         "2500-2999 AUSGABEN",
         "2 Erfolgskonten ideeller Bereich"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN > 2500-2502 Abschreibungen"
-        },
-        {
-            "lvl1": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN"
-        },
-        {
-            "lvl0": "2 Erfolgskonten ideeller Bereich"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN > 2500-2502 Abschreibungen",
+    "hierarchicalCategories.lvl1": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN",
+    "hierarchicalCategories.lvl0": "2 Erfolgskonten ideeller Bereich",
     "parent": "eb1011daa10992671560e011a2b3cc48"
 }

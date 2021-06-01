@@ -1,22 +1,17 @@
 {
-    "objectID": "80b1d48962ca79526f05164c4ded631a",
+    "id": "80b1d48962ca79526f05164c4ded631a",
     "name": "Steuernachzahlungen Vorjahre f\u00fcr sonstige Steuern",
     "type": "Aufwand",
     "code": "7690",
+    "sort-code": 7690,
     "description": "",
     "categories": [
         "Sonstige Steuern",
         "19. sonstige Steuern"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "19. sonstige Steuern > Sonstige Steuern"
-        },
-        {
-            "lvl0": "19. sonstige Steuern"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl1": "19. sonstige Steuern > Sonstige Steuern",
+    "hierarchicalCategories.lvl0": "19. sonstige Steuern",
     "placeholder": false,
     "parent": "a5866629e278f3178e1a89e670c364f1"
 }

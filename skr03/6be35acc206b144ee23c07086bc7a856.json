@@ -1,21 +1,16 @@
 {
-    "objectID": "6be35acc206b144ee23c07086bc7a856",
+    "id": "6be35acc206b144ee23c07086bc7a856",
     "name": "Fortbildungskosten",
     "type": "Aufwand",
     "code": "4945",
+    "sort-code": 4945,
     "description": "",
     "categories": [
         "verschiedene Kosten",
         "Aufwendungen 2/4"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "Aufwendungen 2/4 > verschiedene Kosten"
-        },
-        {
-            "lvl0": "Aufwendungen 2/4"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl1": "Aufwendungen 2/4 > verschiedene Kosten",
+    "hierarchicalCategories.lvl0": "Aufwendungen 2/4",
     "parent": "d0c00095e4b00f9f25253307be05e885"
 }

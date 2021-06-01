@@ -1,8 +1,9 @@
 {
-    "objectID": "8449c6153d3a4ea059a5a9d2a86d61b6",
+    "id": "8449c6153d3a4ea059a5a9d2a86d61b6",
     "name": "Einstellungen in die Kapitalr\u00fccklage nach den Vorschriften \u00fcber die vereinfachte Kapitalherabsetzung",
     "type": "Aufwand",
     "code": "3988",
+    "sort-code": 3988,
     "description": "VERALTET!",
     "categories": [
         "3980-3989 Ergebnisverwendung (GmbHs)",
@@ -10,21 +11,11 @@
         "3900-3999 ERGEBNISVERWENDUNGSRECHNUNG",
         "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl3": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3900-3999 ERGEBNISVERWENDUNGSRECHNUNG > 3968-3988 Ergebnisverwendung (Stiftungen & GmbHs) > 3980-3989 Ergebnisverwendung (GmbHs)"
-        },
-        {
-            "lvl2": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3900-3999 ERGEBNISVERWENDUNGSRECHNUNG > 3968-3988 Ergebnisverwendung (Stiftungen & GmbHs)"
-        },
-        {
-            "lvl1": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3900-3999 ERGEBNISVERWENDUNGSRECHNUNG"
-        },
-        {
-            "lvl0": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl3": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3900-3999 ERGEBNISVERWENDUNGSRECHNUNG > 3968-3988 Ergebnisverwendung (Stiftungen & GmbHs) > 3980-3989 Ergebnisverwendung (GmbHs)",
+    "hierarchicalCategories.lvl2": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3900-3999 ERGEBNISVERWENDUNGSRECHNUNG > 3968-3988 Ergebnisverwendung (Stiftungen & GmbHs)",
+    "hierarchicalCategories.lvl1": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3900-3999 ERGEBNISVERWENDUNGSRECHNUNG",
+    "hierarchicalCategories.lvl0": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten",
     "notes": "verschoben nach 3969",
     "placeholder": true,
     "parent": "503b475a143f854fb30218487f913493"

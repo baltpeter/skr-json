@@ -1,21 +1,16 @@
 {
-    "objectID": "1bf9f2675a36b278adcf6da68a7e4cbe",
+    "id": "1bf9f2675a36b278adcf6da68a7e4cbe",
     "name": "Verblk. aus Lieferungen u. Leistungen",
     "type": "Verbindlichkeit",
     "code": "1600",
+    "sort-code": 1600,
     "description": "",
     "categories": [
         "Verbindlichkeiten",
         "Passiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "Passiva > Verbindlichkeiten"
-        },
-        {
-            "lvl0": "Passiva"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl1": "Passiva > Verbindlichkeiten",
+    "hierarchicalCategories.lvl0": "Passiva",
     "parent": "a31fca8b7c5eb2cb0111f1f97696ac93"
 }

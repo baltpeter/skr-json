@@ -1,26 +1,19 @@
 {
-    "objectID": "f75dc0f9db3f601a8531922e22db5aa1",
+    "id": "f75dc0f9db3f601a8531922e22db5aa1",
     "name": "Verbindlichkeiten aus Lieferungen und Leistungen gegen\u00fcber Gesellschaftern",
     "type": "Verbindlichkeit",
     "code": "3420",
+    "sort-code": 3420,
     "description": "",
     "categories": [
         "06. Verbindlichkeiten gegen\u00fcber verbundenen Untenehmen",
         "C. Verbindlichkeiten",
         "Passiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "Passiva > C. Verbindlichkeiten > 06. Verbindlichkeiten gegen\u00fcber verbundenen Untenehmen"
-        },
-        {
-            "lvl1": "Passiva > C. Verbindlichkeiten"
-        },
-        {
-            "lvl0": "Passiva"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "Passiva > C. Verbindlichkeiten > 06. Verbindlichkeiten gegen\u00fcber verbundenen Untenehmen",
+    "hierarchicalCategories.lvl1": "Passiva > C. Verbindlichkeiten",
+    "hierarchicalCategories.lvl0": "Passiva",
     "placeholder": true,
     "parent": "c0e507fe6c93db3fb2e93205c33d49db"
 }

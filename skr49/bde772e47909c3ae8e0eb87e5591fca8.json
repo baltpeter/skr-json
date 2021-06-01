@@ -1,26 +1,19 @@
 {
-    "objectID": "bde772e47909c3ae8e0eb87e5591fca8",
+    "id": "bde772e47909c3ae8e0eb87e5591fca8",
     "name": "L\u00f6hne und Geh\u00e4lter",
     "type": "Aufwand",
     "code": "4980",
+    "sort-code": 4980,
     "description": "L\u00f6hne und Geh\u00e4lter",
     "categories": [
         "4980-4999 Personalaufwand",
         "4500-4999 AUSGABEN / WERBUNGSKOSTEN",
         "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4500-4999 AUSGABEN / WERBUNGSKOSTEN > 4980-4999 Personalaufwand"
-        },
-        {
-            "lvl1": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4500-4999 AUSGABEN / WERBUNGSKOSTEN"
-        },
-        {
-            "lvl0": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4500-4999 AUSGABEN / WERBUNGSKOSTEN > 4980-4999 Personalaufwand",
+    "hierarchicalCategories.lvl1": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4500-4999 AUSGABEN / WERBUNGSKOSTEN",
+    "hierarchicalCategories.lvl0": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung",
     "notes": "Konto f\u00fcr das Buchungsjahr 2017 neu eingef\u00fchrt.",
     "parent": "075885856ca2bb9d9883f21530fc113f"
 }

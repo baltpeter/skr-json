@@ -1,18 +1,15 @@
 {
-    "objectID": "bf4eff8eec48c2bb0359d5bb8a4c2ca0",
+    "id": "bf4eff8eec48c2bb0359d5bb8a4c2ca0",
     "name": "ERGEBNISUMBUCHUNG NACH 8980",
     "type": "Ertrag",
     "code": "6990-6999",
+    "sort-code": 9999,
     "description": "ERGEBNISUMBUCHUNG NACH 8980",
     "categories": [
         "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl0": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe"
-        }
-    ],
     "leaf": false,
+    "hierarchicalCategories.lvl0": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe",
     "placeholder": true,
     "parent": "e4fe21e792713de019d70850d5e5f6f9"
 }

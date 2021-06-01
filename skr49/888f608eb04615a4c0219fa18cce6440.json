@@ -1,25 +1,18 @@
 {
-    "objectID": "888f608eb04615a4c0219fa18cce6440",
+    "id": "888f608eb04615a4c0219fa18cce6440",
     "name": "Repr\u00e4sentationskosten",
     "type": "Aufwand",
     "code": "2810",
+    "sort-code": 2810,
     "description": "Repr\u00e4sentationskosten",
     "categories": [
         "2510 \u00dcbrige Ausgaben",
         "2500-2999 AUSGABEN",
         "2 Erfolgskonten ideeller Bereich"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN > 2510 \u00dcbrige Ausgaben"
-        },
-        {
-            "lvl1": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN"
-        },
-        {
-            "lvl0": "2 Erfolgskonten ideeller Bereich"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN > 2510 \u00dcbrige Ausgaben",
+    "hierarchicalCategories.lvl1": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN",
+    "hierarchicalCategories.lvl0": "2 Erfolgskonten ideeller Bereich",
     "parent": "75d38fa3ae63128e2bd6a0ba80dc904b"
 }

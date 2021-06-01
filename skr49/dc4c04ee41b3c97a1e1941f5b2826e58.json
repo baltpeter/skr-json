@@ -1,8 +1,9 @@
 {
-    "objectID": "dc4c04ee41b3c97a1e1941f5b2826e58",
+    "id": "dc4c04ee41b3c97a1e1941f5b2826e58",
     "name": "Aufzuteilende Vorsteuer",
     "type": "Aufwand",
     "code": "4905",
+    "sort-code": 4905,
     "description": "Aufzuteilende Vorsteuer Klasse 4",
     "categories": [
         "4904-4907 Umsatzsteuer",
@@ -10,21 +11,11 @@
         "4500-4999 AUSGABEN / WERBUNGSKOSTEN",
         "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl3": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4500-4999 AUSGABEN / WERBUNGSKOSTEN > 4510 Ausgaben Bereich 4000 > 4904-4907 Umsatzsteuer"
-        },
-        {
-            "lvl2": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4500-4999 AUSGABEN / WERBUNGSKOSTEN > 4510 Ausgaben Bereich 4000"
-        },
-        {
-            "lvl1": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4500-4999 AUSGABEN / WERBUNGSKOSTEN"
-        },
-        {
-            "lvl0": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl3": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4500-4999 AUSGABEN / WERBUNGSKOSTEN > 4510 Ausgaben Bereich 4000 > 4904-4907 Umsatzsteuer",
+    "hierarchicalCategories.lvl2": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4500-4999 AUSGABEN / WERBUNGSKOSTEN > 4510 Ausgaben Bereich 4000",
+    "hierarchicalCategories.lvl1": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4500-4999 AUSGABEN / WERBUNGSKOSTEN",
+    "hierarchicalCategories.lvl0": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung",
     "notes": "Nur f\u00fcr \u00dcberschussrechner!",
     "parent": "b6df49eb2d52683b0384bbcb21020f71"
 }

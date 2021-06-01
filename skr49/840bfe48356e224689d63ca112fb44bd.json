@@ -1,8 +1,9 @@
 {
-    "objectID": "840bfe48356e224689d63ca112fb44bd",
+    "id": "840bfe48356e224689d63ca112fb44bd",
     "name": "Besitzwechsel <1 Jahr gegen Unternehmen, mit denen ein Beteiligungsverh\u00e4ltnis besteht",
     "type": "Forderung",
     "code": "0694",
+    "sort-code": 694,
     "description": "Besitzwechsel gegen Unternehmen, mit denen ein Beteiligungsverh\u00e4ltnis besteht \u2013 Restlaufzeit bis 1 Jahr",
     "categories": [
         "0693 Besitzwechsel gegen Unternehmen, mit denen ein Beteiligungsverh\u00e4ltnis besteht",
@@ -11,23 +12,11 @@
         "0600-0989 UMLAUFVERM\u00d6GEN",
         "0 aktive Verm\u00f6gensposten"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl4": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde > 0677-0678+0690-0699 Forderungen / Verbindlichkeiten (Unternehmen, mit denen ein Beteiligungsverh\u00e4ltnis besteht) > 0693 Besitzwechsel gegen Unternehmen, mit denen ein Beteiligungsverh\u00e4ltnis besteht"
-        },
-        {
-            "lvl3": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde > 0677-0678+0690-0699 Forderungen / Verbindlichkeiten (Unternehmen, mit denen ein Beteiligungsverh\u00e4ltnis besteht)"
-        },
-        {
-            "lvl2": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde"
-        },
-        {
-            "lvl1": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN"
-        },
-        {
-            "lvl0": "0 aktive Verm\u00f6gensposten"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl4": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde > 0677-0678+0690-0699 Forderungen / Verbindlichkeiten (Unternehmen, mit denen ein Beteiligungsverh\u00e4ltnis besteht) > 0693 Besitzwechsel gegen Unternehmen, mit denen ein Beteiligungsverh\u00e4ltnis besteht",
+    "hierarchicalCategories.lvl3": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde > 0677-0678+0690-0699 Forderungen / Verbindlichkeiten (Unternehmen, mit denen ein Beteiligungsverh\u00e4ltnis besteht)",
+    "hierarchicalCategories.lvl2": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde",
+    "hierarchicalCategories.lvl1": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN",
+    "hierarchicalCategories.lvl0": "0 aktive Verm\u00f6gensposten",
     "parent": "ea90cc880bb03135c5a9879afb3b6eff"
 }

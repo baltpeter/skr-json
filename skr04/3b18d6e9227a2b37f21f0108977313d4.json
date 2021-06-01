@@ -1,22 +1,17 @@
 {
-    "objectID": "3b18d6e9227a2b37f21f0108977313d4",
+    "id": "3b18d6e9227a2b37f21f0108977313d4",
     "name": "In Dauerschuldzinsen umqualifizierte Zinsen auf kurzfristige Verbindlichkeiten",
     "type": "Aufwand",
     "code": "7318",
+    "sort-code": 7318,
     "description": "",
     "categories": [
         "Zinsaufwendungen f\u00fcr kurzfristige Verbindlichkeiten",
         "13. Zinsen und \u00e4hnliche Aufwendungen"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "13. Zinsen und \u00e4hnliche Aufwendungen > Zinsaufwendungen f\u00fcr kurzfristige Verbindlichkeiten"
-        },
-        {
-            "lvl0": "13. Zinsen und \u00e4hnliche Aufwendungen"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl1": "13. Zinsen und \u00e4hnliche Aufwendungen > Zinsaufwendungen f\u00fcr kurzfristige Verbindlichkeiten",
+    "hierarchicalCategories.lvl0": "13. Zinsen und \u00e4hnliche Aufwendungen",
     "placeholder": false,
     "parent": "71a9174e0b5d1b37537fbaae957435e9"
 }

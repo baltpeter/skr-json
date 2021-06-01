@@ -1,18 +1,15 @@
 {
-    "objectID": "b53dd07c847bd10d5d6c7005a76c3a96",
+    "id": "b53dd07c847bd10d5d6c7005a76c3a96",
     "name": "Saldenvortr\u00e4ge Kreditoren",
     "type": "Eigenkapital",
     "code": "9009",
+    "sort-code": 9009,
     "description": "",
     "categories": [
         "Anfangsbestand"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl0": "Anfangsbestand"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl0": "Anfangsbestand",
     "placeholder": false,
     "parent": "e57d948c9a884e179bd090118b9212f8"
 }

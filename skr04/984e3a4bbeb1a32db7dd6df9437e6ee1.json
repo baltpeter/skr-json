@@ -1,22 +1,17 @@
 {
-    "objectID": "984e3a4bbeb1a32db7dd6df9437e6ee1",
+    "id": "984e3a4bbeb1a32db7dd6df9437e6ee1",
     "name": "03. Sonstige R\u00fcckstellungen",
     "type": "Fremdkapital",
     "code": "3070",
+    "sort-code": 3070,
     "description": "",
     "categories": [
         "B. R\u00fcckstellungen",
         "Passiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "Passiva > B. R\u00fcckstellungen"
-        },
-        {
-            "lvl0": "Passiva"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl1": "Passiva > B. R\u00fcckstellungen",
+    "hierarchicalCategories.lvl0": "Passiva",
     "placeholder": true,
     "parent": "2b4ee42a89a642847e32a71e03b95976"
 }

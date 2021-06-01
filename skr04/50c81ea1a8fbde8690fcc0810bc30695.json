@@ -1,26 +1,19 @@
 {
-    "objectID": "50c81ea1a8fbde8690fcc0810bc30695",
+    "id": "50c81ea1a8fbde8690fcc0810bc30695",
     "name": "Finanzmittelanlagen im Rahmen der kurzfristigen Finanzdisposition",
     "type": "Bank",
     "code": "1890",
+    "sort-code": 1890,
     "description": "",
     "categories": [
         "IV. Kassenbestand, Bundesbankguthaben, Guthaben bei Kreditinstituten und Schecks",
         "B. Umlaufverm\u00f6gen",
         "Aktiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "Aktiva > B. Umlaufverm\u00f6gen > IV. Kassenbestand, Bundesbankguthaben, Guthaben bei Kreditinstituten und Schecks"
-        },
-        {
-            "lvl1": "Aktiva > B. Umlaufverm\u00f6gen"
-        },
-        {
-            "lvl0": "Aktiva"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "Aktiva > B. Umlaufverm\u00f6gen > IV. Kassenbestand, Bundesbankguthaben, Guthaben bei Kreditinstituten und Schecks",
+    "hierarchicalCategories.lvl1": "Aktiva > B. Umlaufverm\u00f6gen",
+    "hierarchicalCategories.lvl0": "Aktiva",
     "placeholder": false,
     "parent": "9743059255b8318a7eb5ba07b2dd3e0e"
 }

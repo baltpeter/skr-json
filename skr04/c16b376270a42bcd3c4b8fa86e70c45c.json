@@ -1,22 +1,17 @@
 {
-    "objectID": "c16b376270a42bcd3c4b8fa86e70c45c",
+    "id": "c16b376270a42bcd3c4b8fa86e70c45c",
     "name": "Verwendung von Gegenst\u00e4nden 16% USt",
     "type": "Ertrag",
     "code": "4640",
+    "sort-code": 4640,
     "description": "",
     "categories": [
         "Unentgeltliche Wertabgaben",
         "01. Betriebliche Ertr\u00e4ge"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "01. Betriebliche Ertr\u00e4ge > Unentgeltliche Wertabgaben"
-        },
-        {
-            "lvl0": "01. Betriebliche Ertr\u00e4ge"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl1": "01. Betriebliche Ertr\u00e4ge > Unentgeltliche Wertabgaben",
+    "hierarchicalCategories.lvl0": "01. Betriebliche Ertr\u00e4ge",
     "placeholder": false,
     "parent": "ce8895363d9f2d01b9f4f733ab7b02db"
 }

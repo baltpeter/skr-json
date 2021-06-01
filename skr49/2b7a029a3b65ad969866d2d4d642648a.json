@@ -1,21 +1,16 @@
 {
-    "objectID": "2b7a029a3b65ad969866d2d4d642648a",
+    "id": "2b7a029a3b65ad969866d2d4d642648a",
     "name": "Umgebuchte Einnahmen",
     "type": "Ertrag",
     "code": "5990",
+    "sort-code": 5990,
     "description": "Umgebuchte Einnahmen B 5000 (Gegenkonto 8980)",
     "categories": [
         "5990-5999 ERGEBNISUMBUCHUNG NACH 8980",
         "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5990-5999 ERGEBNISUMBUCHUNG NACH 8980"
-        },
-        {
-            "lvl0": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl1": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport > 5990-5999 ERGEBNISUMBUCHUNG NACH 8980",
+    "hierarchicalCategories.lvl0": "5 Erfolgskonten f\u00fcr ertragssteuerfreie Zweckbetriebe Sport",
     "parent": "c4d63e3d1d38c5ad373635a0498a3295"
 }

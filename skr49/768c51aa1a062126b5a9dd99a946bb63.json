@@ -1,22 +1,17 @@
 {
-    "objectID": "768c51aa1a062126b5a9dd99a946bb63",
+    "id": "768c51aa1a062126b5a9dd99a946bb63",
     "name": "Ideeller Bereich",
     "type": "Ertrag",
     "code": "3200-3399",
+    "sort-code": 9999,
     "description": "Ideeller Bereich",
     "categories": [
         "3200-3899  ERTRAGSNEUTRALE POSTEN",
         "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN"
-        },
-        {
-            "lvl0": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
-        }
-    ],
     "leaf": false,
+    "hierarchicalCategories.lvl1": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN",
+    "hierarchicalCategories.lvl0": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten",
     "placeholder": true,
     "parent": "4cab17561d5837bb03169cd54a4fd601"
 }

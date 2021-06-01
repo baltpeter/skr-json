@@ -1,8 +1,9 @@
 {
-    "objectID": "cbaf4a3b3dff714b13e18bb9b7d32f2b",
+    "id": "cbaf4a3b3dff714b13e18bb9b7d32f2b",
     "name": "Darlehen ohne Restlaufzeitvermerk",
     "type": "Verbindlichkeit",
     "code": "1635-1678",
+    "sort-code": 9999,
     "description": "Darlehen, frei, in Bilanz kein Restlaufzeitvermerk",
     "categories": [
         "1630 Darlehen",
@@ -10,21 +11,11 @@
         "1300-1989 VERBINDLICHKEITEN",
         "1 passive Verm\u00f6gensposten"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl3": "1 passive Verm\u00f6gensposten > 1300-1989 VERBINDLICHKEITEN > 1600-1989 Sonstige Verbindlichkeiten oder sonstige Verm\u00f6gensgegenst\u00e4nde > 1630 Darlehen"
-        },
-        {
-            "lvl2": "1 passive Verm\u00f6gensposten > 1300-1989 VERBINDLICHKEITEN > 1600-1989 Sonstige Verbindlichkeiten oder sonstige Verm\u00f6gensgegenst\u00e4nde"
-        },
-        {
-            "lvl1": "1 passive Verm\u00f6gensposten > 1300-1989 VERBINDLICHKEITEN"
-        },
-        {
-            "lvl0": "1 passive Verm\u00f6gensposten"
-        }
-    ],
     "leaf": false,
+    "hierarchicalCategories.lvl3": "1 passive Verm\u00f6gensposten > 1300-1989 VERBINDLICHKEITEN > 1600-1989 Sonstige Verbindlichkeiten oder sonstige Verm\u00f6gensgegenst\u00e4nde > 1630 Darlehen",
+    "hierarchicalCategories.lvl2": "1 passive Verm\u00f6gensposten > 1300-1989 VERBINDLICHKEITEN > 1600-1989 Sonstige Verbindlichkeiten oder sonstige Verm\u00f6gensgegenst\u00e4nde",
+    "hierarchicalCategories.lvl1": "1 passive Verm\u00f6gensposten > 1300-1989 VERBINDLICHKEITEN",
+    "hierarchicalCategories.lvl0": "1 passive Verm\u00f6gensposten",
     "notes": "In diesem Bereich k\u00f6nnen Unterkonten angelegt werden.",
     "placeholder": true,
     "parent": "2662da9d7b6ecbd4d4b46979ab3e1d8e"

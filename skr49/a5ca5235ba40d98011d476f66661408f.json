@@ -1,26 +1,19 @@
 {
-    "objectID": "a5ca5235ba40d98011d476f66661408f",
+    "id": "a5ca5235ba40d98011d476f66661408f",
     "name": "Roh-, Hilfs- und Betriebsstoffe",
     "type": "Aktiva",
     "code": "0600",
+    "sort-code": 600,
     "description": "Roh-, Hilfs- und Betriebsstoffe",
     "categories": [
         "0600-0629 Vorr\u00e4te",
         "0600-0989 UMLAUFVERM\u00d6GEN",
         "0 aktive Verm\u00f6gensposten"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0600-0629 Vorr\u00e4te"
-        },
-        {
-            "lvl1": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN"
-        },
-        {
-            "lvl0": "0 aktive Verm\u00f6gensposten"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0600-0629 Vorr\u00e4te",
+    "hierarchicalCategories.lvl1": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN",
+    "hierarchicalCategories.lvl0": "0 aktive Verm\u00f6gensposten",
     "notes": "Bestand",
     "parent": "6819284684797a0e73fdf3c7d3070c4c"
 }

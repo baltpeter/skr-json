@@ -1,8 +1,9 @@
 {
-    "objectID": "7dea5561054eb5dba8c18bb867135b75",
+    "id": "7dea5561054eb5dba8c18bb867135b75",
     "name": "Konzessionen",
     "type": "Aktiva",
     "code": "0015",
+    "sort-code": 15,
     "description": "Konzessionen",
     "categories": [
         "0010 Entgeltlich erworbene Konzessionen, Schutzrechte, \u00e4hnliche Rechte und Lizenzen an solchen",
@@ -10,20 +11,10 @@
         "0010-0249 ANLAGEVERM\u00d6GEN",
         "0 aktive Verm\u00f6gensposten"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl3": "0 aktive Verm\u00f6gensposten > 0010-0249 ANLAGEVERM\u00d6GEN > 0010-0049 Immaterielle Verm\u00f6gensgegenst\u00e4nde > 0010 Entgeltlich erworbene Konzessionen, Schutzrechte, \u00e4hnliche Rechte und Lizenzen an solchen"
-        },
-        {
-            "lvl2": "0 aktive Verm\u00f6gensposten > 0010-0249 ANLAGEVERM\u00d6GEN > 0010-0049 Immaterielle Verm\u00f6gensgegenst\u00e4nde"
-        },
-        {
-            "lvl1": "0 aktive Verm\u00f6gensposten > 0010-0249 ANLAGEVERM\u00d6GEN"
-        },
-        {
-            "lvl0": "0 aktive Verm\u00f6gensposten"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl3": "0 aktive Verm\u00f6gensposten > 0010-0249 ANLAGEVERM\u00d6GEN > 0010-0049 Immaterielle Verm\u00f6gensgegenst\u00e4nde > 0010 Entgeltlich erworbene Konzessionen, Schutzrechte, \u00e4hnliche Rechte und Lizenzen an solchen",
+    "hierarchicalCategories.lvl2": "0 aktive Verm\u00f6gensposten > 0010-0249 ANLAGEVERM\u00d6GEN > 0010-0049 Immaterielle Verm\u00f6gensgegenst\u00e4nde",
+    "hierarchicalCategories.lvl1": "0 aktive Verm\u00f6gensposten > 0010-0249 ANLAGEVERM\u00d6GEN",
+    "hierarchicalCategories.lvl0": "0 aktive Verm\u00f6gensposten",
     "parent": "cb6ae5d1827d4abde89041e75c04e56a"
 }

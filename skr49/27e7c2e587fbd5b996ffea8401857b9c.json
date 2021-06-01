@@ -1,25 +1,18 @@
 {
-    "objectID": "27e7c2e587fbd5b996ffea8401857b9c",
+    "id": "27e7c2e587fbd5b996ffea8401857b9c",
     "name": "Anlagenabg\u00e4nge Sachanlagen",
     "type": "Ertrag",
     "code": "4345",
+    "sort-code": 4345,
     "description": "Anlagenabg\u00e4nge Sachanlagen (Restbuchwert bei Buchgewinn)",
     "categories": [
         "4000 Steuerfreie Einnahmen gemeinn\u00fctziger Vereine aus Verm\u00f6gensverwaltung",
         "4000-4399 EINNAHMEN GV",
         "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4000-4399 EINNAHMEN GV > 4000 Steuerfreie Einnahmen gemeinn\u00fctziger Vereine aus Verm\u00f6gensverwaltung"
-        },
-        {
-            "lvl1": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4000-4399 EINNAHMEN GV"
-        },
-        {
-            "lvl0": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4000-4399 EINNAHMEN GV > 4000 Steuerfreie Einnahmen gemeinn\u00fctziger Vereine aus Verm\u00f6gensverwaltung",
+    "hierarchicalCategories.lvl1": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4000-4399 EINNAHMEN GV",
+    "hierarchicalCategories.lvl0": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung",
     "parent": "a8fec022f04e0b1931e55598df13387f"
 }

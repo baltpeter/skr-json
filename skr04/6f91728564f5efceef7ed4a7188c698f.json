@@ -1,8 +1,9 @@
 {
-    "objectID": "6f91728564f5efceef7ed4a7188c698f",
+    "id": "6f91728564f5efceef7ed4a7188c698f",
     "name": "Umsatzsteuer nicht f\u00e4llig aus im Inland steuerpflichtigen EG-Lieferungen 16%",
     "type": "Verbindlichkeit",
     "code": "3813",
+    "sort-code": 3813,
     "description": "",
     "categories": [
         "Umsatzsteuer nicht f\u00e4llig aus im Inland steuerpflichtigen EG-Lieferungen",
@@ -11,24 +12,12 @@
         "C. Verbindlichkeiten",
         "Passiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl4": "Passiva > C. Verbindlichkeiten > 10. Umsatzsteuer > Umsatzsteuer nicht f\u00e4llig > Umsatzsteuer nicht f\u00e4llig aus im Inland steuerpflichtigen EG-Lieferungen"
-        },
-        {
-            "lvl3": "Passiva > C. Verbindlichkeiten > 10. Umsatzsteuer > Umsatzsteuer nicht f\u00e4llig"
-        },
-        {
-            "lvl2": "Passiva > C. Verbindlichkeiten > 10. Umsatzsteuer"
-        },
-        {
-            "lvl1": "Passiva > C. Verbindlichkeiten"
-        },
-        {
-            "lvl0": "Passiva"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl4": "Passiva > C. Verbindlichkeiten > 10. Umsatzsteuer > Umsatzsteuer nicht f\u00e4llig > Umsatzsteuer nicht f\u00e4llig aus im Inland steuerpflichtigen EG-Lieferungen",
+    "hierarchicalCategories.lvl3": "Passiva > C. Verbindlichkeiten > 10. Umsatzsteuer > Umsatzsteuer nicht f\u00e4llig",
+    "hierarchicalCategories.lvl2": "Passiva > C. Verbindlichkeiten > 10. Umsatzsteuer",
+    "hierarchicalCategories.lvl1": "Passiva > C. Verbindlichkeiten",
+    "hierarchicalCategories.lvl0": "Passiva",
     "placeholder": false,
     "parent": "98828285aa78b084da26b62acc4880d4"
 }

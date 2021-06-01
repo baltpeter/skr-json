@@ -1,8 +1,9 @@
 {
-    "objectID": "9ed2e513a63541a65eefa53f48e62307",
+    "id": "9ed2e513a63541a65eefa53f48e62307",
     "name": "Forderg. aus L+L gg.Gesellschafter < 1 J",
     "type": "Forderung",
     "code": "1251",
+    "sort-code": 1251,
     "description": "",
     "categories": [
         "Forderungen aus L+L gg. Gesellschafter",
@@ -11,24 +12,12 @@
         "B. Umlaufverm\u00f6gen",
         "Aktiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl4": "Aktiva > B. Umlaufverm\u00f6gen > II. Forderungen und sonstige Verm\u00f6gensgegenst\u00e4nde > 01. Forderungen aus Lieferungen und Leistungen > Forderungen aus L+L gg. Gesellschafter"
-        },
-        {
-            "lvl3": "Aktiva > B. Umlaufverm\u00f6gen > II. Forderungen und sonstige Verm\u00f6gensgegenst\u00e4nde > 01. Forderungen aus Lieferungen und Leistungen"
-        },
-        {
-            "lvl2": "Aktiva > B. Umlaufverm\u00f6gen > II. Forderungen und sonstige Verm\u00f6gensgegenst\u00e4nde"
-        },
-        {
-            "lvl1": "Aktiva > B. Umlaufverm\u00f6gen"
-        },
-        {
-            "lvl0": "Aktiva"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl4": "Aktiva > B. Umlaufverm\u00f6gen > II. Forderungen und sonstige Verm\u00f6gensgegenst\u00e4nde > 01. Forderungen aus Lieferungen und Leistungen > Forderungen aus L+L gg. Gesellschafter",
+    "hierarchicalCategories.lvl3": "Aktiva > B. Umlaufverm\u00f6gen > II. Forderungen und sonstige Verm\u00f6gensgegenst\u00e4nde > 01. Forderungen aus Lieferungen und Leistungen",
+    "hierarchicalCategories.lvl2": "Aktiva > B. Umlaufverm\u00f6gen > II. Forderungen und sonstige Verm\u00f6gensgegenst\u00e4nde",
+    "hierarchicalCategories.lvl1": "Aktiva > B. Umlaufverm\u00f6gen",
+    "hierarchicalCategories.lvl0": "Aktiva",
     "placeholder": false,
     "parent": "8f9b84b36d18f3c215e399fbaccd0a1b"
 }

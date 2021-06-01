@@ -1,22 +1,17 @@
 {
-    "objectID": "33fb12ef61a288efe9b71a391390a92a",
+    "id": "33fb12ef61a288efe9b71a391390a92a",
     "name": "Einstellungen in die gesetzliche R\u00fccklage",
     "type": "Eigenkapital",
     "code": "7765",
+    "sort-code": 7765,
     "description": "",
     "categories": [
         "03. Einstellungen in Gewinnr\u00fccklagen",
         "21. Ver\u00e4nderungen Vortr\u00e4ge und R\u00fccklagen"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "21. Ver\u00e4nderungen Vortr\u00e4ge und R\u00fccklagen > 03. Einstellungen in Gewinnr\u00fccklagen"
-        },
-        {
-            "lvl0": "21. Ver\u00e4nderungen Vortr\u00e4ge und R\u00fccklagen"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl1": "21. Ver\u00e4nderungen Vortr\u00e4ge und R\u00fccklagen > 03. Einstellungen in Gewinnr\u00fccklagen",
+    "hierarchicalCategories.lvl0": "21. Ver\u00e4nderungen Vortr\u00e4ge und R\u00fccklagen",
     "placeholder": false,
     "parent": "f14569e730ac327e0d442683013d415a"
 }

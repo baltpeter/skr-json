@@ -1,18 +1,15 @@
 {
-    "objectID": "a26df9927a82bcb58a1facb4cde6f221",
+    "id": "a26df9927a82bcb58a1facb4cde6f221",
     "name": "Wareneingangs- u. Bestandskonten 3",
     "type": "Aktiva",
     "code": -1,
+    "sort-code": 9999,
     "description": "",
     "categories": [
         "Aktiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl0": "Aktiva"
-        }
-    ],
     "leaf": false,
+    "hierarchicalCategories.lvl0": "Aktiva",
     "placeholder": true,
     "parent": "fc3b1f110a6686f3d40bb0c41c0f8de0"
 }

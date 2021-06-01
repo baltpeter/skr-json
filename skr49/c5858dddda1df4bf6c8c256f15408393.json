@@ -1,25 +1,18 @@
 {
-    "objectID": "c5858dddda1df4bf6c8c256f15408393",
+    "id": "c5858dddda1df4bf6c8c256f15408393",
     "name": "Zuschreibungen",
     "type": "Ertrag",
     "code": "2490",
+    "sort-code": 2490,
     "description": "Ertr\u00e4ge aus Zuschreibungen des Sachanlageverm\u00f6gens",
     "categories": [
         "2400 Sonstige Einnahmen ideeller Bereich",
         "2000 EINNAHMEN",
         "2 Erfolgskonten ideeller Bereich"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "2 Erfolgskonten ideeller Bereich > 2000 EINNAHMEN > 2400 Sonstige Einnahmen ideeller Bereich"
-        },
-        {
-            "lvl1": "2 Erfolgskonten ideeller Bereich > 2000 EINNAHMEN"
-        },
-        {
-            "lvl0": "2 Erfolgskonten ideeller Bereich"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "2 Erfolgskonten ideeller Bereich > 2000 EINNAHMEN > 2400 Sonstige Einnahmen ideeller Bereich",
+    "hierarchicalCategories.lvl1": "2 Erfolgskonten ideeller Bereich > 2000 EINNAHMEN",
+    "hierarchicalCategories.lvl0": "2 Erfolgskonten ideeller Bereich",
     "parent": "8c605e342aae45f2df00242e3c7ace6c"
 }

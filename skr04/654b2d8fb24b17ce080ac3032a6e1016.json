@@ -1,26 +1,19 @@
 {
-    "objectID": "654b2d8fb24b17ce080ac3032a6e1016",
+    "id": "654b2d8fb24b17ce080ac3032a6e1016",
     "name": "Abschreibungen auf Kfz",
     "type": "Aufwand",
     "code": "6222",
+    "sort-code": 6222,
     "description": "",
     "categories": [
         "Abschreibungen auf das Anlageverm\u00f6gen",
         "a) auf immaterielle Verm\u00f6gensgegenst\u00e4nde des Anlageverm\u00f6gens und Sachanlagen",
         "07. Abschreibungen"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "07. Abschreibungen > a) auf immaterielle Verm\u00f6gensgegenst\u00e4nde des Anlageverm\u00f6gens und Sachanlagen > Abschreibungen auf das Anlageverm\u00f6gen"
-        },
-        {
-            "lvl1": "07. Abschreibungen > a) auf immaterielle Verm\u00f6gensgegenst\u00e4nde des Anlageverm\u00f6gens und Sachanlagen"
-        },
-        {
-            "lvl0": "07. Abschreibungen"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "07. Abschreibungen > a) auf immaterielle Verm\u00f6gensgegenst\u00e4nde des Anlageverm\u00f6gens und Sachanlagen > Abschreibungen auf das Anlageverm\u00f6gen",
+    "hierarchicalCategories.lvl1": "07. Abschreibungen > a) auf immaterielle Verm\u00f6gensgegenst\u00e4nde des Anlageverm\u00f6gens und Sachanlagen",
+    "hierarchicalCategories.lvl0": "07. Abschreibungen",
     "placeholder": false,
     "parent": "135aeefb7cce9adb6f4b62a86a81385a"
 }

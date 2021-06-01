@@ -1,22 +1,17 @@
 {
-    "objectID": "f9218772672c2b3b1d0fec59a7fd384f",
+    "id": "f9218772672c2b3b1d0fec59a7fd384f",
     "name": "Verrechneter kalkulatorischer Lohn f\u00fcr unentgeltliche Mitarbeiter",
     "type": "Aufwand",
     "code": "6989",
+    "sort-code": 6989,
     "description": "",
     "categories": [
         "e) Kalkulatorische Kosten",
         "08. sonstige betriebliche Aufwendungen"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "08. sonstige betriebliche Aufwendungen > e) Kalkulatorische Kosten"
-        },
-        {
-            "lvl0": "08. sonstige betriebliche Aufwendungen"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl1": "08. sonstige betriebliche Aufwendungen > e) Kalkulatorische Kosten",
+    "hierarchicalCategories.lvl0": "08. sonstige betriebliche Aufwendungen",
     "placeholder": false,
     "parent": "69ea025cd488b1084c9fed0d584800e2"
 }

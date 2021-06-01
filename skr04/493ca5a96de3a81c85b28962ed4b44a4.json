@@ -1,8 +1,9 @@
 {
-    "objectID": "493ca5a96de3a81c85b28962ed4b44a4",
+    "id": "493ca5a96de3a81c85b28962ed4b44a4",
     "name": "02. R\u00fccklage f\u00fcr eigene Anteile",
     "type": "Fremdkapital",
     "code": "2940",
+    "sort-code": 2940,
     "description": "",
     "categories": [
         "I. Gewinnr\u00fccklagen",
@@ -10,21 +11,11 @@
         "A. Eigenkapital",
         "Passiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl3": "Passiva > A. Eigenkapital > c) alle > I. Gewinnr\u00fccklagen"
-        },
-        {
-            "lvl2": "Passiva > A. Eigenkapital > c) alle"
-        },
-        {
-            "lvl1": "Passiva > A. Eigenkapital"
-        },
-        {
-            "lvl0": "Passiva"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl3": "Passiva > A. Eigenkapital > c) alle > I. Gewinnr\u00fccklagen",
+    "hierarchicalCategories.lvl2": "Passiva > A. Eigenkapital > c) alle",
+    "hierarchicalCategories.lvl1": "Passiva > A. Eigenkapital",
+    "hierarchicalCategories.lvl0": "Passiva",
     "placeholder": false,
     "parent": "ef9e2cde3ed8ea553ecd7266fab83db4"
 }

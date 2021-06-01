@@ -1,21 +1,16 @@
 {
-    "objectID": "bd74fcb2d15fc7540ecc5ba8f27cbf48",
+    "id": "bd74fcb2d15fc7540ecc5ba8f27cbf48",
     "name": "Darlehen",
     "type": "Aktiva",
     "code": "0565",
+    "sort-code": 565,
     "description": "",
     "categories": [
         "Anlage- u. Kapitalkonten 0",
         "Aktiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "Aktiva > Anlage- u. Kapitalkonten 0"
-        },
-        {
-            "lvl0": "Aktiva"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl1": "Aktiva > Anlage- u. Kapitalkonten 0",
+    "hierarchicalCategories.lvl0": "Aktiva",
     "parent": "27356188a1963c1dbf943022441d095f"
 }

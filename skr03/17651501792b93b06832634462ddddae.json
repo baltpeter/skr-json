@@ -1,21 +1,16 @@
 {
-    "objectID": "17651501792b93b06832634462ddddae",
+    "id": "17651501792b93b06832634462ddddae",
     "name": "Zinsaufwendungen f\u00fcr KFZ Finanzierung",
     "type": "Aufwand",
     "code": "2121",
+    "sort-code": 2121,
     "description": "",
     "categories": [
         "Zinsaufwendungen",
         "Aufwendungen 2/4"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "Aufwendungen 2/4 > Zinsaufwendungen"
-        },
-        {
-            "lvl0": "Aufwendungen 2/4"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl1": "Aufwendungen 2/4 > Zinsaufwendungen",
+    "hierarchicalCategories.lvl0": "Aufwendungen 2/4",
     "parent": "8d2641f8bbc41aa863274bb496002f3e"
 }

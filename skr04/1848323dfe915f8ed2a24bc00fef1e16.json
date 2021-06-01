@@ -1,11 +1,11 @@
 {
-    "objectID": "1848323dfe915f8ed2a24bc00fef1e16",
+    "id": "1848323dfe915f8ed2a24bc00fef1e16",
     "name": "13. Zinsen und \u00e4hnliche Aufwendungen",
     "type": "Aufwand",
     "code": -1,
+    "sort-code": 9999,
     "description": "",
     "categories": [],
-    "hierarchicalCategories": [],
     "leaf": false,
     "placeholder": false,
     "parent": "1972cce2e2364f95b2b0bc014502661d"

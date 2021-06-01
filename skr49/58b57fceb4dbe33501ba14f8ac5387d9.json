@@ -1,26 +1,19 @@
 {
-    "objectID": "58b57fceb4dbe33501ba14f8ac5387d9",
+    "id": "58b57fceb4dbe33501ba14f8ac5387d9",
     "name": "Sonstige R\u00fccklagen",
     "type": "Fremdkapital",
     "code": "1075-1079",
+    "sort-code": 9999,
     "description": "Sonstige R\u00fccklagen",
     "categories": [
         "1000-1079 Gewinnr\u00fccklagen",
         "1000-1179 VERM\u00d6GEN / EIGENKAPITAL",
         "1 passive Verm\u00f6gensposten"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL > 1000-1079 Gewinnr\u00fccklagen"
-        },
-        {
-            "lvl1": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL"
-        },
-        {
-            "lvl0": "1 passive Verm\u00f6gensposten"
-        }
-    ],
     "leaf": false,
+    "hierarchicalCategories.lvl2": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL > 1000-1079 Gewinnr\u00fccklagen",
+    "hierarchicalCategories.lvl1": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL",
+    "hierarchicalCategories.lvl0": "1 passive Verm\u00f6gensposten",
     "placeholder": true,
     "parent": "cdbbf1498ecb73b126b54d5aea6d2f43"
 }

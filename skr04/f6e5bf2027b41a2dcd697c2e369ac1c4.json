@@ -1,22 +1,17 @@
 {
-    "objectID": "f6e5bf2027b41a2dcd697c2e369ac1c4",
+    "id": "f6e5bf2027b41a2dcd697c2e369ac1c4",
     "name": "Statistisches Konto Erl\u00f6se steuerfrei und nicht steuerbar (E\u00dcR)",
     "type": "Ertrag",
     "code": "4582",
+    "sort-code": 4582,
     "description": "",
     "categories": [
         "b) Statistische Konten E\u00dcR Umsatzerl\u00f6se",
         "01. Betriebliche Ertr\u00e4ge"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "01. Betriebliche Ertr\u00e4ge > b) Statistische Konten E\u00dcR Umsatzerl\u00f6se"
-        },
-        {
-            "lvl0": "01. Betriebliche Ertr\u00e4ge"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl1": "01. Betriebliche Ertr\u00e4ge > b) Statistische Konten E\u00dcR Umsatzerl\u00f6se",
+    "hierarchicalCategories.lvl0": "01. Betriebliche Ertr\u00e4ge",
     "placeholder": false,
     "parent": "8975598d0c5f97dc274c22fd4dfa9955"
 }

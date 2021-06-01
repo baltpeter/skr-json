@@ -1,11 +1,11 @@
 {
-    "objectID": "a4dfbe8fc2ff45d59632ba7d387d5eaa",
+    "id": "a4dfbe8fc2ff45d59632ba7d387d5eaa",
     "name": "10. Ertr\u00e4ge aus anderen Wertpapieren und Ausleihungen des Finanzanlageverm\u00f6gens",
     "type": "Ertrag",
     "code": -1,
+    "sort-code": 9999,
     "description": "",
     "categories": [],
-    "hierarchicalCategories": [],
     "leaf": false,
     "placeholder": false,
     "parent": "1972cce2e2364f95b2b0bc014502661d"

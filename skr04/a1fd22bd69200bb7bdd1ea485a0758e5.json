@@ -1,26 +1,19 @@
 {
-    "objectID": "a1fd22bd69200bb7bdd1ea485a0758e5",
+    "id": "a1fd22bd69200bb7bdd1ea485a0758e5",
     "name": "Verbindlichkeiten aus Lieferungen und Leistungen f\u00fcr Investitionen f\u00fcr \u00a74/3 EStG",
     "type": "Verbindlichkeit",
     "code": "3334",
+    "sort-code": 3334,
     "description": "",
     "categories": [
         "04. Verbindlichkeiten aus Lieferungen und Leistungen",
         "C. Verbindlichkeiten",
         "Passiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "Passiva > C. Verbindlichkeiten > 04. Verbindlichkeiten aus Lieferungen und Leistungen"
-        },
-        {
-            "lvl1": "Passiva > C. Verbindlichkeiten"
-        },
-        {
-            "lvl0": "Passiva"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "Passiva > C. Verbindlichkeiten > 04. Verbindlichkeiten aus Lieferungen und Leistungen",
+    "hierarchicalCategories.lvl1": "Passiva > C. Verbindlichkeiten",
+    "hierarchicalCategories.lvl0": "Passiva",
     "placeholder": false,
     "parent": "e98ae511eab7e00712870af910a33ce0"
 }

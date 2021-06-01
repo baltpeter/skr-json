@@ -1,21 +1,16 @@
 {
-    "objectID": "b84666b6b2d17f4be4a2cc15e595b30d",
+    "id": "b84666b6b2d17f4be4a2cc15e595b30d",
     "name": "Porto",
     "type": "Aufwand",
     "code": "4910",
+    "sort-code": 4910,
     "description": "",
     "categories": [
         "verschiedene Kosten",
         "Aufwendungen 2/4"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "Aufwendungen 2/4 > verschiedene Kosten"
-        },
-        {
-            "lvl0": "Aufwendungen 2/4"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl1": "Aufwendungen 2/4 > verschiedene Kosten",
+    "hierarchicalCategories.lvl0": "Aufwendungen 2/4",
     "parent": "d0c00095e4b00f9f25253307be05e885"
 }

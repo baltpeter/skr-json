@@ -1,18 +1,15 @@
 {
-    "objectID": "b9ae1b059749ea81c757a9adad39db1b",
+    "id": "b9ae1b059749ea81c757a9adad39db1b",
     "name": "Privatentnahmen/-einlagen",
     "type": "Eigenkapital",
     "code": -1,
+    "sort-code": 9999,
     "description": "",
     "categories": [
         "Privatkonten 1"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl0": "Privatkonten 1"
-        }
-    ],
     "leaf": false,
+    "hierarchicalCategories.lvl0": "Privatkonten 1",
     "placeholder": true,
     "parent": "1888a7d2fbbdede8446090a31651565f"
 }

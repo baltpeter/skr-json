@@ -1,21 +1,16 @@
 {
-    "objectID": "75d38fa3ae63128e2bd6a0ba80dc904b",
+    "id": "75d38fa3ae63128e2bd6a0ba80dc904b",
     "name": "\u00dcbrige Ausgaben",
     "type": "Aufwand",
     "code": "2510",
+    "sort-code": 2510,
     "description": "\u00dcbrige Ausgaben Bereich 2000",
     "categories": [
         "2500-2999 AUSGABEN",
         "2 Erfolgskonten ideeller Bereich"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN"
-        },
-        {
-            "lvl0": "2 Erfolgskonten ideeller Bereich"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl1": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN",
+    "hierarchicalCategories.lvl0": "2 Erfolgskonten ideeller Bereich",
     "parent": "48ee122ca8c1c162daf2c936adbc924e"
 }

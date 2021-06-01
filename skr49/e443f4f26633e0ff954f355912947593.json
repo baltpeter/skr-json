@@ -1,8 +1,9 @@
 {
-    "objectID": "e443f4f26633e0ff954f355912947593",
+    "id": "e443f4f26633e0ff954f355912947593",
     "name": "Abgef\u00fchrte Lohnsteuer",
     "type": "Aufwand",
     "code": "4981",
+    "sort-code": 4981,
     "description": "Abgef\u00fchrte Lohnsteuer",
     "categories": [
         "4980 L\u00f6hne und Geh\u00e4lter",
@@ -10,21 +11,11 @@
         "4500-4999 AUSGABEN / WERBUNGSKOSTEN",
         "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl3": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4500-4999 AUSGABEN / WERBUNGSKOSTEN > 4980-4999 Personalaufwand > 4980 L\u00f6hne und Geh\u00e4lter"
-        },
-        {
-            "lvl2": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4500-4999 AUSGABEN / WERBUNGSKOSTEN > 4980-4999 Personalaufwand"
-        },
-        {
-            "lvl1": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4500-4999 AUSGABEN / WERBUNGSKOSTEN"
-        },
-        {
-            "lvl0": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl3": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4500-4999 AUSGABEN / WERBUNGSKOSTEN > 4980-4999 Personalaufwand > 4980 L\u00f6hne und Geh\u00e4lter",
+    "hierarchicalCategories.lvl2": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4500-4999 AUSGABEN / WERBUNGSKOSTEN > 4980-4999 Personalaufwand",
+    "hierarchicalCategories.lvl1": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4500-4999 AUSGABEN / WERBUNGSKOSTEN",
+    "hierarchicalCategories.lvl0": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung",
     "notes": "Konto f\u00fcr das Buchungsjahr 2017 neu eingef\u00fchrt.",
     "parent": "bde772e47909c3ae8e0eb87e5591fca8"
 }

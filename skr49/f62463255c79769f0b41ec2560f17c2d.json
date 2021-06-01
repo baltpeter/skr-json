@@ -1,26 +1,19 @@
 {
-    "objectID": "f62463255c79769f0b41ec2560f17c2d",
+    "id": "f62463255c79769f0b41ec2560f17c2d",
     "name": "Bank",
     "type": "Bank",
     "code": "0940-0960",
+    "sort-code": 9999,
     "description": "Bankkonten und Schecks",
     "categories": [
         "0920-0960 Kasse, Bank",
         "0600-0989 UMLAUFVERM\u00d6GEN",
         "0 aktive Verm\u00f6gensposten"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0920-0960 Kasse, Bank"
-        },
-        {
-            "lvl1": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN"
-        },
-        {
-            "lvl0": "0 aktive Verm\u00f6gensposten"
-        }
-    ],
     "leaf": false,
+    "hierarchicalCategories.lvl2": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0920-0960 Kasse, Bank",
+    "hierarchicalCategories.lvl1": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN",
+    "hierarchicalCategories.lvl0": "0 aktive Verm\u00f6gensposten",
     "placeholder": true,
     "parent": "3a683a4194f51a96a006ed8870658dca"
 }

@@ -1,18 +1,15 @@
 {
-    "objectID": "1b13a7614b5e84b0778963995e20d897",
+    "id": "1b13a7614b5e84b0778963995e20d897",
     "name": "Finanzkonten 1",
     "type": "Aktiva",
     "code": -1,
+    "sort-code": 9999,
     "description": "",
     "categories": [
         "Aktiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl0": "Aktiva"
-        }
-    ],
     "leaf": false,
+    "hierarchicalCategories.lvl0": "Aktiva",
     "placeholder": true,
     "parent": "fc3b1f110a6686f3d40bb0c41c0f8de0"
 }

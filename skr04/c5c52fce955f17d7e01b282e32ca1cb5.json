@@ -1,18 +1,15 @@
 {
-    "objectID": "c5c52fce955f17d7e01b282e32ca1cb5",
+    "id": "c5c52fce955f17d7e01b282e32ca1cb5",
     "name": "Ertr\u00e4ge aus Beteiligungen",
     "type": "Ertrag",
     "code": "7000",
+    "sort-code": 7000,
     "description": "",
     "categories": [
         "09. Ertr\u00e4ge aus Beteiligungen"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl0": "09. Ertr\u00e4ge aus Beteiligungen"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl0": "09. Ertr\u00e4ge aus Beteiligungen",
     "placeholder": false,
     "parent": "077d47ff0c858e8c31c31e0203042482"
 }

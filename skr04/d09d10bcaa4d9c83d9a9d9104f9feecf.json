@@ -1,8 +1,9 @@
 {
-    "objectID": "d09d10bcaa4d9c83d9a9d9104f9feecf",
+    "id": "d09d10bcaa4d9c83d9a9d9104f9feecf",
     "name": "Verbindlichk. soziale Sicherheit (g. 5 J)",
     "type": "Verbindlichkeit",
     "code": "3755",
+    "sort-code": 3755,
     "description": "",
     "categories": [
         "Verbindlichkeiten im Rahmen der sozialen Sicherheit",
@@ -10,21 +11,11 @@
         "C. Verbindlichkeiten",
         "Passiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl3": "Passiva > C. Verbindlichkeiten > 08. sonstige Verbindlichkeiten > Verbindlichkeiten im Rahmen der sozialen Sicherheit"
-        },
-        {
-            "lvl2": "Passiva > C. Verbindlichkeiten > 08. sonstige Verbindlichkeiten"
-        },
-        {
-            "lvl1": "Passiva > C. Verbindlichkeiten"
-        },
-        {
-            "lvl0": "Passiva"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl3": "Passiva > C. Verbindlichkeiten > 08. sonstige Verbindlichkeiten > Verbindlichkeiten im Rahmen der sozialen Sicherheit",
+    "hierarchicalCategories.lvl2": "Passiva > C. Verbindlichkeiten > 08. sonstige Verbindlichkeiten",
+    "hierarchicalCategories.lvl1": "Passiva > C. Verbindlichkeiten",
+    "hierarchicalCategories.lvl0": "Passiva",
     "placeholder": false,
     "parent": "c105052eb7f8cb231479a5e34e363e5a"
 }

@@ -1,25 +1,18 @@
 {
-    "objectID": "12aa8bdb1d564b9f8b2ebf2e0aa3c746",
+    "id": "12aa8bdb1d564b9f8b2ebf2e0aa3c746",
     "name": "Fiktive Einnahmen aus Leistungen Dritter",
     "type": "Aktiva",
     "code": "9620",
+    "sort-code": 9620,
     "description": "Fiktive Einnahmen aus Leistungen Dritter",
     "categories": [
         "9600-9849 Statistische Werte f\u00fcr BWA",
         "9600-9998 WEITERE STATISTIK- UND VORTRAGSKONTEN",
         "9 Statistik- & Vortragskonten"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "9 Statistik- & Vortragskonten > 9600-9998 WEITERE STATISTIK- UND VORTRAGSKONTEN > 9600-9849 Statistische Werte f\u00fcr BWA"
-        },
-        {
-            "lvl1": "9 Statistik- & Vortragskonten > 9600-9998 WEITERE STATISTIK- UND VORTRAGSKONTEN"
-        },
-        {
-            "lvl0": "9 Statistik- & Vortragskonten"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "9 Statistik- & Vortragskonten > 9600-9998 WEITERE STATISTIK- UND VORTRAGSKONTEN > 9600-9849 Statistische Werte f\u00fcr BWA",
+    "hierarchicalCategories.lvl1": "9 Statistik- & Vortragskonten > 9600-9998 WEITERE STATISTIK- UND VORTRAGSKONTEN",
+    "hierarchicalCategories.lvl0": "9 Statistik- & Vortragskonten",
     "parent": "ce6ef6340d8c65efd124f5950fcbb6a8"
 }

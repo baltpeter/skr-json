@@ -1,8 +1,9 @@
 {
-    "objectID": "f81a30018f37758867d00d291027eed4",
+    "id": "f81a30018f37758867d00d291027eed4",
     "name": "Gegenkonto 1 zu 9700-9797",
     "type": "Aktiva",
     "code": "9789",
+    "sort-code": 9789,
     "description": "Gegenkonto 1 zu 9700-9797",
     "categories": [
         "9700-9799 freie Statsitikkonten",
@@ -10,21 +11,11 @@
         "9600-9998 WEITERE STATISTIK- UND VORTRAGSKONTEN",
         "9 Statistik- & Vortragskonten"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl3": "9 Statistik- & Vortragskonten > 9600-9998 WEITERE STATISTIK- UND VORTRAGSKONTEN > 9600-9849 Statistische Werte f\u00fcr BWA > 9700-9799 freie Statsitikkonten"
-        },
-        {
-            "lvl2": "9 Statistik- & Vortragskonten > 9600-9998 WEITERE STATISTIK- UND VORTRAGSKONTEN > 9600-9849 Statistische Werte f\u00fcr BWA"
-        },
-        {
-            "lvl1": "9 Statistik- & Vortragskonten > 9600-9998 WEITERE STATISTIK- UND VORTRAGSKONTEN"
-        },
-        {
-            "lvl0": "9 Statistik- & Vortragskonten"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl3": "9 Statistik- & Vortragskonten > 9600-9998 WEITERE STATISTIK- UND VORTRAGSKONTEN > 9600-9849 Statistische Werte f\u00fcr BWA > 9700-9799 freie Statsitikkonten",
+    "hierarchicalCategories.lvl2": "9 Statistik- & Vortragskonten > 9600-9998 WEITERE STATISTIK- UND VORTRAGSKONTEN > 9600-9849 Statistische Werte f\u00fcr BWA",
+    "hierarchicalCategories.lvl1": "9 Statistik- & Vortragskonten > 9600-9998 WEITERE STATISTIK- UND VORTRAGSKONTEN",
+    "hierarchicalCategories.lvl0": "9 Statistik- & Vortragskonten",
     "notes": "Konto f\u00fcr das Buchungsjahr 2017 neu eingef\u00fchrt.",
     "parent": "e4d82e633f1295c423bcace86c90dcf5"
 }

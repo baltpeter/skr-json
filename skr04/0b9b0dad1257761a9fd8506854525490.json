@@ -1,18 +1,15 @@
 {
-    "objectID": "0b9b0dad1257761a9fd8506854525490",
+    "id": "0b9b0dad1257761a9fd8506854525490",
     "name": "Ertr\u00e4ge aus der Aufl\u00f6sung von Sonderposten mit R\u00fccklageanteil (Ansparabschreibungen)",
     "type": "Ertrag",
     "code": "4936",
+    "sort-code": 4936,
     "description": "",
     "categories": [
         "04. Sonstige betriebliche Ertr\u00e4ge"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl0": "04. Sonstige betriebliche Ertr\u00e4ge"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl0": "04. Sonstige betriebliche Ertr\u00e4ge",
     "placeholder": false,
     "parent": "4c0c1557fe54e71d7ed717587a0c0b4d"
 }

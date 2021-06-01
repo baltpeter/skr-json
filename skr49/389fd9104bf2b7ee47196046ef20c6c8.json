@@ -1,25 +1,18 @@
 {
-    "objectID": "389fd9104bf2b7ee47196046ef20c6c8",
+    "id": "389fd9104bf2b7ee47196046ef20c6c8",
     "name": "Sofortabschreibung geringwertiger Wirtschaftsg\u00fcter",
     "type": "Aufwand",
     "code": "2501",
+    "sort-code": 2501,
     "description": "Sofortabschreibung geringwertiger Wirtschaftsg\u00fcter",
     "categories": [
         "2500-2502 Abschreibungen",
         "2500-2999 AUSGABEN",
         "2 Erfolgskonten ideeller Bereich"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN > 2500-2502 Abschreibungen"
-        },
-        {
-            "lvl1": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN"
-        },
-        {
-            "lvl0": "2 Erfolgskonten ideeller Bereich"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN > 2500-2502 Abschreibungen",
+    "hierarchicalCategories.lvl1": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN",
+    "hierarchicalCategories.lvl0": "2 Erfolgskonten ideeller Bereich",
     "parent": "eb1011daa10992671560e011a2b3cc48"
 }

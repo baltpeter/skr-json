@@ -1,22 +1,17 @@
 {
-    "objectID": "390b3d0248094ceb49d7d9e6b0c97923",
+    "id": "390b3d0248094ceb49d7d9e6b0c97923",
     "name": "Anlagenabg\u00e4nge immaterielle Verm\u00f6gensgegenst\u00e4nde",
     "type": "Aufwand",
     "code": "6896",
+    "sort-code": 6896,
     "description": "Restbuchwert bei Buchverlust",
     "categories": [
         "b) Verluste aus dem Abgang von Gegenst\u00e4nden des Anlageverm\u00f6gens",
         "08. sonstige betriebliche Aufwendungen"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "08. sonstige betriebliche Aufwendungen > b) Verluste aus dem Abgang von Gegenst\u00e4nden des Anlageverm\u00f6gens"
-        },
-        {
-            "lvl0": "08. sonstige betriebliche Aufwendungen"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl1": "08. sonstige betriebliche Aufwendungen > b) Verluste aus dem Abgang von Gegenst\u00e4nden des Anlageverm\u00f6gens",
+    "hierarchicalCategories.lvl0": "08. sonstige betriebliche Aufwendungen",
     "placeholder": false,
     "parent": "47767b5fa390ff8a4dbb0fdf05a3ee3b"
 }

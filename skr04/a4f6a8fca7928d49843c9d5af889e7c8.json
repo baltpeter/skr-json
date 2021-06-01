@@ -1,8 +1,9 @@
 {
-    "objectID": "a4f6a8fca7928d49843c9d5af889e7c8",
+    "id": "a4f6a8fca7928d49843c9d5af889e7c8",
     "name": "Technische Anlagen",
     "type": "Aktiva",
     "code": "0420",
+    "sort-code": 420,
     "description": "",
     "categories": [
         "02. Technische Anlagen und Maschinen",
@@ -10,21 +11,11 @@
         "A. Anlageverm\u00f6gen",
         "Aktiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl3": "Aktiva > A. Anlageverm\u00f6gen > IV. Sachanlagen > 02. Technische Anlagen und Maschinen"
-        },
-        {
-            "lvl2": "Aktiva > A. Anlageverm\u00f6gen > IV. Sachanlagen"
-        },
-        {
-            "lvl1": "Aktiva > A. Anlageverm\u00f6gen"
-        },
-        {
-            "lvl0": "Aktiva"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl3": "Aktiva > A. Anlageverm\u00f6gen > IV. Sachanlagen > 02. Technische Anlagen und Maschinen",
+    "hierarchicalCategories.lvl2": "Aktiva > A. Anlageverm\u00f6gen > IV. Sachanlagen",
+    "hierarchicalCategories.lvl1": "Aktiva > A. Anlageverm\u00f6gen",
+    "hierarchicalCategories.lvl0": "Aktiva",
     "placeholder": false,
     "parent": "02e735cb2ec806f8049cfce36bbb3f91"
 }

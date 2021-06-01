@@ -1,8 +1,9 @@
 {
-    "objectID": "f5863ae28f94dec303acfb5549de6d86",
+    "id": "f5863ae28f94dec303acfb5549de6d86",
     "name": "Erhaltene Rabatte 7% Vorsteuer",
     "type": "Aufwand",
     "code": "5780",
+    "sort-code": 5780,
     "description": "",
     "categories": [
         "Erhaltene Rabatte",
@@ -11,24 +12,12 @@
         "a) Aufwendungen f\u00fcr Roh-, Hilfs- und Betriebsstoffe und f\u00fcr bezogene Waren",
         "05. Materialaufwand"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl4": "05. Materialaufwand > a) Aufwendungen f\u00fcr Roh-, Hilfs- und Betriebsstoffe und f\u00fcr bezogene Waren > 03. Statistische Konten E\u00dcR > Nachl\u00e4sse > Erhaltene Rabatte"
-        },
-        {
-            "lvl3": "05. Materialaufwand > a) Aufwendungen f\u00fcr Roh-, Hilfs- und Betriebsstoffe und f\u00fcr bezogene Waren > 03. Statistische Konten E\u00dcR > Nachl\u00e4sse"
-        },
-        {
-            "lvl2": "05. Materialaufwand > a) Aufwendungen f\u00fcr Roh-, Hilfs- und Betriebsstoffe und f\u00fcr bezogene Waren > 03. Statistische Konten E\u00dcR"
-        },
-        {
-            "lvl1": "05. Materialaufwand > a) Aufwendungen f\u00fcr Roh-, Hilfs- und Betriebsstoffe und f\u00fcr bezogene Waren"
-        },
-        {
-            "lvl0": "05. Materialaufwand"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl4": "05. Materialaufwand > a) Aufwendungen f\u00fcr Roh-, Hilfs- und Betriebsstoffe und f\u00fcr bezogene Waren > 03. Statistische Konten E\u00dcR > Nachl\u00e4sse > Erhaltene Rabatte",
+    "hierarchicalCategories.lvl3": "05. Materialaufwand > a) Aufwendungen f\u00fcr Roh-, Hilfs- und Betriebsstoffe und f\u00fcr bezogene Waren > 03. Statistische Konten E\u00dcR > Nachl\u00e4sse",
+    "hierarchicalCategories.lvl2": "05. Materialaufwand > a) Aufwendungen f\u00fcr Roh-, Hilfs- und Betriebsstoffe und f\u00fcr bezogene Waren > 03. Statistische Konten E\u00dcR",
+    "hierarchicalCategories.lvl1": "05. Materialaufwand > a) Aufwendungen f\u00fcr Roh-, Hilfs- und Betriebsstoffe und f\u00fcr bezogene Waren",
+    "hierarchicalCategories.lvl0": "05. Materialaufwand",
     "placeholder": false,
     "parent": "7b101af339d563e0dea15a34d46d9926"
 }

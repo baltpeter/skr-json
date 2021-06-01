@@ -1,18 +1,15 @@
 {
-    "objectID": "a925fa0dcc3618aba6ee7df3eb317b1e",
+    "id": "a925fa0dcc3618aba6ee7df3eb317b1e",
     "name": "Einstellungen in Sonderposten mit R\u00fccklageanteil (Existenzgr\u00fcnderr\u00fccklage)",
     "type": "Aufwand",
     "code": "6928",
+    "sort-code": 6928,
     "description": "",
     "categories": [
         "08. sonstige betriebliche Aufwendungen"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl0": "08. sonstige betriebliche Aufwendungen"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl0": "08. sonstige betriebliche Aufwendungen",
     "placeholder": false,
     "parent": "cf7f94dcdeb53cd3d602ea87d83aba4e"
 }

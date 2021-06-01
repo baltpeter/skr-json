@@ -1,21 +1,16 @@
 {
-    "objectID": "e89eafba1acc736a7ba74882a7f8c836",
+    "id": "e89eafba1acc736a7ba74882a7f8c836",
     "name": "Aufwendungen f\u00fcr Altersvorsorge",
     "type": "Aufwand",
     "code": "4165",
+    "sort-code": 4165,
     "description": "",
     "categories": [
         "Personalkosten",
         "Aufwendungen 2/4"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "Aufwendungen 2/4 > Personalkosten"
-        },
-        {
-            "lvl0": "Aufwendungen 2/4"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl1": "Aufwendungen 2/4 > Personalkosten",
+    "hierarchicalCategories.lvl0": "Aufwendungen 2/4",
     "parent": "43953979cf408743814cb6887d5ec022"
 }

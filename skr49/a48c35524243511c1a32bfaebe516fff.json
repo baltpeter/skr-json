@@ -1,8 +1,9 @@
 {
-    "objectID": "a48c35524243511c1a32bfaebe516fff",
+    "id": "a48c35524243511c1a32bfaebe516fff",
     "name": "Verrechnete kalkulatorische Abschreibungen",
     "type": "Aufwand",
     "code": "2507",
+    "sort-code": 2507,
     "description": "Verrechnete kalkulatorische Abschreibungen",
     "categories": [
         "2503 Kalkulatorische Abschreibungen",
@@ -10,20 +11,10 @@
         "2500-2999 AUSGABEN",
         "2 Erfolgskonten ideeller Bereich"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl3": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN > 2510 \u00dcbrige Ausgaben > 2503 Kalkulatorische Abschreibungen"
-        },
-        {
-            "lvl2": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN > 2510 \u00dcbrige Ausgaben"
-        },
-        {
-            "lvl1": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN"
-        },
-        {
-            "lvl0": "2 Erfolgskonten ideeller Bereich"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl3": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN > 2510 \u00dcbrige Ausgaben > 2503 Kalkulatorische Abschreibungen",
+    "hierarchicalCategories.lvl2": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN > 2510 \u00dcbrige Ausgaben",
+    "hierarchicalCategories.lvl1": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN",
+    "hierarchicalCategories.lvl0": "2 Erfolgskonten ideeller Bereich",
     "parent": "3e7cc0726990de6806dac81741eaa784"
 }

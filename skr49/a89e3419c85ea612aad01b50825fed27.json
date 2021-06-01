@@ -1,25 +1,18 @@
 {
-    "objectID": "a89e3419c85ea612aad01b50825fed27",
+    "id": "a89e3419c85ea612aad01b50825fed27",
     "name": "Vortrag Zweckbetriebe Sport",
     "type": "Fremdkapital",
     "code": "1085",
+    "sort-code": 1085,
     "description": "Vortrag Zweckbetriebe Sport",
     "categories": [
         "1080-1090 Ergebnisvortr\u00e4ge",
         "1000-1179 VERM\u00d6GEN / EIGENKAPITAL",
         "1 passive Verm\u00f6gensposten"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL > 1080-1090 Ergebnisvortr\u00e4ge"
-        },
-        {
-            "lvl1": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL"
-        },
-        {
-            "lvl0": "1 passive Verm\u00f6gensposten"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL > 1080-1090 Ergebnisvortr\u00e4ge",
+    "hierarchicalCategories.lvl1": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL",
+    "hierarchicalCategories.lvl0": "1 passive Verm\u00f6gensposten",
     "parent": "710b7adeff6481d64884ea80eb5b6f02"
 }

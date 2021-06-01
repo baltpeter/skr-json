@@ -1,22 +1,17 @@
 {
-    "objectID": "3fbd54ad3e051bfe7ab9ae141ffa21f8",
+    "id": "3fbd54ad3e051bfe7ab9ae141ffa21f8",
     "name": "Vereinsausstattung",
     "type": "Aktiva",
     "code": "0300",
+    "sort-code": 300,
     "description": "Vereinsausstattung",
     "categories": [
         "0250-0599 ANDERE ANLAGEN, BETRIEBS- UND GESCH\u00c4FTSAUSSTATTUNG",
         "0 aktive Verm\u00f6gensposten"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "0 aktive Verm\u00f6gensposten > 0250-0599 ANDERE ANLAGEN, BETRIEBS- UND GESCH\u00c4FTSAUSSTATTUNG"
-        },
-        {
-            "lvl0": "0 aktive Verm\u00f6gensposten"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl1": "0 aktive Verm\u00f6gensposten > 0250-0599 ANDERE ANLAGEN, BETRIEBS- UND GESCH\u00c4FTSAUSSTATTUNG",
+    "hierarchicalCategories.lvl0": "0 aktive Verm\u00f6gensposten",
     "notes": "Vereinsausstattung / Sonstige Anlagen und Ausstattung (Stiftung/GmbH)",
     "parent": "0a4482e8dafad43f53d659a8e8be2181"
 }

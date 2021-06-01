@@ -1,18 +1,15 @@
 {
-    "objectID": "69ea025cd488b1084c9fed0d584800e2",
+    "id": "69ea025cd488b1084c9fed0d584800e2",
     "name": "e) Kalkulatorische Kosten",
     "type": "Aufwand",
     "code": -1,
+    "sort-code": 9999,
     "description": "",
     "categories": [
         "08. sonstige betriebliche Aufwendungen"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl0": "08. sonstige betriebliche Aufwendungen"
-        }
-    ],
     "leaf": false,
+    "hierarchicalCategories.lvl0": "08. sonstige betriebliche Aufwendungen",
     "placeholder": true,
     "parent": "cf7f94dcdeb53cd3d602ea87d83aba4e"
 }

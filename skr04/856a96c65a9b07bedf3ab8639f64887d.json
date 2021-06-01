@@ -1,8 +1,9 @@
 {
-    "objectID": "856a96c65a9b07bedf3ab8639f64887d",
+    "id": "856a96c65a9b07bedf3ab8639f64887d",
     "name": "Erhaltene Anzahlungen 7% USt",
     "type": "Verbindlichkeit",
     "code": "3260",
+    "sort-code": 3260,
     "description": "",
     "categories": [
         "Erhaltene Anzahlungen",
@@ -10,21 +11,11 @@
         "C. Verbindlichkeiten",
         "Passiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl3": "Passiva > C. Verbindlichkeiten > 03. erhaltene Anzahlungen auf Bestellungen > Erhaltene Anzahlungen"
-        },
-        {
-            "lvl2": "Passiva > C. Verbindlichkeiten > 03. erhaltene Anzahlungen auf Bestellungen"
-        },
-        {
-            "lvl1": "Passiva > C. Verbindlichkeiten"
-        },
-        {
-            "lvl0": "Passiva"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl3": "Passiva > C. Verbindlichkeiten > 03. erhaltene Anzahlungen auf Bestellungen > Erhaltene Anzahlungen",
+    "hierarchicalCategories.lvl2": "Passiva > C. Verbindlichkeiten > 03. erhaltene Anzahlungen auf Bestellungen",
+    "hierarchicalCategories.lvl1": "Passiva > C. Verbindlichkeiten",
+    "hierarchicalCategories.lvl0": "Passiva",
     "placeholder": false,
     "parent": "8849ae77228dd660bcdfd0becbfd9e7f"
 }

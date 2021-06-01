@@ -1,21 +1,16 @@
 {
-    "objectID": "2876b41c069107076e7a18ec39bf4f9c",
+    "id": "2876b41c069107076e7a18ec39bf4f9c",
     "name": "Ladeneinrichtung",
     "type": "Aktiva",
     "code": "0430",
+    "sort-code": 430,
     "description": "",
     "categories": [
         "Anlage- u. Kapitalkonten 0",
         "Aktiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "Aktiva > Anlage- u. Kapitalkonten 0"
-        },
-        {
-            "lvl0": "Aktiva"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl1": "Aktiva > Anlage- u. Kapitalkonten 0",
+    "hierarchicalCategories.lvl0": "Aktiva",
     "parent": "27356188a1963c1dbf943022441d095f"
 }

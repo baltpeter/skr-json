@@ -1,8 +1,9 @@
 {
-    "objectID": "b39f65148525062daccd1683d69b1ee4",
+    "id": "b39f65148525062daccd1683d69b1ee4",
     "name": "Sonderausgaben beschr\u00e4nkt abzugsf\u00e4hig",
     "type": "Fremdkapital",
     "code": "2600",
+    "sort-code": 2600,
     "description": "",
     "categories": [
         "IV. Privat Teilhafter",
@@ -10,21 +11,11 @@
         "A. Eigenkapital",
         "Passiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl3": "Passiva > A. Eigenkapital > a) Personengesellschaft > IV. Privat Teilhafter"
-        },
-        {
-            "lvl2": "Passiva > A. Eigenkapital > a) Personengesellschaft"
-        },
-        {
-            "lvl1": "Passiva > A. Eigenkapital"
-        },
-        {
-            "lvl0": "Passiva"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl3": "Passiva > A. Eigenkapital > a) Personengesellschaft > IV. Privat Teilhafter",
+    "hierarchicalCategories.lvl2": "Passiva > A. Eigenkapital > a) Personengesellschaft",
+    "hierarchicalCategories.lvl1": "Passiva > A. Eigenkapital",
+    "hierarchicalCategories.lvl0": "Passiva",
     "placeholder": false,
     "parent": "3260c1391626c6d4390a92d314f6d047"
 }

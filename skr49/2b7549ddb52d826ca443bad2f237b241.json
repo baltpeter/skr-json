@@ -1,11 +1,11 @@
 {
-    "objectID": "2b7549ddb52d826ca443bad2f237b241",
+    "id": "2b7549ddb52d826ca443bad2f237b241",
     "name": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten",
     "type": "Ertrag",
     "code": "3",
+    "sort-code": 9999,
     "description": "Bei der steuerlichen Gewinnermittlung von Vereinen nicht anzusetzende Einnahmen und Ausgaben",
     "categories": [],
-    "hierarchicalCategories": [],
     "leaf": false,
     "notes": "Klasse 3: Ergebnisposten (T\u00e4tigkeitsbereich 3000)\nBei der steuerlichen Gewinnermittlung gemeinn\u00fctziger Vereine und nicht gemeinn\u00fctziger Vereine nicht anzusetzende Einnahmen und Ausgaben\nUSt-Hinweis: keine USt",
     "placeholder": true,

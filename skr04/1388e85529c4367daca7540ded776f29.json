@@ -1,18 +1,15 @@
 {
-    "objectID": "1388e85529c4367daca7540ded776f29",
+    "id": "1388e85529c4367daca7540ded776f29",
     "name": "Saldenvortr\u00e4ge Sachkonten",
     "type": "Eigenkapital",
     "code": "9000",
+    "sort-code": 9000,
     "description": "",
     "categories": [
         "Anfangsbestand"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl0": "Anfangsbestand"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl0": "Anfangsbestand",
     "placeholder": false,
     "parent": "e57d948c9a884e179bd090118b9212f8"
 }

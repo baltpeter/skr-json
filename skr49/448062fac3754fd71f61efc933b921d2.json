@@ -1,8 +1,9 @@
 {
-    "objectID": "448062fac3754fd71f61efc933b921d2",
+    "id": "448062fac3754fd71f61efc933b921d2",
     "name": "Aufwendungen f\u00fcr Altersversorgung",
     "type": "Aufwand",
     "code": "4991",
+    "sort-code": 4991,
     "description": "Aufwendungen f\u00fcr Altersversorgung",
     "categories": [
         "4990-4999 Soziale Abgaben",
@@ -10,21 +11,11 @@
         "4500-4999 AUSGABEN / WERBUNGSKOSTEN",
         "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl3": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4500-4999 AUSGABEN / WERBUNGSKOSTEN > 4980-4999 Personalaufwand > 4990-4999 Soziale Abgaben"
-        },
-        {
-            "lvl2": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4500-4999 AUSGABEN / WERBUNGSKOSTEN > 4980-4999 Personalaufwand"
-        },
-        {
-            "lvl1": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4500-4999 AUSGABEN / WERBUNGSKOSTEN"
-        },
-        {
-            "lvl0": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl3": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4500-4999 AUSGABEN / WERBUNGSKOSTEN > 4980-4999 Personalaufwand > 4990-4999 Soziale Abgaben",
+    "hierarchicalCategories.lvl2": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4500-4999 AUSGABEN / WERBUNGSKOSTEN > 4980-4999 Personalaufwand",
+    "hierarchicalCategories.lvl1": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4500-4999 AUSGABEN / WERBUNGSKOSTEN",
+    "hierarchicalCategories.lvl0": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung",
     "notes": "Konto f\u00fcr das Buchungsjahr 2017 neu eingef\u00fchrt.",
     "parent": "71041368555c4533b0ad3b5892137a22"
 }

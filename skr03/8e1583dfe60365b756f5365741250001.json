@@ -1,21 +1,16 @@
 {
-    "objectID": "8e1583dfe60365b756f5365741250001",
+    "id": "8e1583dfe60365b756f5365741250001",
     "name": "Umsatzsteuer \u00a7 13b UStG 19%",
     "type": "Fremdkapital",
     "code": "1787",
+    "sort-code": 1787,
     "description": "",
     "categories": [
         "Umsatzsteuer",
         "Passiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "Passiva > Umsatzsteuer"
-        },
-        {
-            "lvl0": "Passiva"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl1": "Passiva > Umsatzsteuer",
+    "hierarchicalCategories.lvl0": "Passiva",
     "parent": "dea7f32e6a447d2d1cd7048932c98265"
 }

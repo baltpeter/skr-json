@@ -1,22 +1,17 @@
 {
-    "objectID": "332ab057b6da4c93c7c19853adaf07b2",
+    "id": "332ab057b6da4c93c7c19853adaf07b2",
     "name": "Statistische Konten f\u00fcr den au\u00dferhalb der Bilanz zu ber\u00fccksichtigenden Investitionsabzugsbetrag",
     "type": "Aktiva",
     "code": "9966-9975",
+    "sort-code": 9999,
     "description": "Statistische Konten f\u00fcr den au\u00dferhalb der Bilanz zu ber\u00fccksichtigenden Investitionsabzugsbetrag nach \u00a77g EStG",
     "categories": [
         "9600-9998 WEITERE STATISTIK- UND VORTRAGSKONTEN",
         "9 Statistik- & Vortragskonten"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "9 Statistik- & Vortragskonten > 9600-9998 WEITERE STATISTIK- UND VORTRAGSKONTEN"
-        },
-        {
-            "lvl0": "9 Statistik- & Vortragskonten"
-        }
-    ],
     "leaf": false,
+    "hierarchicalCategories.lvl1": "9 Statistik- & Vortragskonten > 9600-9998 WEITERE STATISTIK- UND VORTRAGSKONTEN",
+    "hierarchicalCategories.lvl0": "9 Statistik- & Vortragskonten",
     "placeholder": true,
     "parent": "cafd8ada4152cfeb9eb49cdeff92764e"
 }

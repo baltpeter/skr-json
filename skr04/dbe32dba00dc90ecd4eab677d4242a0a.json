@@ -1,8 +1,9 @@
 {
-    "objectID": "dbe32dba00dc90ecd4eab677d4242a0a",
+    "id": "dbe32dba00dc90ecd4eab677d4242a0a",
     "name": "Verbindl. gg. UN mit Beteiligg.verh. 1-5 J",
     "type": "Verbindlichkeit",
     "code": "3455",
+    "sort-code": 3455,
     "description": "",
     "categories": [
         "Verbindl. gg.UN mit Beteiligungsverh.",
@@ -10,21 +11,11 @@
         "C. Verbindlichkeiten",
         "Passiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl3": "Passiva > C. Verbindlichkeiten > 07. Verbindlichkeiten gegen\u00fcber Unternehmen, mit denen ein Beteiligungsverh\u00e4ltnis besteht > Verbindl. gg.UN mit Beteiligungsverh."
-        },
-        {
-            "lvl2": "Passiva > C. Verbindlichkeiten > 07. Verbindlichkeiten gegen\u00fcber Unternehmen, mit denen ein Beteiligungsverh\u00e4ltnis besteht"
-        },
-        {
-            "lvl1": "Passiva > C. Verbindlichkeiten"
-        },
-        {
-            "lvl0": "Passiva"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl3": "Passiva > C. Verbindlichkeiten > 07. Verbindlichkeiten gegen\u00fcber Unternehmen, mit denen ein Beteiligungsverh\u00e4ltnis besteht > Verbindl. gg.UN mit Beteiligungsverh.",
+    "hierarchicalCategories.lvl2": "Passiva > C. Verbindlichkeiten > 07. Verbindlichkeiten gegen\u00fcber Unternehmen, mit denen ein Beteiligungsverh\u00e4ltnis besteht",
+    "hierarchicalCategories.lvl1": "Passiva > C. Verbindlichkeiten",
+    "hierarchicalCategories.lvl0": "Passiva",
     "placeholder": false,
     "parent": "2d40feca23be62c13faf71b69ce216a7"
 }

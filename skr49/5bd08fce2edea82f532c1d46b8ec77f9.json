@@ -1,25 +1,18 @@
 {
-    "objectID": "5bd08fce2edea82f532c1d46b8ec77f9",
+    "id": "5bd08fce2edea82f532c1d46b8ec77f9",
     "name": "Zusch\u00fcsse von Verb\u00e4nden",
     "type": "Ertrag",
     "code": "2301",
+    "sort-code": 2301,
     "description": "Zusch\u00fcsse von Verb\u00e4nden",
     "categories": [
         "2300 Zusch\u00fcsse",
         "2000 EINNAHMEN",
         "2 Erfolgskonten ideeller Bereich"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "2 Erfolgskonten ideeller Bereich > 2000 EINNAHMEN > 2300 Zusch\u00fcsse"
-        },
-        {
-            "lvl1": "2 Erfolgskonten ideeller Bereich > 2000 EINNAHMEN"
-        },
-        {
-            "lvl0": "2 Erfolgskonten ideeller Bereich"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "2 Erfolgskonten ideeller Bereich > 2000 EINNAHMEN > 2300 Zusch\u00fcsse",
+    "hierarchicalCategories.lvl1": "2 Erfolgskonten ideeller Bereich > 2000 EINNAHMEN",
+    "hierarchicalCategories.lvl0": "2 Erfolgskonten ideeller Bereich",
     "parent": "065ddce2596365d9d9e8f1f31e958a1b"
 }

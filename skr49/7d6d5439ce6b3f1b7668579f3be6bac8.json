@@ -1,8 +1,9 @@
 {
-    "objectID": "7d6d5439ce6b3f1b7668579f3be6bac8",
+    "id": "7d6d5439ce6b3f1b7668579f3be6bac8",
     "name": "Gegenkonto 1341-1343 bei Aufteilung der Verbindlichkeiten nach Steuers\u00e4tzen",
     "type": "Verbindlichkeit",
     "code": "1344",
+    "sort-code": 1344,
     "description": "Gegenkonto 1341-1343 bei Aufteilung der Verbindlichkeiten nach Steuers\u00e4tzen (E\u00dcR)",
     "categories": [
         "1340 Verbindlichkeiten aus L&L",
@@ -10,20 +11,10 @@
         "1300-1989 VERBINDLICHKEITEN",
         "1 passive Verm\u00f6gensposten"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl3": "1 passive Verm\u00f6gensposten > 1300-1989 VERBINDLICHKEITEN > 1335-1349 Verbindlichkeiten aus L&L > 1340 Verbindlichkeiten aus L&L"
-        },
-        {
-            "lvl2": "1 passive Verm\u00f6gensposten > 1300-1989 VERBINDLICHKEITEN > 1335-1349 Verbindlichkeiten aus L&L"
-        },
-        {
-            "lvl1": "1 passive Verm\u00f6gensposten > 1300-1989 VERBINDLICHKEITEN"
-        },
-        {
-            "lvl0": "1 passive Verm\u00f6gensposten"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl3": "1 passive Verm\u00f6gensposten > 1300-1989 VERBINDLICHKEITEN > 1335-1349 Verbindlichkeiten aus L&L > 1340 Verbindlichkeiten aus L&L",
+    "hierarchicalCategories.lvl2": "1 passive Verm\u00f6gensposten > 1300-1989 VERBINDLICHKEITEN > 1335-1349 Verbindlichkeiten aus L&L",
+    "hierarchicalCategories.lvl1": "1 passive Verm\u00f6gensposten > 1300-1989 VERBINDLICHKEITEN",
+    "hierarchicalCategories.lvl0": "1 passive Verm\u00f6gensposten",
     "parent": "c1edff52384d6b90bf6c9b81a7158af2"
 }

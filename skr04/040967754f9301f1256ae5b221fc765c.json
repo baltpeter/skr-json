@@ -1,26 +1,19 @@
 {
-    "objectID": "040967754f9301f1256ae5b221fc765c",
+    "id": "040967754f9301f1256ae5b221fc765c",
     "name": "Partiarische Darlehen",
     "type": "Verbindlichkeit",
     "code": "3540",
+    "sort-code": 3540,
     "description": "",
     "categories": [
         "08. sonstige Verbindlichkeiten",
         "C. Verbindlichkeiten",
         "Passiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "Passiva > C. Verbindlichkeiten > 08. sonstige Verbindlichkeiten"
-        },
-        {
-            "lvl1": "Passiva > C. Verbindlichkeiten"
-        },
-        {
-            "lvl0": "Passiva"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "Passiva > C. Verbindlichkeiten > 08. sonstige Verbindlichkeiten",
+    "hierarchicalCategories.lvl1": "Passiva > C. Verbindlichkeiten",
+    "hierarchicalCategories.lvl0": "Passiva",
     "placeholder": true,
     "parent": "3f6c684bfaa3d0fc8b94368847566df3"
 }

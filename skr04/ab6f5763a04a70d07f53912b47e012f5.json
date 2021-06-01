@@ -1,18 +1,15 @@
 {
-    "objectID": "ab6f5763a04a70d07f53912b47e012f5",
+    "id": "ab6f5763a04a70d07f53912b47e012f5",
     "name": "Ertr\u00e4ge aus der Aufl\u00f6sung von Sonderposten mit R\u00fccklageanteil (steuerfreie R\u00fccklagen)",
     "type": "Ertrag",
     "code": "4935",
+    "sort-code": 4935,
     "description": "",
     "categories": [
         "04. Sonstige betriebliche Ertr\u00e4ge"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl0": "04. Sonstige betriebliche Ertr\u00e4ge"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl0": "04. Sonstige betriebliche Ertr\u00e4ge",
     "placeholder": false,
     "parent": "4c0c1557fe54e71d7ed717587a0c0b4d"
 }

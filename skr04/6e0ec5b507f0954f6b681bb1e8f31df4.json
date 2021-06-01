@@ -1,26 +1,19 @@
 {
-    "objectID": "6e0ec5b507f0954f6b681bb1e8f31df4",
+    "id": "6e0ec5b507f0954f6b681bb1e8f31df4",
     "name": "Abschreibungen auf Sachanlagen aufgrund steuerlicher Sondervorschriften",
     "type": "Aufwand",
     "code": "6240",
+    "sort-code": 6240,
     "description": "",
     "categories": [
         "Abschreibungen auf das Anlageverm\u00f6gen",
         "a) auf immaterielle Verm\u00f6gensgegenst\u00e4nde des Anlageverm\u00f6gens und Sachanlagen",
         "07. Abschreibungen"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "07. Abschreibungen > a) auf immaterielle Verm\u00f6gensgegenst\u00e4nde des Anlageverm\u00f6gens und Sachanlagen > Abschreibungen auf das Anlageverm\u00f6gen"
-        },
-        {
-            "lvl1": "07. Abschreibungen > a) auf immaterielle Verm\u00f6gensgegenst\u00e4nde des Anlageverm\u00f6gens und Sachanlagen"
-        },
-        {
-            "lvl0": "07. Abschreibungen"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "07. Abschreibungen > a) auf immaterielle Verm\u00f6gensgegenst\u00e4nde des Anlageverm\u00f6gens und Sachanlagen > Abschreibungen auf das Anlageverm\u00f6gen",
+    "hierarchicalCategories.lvl1": "07. Abschreibungen > a) auf immaterielle Verm\u00f6gensgegenst\u00e4nde des Anlageverm\u00f6gens und Sachanlagen",
+    "hierarchicalCategories.lvl0": "07. Abschreibungen",
     "placeholder": false,
     "parent": "135aeefb7cce9adb6f4b62a86a81385a"
 }

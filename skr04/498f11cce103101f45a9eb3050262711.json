@@ -1,8 +1,9 @@
 {
-    "objectID": "498f11cce103101f45a9eb3050262711",
+    "id": "498f11cce103101f45a9eb3050262711",
     "name": "Z\u00f6lle und Einfuhrabgaben",
     "type": "Aufwand",
     "code": "5840",
+    "sort-code": 5840,
     "description": "",
     "categories": [
         "Bezugsnebenkosten",
@@ -10,21 +11,11 @@
         "a) Aufwendungen f\u00fcr Roh-, Hilfs- und Betriebsstoffe und f\u00fcr bezogene Waren",
         "05. Materialaufwand"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl3": "05. Materialaufwand > a) Aufwendungen f\u00fcr Roh-, Hilfs- und Betriebsstoffe und f\u00fcr bezogene Waren > 03. Statistische Konten E\u00dcR > Bezugsnebenkosten"
-        },
-        {
-            "lvl2": "05. Materialaufwand > a) Aufwendungen f\u00fcr Roh-, Hilfs- und Betriebsstoffe und f\u00fcr bezogene Waren > 03. Statistische Konten E\u00dcR"
-        },
-        {
-            "lvl1": "05. Materialaufwand > a) Aufwendungen f\u00fcr Roh-, Hilfs- und Betriebsstoffe und f\u00fcr bezogene Waren"
-        },
-        {
-            "lvl0": "05. Materialaufwand"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl3": "05. Materialaufwand > a) Aufwendungen f\u00fcr Roh-, Hilfs- und Betriebsstoffe und f\u00fcr bezogene Waren > 03. Statistische Konten E\u00dcR > Bezugsnebenkosten",
+    "hierarchicalCategories.lvl2": "05. Materialaufwand > a) Aufwendungen f\u00fcr Roh-, Hilfs- und Betriebsstoffe und f\u00fcr bezogene Waren > 03. Statistische Konten E\u00dcR",
+    "hierarchicalCategories.lvl1": "05. Materialaufwand > a) Aufwendungen f\u00fcr Roh-, Hilfs- und Betriebsstoffe und f\u00fcr bezogene Waren",
+    "hierarchicalCategories.lvl0": "05. Materialaufwand",
     "placeholder": false,
     "parent": "72160c90e5556e1f80b3e57278a68874"
 }

@@ -1,26 +1,19 @@
 {
-    "objectID": "8b541a54565977c027aaa1980041de96",
+    "id": "8b541a54565977c027aaa1980041de96",
     "name": "R\u00fcckstellungen f\u00fcr Abraum- und Abfallbeseitigung",
     "type": "Fremdkapital",
     "code": "3085",
+    "sort-code": 3085,
     "description": "",
     "categories": [
         "03. Sonstige R\u00fcckstellungen",
         "B. R\u00fcckstellungen",
         "Passiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "Passiva > B. R\u00fcckstellungen > 03. Sonstige R\u00fcckstellungen"
-        },
-        {
-            "lvl1": "Passiva > B. R\u00fcckstellungen"
-        },
-        {
-            "lvl0": "Passiva"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "Passiva > B. R\u00fcckstellungen > 03. Sonstige R\u00fcckstellungen",
+    "hierarchicalCategories.lvl1": "Passiva > B. R\u00fcckstellungen",
+    "hierarchicalCategories.lvl0": "Passiva",
     "placeholder": false,
     "parent": "984e3a4bbeb1a32db7dd6df9437e6ee1"
 }

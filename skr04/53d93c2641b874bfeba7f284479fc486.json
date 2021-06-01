@@ -1,26 +1,19 @@
 {
-    "objectID": "53d93c2641b874bfeba7f284479fc486",
+    "id": "53d93c2641b874bfeba7f284479fc486",
     "name": "Verbindlichkeiten aus Einbehaltungen",
     "type": "Verbindlichkeit",
     "code": "3760",
+    "sort-code": 3760,
     "description": "KapESt und SolZ auf KapESt",
     "categories": [
         "08. sonstige Verbindlichkeiten",
         "C. Verbindlichkeiten",
         "Passiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "Passiva > C. Verbindlichkeiten > 08. sonstige Verbindlichkeiten"
-        },
-        {
-            "lvl1": "Passiva > C. Verbindlichkeiten"
-        },
-        {
-            "lvl0": "Passiva"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "Passiva > C. Verbindlichkeiten > 08. sonstige Verbindlichkeiten",
+    "hierarchicalCategories.lvl1": "Passiva > C. Verbindlichkeiten",
+    "hierarchicalCategories.lvl0": "Passiva",
     "placeholder": false,
     "parent": "3f6c684bfaa3d0fc8b94368847566df3"
 }

@@ -1,21 +1,16 @@
 {
-    "objectID": "55a2876edef147ed7631486de4af558c",
+    "id": "55a2876edef147ed7631486de4af558c",
     "name": "Umsatzsteuer 19%",
     "type": "Fremdkapital",
     "code": "1776",
+    "sort-code": 1776,
     "description": "",
     "categories": [
         "Umsatzsteuer",
         "Passiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "Passiva > Umsatzsteuer"
-        },
-        {
-            "lvl0": "Passiva"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl1": "Passiva > Umsatzsteuer",
+    "hierarchicalCategories.lvl0": "Passiva",
     "parent": "dea7f32e6a447d2d1cd7048932c98265"
 }

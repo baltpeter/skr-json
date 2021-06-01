@@ -1,22 +1,17 @@
 {
-    "objectID": "00c7e61255603682c8bf7af5368a2dfc",
+    "id": "00c7e61255603682c8bf7af5368a2dfc",
     "name": "Aufwendungen aus Kursdifferenzen",
     "type": "Aufwand",
     "code": "6880",
+    "sort-code": 6880,
     "description": "",
     "categories": [
         "a) ordentliche betriebliche Aufwendungen",
         "08. sonstige betriebliche Aufwendungen"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen"
-        },
-        {
-            "lvl0": "08. sonstige betriebliche Aufwendungen"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl1": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen",
+    "hierarchicalCategories.lvl0": "08. sonstige betriebliche Aufwendungen",
     "placeholder": false,
     "parent": "02bf19f7916e6dc15c403335dd274ccb"
 }

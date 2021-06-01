@@ -1,8 +1,9 @@
 {
-    "objectID": "7486947e958ca0aaad2165caf3a63409",
+    "id": "7486947e958ca0aaad2165caf3a63409",
     "name": "Sonstige Verbindlichkeiten (g. 5 J)",
     "type": "Verbindlichkeit",
     "code": "3507",
+    "sort-code": 3507,
     "description": "",
     "categories": [
         "Sonstige Verbindlichkeiten",
@@ -10,21 +11,11 @@
         "C. Verbindlichkeiten",
         "Passiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl3": "Passiva > C. Verbindlichkeiten > 08. sonstige Verbindlichkeiten > Sonstige Verbindlichkeiten"
-        },
-        {
-            "lvl2": "Passiva > C. Verbindlichkeiten > 08. sonstige Verbindlichkeiten"
-        },
-        {
-            "lvl1": "Passiva > C. Verbindlichkeiten"
-        },
-        {
-            "lvl0": "Passiva"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl3": "Passiva > C. Verbindlichkeiten > 08. sonstige Verbindlichkeiten > Sonstige Verbindlichkeiten",
+    "hierarchicalCategories.lvl2": "Passiva > C. Verbindlichkeiten > 08. sonstige Verbindlichkeiten",
+    "hierarchicalCategories.lvl1": "Passiva > C. Verbindlichkeiten",
+    "hierarchicalCategories.lvl0": "Passiva",
     "placeholder": false,
     "parent": "ecd88b09ea57fbcb6c1371597d818f2c"
 }

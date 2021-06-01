@@ -1,26 +1,19 @@
 {
-    "objectID": "c4ecd4b8292df74335546eda34e7e375",
+    "id": "c4ecd4b8292df74335546eda34e7e375",
     "name": "05. Erhaltene Anzahlungen auf Bestellungen",
     "type": "Aktiva",
     "code": "1190",
+    "sort-code": 1190,
     "description": "(von Vorr\u00e4ten offen abgesetzt)",
     "categories": [
         "I. Vorr\u00e4te",
         "B. Umlaufverm\u00f6gen",
         "Aktiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "Aktiva > B. Umlaufverm\u00f6gen > I. Vorr\u00e4te"
-        },
-        {
-            "lvl1": "Aktiva > B. Umlaufverm\u00f6gen"
-        },
-        {
-            "lvl0": "Aktiva"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "Aktiva > B. Umlaufverm\u00f6gen > I. Vorr\u00e4te",
+    "hierarchicalCategories.lvl1": "Aktiva > B. Umlaufverm\u00f6gen",
+    "hierarchicalCategories.lvl0": "Aktiva",
     "placeholder": true,
     "parent": "693674f6bcdd8dfbc525267340f4771b"
 }

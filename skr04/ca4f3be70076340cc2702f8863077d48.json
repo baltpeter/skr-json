@@ -1,18 +1,15 @@
 {
-    "objectID": "ca4f3be70076340cc2702f8863077d48",
+    "id": "ca4f3be70076340cc2702f8863077d48",
     "name": "D. Rechnungsabgrenzungsposten Fremdkapital",
     "type": "Fremdkapital",
     "code": -1,
+    "sort-code": 9999,
     "description": "",
     "categories": [
         "Passiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl0": "Passiva"
-        }
-    ],
     "leaf": false,
+    "hierarchicalCategories.lvl0": "Passiva",
     "placeholder": true,
     "parent": "67e3afb8f6e39be571749da7aa113b2e"
 }

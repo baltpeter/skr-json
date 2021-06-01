@@ -1,8 +1,9 @@
 {
-    "objectID": "6dc1d68bf6a196c6b51e5f5e3d50de3d",
+    "id": "6dc1d68bf6a196c6b51e5f5e3d50de3d",
     "name": "Umsatzsteuer nach \u00a713b UStG 16%",
     "type": "Verbindlichkeit",
     "code": "3833",
+    "sort-code": 3833,
     "description": "f\u00fcr Direktbuchungen der USt bei Leistungen eines im Ausland ans\u00e4ssigen Unternehmers",
     "categories": [
         "Umsatzsteuervorauszahlungen",
@@ -10,21 +11,11 @@
         "C. Verbindlichkeiten",
         "Passiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl3": "Passiva > C. Verbindlichkeiten > 10. Umsatzsteuer > Umsatzsteuervorauszahlungen"
-        },
-        {
-            "lvl2": "Passiva > C. Verbindlichkeiten > 10. Umsatzsteuer"
-        },
-        {
-            "lvl1": "Passiva > C. Verbindlichkeiten"
-        },
-        {
-            "lvl0": "Passiva"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl3": "Passiva > C. Verbindlichkeiten > 10. Umsatzsteuer > Umsatzsteuervorauszahlungen",
+    "hierarchicalCategories.lvl2": "Passiva > C. Verbindlichkeiten > 10. Umsatzsteuer",
+    "hierarchicalCategories.lvl1": "Passiva > C. Verbindlichkeiten",
+    "hierarchicalCategories.lvl0": "Passiva",
     "placeholder": false,
     "parent": "b0b8449ed3962e5c8932ad6ca1e29792"
 }

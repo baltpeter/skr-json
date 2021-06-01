@@ -1,22 +1,17 @@
 {
-    "objectID": "b50841637aacd8821dbde8e6e05c3fac",
+    "id": "b50841637aacd8821dbde8e6e05c3fac",
     "name": "Au\u00dferordentliche Aufwendungen finanzwirksam",
     "type": "Aufwand",
     "code": "7501",
+    "sort-code": 7501,
     "description": "",
     "categories": [
         "Au\u00dferordentliche Aufwendungen",
         "16. au\u00dferordentliche Aufwendungen"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "16. au\u00dferordentliche Aufwendungen > Au\u00dferordentliche Aufwendungen"
-        },
-        {
-            "lvl0": "16. au\u00dferordentliche Aufwendungen"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl1": "16. au\u00dferordentliche Aufwendungen > Au\u00dferordentliche Aufwendungen",
+    "hierarchicalCategories.lvl0": "16. au\u00dferordentliche Aufwendungen",
     "placeholder": false,
     "parent": "a425bb1a0869b8059903e0e1e4e6e7d7"
 }

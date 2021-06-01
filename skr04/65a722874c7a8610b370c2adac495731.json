@@ -1,8 +1,9 @@
 {
-    "objectID": "65a722874c7a8610b370c2adac495731",
+    "id": "65a722874c7a8610b370c2adac495731",
     "name": "Andere Beteiligungen an Kapitalgesellschaften",
     "type": "Aktiva",
     "code": "0850",
+    "sort-code": 850,
     "description": "",
     "categories": [
         "03. Beteiligungen",
@@ -10,21 +11,11 @@
         "A. Anlageverm\u00f6gen",
         "Aktiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl3": "Aktiva > A. Anlageverm\u00f6gen > V. Finanzanlagen > 03. Beteiligungen"
-        },
-        {
-            "lvl2": "Aktiva > A. Anlageverm\u00f6gen > V. Finanzanlagen"
-        },
-        {
-            "lvl1": "Aktiva > A. Anlageverm\u00f6gen"
-        },
-        {
-            "lvl0": "Aktiva"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl3": "Aktiva > A. Anlageverm\u00f6gen > V. Finanzanlagen > 03. Beteiligungen",
+    "hierarchicalCategories.lvl2": "Aktiva > A. Anlageverm\u00f6gen > V. Finanzanlagen",
+    "hierarchicalCategories.lvl1": "Aktiva > A. Anlageverm\u00f6gen",
+    "hierarchicalCategories.lvl0": "Aktiva",
     "placeholder": false,
     "parent": "d55ac7e08716a24f25f1c8aee576869a"
 }

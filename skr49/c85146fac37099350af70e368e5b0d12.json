@@ -1,8 +1,9 @@
 {
-    "objectID": "c85146fac37099350af70e368e5b0d12",
+    "id": "c85146fac37099350af70e368e5b0d12",
     "name": "Ansparr\u00fccklage \u00a762 Abs. 4 AO",
     "type": "Fremdkapital",
     "code": "1118",
+    "sort-code": 1118,
     "description": "Ansparr\u00fccklage \u00a762 Absatz 4 Abgabenordnung",
     "categories": [
         "1115-1125 Ergebnisr\u00fccklagen",
@@ -10,21 +11,11 @@
         "1000-1179 VERM\u00d6GEN / EIGENKAPITAL",
         "1 passive Verm\u00f6gensposten"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl3": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL > 1100-1125 Stiftungsverm\u00f6gen > 1115-1125 Ergebnisr\u00fccklagen"
-        },
-        {
-            "lvl2": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL > 1100-1125 Stiftungsverm\u00f6gen"
-        },
-        {
-            "lvl1": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL"
-        },
-        {
-            "lvl0": "1 passive Verm\u00f6gensposten"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl3": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL > 1100-1125 Stiftungsverm\u00f6gen > 1115-1125 Ergebnisr\u00fccklagen",
+    "hierarchicalCategories.lvl2": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL > 1100-1125 Stiftungsverm\u00f6gen",
+    "hierarchicalCategories.lvl1": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL",
+    "hierarchicalCategories.lvl0": "1 passive Verm\u00f6gensposten",
     "notes": "Nur f\u00fcr Stiftungen!",
     "parent": "3d43c496e04398c7f3783d1ff22b0198"
 }

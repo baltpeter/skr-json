@@ -1,18 +1,15 @@
 {
-    "objectID": "37f2cf5b574a0246a80339837b08b586",
+    "id": "37f2cf5b574a0246a80339837b08b586",
     "name": "Solidarit\u00e4tszuschlag",
     "type": "Aufwand",
     "code": "7608",
+    "sort-code": 7608,
     "description": "",
     "categories": [
         "18. Steuern vom Einkommen und vom Ertrag"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl0": "18. Steuern vom Einkommen und vom Ertrag"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl0": "18. Steuern vom Einkommen und vom Ertrag",
     "placeholder": false,
     "parent": "b1f254106f1e487b31aad762ad1cca11"
 }

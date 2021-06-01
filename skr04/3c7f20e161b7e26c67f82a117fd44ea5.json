@@ -1,8 +1,9 @@
 {
-    "objectID": "3c7f20e161b7e26c67f82a117fd44ea5",
+    "id": "3c7f20e161b7e26c67f82a117fd44ea5",
     "name": "Anzahlungen auf immaterielle Verm\u00f6gensgegenst\u00e4nde",
     "type": "Aktiva",
     "code": "0170",
+    "sort-code": 170,
     "description": "",
     "categories": [
         "03. Geleistete Anzahlungen",
@@ -10,21 +11,11 @@
         "A. Anlageverm\u00f6gen",
         "Aktiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl3": "Aktiva > A. Anlageverm\u00f6gen > III. Immaterielle Verm\u00f6gensgegenst\u00e4nde > 03. Geleistete Anzahlungen"
-        },
-        {
-            "lvl2": "Aktiva > A. Anlageverm\u00f6gen > III. Immaterielle Verm\u00f6gensgegenst\u00e4nde"
-        },
-        {
-            "lvl1": "Aktiva > A. Anlageverm\u00f6gen"
-        },
-        {
-            "lvl0": "Aktiva"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl3": "Aktiva > A. Anlageverm\u00f6gen > III. Immaterielle Verm\u00f6gensgegenst\u00e4nde > 03. Geleistete Anzahlungen",
+    "hierarchicalCategories.lvl2": "Aktiva > A. Anlageverm\u00f6gen > III. Immaterielle Verm\u00f6gensgegenst\u00e4nde",
+    "hierarchicalCategories.lvl1": "Aktiva > A. Anlageverm\u00f6gen",
+    "hierarchicalCategories.lvl0": "Aktiva",
     "placeholder": false,
     "parent": "ea0f8625843879d059e4d62a6b8dcb5b"
 }

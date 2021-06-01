@@ -1,26 +1,19 @@
 {
-    "objectID": "bc874ab19f3b388a00f2a67df5615ff9",
+    "id": "bc874ab19f3b388a00f2a67df5615ff9",
     "name": "Ehrenamtspauschale",
     "type": "Aufwand",
     "code": "2552",
+    "sort-code": 2552,
     "description": "Ehrenamtspauschale",
     "categories": [
         "2550-2559 Personalkosten",
         "2500-2999 AUSGABEN",
         "2 Erfolgskonten ideeller Bereich"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN > 2550-2559 Personalkosten"
-        },
-        {
-            "lvl1": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN"
-        },
-        {
-            "lvl0": "2 Erfolgskonten ideeller Bereich"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN > 2550-2559 Personalkosten",
+    "hierarchicalCategories.lvl1": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN",
+    "hierarchicalCategories.lvl0": "2 Erfolgskonten ideeller Bereich",
     "notes": "Ehemals \u201eGeh\u00e4lter\u201c; dann zusammengefa\u00dft mit 2551 (ehemals \u201eL\u00f6hne\u201c); Konto jetzt wiederverwendet.\nKonto f\u00fcr das Buchungsjahr 2018 neu eingef\u00fchrt.",
     "parent": "6ccdcab3780ae380541cf6c351785151"
 }

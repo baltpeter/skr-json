@@ -1,26 +1,19 @@
 {
-    "objectID": "fb448a4bd4e3f626aae8cd83004e5c3b",
+    "id": "fb448a4bd4e3f626aae8cd83004e5c3b",
     "name": "Wechselverbindlichkeiten >5 Jahre",
     "type": "Verbindlichkeit",
     "code": "1353",
+    "sort-code": 1353,
     "description": "Verbindlichkeiten aus Wechseln \u2013 Restlaufzeit mehr als 5 Jahre",
     "categories": [
         "1350 Wechselverbindlichkeiten",
         "1300-1989 VERBINDLICHKEITEN",
         "1 passive Verm\u00f6gensposten"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "1 passive Verm\u00f6gensposten > 1300-1989 VERBINDLICHKEITEN > 1350 Wechselverbindlichkeiten"
-        },
-        {
-            "lvl1": "1 passive Verm\u00f6gensposten > 1300-1989 VERBINDLICHKEITEN"
-        },
-        {
-            "lvl0": "1 passive Verm\u00f6gensposten"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "1 passive Verm\u00f6gensposten > 1300-1989 VERBINDLICHKEITEN > 1350 Wechselverbindlichkeiten",
+    "hierarchicalCategories.lvl1": "1 passive Verm\u00f6gensposten > 1300-1989 VERBINDLICHKEITEN",
+    "hierarchicalCategories.lvl0": "1 passive Verm\u00f6gensposten",
     "notes": "Schuldwechsel",
     "parent": "6b3e135b2d7c0967b00d66b59a936be7"
 }

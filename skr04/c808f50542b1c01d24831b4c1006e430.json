@@ -1,22 +1,17 @@
 {
-    "objectID": "c808f50542b1c01d24831b4c1006e430",
+    "id": "c808f50542b1c01d24831b4c1006e430",
     "name": "Ertr\u00e4ge aus Beteiligungen an Finanzverbundenen Unternehmen",
     "type": "Ertrag",
     "code": "7009",
+    "sort-code": 7009,
     "description": "",
     "categories": [
         "- davon aus verbundenen Unternehmen",
         "09. Ertr\u00e4ge aus Beteiligungen"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "09. Ertr\u00e4ge aus Beteiligungen > - davon aus verbundenen Unternehmen"
-        },
-        {
-            "lvl0": "09. Ertr\u00e4ge aus Beteiligungen"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl1": "09. Ertr\u00e4ge aus Beteiligungen > - davon aus verbundenen Unternehmen",
+    "hierarchicalCategories.lvl0": "09. Ertr\u00e4ge aus Beteiligungen",
     "placeholder": false,
     "parent": "8bcd67f293fbb107bf8263d34cb6c114"
 }

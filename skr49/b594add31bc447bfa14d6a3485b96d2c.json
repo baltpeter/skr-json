@@ -1,25 +1,18 @@
 {
-    "objectID": "b594add31bc447bfa14d6a3485b96d2c",
+    "id": "b594add31bc447bfa14d6a3485b96d2c",
     "name": "Aufwand aus Storno Erl\u00f6se 7% USt",
     "type": "Aufwand",
     "code": "8986",
+    "sort-code": 8986,
     "description": "Aufwand aus Storno Erl\u00f6se 7% USt",
     "categories": [
         "8980-8989 Ertr\u00e4ge / Einnahmen",
         "8980-8999 ERTRAGSSTEUERPFLICHTIG GEWORDENE ZWECKBETRIEBE",
         "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe > 8980-8999 ERTRAGSSTEUERPFLICHTIG GEWORDENE ZWECKBETRIEBE > 8980-8989 Ertr\u00e4ge / Einnahmen"
-        },
-        {
-            "lvl1": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe > 8980-8999 ERTRAGSSTEUERPFLICHTIG GEWORDENE ZWECKBETRIEBE"
-        },
-        {
-            "lvl0": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe > 8980-8999 ERTRAGSSTEUERPFLICHTIG GEWORDENE ZWECKBETRIEBE > 8980-8989 Ertr\u00e4ge / Einnahmen",
+    "hierarchicalCategories.lvl1": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe > 8980-8999 ERTRAGSSTEUERPFLICHTIG GEWORDENE ZWECKBETRIEBE",
+    "hierarchicalCategories.lvl0": "8 Erfolgskonten f\u00fcr andere ertragssteuerpflichtige Gesch\u00e4ftsbetriebe",
     "parent": "a78e3a1e5fc8c97f8e98c23da04a5e1d"
 }

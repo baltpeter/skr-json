@@ -1,8 +1,9 @@
 {
-    "objectID": "85f1ba087dc40a0cae79d64969c1424f",
+    "id": "85f1ba087dc40a0cae79d64969c1424f",
     "name": "Erhaltene Anzahlungen 7% MWSt",
     "type": "Aktiva",
     "code": "1191",
+    "sort-code": 1191,
     "description": "",
     "categories": [
         "05. Erhaltene Anzahlungen auf Bestellungen",
@@ -10,21 +11,11 @@
         "B. Umlaufverm\u00f6gen",
         "Aktiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl3": "Aktiva > B. Umlaufverm\u00f6gen > I. Vorr\u00e4te > 05. Erhaltene Anzahlungen auf Bestellungen"
-        },
-        {
-            "lvl2": "Aktiva > B. Umlaufverm\u00f6gen > I. Vorr\u00e4te"
-        },
-        {
-            "lvl1": "Aktiva > B. Umlaufverm\u00f6gen"
-        },
-        {
-            "lvl0": "Aktiva"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl3": "Aktiva > B. Umlaufverm\u00f6gen > I. Vorr\u00e4te > 05. Erhaltene Anzahlungen auf Bestellungen",
+    "hierarchicalCategories.lvl2": "Aktiva > B. Umlaufverm\u00f6gen > I. Vorr\u00e4te",
+    "hierarchicalCategories.lvl1": "Aktiva > B. Umlaufverm\u00f6gen",
+    "hierarchicalCategories.lvl0": "Aktiva",
     "placeholder": false,
     "tax-related": false,
     "parent": "c4ecd4b8292df74335546eda34e7e375"

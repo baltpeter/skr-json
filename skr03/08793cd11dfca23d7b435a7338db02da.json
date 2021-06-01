@@ -1,21 +1,16 @@
 {
-    "objectID": "08793cd11dfca23d7b435a7338db02da",
+    "id": "08793cd11dfca23d7b435a7338db02da",
     "name": "Umsatzsteuer-Vorauszahlung 1/11",
     "type": "Fremdkapital",
     "code": "1781",
+    "sort-code": 1781,
     "description": "",
     "categories": [
         "Umsatzsteuer",
         "Passiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "Passiva > Umsatzsteuer"
-        },
-        {
-            "lvl0": "Passiva"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl1": "Passiva > Umsatzsteuer",
+    "hierarchicalCategories.lvl0": "Passiva",
     "parent": "dea7f32e6a447d2d1cd7048932c98265"
 }

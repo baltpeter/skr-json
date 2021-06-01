@@ -1,26 +1,19 @@
 {
-    "objectID": "ef9e2cde3ed8ea553ecd7266fab83db4",
+    "id": "ef9e2cde3ed8ea553ecd7266fab83db4",
     "name": "I. Gewinnr\u00fccklagen",
     "type": "Fremdkapital",
     "code": -1,
+    "sort-code": 9999,
     "description": "",
     "categories": [
         "c) alle",
         "A. Eigenkapital",
         "Passiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "Passiva > A. Eigenkapital > c) alle"
-        },
-        {
-            "lvl1": "Passiva > A. Eigenkapital"
-        },
-        {
-            "lvl0": "Passiva"
-        }
-    ],
     "leaf": false,
+    "hierarchicalCategories.lvl2": "Passiva > A. Eigenkapital > c) alle",
+    "hierarchicalCategories.lvl1": "Passiva > A. Eigenkapital",
+    "hierarchicalCategories.lvl0": "Passiva",
     "placeholder": true,
     "parent": "03f020a835b1fb5ba5b79c0622007f0c"
 }

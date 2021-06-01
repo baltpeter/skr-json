@@ -1,8 +1,9 @@
 {
-    "objectID": "16bc4b8c90d252be6193c6ec706d277a",
+    "id": "16bc4b8c90d252be6193c6ec706d277a",
     "name": "Umsatzsteuer aus im anderen EG-Land steuerpflichtigen Lieferungen",
     "type": "Verbindlichkeit",
     "code": "3817",
+    "sort-code": 3817,
     "description": "",
     "categories": [
         "Umsatzsteuer nicht f\u00e4llig",
@@ -10,21 +11,11 @@
         "C. Verbindlichkeiten",
         "Passiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl3": "Passiva > C. Verbindlichkeiten > 10. Umsatzsteuer > Umsatzsteuer nicht f\u00e4llig"
-        },
-        {
-            "lvl2": "Passiva > C. Verbindlichkeiten > 10. Umsatzsteuer"
-        },
-        {
-            "lvl1": "Passiva > C. Verbindlichkeiten"
-        },
-        {
-            "lvl0": "Passiva"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl3": "Passiva > C. Verbindlichkeiten > 10. Umsatzsteuer > Umsatzsteuer nicht f\u00e4llig",
+    "hierarchicalCategories.lvl2": "Passiva > C. Verbindlichkeiten > 10. Umsatzsteuer",
+    "hierarchicalCategories.lvl1": "Passiva > C. Verbindlichkeiten",
+    "hierarchicalCategories.lvl0": "Passiva",
     "placeholder": false,
     "parent": "cb006e38c871c34faeb5164e7662ede0"
 }

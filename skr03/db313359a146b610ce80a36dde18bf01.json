@@ -1,21 +1,16 @@
 {
-    "objectID": "db313359a146b610ce80a36dde18bf01",
+    "id": "db313359a146b610ce80a36dde18bf01",
     "name": "Reinigung",
     "type": "Aufwand",
     "code": "4250",
+    "sort-code": 4250,
     "description": "",
     "categories": [
         "Raumkosten",
         "Aufwendungen 2/4"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "Aufwendungen 2/4 > Raumkosten"
-        },
-        {
-            "lvl0": "Aufwendungen 2/4"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl1": "Aufwendungen 2/4 > Raumkosten",
+    "hierarchicalCategories.lvl0": "Aufwendungen 2/4",
     "parent": "9adef6f318a931fbb8519a823e2c20e8"
 }

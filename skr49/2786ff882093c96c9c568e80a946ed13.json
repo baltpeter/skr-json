@@ -1,26 +1,19 @@
 {
-    "objectID": "2786ff882093c96c9c568e80a946ed13",
+    "id": "2786ff882093c96c9c568e80a946ed13",
     "name": "Abschreibungen GWG",
     "type": "Aufwand",
     "code": "4501",
+    "sort-code": 4501,
     "description": "Sofortabschreibung geringwertiger Wirtschaftsg\u00fcter",
     "categories": [
         "4500-4504 Abschreibungen",
         "4500-4999 AUSGABEN / WERBUNGSKOSTEN",
         "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4500-4999 AUSGABEN / WERBUNGSKOSTEN > 4500-4504 Abschreibungen"
-        },
-        {
-            "lvl1": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4500-4999 AUSGABEN / WERBUNGSKOSTEN"
-        },
-        {
-            "lvl0": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4500-4999 AUSGABEN / WERBUNGSKOSTEN > 4500-4504 Abschreibungen",
+    "hierarchicalCategories.lvl1": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4500-4999 AUSGABEN / WERBUNGSKOSTEN",
+    "hierarchicalCategories.lvl0": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung",
     "notes": "bis 410\u20ac",
     "parent": "c89187aa8ec760e7b89896e1bd301dd3"
 }

@@ -1,8 +1,9 @@
 {
-    "objectID": "20cb6ac0522ef0dc92bb1cadaeca855c",
+    "id": "20cb6ac0522ef0dc92bb1cadaeca855c",
     "name": "Ausstehende Einlagen auf das Komplement\u00e4r-Kapital, eingefordert",
     "type": "Aktiva",
     "code": "0060",
+    "sort-code": 60,
     "description": "",
     "categories": [
         "b) Kommanditgesellschaft",
@@ -10,21 +11,11 @@
         "A. Anlageverm\u00f6gen",
         "Aktiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl3": "Aktiva > A. Anlageverm\u00f6gen > I. Ausstehende Einlagen > b) Kommanditgesellschaft"
-        },
-        {
-            "lvl2": "Aktiva > A. Anlageverm\u00f6gen > I. Ausstehende Einlagen"
-        },
-        {
-            "lvl1": "Aktiva > A. Anlageverm\u00f6gen"
-        },
-        {
-            "lvl0": "Aktiva"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl3": "Aktiva > A. Anlageverm\u00f6gen > I. Ausstehende Einlagen > b) Kommanditgesellschaft",
+    "hierarchicalCategories.lvl2": "Aktiva > A. Anlageverm\u00f6gen > I. Ausstehende Einlagen",
+    "hierarchicalCategories.lvl1": "Aktiva > A. Anlageverm\u00f6gen",
+    "hierarchicalCategories.lvl0": "Aktiva",
     "placeholder": false,
     "parent": "92e0c76cd1716d23684995969a1af341"
 }

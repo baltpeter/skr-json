@@ -1,26 +1,19 @@
 {
-    "objectID": "3fbfe6ca63fb3201f17299d6e1d86d80",
+    "id": "3fbfe6ca63fb3201f17299d6e1d86d80",
     "name": "Steuerfr. EG-Lief.v.Neufahrzg.ohne UStID",
     "type": "Ertrag",
     "code": "4135",
+    "sort-code": 4135,
     "description": "UstVa Zl. 22, Kz. 44",
     "categories": [
         "Steuerfreie Ums\u00e4tze",
         "a) Umsatzerl\u00f6se",
         "01. Betriebliche Ertr\u00e4ge"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "01. Betriebliche Ertr\u00e4ge > a) Umsatzerl\u00f6se > Steuerfreie Ums\u00e4tze"
-        },
-        {
-            "lvl1": "01. Betriebliche Ertr\u00e4ge > a) Umsatzerl\u00f6se"
-        },
-        {
-            "lvl0": "01. Betriebliche Ertr\u00e4ge"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "01. Betriebliche Ertr\u00e4ge > a) Umsatzerl\u00f6se > Steuerfreie Ums\u00e4tze",
+    "hierarchicalCategories.lvl1": "01. Betriebliche Ertr\u00e4ge > a) Umsatzerl\u00f6se",
+    "hierarchicalCategories.lvl0": "01. Betriebliche Ertr\u00e4ge",
     "placeholder": false,
     "tax-related": false,
     "parent": "3d14d5d5d3001e01974df06bf3752d3a"

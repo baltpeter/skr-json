@@ -1,21 +1,16 @@
 {
-    "objectID": "bf093094a55c036a193357ebcafcab67",
+    "id": "bf093094a55c036a193357ebcafcab67",
     "name": "Abschlu\u00df- u. Pr\u00fcfungskosten",
     "type": "Aufwand",
     "code": "4957",
+    "sort-code": 4957,
     "description": "",
     "categories": [
         "verschiedene Kosten",
         "Aufwendungen 2/4"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "Aufwendungen 2/4 > verschiedene Kosten"
-        },
-        {
-            "lvl0": "Aufwendungen 2/4"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl1": "Aufwendungen 2/4 > verschiedene Kosten",
+    "hierarchicalCategories.lvl0": "Aufwendungen 2/4",
     "parent": "d0c00095e4b00f9f25253307be05e885"
 }

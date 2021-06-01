@@ -1,25 +1,18 @@
 {
-    "objectID": "c962f9803ffab7417f72fda4c3771bcc",
+    "id": "c962f9803ffab7417f72fda4c3771bcc",
     "name": "Steuerfreie Einnahmen gemeinn\u00fctziger Vereine",
     "type": "Ertrag",
     "code": "2420",
+    "sort-code": 2420,
     "description": "Steuerfreie Einnahmen gemeinn\u00fctziger Vereine",
     "categories": [
         "2400 Sonstige Einnahmen ideeller Bereich",
         "2000 EINNAHMEN",
         "2 Erfolgskonten ideeller Bereich"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "2 Erfolgskonten ideeller Bereich > 2000 EINNAHMEN > 2400 Sonstige Einnahmen ideeller Bereich"
-        },
-        {
-            "lvl1": "2 Erfolgskonten ideeller Bereich > 2000 EINNAHMEN"
-        },
-        {
-            "lvl0": "2 Erfolgskonten ideeller Bereich"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "2 Erfolgskonten ideeller Bereich > 2000 EINNAHMEN > 2400 Sonstige Einnahmen ideeller Bereich",
+    "hierarchicalCategories.lvl1": "2 Erfolgskonten ideeller Bereich > 2000 EINNAHMEN",
+    "hierarchicalCategories.lvl0": "2 Erfolgskonten ideeller Bereich",
     "parent": "8c605e342aae45f2df00242e3c7ace6c"
 }

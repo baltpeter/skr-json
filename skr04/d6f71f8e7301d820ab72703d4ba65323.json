@@ -1,22 +1,17 @@
 {
-    "objectID": "d6f71f8e7301d820ab72703d4ba65323",
+    "id": "d6f71f8e7301d820ab72703d4ba65323",
     "name": "Erl\u00f6se",
     "type": "Ertrag",
     "code": "4200",
+    "sort-code": 4200,
     "description": "",
     "categories": [
         "a) Umsatzerl\u00f6se",
         "01. Betriebliche Ertr\u00e4ge"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "01. Betriebliche Ertr\u00e4ge > a) Umsatzerl\u00f6se"
-        },
-        {
-            "lvl0": "01. Betriebliche Ertr\u00e4ge"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl1": "01. Betriebliche Ertr\u00e4ge > a) Umsatzerl\u00f6se",
+    "hierarchicalCategories.lvl0": "01. Betriebliche Ertr\u00e4ge",
     "placeholder": false,
     "parent": "0be35cece133442ae9f967be1626bc57"
 }

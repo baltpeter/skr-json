@@ -1,18 +1,15 @@
 {
-    "objectID": "ad3f063a8200c1faa0331e2d9eb3ae04",
+    "id": "ad3f063a8200c1faa0331e2d9eb3ae04",
     "name": "Abschreibungen",
     "type": "Aufwand",
     "code": -1,
+    "sort-code": 9999,
     "description": "",
     "categories": [
         "Aufwendungen 2/4"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl0": "Aufwendungen 2/4"
-        }
-    ],
     "leaf": false,
+    "hierarchicalCategories.lvl0": "Aufwendungen 2/4",
     "placeholder": true,
     "parent": "be324e400d3b67510f89afd18de776e3"
 }

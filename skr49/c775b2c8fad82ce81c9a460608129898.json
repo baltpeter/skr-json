@@ -1,8 +1,9 @@
 {
-    "objectID": "c775b2c8fad82ce81c9a460608129898",
+    "id": "c775b2c8fad82ce81c9a460608129898",
     "name": "Nicht abzugsf\u00e4hige Bewirtungskosten",
     "type": "Aufwand",
     "code": "3553",
+    "sort-code": 3553,
     "description": "Nicht abzugsf\u00e4hige Bewirtungskosten",
     "categories": [
         "3550 Nicht abziehbare Ausgaben Bereich 5000",
@@ -10,20 +11,10 @@
         "3200-3899  ERTRAGSNEUTRALE POSTEN",
         "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl3": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN > 3500-3599 Zweckbetriebe Sport > 3550 Nicht abziehbare Ausgaben Bereich 5000"
-        },
-        {
-            "lvl2": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN > 3500-3599 Zweckbetriebe Sport"
-        },
-        {
-            "lvl1": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN"
-        },
-        {
-            "lvl0": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl3": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN > 3500-3599 Zweckbetriebe Sport > 3550 Nicht abziehbare Ausgaben Bereich 5000",
+    "hierarchicalCategories.lvl2": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN > 3500-3599 Zweckbetriebe Sport",
+    "hierarchicalCategories.lvl1": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN",
+    "hierarchicalCategories.lvl0": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten",
     "parent": "ec36a283e2e95169640a489b94cbdd59"
 }

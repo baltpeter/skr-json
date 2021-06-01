@@ -1,8 +1,9 @@
 {
-    "objectID": "39841fdb7e32e65ec2c1d7c0997df27f",
+    "id": "39841fdb7e32e65ec2c1d7c0997df27f",
     "name": "Forderungen >1 Jahr aus L&L gegen verbundene Unternehmen",
     "type": "Forderung",
     "code": "0689",
+    "sort-code": 689,
     "description": "Forderungen aus Lieferungen und Leistungen gegen verbundene Unternehmen \u2013 Restlaufzeit mehr als 1 Jahr",
     "categories": [
         "0687 Forderungen aus Lieferungen und Leistungen gegen verbundene Unternehmen",
@@ -11,23 +12,11 @@
         "0600-0989 UMLAUFVERM\u00d6GEN",
         "0 aktive Verm\u00f6gensposten"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl4": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde > 0675-0676+0680-0689 Forderungen / Verbindlichkeiten (verbundene Unternehmen) > 0687 Forderungen aus Lieferungen und Leistungen gegen verbundene Unternehmen"
-        },
-        {
-            "lvl3": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde > 0675-0676+0680-0689 Forderungen / Verbindlichkeiten (verbundene Unternehmen)"
-        },
-        {
-            "lvl2": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde"
-        },
-        {
-            "lvl1": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN"
-        },
-        {
-            "lvl0": "0 aktive Verm\u00f6gensposten"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl4": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde > 0675-0676+0680-0689 Forderungen / Verbindlichkeiten (verbundene Unternehmen) > 0687 Forderungen aus Lieferungen und Leistungen gegen verbundene Unternehmen",
+    "hierarchicalCategories.lvl3": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde > 0675-0676+0680-0689 Forderungen / Verbindlichkeiten (verbundene Unternehmen)",
+    "hierarchicalCategories.lvl2": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde",
+    "hierarchicalCategories.lvl1": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN",
+    "hierarchicalCategories.lvl0": "0 aktive Verm\u00f6gensposten",
     "parent": "c76745d72a8688bbbad9fe643d3fdcff"
 }

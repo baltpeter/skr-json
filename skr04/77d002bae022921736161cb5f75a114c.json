@@ -1,18 +1,15 @@
 {
-    "objectID": "77d002bae022921736161cb5f75a114c",
+    "id": "77d002bae022921736161cb5f75a114c",
     "name": "Einstellungen in Sonderposten mit R\u00fccklageanteil (\u00a752 Abs. 16 EStG)",
     "type": "Aufwand",
     "code": "6929",
+    "sort-code": 6929,
     "description": "",
     "categories": [
         "08. sonstige betriebliche Aufwendungen"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl0": "08. sonstige betriebliche Aufwendungen"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl0": "08. sonstige betriebliche Aufwendungen",
     "placeholder": false,
     "parent": "cf7f94dcdeb53cd3d602ea87d83aba4e"
 }

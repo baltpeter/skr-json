@@ -1,18 +1,15 @@
 {
-    "objectID": "7b9852168571d463059f1a9a038ca8ff",
+    "id": "7b9852168571d463059f1a9a038ca8ff",
     "name": "f) Kosten bei Anwendung des Umsatzkostenverfahrens",
     "type": "Aufwand",
     "code": -1,
+    "sort-code": 9999,
     "description": "",
     "categories": [
         "08. sonstige betriebliche Aufwendungen"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl0": "08. sonstige betriebliche Aufwendungen"
-        }
-    ],
     "leaf": false,
+    "hierarchicalCategories.lvl0": "08. sonstige betriebliche Aufwendungen",
     "placeholder": true,
     "parent": "cf7f94dcdeb53cd3d602ea87d83aba4e"
 }

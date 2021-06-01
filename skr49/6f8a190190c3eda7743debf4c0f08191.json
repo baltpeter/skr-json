@@ -1,8 +1,9 @@
 {
-    "objectID": "6f8a190190c3eda7743debf4c0f08191",
+    "id": "6f8a190190c3eda7743debf4c0f08191",
     "name": "Umsatzsteuer-Vorauszahlung/-Erstattung",
     "type": "Fremdkapital",
     "code": "1910",
+    "sort-code": 1910,
     "description": "Sammelkonto Umsatzsteuer-Vorauszahlungen und -Erstattungen",
     "categories": [
         "1815-1989 Umsatzsteuer-Konten",
@@ -10,21 +11,11 @@
         "1300-1989 VERBINDLICHKEITEN",
         "1 passive Verm\u00f6gensposten"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl3": "1 passive Verm\u00f6gensposten > 1300-1989 VERBINDLICHKEITEN > 1600-1989 Sonstige Verbindlichkeiten oder sonstige Verm\u00f6gensgegenst\u00e4nde > 1815-1989 Umsatzsteuer-Konten"
-        },
-        {
-            "lvl2": "1 passive Verm\u00f6gensposten > 1300-1989 VERBINDLICHKEITEN > 1600-1989 Sonstige Verbindlichkeiten oder sonstige Verm\u00f6gensgegenst\u00e4nde"
-        },
-        {
-            "lvl1": "1 passive Verm\u00f6gensposten > 1300-1989 VERBINDLICHKEITEN"
-        },
-        {
-            "lvl0": "1 passive Verm\u00f6gensposten"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl3": "1 passive Verm\u00f6gensposten > 1300-1989 VERBINDLICHKEITEN > 1600-1989 Sonstige Verbindlichkeiten oder sonstige Verm\u00f6gensgegenst\u00e4nde > 1815-1989 Umsatzsteuer-Konten",
+    "hierarchicalCategories.lvl2": "1 passive Verm\u00f6gensposten > 1300-1989 VERBINDLICHKEITEN > 1600-1989 Sonstige Verbindlichkeiten oder sonstige Verm\u00f6gensgegenst\u00e4nde",
+    "hierarchicalCategories.lvl1": "1 passive Verm\u00f6gensposten > 1300-1989 VERBINDLICHKEITEN",
+    "hierarchicalCategories.lvl0": "1 passive Verm\u00f6gensposten",
     "notes": "\u00dcberschu\u00dfrechner \u2013 keine Zuordnung",
     "parent": "def83289ffd2ede0b29bd3bf9f063a4f"
 }

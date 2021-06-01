@@ -1,25 +1,18 @@
 {
-    "objectID": "940733845c7eb3882586e57a9349324c",
+    "id": "940733845c7eb3882586e57a9349324c",
     "name": "Verbindlichkeiten aus Gew\u00e4hrleistungsvertr\u00e4gen gegen\u00fcber verbundenen / assoziierten Unternehmen",
     "type": "Verbindlichkeit",
     "code": "9276",
+    "sort-code": 9276,
     "description": "Verbindlichkeiten aus Gew\u00e4hrleistungsvertr\u00e4gen gegen\u00fcber verbundenen / assoziierten Unternehmen",
     "categories": [
         "9275 Verbindlichkeiten aus Gew\u00e4hrleistungsvertr\u00e4gen",
         "9270-9485 STATISTISCHE KONTEN F\u00dcR IN DER BILANZ AUSZUWEISENDE HAFTUNGSVERH\u00c4LTNISSE",
         "9 Statistik- & Vortragskonten"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "9 Statistik- & Vortragskonten > 9270-9485 STATISTISCHE KONTEN F\u00dcR IN DER BILANZ AUSZUWEISENDE HAFTUNGSVERH\u00c4LTNISSE > 9275 Verbindlichkeiten aus Gew\u00e4hrleistungsvertr\u00e4gen"
-        },
-        {
-            "lvl1": "9 Statistik- & Vortragskonten > 9270-9485 STATISTISCHE KONTEN F\u00dcR IN DER BILANZ AUSZUWEISENDE HAFTUNGSVERH\u00c4LTNISSE"
-        },
-        {
-            "lvl0": "9 Statistik- & Vortragskonten"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "9 Statistik- & Vortragskonten > 9270-9485 STATISTISCHE KONTEN F\u00dcR IN DER BILANZ AUSZUWEISENDE HAFTUNGSVERH\u00c4LTNISSE > 9275 Verbindlichkeiten aus Gew\u00e4hrleistungsvertr\u00e4gen",
+    "hierarchicalCategories.lvl1": "9 Statistik- & Vortragskonten > 9270-9485 STATISTISCHE KONTEN F\u00dcR IN DER BILANZ AUSZUWEISENDE HAFTUNGSVERH\u00c4LTNISSE",
+    "hierarchicalCategories.lvl0": "9 Statistik- & Vortragskonten",
     "parent": "f6d0d48ee70850eec4d7e13904c614d1"
 }

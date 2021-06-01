@@ -1,26 +1,19 @@
 {
-    "objectID": "a0a2f82198d715f6fd6fb315163db533",
+    "id": "a0a2f82198d715f6fd6fb315163db533",
     "name": "R\u00fcckstellungen f\u00fcr latente Steuern",
     "type": "Fremdkapital",
     "code": "3060",
+    "sort-code": 3060,
     "description": "",
     "categories": [
         "02. Steuerr\u00fcckstellungen",
         "B. R\u00fcckstellungen",
         "Passiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "Passiva > B. R\u00fcckstellungen > 02. Steuerr\u00fcckstellungen"
-        },
-        {
-            "lvl1": "Passiva > B. R\u00fcckstellungen"
-        },
-        {
-            "lvl0": "Passiva"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "Passiva > B. R\u00fcckstellungen > 02. Steuerr\u00fcckstellungen",
+    "hierarchicalCategories.lvl1": "Passiva > B. R\u00fcckstellungen",
+    "hierarchicalCategories.lvl0": "Passiva",
     "placeholder": false,
     "parent": "1ce38539e501a14b6c9f1b6d7724c27b"
 }

@@ -1,26 +1,19 @@
 {
-    "objectID": "5915a4522e747674c7831a0d5edc376d",
+    "id": "5915a4522e747674c7831a0d5edc376d",
     "name": "a) Anleihen, nicht konvertibel",
     "type": "Verbindlichkeit",
     "code": "3100",
+    "sort-code": 3100,
     "description": "",
     "categories": [
         "01. Anleihen",
         "C. Verbindlichkeiten",
         "Passiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "Passiva > C. Verbindlichkeiten > 01. Anleihen"
-        },
-        {
-            "lvl1": "Passiva > C. Verbindlichkeiten"
-        },
-        {
-            "lvl0": "Passiva"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "Passiva > C. Verbindlichkeiten > 01. Anleihen",
+    "hierarchicalCategories.lvl1": "Passiva > C. Verbindlichkeiten",
+    "hierarchicalCategories.lvl0": "Passiva",
     "placeholder": true,
     "parent": "de51c7e09ef85fd4768482c9873d71b7"
 }

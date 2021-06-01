@@ -1,22 +1,17 @@
 {
-    "objectID": "5e2a8cd8508d8b0128dc7359e3986d76",
+    "id": "5e2a8cd8508d8b0128dc7359e3986d76",
     "name": "Immaterielle Verm\u00f6gensgegenst\u00e4nde",
     "type": "Aktiva",
     "code": "0010-0049",
+    "sort-code": 9999,
     "description": "Immaterielle Verm\u00f6gensgegenst\u00e4nde",
     "categories": [
         "0010-0249 ANLAGEVERM\u00d6GEN",
         "0 aktive Verm\u00f6gensposten"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "0 aktive Verm\u00f6gensposten > 0010-0249 ANLAGEVERM\u00d6GEN"
-        },
-        {
-            "lvl0": "0 aktive Verm\u00f6gensposten"
-        }
-    ],
     "leaf": false,
+    "hierarchicalCategories.lvl1": "0 aktive Verm\u00f6gensposten > 0010-0249 ANLAGEVERM\u00d6GEN",
+    "hierarchicalCategories.lvl0": "0 aktive Verm\u00f6gensposten",
     "placeholder": true,
     "parent": "1d7b2d993a9fd980c715961e0792abd8"
 }

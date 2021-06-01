@@ -1,26 +1,19 @@
 {
-    "objectID": "8c94b8b8878b348bc67e526b6d87375d",
+    "id": "8c94b8b8878b348bc67e526b6d87375d",
     "name": "Gewinnverf\u00fcgungskonto stille Gesellschafter",
     "type": "Verbindlichkeit",
     "code": "3620",
+    "sort-code": 3620,
     "description": "",
     "categories": [
         "08. sonstige Verbindlichkeiten",
         "C. Verbindlichkeiten",
         "Passiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "Passiva > C. Verbindlichkeiten > 08. sonstige Verbindlichkeiten"
-        },
-        {
-            "lvl1": "Passiva > C. Verbindlichkeiten"
-        },
-        {
-            "lvl0": "Passiva"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "Passiva > C. Verbindlichkeiten > 08. sonstige Verbindlichkeiten",
+    "hierarchicalCategories.lvl1": "Passiva > C. Verbindlichkeiten",
+    "hierarchicalCategories.lvl0": "Passiva",
     "placeholder": false,
     "parent": "3f6c684bfaa3d0fc8b94368847566df3"
 }

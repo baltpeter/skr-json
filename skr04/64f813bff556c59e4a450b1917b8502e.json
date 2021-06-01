@@ -1,8 +1,9 @@
 {
-    "objectID": "64f813bff556c59e4a450b1917b8502e",
+    "id": "64f813bff556c59e4a450b1917b8502e",
     "name": "WB Forderungen gg. verbundene UN < 1 J",
     "type": "Forderung",
     "code": "1276",
+    "sort-code": 1276,
     "description": "",
     "categories": [
         "02. Forderungen gegen verbundene Unternehmen",
@@ -10,21 +11,11 @@
         "B. Umlaufverm\u00f6gen",
         "Aktiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl3": "Aktiva > B. Umlaufverm\u00f6gen > II. Forderungen und sonstige Verm\u00f6gensgegenst\u00e4nde > 02. Forderungen gegen verbundene Unternehmen"
-        },
-        {
-            "lvl2": "Aktiva > B. Umlaufverm\u00f6gen > II. Forderungen und sonstige Verm\u00f6gensgegenst\u00e4nde"
-        },
-        {
-            "lvl1": "Aktiva > B. Umlaufverm\u00f6gen"
-        },
-        {
-            "lvl0": "Aktiva"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl3": "Aktiva > B. Umlaufverm\u00f6gen > II. Forderungen und sonstige Verm\u00f6gensgegenst\u00e4nde > 02. Forderungen gegen verbundene Unternehmen",
+    "hierarchicalCategories.lvl2": "Aktiva > B. Umlaufverm\u00f6gen > II. Forderungen und sonstige Verm\u00f6gensgegenst\u00e4nde",
+    "hierarchicalCategories.lvl1": "Aktiva > B. Umlaufverm\u00f6gen",
+    "hierarchicalCategories.lvl0": "Aktiva",
     "placeholder": false,
     "parent": "2206ddc60ecf97df41c9a90d71fdd94d"
 }

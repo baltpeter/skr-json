@@ -1,22 +1,17 @@
 {
-    "objectID": "4fd7ecf98b836a356fd25b36ac0c30af",
+    "id": "4fd7ecf98b836a356fd25b36ac0c30af",
     "name": "Aufwendungen aus der Zuschreibung von steuerlich niedriger bewerteten R\u00fcckstellungen",
     "type": "Aufwand",
     "code": "6917",
+    "sort-code": 6917,
     "description": "",
     "categories": [
         "c) Verluste aus Wertminderungen oder aus dem Abgang von Gegenst\u00e4nden des Umlaufverm\u00f6gens und Einstellung in die Pauschalwertberichtigung zu Forderungen",
         "08. sonstige betriebliche Aufwendungen"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "08. sonstige betriebliche Aufwendungen > c) Verluste aus Wertminderungen oder aus dem Abgang von Gegenst\u00e4nden des Umlaufverm\u00f6gens und Einstellung in die Pauschalwertberichtigung zu Forderungen"
-        },
-        {
-            "lvl0": "08. sonstige betriebliche Aufwendungen"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl1": "08. sonstige betriebliche Aufwendungen > c) Verluste aus Wertminderungen oder aus dem Abgang von Gegenst\u00e4nden des Umlaufverm\u00f6gens und Einstellung in die Pauschalwertberichtigung zu Forderungen",
+    "hierarchicalCategories.lvl0": "08. sonstige betriebliche Aufwendungen",
     "placeholder": false,
     "parent": "d8494e8b7d4b2f51d181e5a3cb3b7b4a"
 }

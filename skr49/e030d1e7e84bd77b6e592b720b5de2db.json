@@ -1,8 +1,9 @@
 {
-    "objectID": "e030d1e7e84bd77b6e592b720b5de2db",
+    "id": "e030d1e7e84bd77b6e592b720b5de2db",
     "name": "Reisekosten Arbeitnehmer \u00dcbernachtungsaufwand",
     "type": "Aufwand",
     "code": "2562",
+    "sort-code": 2562,
     "description": "Reisekosten Arbeitnehmer \u00dcbernachtungsaufwand",
     "categories": [
         "2561 Reisekosten Arbeitnehmer",
@@ -10,20 +11,10 @@
         "2500-2999 AUSGABEN",
         "2 Erfolgskonten ideeller Bereich"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl3": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN > 2560-2564 Reisekosten > 2561 Reisekosten Arbeitnehmer"
-        },
-        {
-            "lvl2": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN > 2560-2564 Reisekosten"
-        },
-        {
-            "lvl1": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN"
-        },
-        {
-            "lvl0": "2 Erfolgskonten ideeller Bereich"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl3": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN > 2560-2564 Reisekosten > 2561 Reisekosten Arbeitnehmer",
+    "hierarchicalCategories.lvl2": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN > 2560-2564 Reisekosten",
+    "hierarchicalCategories.lvl1": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN",
+    "hierarchicalCategories.lvl0": "2 Erfolgskonten ideeller Bereich",
     "parent": "bcecff6d25f7d197b75e072b175c15bf"
 }

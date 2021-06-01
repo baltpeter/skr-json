@@ -1,22 +1,17 @@
 {
-    "objectID": "92967c957a6e196de148db5f4c416f0c",
+    "id": "92967c957a6e196de148db5f4c416f0c",
     "name": "Ertr\u00e4ge Werbung",
     "type": "Ertrag",
     "code": "4200-4203",
+    "sort-code": 9999,
     "description": "Ertr\u00e4ge Werbung (gV)",
     "categories": [
         "4000-4399 EINNAHMEN GV",
         "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4000-4399 EINNAHMEN GV"
-        },
-        {
-            "lvl0": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung"
-        }
-    ],
     "leaf": false,
+    "hierarchicalCategories.lvl1": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4000-4399 EINNAHMEN GV",
+    "hierarchicalCategories.lvl0": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung",
     "placeholder": true,
     "parent": "37605ee28b7de85b0105c855ca8aea4c"
 }

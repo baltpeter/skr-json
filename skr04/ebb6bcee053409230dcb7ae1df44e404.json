@@ -1,8 +1,9 @@
 {
-    "objectID": "ebb6bcee053409230dcb7ae1df44e404",
+    "id": "ebb6bcee053409230dcb7ae1df44e404",
     "name": "Reparaturen und Instandhaltung von Bauten, die nicht zum Betriebsverm\u00f6gen geh\u00f6ren",
     "type": "Aufwand",
     "code": "6458",
+    "sort-code": 6458,
     "description": "",
     "categories": [
         "Reparaturen und Instandhaltung von Bauten",
@@ -10,21 +11,11 @@
         "a) ordentliche betriebliche Aufwendungen",
         "08. sonstige betriebliche Aufwendungen"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl3": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen > 4) Reparaturen und Instandhaltungen > Reparaturen und Instandhaltung von Bauten"
-        },
-        {
-            "lvl2": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen > 4) Reparaturen und Instandhaltungen"
-        },
-        {
-            "lvl1": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen"
-        },
-        {
-            "lvl0": "08. sonstige betriebliche Aufwendungen"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl3": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen > 4) Reparaturen und Instandhaltungen > Reparaturen und Instandhaltung von Bauten",
+    "hierarchicalCategories.lvl2": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen > 4) Reparaturen und Instandhaltungen",
+    "hierarchicalCategories.lvl1": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen",
+    "hierarchicalCategories.lvl0": "08. sonstige betriebliche Aufwendungen",
     "placeholder": false,
     "parent": "2582779c35290d98b4a345240c7b1c50"
 }

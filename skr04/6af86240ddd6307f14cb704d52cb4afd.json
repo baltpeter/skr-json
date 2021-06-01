@@ -1,8 +1,9 @@
 {
-    "objectID": "6af86240ddd6307f14cb704d52cb4afd",
+    "id": "6af86240ddd6307f14cb704d52cb4afd",
     "name": "Verbindlichk. Verm\u00f6gensbildung (b. 1 J)",
     "type": "Verbindlichkeit",
     "code": "3771",
+    "sort-code": 3771,
     "description": "",
     "categories": [
         "Verbindlichkeiten aus Verm\u00f6gensbildung",
@@ -10,21 +11,11 @@
         "C. Verbindlichkeiten",
         "Passiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl3": "Passiva > C. Verbindlichkeiten > 08. sonstige Verbindlichkeiten > Verbindlichkeiten aus Verm\u00f6gensbildung"
-        },
-        {
-            "lvl2": "Passiva > C. Verbindlichkeiten > 08. sonstige Verbindlichkeiten"
-        },
-        {
-            "lvl1": "Passiva > C. Verbindlichkeiten"
-        },
-        {
-            "lvl0": "Passiva"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl3": "Passiva > C. Verbindlichkeiten > 08. sonstige Verbindlichkeiten > Verbindlichkeiten aus Verm\u00f6gensbildung",
+    "hierarchicalCategories.lvl2": "Passiva > C. Verbindlichkeiten > 08. sonstige Verbindlichkeiten",
+    "hierarchicalCategories.lvl1": "Passiva > C. Verbindlichkeiten",
+    "hierarchicalCategories.lvl0": "Passiva",
     "placeholder": false,
     "parent": "34fc3612b13809ba551d2e11b0f5dad2"
 }

@@ -1,22 +1,17 @@
 {
-    "objectID": "ba73ed9d5b56579a0e0f1fb9be3b08f7",
+    "id": "ba73ed9d5b56579a0e0f1fb9be3b08f7",
     "name": "Herstellungskosten",
     "type": "Aufwand",
     "code": "6990",
+    "sort-code": 6990,
     "description": "Pos 2. der GUV beim Umsatzkostenverfahren",
     "categories": [
         "f) Kosten bei Anwendung des Umsatzkostenverfahrens",
         "08. sonstige betriebliche Aufwendungen"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "08. sonstige betriebliche Aufwendungen > f) Kosten bei Anwendung des Umsatzkostenverfahrens"
-        },
-        {
-            "lvl0": "08. sonstige betriebliche Aufwendungen"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl1": "08. sonstige betriebliche Aufwendungen > f) Kosten bei Anwendung des Umsatzkostenverfahrens",
+    "hierarchicalCategories.lvl0": "08. sonstige betriebliche Aufwendungen",
     "placeholder": false,
     "parent": "7b9852168571d463059f1a9a038ca8ff"
 }

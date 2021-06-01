@@ -1,8 +1,9 @@
 {
-    "objectID": "68ebbd0087964e89e6e596d07aab35e7",
+    "id": "68ebbd0087964e89e6e596d07aab35e7",
     "name": "Darlehen <Jahr typisch stiller Gesellschafter",
     "type": "Verbindlichkeit",
     "code": "1611",
+    "sort-code": 1611,
     "description": "Darlehen typisch stiller Gesellschafter \u2013 Restlaufzeit bis 1 Jahr",
     "categories": [
         "1610 Darlehen typisch stiller Gesellschafter",
@@ -11,23 +12,11 @@
         "1300-1989 VERBINDLICHKEITEN",
         "1 passive Verm\u00f6gensposten"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl4": "1 passive Verm\u00f6gensposten > 1300-1989 VERBINDLICHKEITEN > 1600-1989 Sonstige Verbindlichkeiten oder sonstige Verm\u00f6gensgegenst\u00e4nde > 1600 Verbindlichkeiten gegen\u00fcber Gesellschaftern > 1610 Darlehen typisch stiller Gesellschafter"
-        },
-        {
-            "lvl3": "1 passive Verm\u00f6gensposten > 1300-1989 VERBINDLICHKEITEN > 1600-1989 Sonstige Verbindlichkeiten oder sonstige Verm\u00f6gensgegenst\u00e4nde > 1600 Verbindlichkeiten gegen\u00fcber Gesellschaftern"
-        },
-        {
-            "lvl2": "1 passive Verm\u00f6gensposten > 1300-1989 VERBINDLICHKEITEN > 1600-1989 Sonstige Verbindlichkeiten oder sonstige Verm\u00f6gensgegenst\u00e4nde"
-        },
-        {
-            "lvl1": "1 passive Verm\u00f6gensposten > 1300-1989 VERBINDLICHKEITEN"
-        },
-        {
-            "lvl0": "1 passive Verm\u00f6gensposten"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl4": "1 passive Verm\u00f6gensposten > 1300-1989 VERBINDLICHKEITEN > 1600-1989 Sonstige Verbindlichkeiten oder sonstige Verm\u00f6gensgegenst\u00e4nde > 1600 Verbindlichkeiten gegen\u00fcber Gesellschaftern > 1610 Darlehen typisch stiller Gesellschafter",
+    "hierarchicalCategories.lvl3": "1 passive Verm\u00f6gensposten > 1300-1989 VERBINDLICHKEITEN > 1600-1989 Sonstige Verbindlichkeiten oder sonstige Verm\u00f6gensgegenst\u00e4nde > 1600 Verbindlichkeiten gegen\u00fcber Gesellschaftern",
+    "hierarchicalCategories.lvl2": "1 passive Verm\u00f6gensposten > 1300-1989 VERBINDLICHKEITEN > 1600-1989 Sonstige Verbindlichkeiten oder sonstige Verm\u00f6gensgegenst\u00e4nde",
+    "hierarchicalCategories.lvl1": "1 passive Verm\u00f6gensposten > 1300-1989 VERBINDLICHKEITEN",
+    "hierarchicalCategories.lvl0": "1 passive Verm\u00f6gensposten",
     "parent": "cecdc59cf35fb0c821977afbcd3cb75f"
 }

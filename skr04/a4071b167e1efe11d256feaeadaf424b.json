@@ -1,8 +1,9 @@
 {
-    "objectID": "a4071b167e1efe11d256feaeadaf424b",
+    "id": "a4071b167e1efe11d256feaeadaf424b",
     "name": "USt EG-Erwerb Neufahrzeuge ohne UStID",
     "type": "Verbindlichkeit",
     "code": "3834",
+    "sort-code": 3834,
     "description": "",
     "categories": [
         "Umsatzsteuervorauszahlungen",
@@ -10,21 +11,11 @@
         "C. Verbindlichkeiten",
         "Passiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl3": "Passiva > C. Verbindlichkeiten > 10. Umsatzsteuer > Umsatzsteuervorauszahlungen"
-        },
-        {
-            "lvl2": "Passiva > C. Verbindlichkeiten > 10. Umsatzsteuer"
-        },
-        {
-            "lvl1": "Passiva > C. Verbindlichkeiten"
-        },
-        {
-            "lvl0": "Passiva"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl3": "Passiva > C. Verbindlichkeiten > 10. Umsatzsteuer > Umsatzsteuervorauszahlungen",
+    "hierarchicalCategories.lvl2": "Passiva > C. Verbindlichkeiten > 10. Umsatzsteuer",
+    "hierarchicalCategories.lvl1": "Passiva > C. Verbindlichkeiten",
+    "hierarchicalCategories.lvl0": "Passiva",
     "placeholder": false,
     "parent": "b0b8449ed3962e5c8932ad6ca1e29792"
 }

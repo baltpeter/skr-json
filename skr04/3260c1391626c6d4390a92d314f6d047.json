@@ -1,26 +1,19 @@
 {
-    "objectID": "3260c1391626c6d4390a92d314f6d047",
+    "id": "3260c1391626c6d4390a92d314f6d047",
     "name": "IV. Privat Teilhafter",
     "type": "Fremdkapital",
     "code": -1,
+    "sort-code": 9999,
     "description": "",
     "categories": [
         "a) Personengesellschaft",
         "A. Eigenkapital",
         "Passiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "Passiva > A. Eigenkapital > a) Personengesellschaft"
-        },
-        {
-            "lvl1": "Passiva > A. Eigenkapital"
-        },
-        {
-            "lvl0": "Passiva"
-        }
-    ],
     "leaf": false,
+    "hierarchicalCategories.lvl2": "Passiva > A. Eigenkapital > a) Personengesellschaft",
+    "hierarchicalCategories.lvl1": "Passiva > A. Eigenkapital",
+    "hierarchicalCategories.lvl0": "Passiva",
     "placeholder": true,
     "parent": "411ea1d84113310d5129ff98c4bb2397"
 }

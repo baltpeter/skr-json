@@ -1,22 +1,17 @@
 {
-    "objectID": "b9588a4dc4411adbf65747a53194f0ee",
+    "id": "b9588a4dc4411adbf65747a53194f0ee",
     "name": "Vortrag auf neue Rechnung (GuV)",
     "type": "Eigenkapital",
     "code": "7795",
+    "sort-code": 7795,
     "description": "",
     "categories": [
         "03. Einstellungen in Gewinnr\u00fccklagen",
         "21. Ver\u00e4nderungen Vortr\u00e4ge und R\u00fccklagen"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "21. Ver\u00e4nderungen Vortr\u00e4ge und R\u00fccklagen > 03. Einstellungen in Gewinnr\u00fccklagen"
-        },
-        {
-            "lvl0": "21. Ver\u00e4nderungen Vortr\u00e4ge und R\u00fccklagen"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl1": "21. Ver\u00e4nderungen Vortr\u00e4ge und R\u00fccklagen > 03. Einstellungen in Gewinnr\u00fccklagen",
+    "hierarchicalCategories.lvl0": "21. Ver\u00e4nderungen Vortr\u00e4ge und R\u00fccklagen",
     "placeholder": false,
     "parent": "f14569e730ac327e0d442683013d415a"
 }

@@ -1,8 +1,9 @@
 {
-    "objectID": "461a3ccb7a012cd8bf6e2da523cd1a56",
+    "id": "461a3ccb7a012cd8bf6e2da523cd1a56",
     "name": "Fertige Erzeugnisse",
     "type": "Aktiva",
     "code": "0621",
+    "sort-code": 621,
     "description": "Fertige Erzeugnisse",
     "categories": [
         "0620-0629 Fertige Erzeugnisse, Waren",
@@ -10,21 +11,11 @@
         "0600-0989 UMLAUFVERM\u00d6GEN",
         "0 aktive Verm\u00f6gensposten"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl3": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0600-0629 Vorr\u00e4te > 0620-0629 Fertige Erzeugnisse, Waren"
-        },
-        {
-            "lvl2": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0600-0629 Vorr\u00e4te"
-        },
-        {
-            "lvl1": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN"
-        },
-        {
-            "lvl0": "0 aktive Verm\u00f6gensposten"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl3": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0600-0629 Vorr\u00e4te > 0620-0629 Fertige Erzeugnisse, Waren",
+    "hierarchicalCategories.lvl2": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0600-0629 Vorr\u00e4te",
+    "hierarchicalCategories.lvl1": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN",
+    "hierarchicalCategories.lvl0": "0 aktive Verm\u00f6gensposten",
     "notes": "Bestand",
     "parent": "98fa58ee5b2b6adadfff81709328a1d7"
 }

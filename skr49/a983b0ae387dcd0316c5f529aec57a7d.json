@@ -1,8 +1,9 @@
 {
-    "objectID": "a983b0ae387dcd0316c5f529aec57a7d",
+    "id": "a983b0ae387dcd0316c5f529aec57a7d",
     "name": "Anleihen 1\u20135, Jahre konvertibel",
     "type": "Verbindlichkeit",
     "code": "1317",
+    "sort-code": 1317,
     "description": "Konvertible Anleihen \u2013 Restlaufzeit 1 bis 5 Jahre",
     "categories": [
         "1315 Anleihen, konvertibel",
@@ -10,20 +11,10 @@
         "1300-1989 VERBINDLICHKEITEN",
         "1 passive Verm\u00f6gensposten"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl3": "1 passive Verm\u00f6gensposten > 1300-1989 VERBINDLICHKEITEN > 1300-1318 Anleihen > 1315 Anleihen, konvertibel"
-        },
-        {
-            "lvl2": "1 passive Verm\u00f6gensposten > 1300-1989 VERBINDLICHKEITEN > 1300-1318 Anleihen"
-        },
-        {
-            "lvl1": "1 passive Verm\u00f6gensposten > 1300-1989 VERBINDLICHKEITEN"
-        },
-        {
-            "lvl0": "1 passive Verm\u00f6gensposten"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl3": "1 passive Verm\u00f6gensposten > 1300-1989 VERBINDLICHKEITEN > 1300-1318 Anleihen > 1315 Anleihen, konvertibel",
+    "hierarchicalCategories.lvl2": "1 passive Verm\u00f6gensposten > 1300-1989 VERBINDLICHKEITEN > 1300-1318 Anleihen",
+    "hierarchicalCategories.lvl1": "1 passive Verm\u00f6gensposten > 1300-1989 VERBINDLICHKEITEN",
+    "hierarchicalCategories.lvl0": "1 passive Verm\u00f6gensposten",
     "parent": "45d44f2949c685fae839a3e181bb2744"
 }

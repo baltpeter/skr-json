@@ -1,8 +1,9 @@
 {
-    "objectID": "955319571a8b688168c2e48ba4288a8e",
+    "id": "955319571a8b688168c2e48ba4288a8e",
     "name": "Verbindlichkeiten aus Lieferungen und Leistungen zum allgemeinen Umsatzsteuersatz",
     "type": "Verbindlichkeit",
     "code": "3305",
+    "sort-code": 3305,
     "description": "E\u00dcR",
     "categories": [
         "Verbindlichkeiten aus Lieferungen und Leistungen (Kreditoren)",
@@ -10,21 +11,11 @@
         "C. Verbindlichkeiten",
         "Passiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl3": "Passiva > C. Verbindlichkeiten > 04. Verbindlichkeiten aus Lieferungen und Leistungen > Verbindlichkeiten aus Lieferungen und Leistungen (Kreditoren)"
-        },
-        {
-            "lvl2": "Passiva > C. Verbindlichkeiten > 04. Verbindlichkeiten aus Lieferungen und Leistungen"
-        },
-        {
-            "lvl1": "Passiva > C. Verbindlichkeiten"
-        },
-        {
-            "lvl0": "Passiva"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl3": "Passiva > C. Verbindlichkeiten > 04. Verbindlichkeiten aus Lieferungen und Leistungen > Verbindlichkeiten aus Lieferungen und Leistungen (Kreditoren)",
+    "hierarchicalCategories.lvl2": "Passiva > C. Verbindlichkeiten > 04. Verbindlichkeiten aus Lieferungen und Leistungen",
+    "hierarchicalCategories.lvl1": "Passiva > C. Verbindlichkeiten",
+    "hierarchicalCategories.lvl0": "Passiva",
     "placeholder": false,
     "parent": "a7e6f09fcbf7fab4f58b31620ea09a18"
 }

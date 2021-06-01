@@ -1,26 +1,19 @@
 {
-    "objectID": "00fcc4a0a593fde6d2e69fa0a43457c7",
+    "id": "00fcc4a0a593fde6d2e69fa0a43457c7",
     "name": "LZB-Guthaben",
     "type": "Bank",
     "code": "1780",
+    "sort-code": 1780,
     "description": "",
     "categories": [
         "IV. Kassenbestand, Bundesbankguthaben, Guthaben bei Kreditinstituten und Schecks",
         "B. Umlaufverm\u00f6gen",
         "Aktiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "Aktiva > B. Umlaufverm\u00f6gen > IV. Kassenbestand, Bundesbankguthaben, Guthaben bei Kreditinstituten und Schecks"
-        },
-        {
-            "lvl1": "Aktiva > B. Umlaufverm\u00f6gen"
-        },
-        {
-            "lvl0": "Aktiva"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "Aktiva > B. Umlaufverm\u00f6gen > IV. Kassenbestand, Bundesbankguthaben, Guthaben bei Kreditinstituten und Schecks",
+    "hierarchicalCategories.lvl1": "Aktiva > B. Umlaufverm\u00f6gen",
+    "hierarchicalCategories.lvl0": "Aktiva",
     "placeholder": false,
     "parent": "9743059255b8318a7eb5ba07b2dd3e0e"
 }

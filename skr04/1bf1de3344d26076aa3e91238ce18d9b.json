@@ -1,8 +1,9 @@
 {
-    "objectID": "1bf1de3344d26076aa3e91238ce18d9b",
+    "id": "1bf1de3344d26076aa3e91238ce18d9b",
     "name": "Sonderposten mit R\u00fccklageanteil nach \u00a77g Abs. 3, 7 EStG",
     "type": "Fremdkapital",
     "code": "2998",
+    "sort-code": 2998,
     "description": "",
     "categories": [
         "Sonderposten mit R\u00fccklageanteil, steuerfreie R\u00fccklagen",
@@ -11,24 +12,12 @@
         "A. Eigenkapital",
         "Passiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl4": "Passiva > A. Eigenkapital > c) alle > III. Sonderposten mit R\u00fccklageanteil > Sonderposten mit R\u00fccklageanteil, steuerfreie R\u00fccklagen"
-        },
-        {
-            "lvl3": "Passiva > A. Eigenkapital > c) alle > III. Sonderposten mit R\u00fccklageanteil"
-        },
-        {
-            "lvl2": "Passiva > A. Eigenkapital > c) alle"
-        },
-        {
-            "lvl1": "Passiva > A. Eigenkapital"
-        },
-        {
-            "lvl0": "Passiva"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl4": "Passiva > A. Eigenkapital > c) alle > III. Sonderposten mit R\u00fccklageanteil > Sonderposten mit R\u00fccklageanteil, steuerfreie R\u00fccklagen",
+    "hierarchicalCategories.lvl3": "Passiva > A. Eigenkapital > c) alle > III. Sonderposten mit R\u00fccklageanteil",
+    "hierarchicalCategories.lvl2": "Passiva > A. Eigenkapital > c) alle",
+    "hierarchicalCategories.lvl1": "Passiva > A. Eigenkapital",
+    "hierarchicalCategories.lvl0": "Passiva",
     "placeholder": false,
     "parent": "6033548eda9d17974781c8d9b2770f0c"
 }

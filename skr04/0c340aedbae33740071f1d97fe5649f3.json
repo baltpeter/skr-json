@@ -1,8 +1,9 @@
 {
-    "objectID": "0c340aedbae33740071f1d97fe5649f3",
+    "id": "0c340aedbae33740071f1d97fe5649f3",
     "name": "Anteile an herrschender oder mit Mehrheit beteiligter Gesellschaft",
     "type": "Aktiva",
     "code": "1504",
+    "sort-code": 1504,
     "description": "",
     "categories": [
         "01. Anteile an verbundenen Unternehmen (Umlaufverm\u00f6gen)",
@@ -10,21 +11,11 @@
         "B. Umlaufverm\u00f6gen",
         "Aktiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl3": "Aktiva > B. Umlaufverm\u00f6gen > III. Wertpapiere > 01. Anteile an verbundenen Unternehmen (Umlaufverm\u00f6gen)"
-        },
-        {
-            "lvl2": "Aktiva > B. Umlaufverm\u00f6gen > III. Wertpapiere"
-        },
-        {
-            "lvl1": "Aktiva > B. Umlaufverm\u00f6gen"
-        },
-        {
-            "lvl0": "Aktiva"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl3": "Aktiva > B. Umlaufverm\u00f6gen > III. Wertpapiere > 01. Anteile an verbundenen Unternehmen (Umlaufverm\u00f6gen)",
+    "hierarchicalCategories.lvl2": "Aktiva > B. Umlaufverm\u00f6gen > III. Wertpapiere",
+    "hierarchicalCategories.lvl1": "Aktiva > B. Umlaufverm\u00f6gen",
+    "hierarchicalCategories.lvl0": "Aktiva",
     "placeholder": false,
     "parent": "4b1c7f834582f0b2f309044fb6854f2a"
 }

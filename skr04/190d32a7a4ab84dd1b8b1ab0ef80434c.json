@@ -1,18 +1,15 @@
 {
-    "objectID": "190d32a7a4ab84dd1b8b1ab0ef80434c",
+    "id": "190d32a7a4ab84dd1b8b1ab0ef80434c",
     "name": "a) auf immaterielle Verm\u00f6gensgegenst\u00e4nde des Anlageverm\u00f6gens und Sachanlagen",
     "type": "Aufwand",
     "code": -1,
+    "sort-code": 9999,
     "description": "sowie auf aktivierte Aufwendungen f\u00fcr die Ingangsetzung und Erweiterung des Geschftsbetriebs",
     "categories": [
         "07. Abschreibungen"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl0": "07. Abschreibungen"
-        }
-    ],
     "leaf": false,
+    "hierarchicalCategories.lvl0": "07. Abschreibungen",
     "placeholder": false,
     "parent": "1b709a262ee2432eed07961dc6a92463"
 }

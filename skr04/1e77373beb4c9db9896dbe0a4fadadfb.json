@@ -1,18 +1,15 @@
 {
-    "objectID": "1e77373beb4c9db9896dbe0a4fadadfb",
+    "id": "1e77373beb4c9db9896dbe0a4fadadfb",
     "name": "Solidarit\u00e4tszuschlagerstattungen f\u00fcr Vorjahre",
     "type": "Ertrag",
     "code": "7607",
+    "sort-code": 7607,
     "description": "",
     "categories": [
         "18. Steuern vom Einkommen und vom Ertrag"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl0": "18. Steuern vom Einkommen und vom Ertrag"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl0": "18. Steuern vom Einkommen und vom Ertrag",
     "placeholder": false,
     "parent": "b1f254106f1e487b31aad762ad1cca11"
 }

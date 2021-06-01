@@ -1,18 +1,15 @@
 {
-    "objectID": "603fcd641f765110cac07fca1a8d47f1",
+    "id": "603fcd641f765110cac07fca1a8d47f1",
     "name": "a) L\u00f6hne und Geh\u00e4lter",
     "type": "Aufwand",
     "code": "6000",
+    "sort-code": 6000,
     "description": "",
     "categories": [
         "06. Personalaufwand"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl0": "06. Personalaufwand"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl0": "06. Personalaufwand",
     "placeholder": false,
     "parent": "6dd2362a27e92ab13554c41721b91795"
 }

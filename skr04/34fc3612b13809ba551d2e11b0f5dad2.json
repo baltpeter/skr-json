@@ -1,26 +1,19 @@
 {
-    "objectID": "34fc3612b13809ba551d2e11b0f5dad2",
+    "id": "34fc3612b13809ba551d2e11b0f5dad2",
     "name": "Verbindlichkeiten aus Verm\u00f6gensbildung",
     "type": "Verbindlichkeit",
     "code": "3770",
+    "sort-code": 3770,
     "description": "Direktversicherungen u.\u00e4.",
     "categories": [
         "08. sonstige Verbindlichkeiten",
         "C. Verbindlichkeiten",
         "Passiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "Passiva > C. Verbindlichkeiten > 08. sonstige Verbindlichkeiten"
-        },
-        {
-            "lvl1": "Passiva > C. Verbindlichkeiten"
-        },
-        {
-            "lvl0": "Passiva"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "Passiva > C. Verbindlichkeiten > 08. sonstige Verbindlichkeiten",
+    "hierarchicalCategories.lvl1": "Passiva > C. Verbindlichkeiten",
+    "hierarchicalCategories.lvl0": "Passiva",
     "placeholder": true,
     "parent": "3f6c684bfaa3d0fc8b94368847566df3"
 }

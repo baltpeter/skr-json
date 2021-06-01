@@ -1,21 +1,16 @@
 {
-    "objectID": "9fe8d61dac9cf62b3f12e6c71a4385b2",
+    "id": "9fe8d61dac9cf62b3f12e6c71a4385b2",
     "name": "Postbank",
     "type": "Bank",
     "code": "1100",
+    "sort-code": 1100,
     "description": "",
     "categories": [
         "Finanzkonten 1",
         "Aktiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "Aktiva > Finanzkonten 1"
-        },
-        {
-            "lvl0": "Aktiva"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl1": "Aktiva > Finanzkonten 1",
+    "hierarchicalCategories.lvl0": "Aktiva",
     "parent": "1b13a7614b5e84b0778963995e20d897"
 }

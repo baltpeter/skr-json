@@ -1,18 +1,15 @@
 {
-    "objectID": "d178ab7cd9f293421fe9c19d4e13fea0",
+    "id": "d178ab7cd9f293421fe9c19d4e13fea0",
     "name": "Einstellungen in Sonderposten mit R\u00fccklageanteil (Sonderabschreibungen)",
     "type": "Aufwand",
     "code": "6927",
+    "sort-code": 6927,
     "description": "",
     "categories": [
         "08. sonstige betriebliche Aufwendungen"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl0": "08. sonstige betriebliche Aufwendungen"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl0": "08. sonstige betriebliche Aufwendungen",
     "placeholder": false,
     "parent": "cf7f94dcdeb53cd3d602ea87d83aba4e"
 }

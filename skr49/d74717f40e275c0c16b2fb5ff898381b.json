@@ -1,8 +1,9 @@
 {
-    "objectID": "d74717f40e275c0c16b2fb5ff898381b",
+    "id": "d74717f40e275c0c16b2fb5ff898381b",
     "name": "Anteilige Umsatzsteuerzahlungen",
     "type": "Aufwand",
     "code": "2904",
+    "sort-code": 2904,
     "description": "Anteilige Umsatzsteuerzahlungen",
     "categories": [
         "2903-2904 Umsatzsteuer",
@@ -11,24 +12,12 @@
         "2500-2999 AUSGABEN",
         "2 Erfolgskonten ideeller Bereich"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl4": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN > 2510 \u00dcbrige Ausgaben > 2903-2945 Umsatzsteuer-Konten > 2903-2904 Umsatzsteuer"
-        },
-        {
-            "lvl3": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN > 2510 \u00dcbrige Ausgaben > 2903-2945 Umsatzsteuer-Konten"
-        },
-        {
-            "lvl2": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN > 2510 \u00dcbrige Ausgaben"
-        },
-        {
-            "lvl1": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN"
-        },
-        {
-            "lvl0": "2 Erfolgskonten ideeller Bereich"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl4": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN > 2510 \u00dcbrige Ausgaben > 2903-2945 Umsatzsteuer-Konten > 2903-2904 Umsatzsteuer",
+    "hierarchicalCategories.lvl3": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN > 2510 \u00dcbrige Ausgaben > 2903-2945 Umsatzsteuer-Konten",
+    "hierarchicalCategories.lvl2": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN > 2510 \u00dcbrige Ausgaben",
+    "hierarchicalCategories.lvl1": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN",
+    "hierarchicalCategories.lvl0": "2 Erfolgskonten ideeller Bereich",
     "notes": "Nur f\u00fcr \u00dcberschussrechner!",
     "parent": "f9ef7e9d03b48a7e1925ad30ff5da4d4"
 }

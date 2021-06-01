@@ -1,26 +1,19 @@
 {
-    "objectID": "9d80d2a60c495c4598b5e011e4689ac2",
+    "id": "9d80d2a60c495c4598b5e011e4689ac2",
     "name": "Forderungsverluste 16% USt",
     "type": "Aufwand",
     "code": "6285",
+    "sort-code": 6285,
     "description": "soweit un\u00fcblich hoch",
     "categories": [
         "Forderungsverluste",
         "b) auf Verm\u00f6gensgegenst\u00e4nde des Umlaufverm\u00f6gens",
         "07. Abschreibungen"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "07. Abschreibungen > b) auf Verm\u00f6gensgegenst\u00e4nde des Umlaufverm\u00f6gens > Forderungsverluste"
-        },
-        {
-            "lvl1": "07. Abschreibungen > b) auf Verm\u00f6gensgegenst\u00e4nde des Umlaufverm\u00f6gens"
-        },
-        {
-            "lvl0": "07. Abschreibungen"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "07. Abschreibungen > b) auf Verm\u00f6gensgegenst\u00e4nde des Umlaufverm\u00f6gens > Forderungsverluste",
+    "hierarchicalCategories.lvl1": "07. Abschreibungen > b) auf Verm\u00f6gensgegenst\u00e4nde des Umlaufverm\u00f6gens",
+    "hierarchicalCategories.lvl0": "07. Abschreibungen",
     "placeholder": false,
     "tax-related": false,
     "parent": "9dda452d32d7855339d67cf02698c269"

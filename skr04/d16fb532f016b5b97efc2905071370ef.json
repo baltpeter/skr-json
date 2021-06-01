@@ -1,18 +1,15 @@
 {
-    "objectID": "d16fb532f016b5b97efc2905071370ef",
+    "id": "d16fb532f016b5b97efc2905071370ef",
     "name": "Erl\u00f6se Sachanlageverk\u00e4ufe steuerfrei \u00a74 Nr. 1b",
     "type": "Ertrag",
     "code": "4848",
+    "sort-code": 4848,
     "description": "(bei Buchgewinn)",
     "categories": [
         "04. Sonstige betriebliche Ertr\u00e4ge"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl0": "04. Sonstige betriebliche Ertr\u00e4ge"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl0": "04. Sonstige betriebliche Ertr\u00e4ge",
     "notes": "innergemeischaftlich",
     "placeholder": false,
     "parent": "4c0c1557fe54e71d7ed717587a0c0b4d"

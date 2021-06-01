@@ -1,25 +1,18 @@
 {
-    "objectID": "03c079ec86b0302e2d9f03911decc61c",
+    "id": "03c079ec86b0302e2d9f03911decc61c",
     "name": "Investitionsabzugsbetrag \u00a77g Abs. 1 EStG (Haben)",
     "type": "Aktiva",
     "code": "9971",
+    "sort-code": 9971,
     "description": "Investitionsabzugsbetrag \u00a7 7g Abs. 1 EStG, au\u00dferbilanziell (Haben) \u2013 Gegenkonto zu 9970",
     "categories": [
         "9966-9975 Statistische Konten f\u00fcr den au\u00dferhalb der Bilanz zu ber\u00fccksichtigenden Investitionsabzugsbetrag",
         "9600-9998 WEITERE STATISTIK- UND VORTRAGSKONTEN",
         "9 Statistik- & Vortragskonten"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "9 Statistik- & Vortragskonten > 9600-9998 WEITERE STATISTIK- UND VORTRAGSKONTEN > 9966-9975 Statistische Konten f\u00fcr den au\u00dferhalb der Bilanz zu ber\u00fccksichtigenden Investitionsabzugsbetrag"
-        },
-        {
-            "lvl1": "9 Statistik- & Vortragskonten > 9600-9998 WEITERE STATISTIK- UND VORTRAGSKONTEN"
-        },
-        {
-            "lvl0": "9 Statistik- & Vortragskonten"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "9 Statistik- & Vortragskonten > 9600-9998 WEITERE STATISTIK- UND VORTRAGSKONTEN > 9966-9975 Statistische Konten f\u00fcr den au\u00dferhalb der Bilanz zu ber\u00fccksichtigenden Investitionsabzugsbetrag",
+    "hierarchicalCategories.lvl1": "9 Statistik- & Vortragskonten > 9600-9998 WEITERE STATISTIK- UND VORTRAGSKONTEN",
+    "hierarchicalCategories.lvl0": "9 Statistik- & Vortragskonten",
     "parent": "332ab057b6da4c93c7c19853adaf07b2"
 }

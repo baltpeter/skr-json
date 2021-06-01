@@ -1,22 +1,17 @@
 {
-    "objectID": "8a86cb30f0e97e49f768cf03a4425cf7",
+    "id": "8a86cb30f0e97e49f768cf03a4425cf7",
     "name": "Fahrtkostenerstattung Wohnung / Arbeitsst\u00e4tte",
     "type": "Aufwand",
     "code": "6090",
+    "sort-code": 6090,
     "description": "",
     "categories": [
         "a) L\u00f6hne und Geh\u00e4lter",
         "06. Personalaufwand"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "06. Personalaufwand > a) L\u00f6hne und Geh\u00e4lter"
-        },
-        {
-            "lvl0": "06. Personalaufwand"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl1": "06. Personalaufwand > a) L\u00f6hne und Geh\u00e4lter",
+    "hierarchicalCategories.lvl0": "06. Personalaufwand",
     "placeholder": false,
     "parent": "603fcd641f765110cac07fca1a8d47f1"
 }

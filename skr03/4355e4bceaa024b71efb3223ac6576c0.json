@@ -1,21 +1,16 @@
 {
-    "objectID": "4355e4bceaa024b71efb3223ac6576c0",
+    "id": "4355e4bceaa024b71efb3223ac6576c0",
     "name": "Kfz-Steuer",
     "type": "Aufwand",
     "code": "4510",
+    "sort-code": 4510,
     "description": "",
     "categories": [
         "Kfz-Kosten",
         "Aufwendungen 2/4"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "Aufwendungen 2/4 > Kfz-Kosten"
-        },
-        {
-            "lvl0": "Aufwendungen 2/4"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl1": "Aufwendungen 2/4 > Kfz-Kosten",
+    "hierarchicalCategories.lvl0": "Aufwendungen 2/4",
     "parent": "8488954a5834d5484ed57439a0d43305"
 }

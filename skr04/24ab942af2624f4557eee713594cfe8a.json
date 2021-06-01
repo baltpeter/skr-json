@@ -1,22 +1,17 @@
 {
-    "objectID": "24ab942af2624f4557eee713594cfe8a",
+    "id": "24ab942af2624f4557eee713594cfe8a",
     "name": "Einstellungen in die Kapitalr\u00fccklage nach den Vorschriften \u00fcber die vereinfachte Kapitalherabsetzung",
     "type": "Eigenkapital",
     "code": "7760",
+    "sort-code": 7760,
     "description": "",
     "categories": [
         "02. Entnahmen aus Gewinnr\u00fccklagen",
         "21. Ver\u00e4nderungen Vortr\u00e4ge und R\u00fccklagen"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "21. Ver\u00e4nderungen Vortr\u00e4ge und R\u00fccklagen > 02. Entnahmen aus Gewinnr\u00fccklagen"
-        },
-        {
-            "lvl0": "21. Ver\u00e4nderungen Vortr\u00e4ge und R\u00fccklagen"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl1": "21. Ver\u00e4nderungen Vortr\u00e4ge und R\u00fccklagen > 02. Entnahmen aus Gewinnr\u00fccklagen",
+    "hierarchicalCategories.lvl0": "21. Ver\u00e4nderungen Vortr\u00e4ge und R\u00fccklagen",
     "notes": "Aufwandskonten?",
     "placeholder": false,
     "parent": "e250efca9681cba74a7eb7f31361d9af"

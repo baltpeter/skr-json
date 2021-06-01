@@ -1,25 +1,18 @@
 {
-    "objectID": "ff351bb9da41a310a5db7626446fedfb",
+    "id": "ff351bb9da41a310a5db7626446fedfb",
     "name": "Gegenkonto zu 9882-9889 f\u00fcr Jahresergebnis / Jahres\u00fcberschuss",
     "type": "Aktiva",
     "code": "9850",
+    "sort-code": 9850,
     "description": "Gegenkonto zu 9882 bis 9889 f\u00fcr Vereinsergebnis / Stiftungsergebnis / Jahres\u00fcberschuss",
     "categories": [
         "9850-9889 Ergebnisvortr\u00e4ge des laufenden Jahres",
         "9600-9998 WEITERE STATISTIK- UND VORTRAGSKONTEN",
         "9 Statistik- & Vortragskonten"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "9 Statistik- & Vortragskonten > 9600-9998 WEITERE STATISTIK- UND VORTRAGSKONTEN > 9850-9889 Ergebnisvortr\u00e4ge des laufenden Jahres"
-        },
-        {
-            "lvl1": "9 Statistik- & Vortragskonten > 9600-9998 WEITERE STATISTIK- UND VORTRAGSKONTEN"
-        },
-        {
-            "lvl0": "9 Statistik- & Vortragskonten"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "9 Statistik- & Vortragskonten > 9600-9998 WEITERE STATISTIK- UND VORTRAGSKONTEN > 9850-9889 Ergebnisvortr\u00e4ge des laufenden Jahres",
+    "hierarchicalCategories.lvl1": "9 Statistik- & Vortragskonten > 9600-9998 WEITERE STATISTIK- UND VORTRAGSKONTEN",
+    "hierarchicalCategories.lvl0": "9 Statistik- & Vortragskonten",
     "parent": "427ace262e6e2482b79ede6a3f56b07d"
 }

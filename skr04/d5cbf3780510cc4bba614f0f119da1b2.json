@@ -1,22 +1,17 @@
 {
-    "objectID": "d5cbf3780510cc4bba614f0f119da1b2",
+    "id": "d5cbf3780510cc4bba614f0f119da1b2",
     "name": "Aufwendungen/Ertr\u00e4ge aus Umrechnungsdifferenzen",
     "type": "Eigenkapital",
     "code": "7990",
+    "sort-code": 7990,
     "description": "",
     "categories": [
         "03. Einstellungen in Gewinnr\u00fccklagen",
         "21. Ver\u00e4nderungen Vortr\u00e4ge und R\u00fccklagen"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "21. Ver\u00e4nderungen Vortr\u00e4ge und R\u00fccklagen > 03. Einstellungen in Gewinnr\u00fccklagen"
-        },
-        {
-            "lvl0": "21. Ver\u00e4nderungen Vortr\u00e4ge und R\u00fccklagen"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl1": "21. Ver\u00e4nderungen Vortr\u00e4ge und R\u00fccklagen > 03. Einstellungen in Gewinnr\u00fccklagen",
+    "hierarchicalCategories.lvl0": "21. Ver\u00e4nderungen Vortr\u00e4ge und R\u00fccklagen",
     "placeholder": false,
     "parent": "f14569e730ac327e0d442683013d415a"
 }

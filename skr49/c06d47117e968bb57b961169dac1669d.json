@@ -1,25 +1,18 @@
 {
-    "objectID": "c06d47117e968bb57b961169dac1669d",
+    "id": "c06d47117e968bb57b961169dac1669d",
     "name": "\u00dcbertragene Lautsprecherwerbung",
     "type": "Ertrag",
     "code": "4203",
+    "sort-code": 4203,
     "description": "\u00dcbertragene Lautsprecherwerbung",
     "categories": [
         "4200-4203 Ertr\u00e4ge Werbung",
         "4000-4399 EINNAHMEN GV",
         "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4000-4399 EINNAHMEN GV > 4200-4203 Ertr\u00e4ge Werbung"
-        },
-        {
-            "lvl1": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4000-4399 EINNAHMEN GV"
-        },
-        {
-            "lvl0": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4000-4399 EINNAHMEN GV > 4200-4203 Ertr\u00e4ge Werbung",
+    "hierarchicalCategories.lvl1": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4000-4399 EINNAHMEN GV",
+    "hierarchicalCategories.lvl0": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung",
     "parent": "92967c957a6e196de148db5f4c416f0c"
 }

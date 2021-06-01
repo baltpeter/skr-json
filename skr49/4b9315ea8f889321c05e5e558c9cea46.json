@@ -1,22 +1,17 @@
 {
-    "objectID": "4b9315ea8f889321c05e5e558c9cea46",
+    "id": "4b9315ea8f889321c05e5e558c9cea46",
     "name": "SONSTIGE ZWECKBETRIEBE 2",
     "type": "Ertrag",
     "code": "6500-6989",
+    "sort-code": 9999,
     "description": "SONSTIGE ZWECKBETRIEBE 2 (UST-FREI)",
     "categories": [
         "6000-6989 SONSTIGE ZWECKBETRIEBE",
         "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE"
-        },
-        {
-            "lvl0": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe"
-        }
-    ],
     "leaf": false,
+    "hierarchicalCategories.lvl1": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6000-6989 SONSTIGE ZWECKBETRIEBE",
+    "hierarchicalCategories.lvl0": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe",
     "notes": "Teilbereich 6500\nsonstige Zweckbetriebe 2\nertrag- und umsatzsteuerfrei",
     "placeholder": true,
     "parent": "101369a9f7f4ed7a21cd543dcd27ab0b"

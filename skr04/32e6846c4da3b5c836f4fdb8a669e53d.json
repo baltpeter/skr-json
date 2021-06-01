@@ -1,26 +1,19 @@
 {
-    "objectID": "32e6846c4da3b5c836f4fdb8a669e53d",
+    "id": "32e6846c4da3b5c836f4fdb8a669e53d",
     "name": "Nettopr\u00e4mie f\u00fcr R\u00fcckdeckung k\u00fcnftiger Versorgungsleistungen",
     "type": "Aufwand",
     "code": "6410",
+    "sort-code": 6410,
     "description": "",
     "categories": [
         "3) Versicherungen, Beitr\u00e4ge und Abgaben",
         "a) ordentliche betriebliche Aufwendungen",
         "08. sonstige betriebliche Aufwendungen"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen > 3) Versicherungen, Beitr\u00e4ge und Abgaben"
-        },
-        {
-            "lvl1": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen"
-        },
-        {
-            "lvl0": "08. sonstige betriebliche Aufwendungen"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen > 3) Versicherungen, Beitr\u00e4ge und Abgaben",
+    "hierarchicalCategories.lvl1": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen",
+    "hierarchicalCategories.lvl0": "08. sonstige betriebliche Aufwendungen",
     "placeholder": false,
     "parent": "3bbae153acee96659c0f329905f34f51"
 }

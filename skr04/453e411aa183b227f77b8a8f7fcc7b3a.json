@@ -1,18 +1,15 @@
 {
-    "objectID": "453e411aa183b227f77b8a8f7fcc7b3a",
+    "id": "453e411aa183b227f77b8a8f7fcc7b3a",
     "name": "Zins\u00e4hnliche Aufwendungen",
     "type": "Aufwand",
     "code": "7330",
+    "sort-code": 7330,
     "description": "",
     "categories": [
         "13. Zinsen und \u00e4hnliche Aufwendungen"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl0": "13. Zinsen und \u00e4hnliche Aufwendungen"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl0": "13. Zinsen und \u00e4hnliche Aufwendungen",
     "placeholder": false,
     "parent": "1848323dfe915f8ed2a24bc00fef1e16"
 }

@@ -1,25 +1,18 @@
 {
-    "objectID": "d945c5e1fddf6c02ae3b49413cb3fca3",
+    "id": "d945c5e1fddf6c02ae3b49413cb3fca3",
     "name": "Sozialversicherungsbeitr\u00e4ge",
     "type": "Aufwand",
     "code": "2555",
+    "sort-code": 2555,
     "description": "Gesetzliche soziale Aufwendungen",
     "categories": [
         "2550-2559 Personalkosten",
         "2500-2999 AUSGABEN",
         "2 Erfolgskonten ideeller Bereich"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN > 2550-2559 Personalkosten"
-        },
-        {
-            "lvl1": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN"
-        },
-        {
-            "lvl0": "2 Erfolgskonten ideeller Bereich"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN > 2550-2559 Personalkosten",
+    "hierarchicalCategories.lvl1": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN",
+    "hierarchicalCategories.lvl0": "2 Erfolgskonten ideeller Bereich",
     "parent": "6ccdcab3780ae380541cf6c351785151"
 }

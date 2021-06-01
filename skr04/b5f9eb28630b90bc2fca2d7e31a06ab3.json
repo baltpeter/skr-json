@@ -1,22 +1,17 @@
 {
-    "objectID": "b5f9eb28630b90bc2fca2d7e31a06ab3",
+    "id": "b5f9eb28630b90bc2fca2d7e31a06ab3",
     "name": "III. Wertpapiere",
     "type": "Aktiva",
     "code": -1,
+    "sort-code": 9999,
     "description": "1500-1549",
     "categories": [
         "B. Umlaufverm\u00f6gen",
         "Aktiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "Aktiva > B. Umlaufverm\u00f6gen"
-        },
-        {
-            "lvl0": "Aktiva"
-        }
-    ],
     "leaf": false,
+    "hierarchicalCategories.lvl1": "Aktiva > B. Umlaufverm\u00f6gen",
+    "hierarchicalCategories.lvl0": "Aktiva",
     "placeholder": false,
     "parent": "3be1aa86d6868b006741b9af6777cf5f"
 }

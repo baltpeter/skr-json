@@ -1,22 +1,17 @@
 {
-    "objectID": "5ff5de52e63d97482570719feb2bb6aa",
+    "id": "5ff5de52e63d97482570719feb2bb6aa",
     "name": "Zuwendungen, Spenden f\u00fcr mildt\u00e4tige Zwecke",
     "type": "Aufwand",
     "code": "6392",
+    "sort-code": 6392,
     "description": "",
     "categories": [
         "d) sonstige Aufwendungen im Rahmen der gew\u00f6hnlichen Gesch\u00e4ftst\u00e4tigkeit",
         "08. sonstige betriebliche Aufwendungen"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "08. sonstige betriebliche Aufwendungen > d) sonstige Aufwendungen im Rahmen der gew\u00f6hnlichen Gesch\u00e4ftst\u00e4tigkeit"
-        },
-        {
-            "lvl0": "08. sonstige betriebliche Aufwendungen"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl1": "08. sonstige betriebliche Aufwendungen > d) sonstige Aufwendungen im Rahmen der gew\u00f6hnlichen Gesch\u00e4ftst\u00e4tigkeit",
+    "hierarchicalCategories.lvl0": "08. sonstige betriebliche Aufwendungen",
     "placeholder": false,
     "parent": "1c9b01f1444a088f0922b24a8c1a4ba9"
 }

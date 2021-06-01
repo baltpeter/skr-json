@@ -1,22 +1,17 @@
 {
-    "objectID": "f5385621d6200b3c66cff34778825c52",
+    "id": "f5385621d6200b3c66cff34778825c52",
     "name": "Sonstige betriebl. regelm. Ertr\u00e4ge",
     "type": "Ertrag",
     "code": "4835",
+    "sort-code": 4835,
     "description": "",
     "categories": [
         "Sonstige betriebliche Ertr\u00e4ge",
         "04. Sonstige betriebliche Ertr\u00e4ge"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "04. Sonstige betriebliche Ertr\u00e4ge > Sonstige betriebliche Ertr\u00e4ge"
-        },
-        {
-            "lvl0": "04. Sonstige betriebliche Ertr\u00e4ge"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl1": "04. Sonstige betriebliche Ertr\u00e4ge > Sonstige betriebliche Ertr\u00e4ge",
+    "hierarchicalCategories.lvl0": "04. Sonstige betriebliche Ertr\u00e4ge",
     "placeholder": false,
     "parent": "3e8610310df1d2b66689dead1545a65b"
 }

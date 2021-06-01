@@ -1,8 +1,9 @@
 {
-    "objectID": "c235536f5fdf08dc1c0913f071089b52",
+    "id": "c235536f5fdf08dc1c0913f071089b52",
     "name": "Gesetzliche R\u00fccklage 40% Vorbelastung",
     "type": "Fremdkapital",
     "code": "2931",
+    "sort-code": 2931,
     "description": "",
     "categories": [
         "01. Gesetzliche R\u00fccklage",
@@ -11,24 +12,12 @@
         "A. Eigenkapital",
         "Passiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl4": "Passiva > A. Eigenkapital > c) alle > I. Gewinnr\u00fccklagen > 01. Gesetzliche R\u00fccklage"
-        },
-        {
-            "lvl3": "Passiva > A. Eigenkapital > c) alle > I. Gewinnr\u00fccklagen"
-        },
-        {
-            "lvl2": "Passiva > A. Eigenkapital > c) alle"
-        },
-        {
-            "lvl1": "Passiva > A. Eigenkapital"
-        },
-        {
-            "lvl0": "Passiva"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl4": "Passiva > A. Eigenkapital > c) alle > I. Gewinnr\u00fccklagen > 01. Gesetzliche R\u00fccklage",
+    "hierarchicalCategories.lvl3": "Passiva > A. Eigenkapital > c) alle > I. Gewinnr\u00fccklagen",
+    "hierarchicalCategories.lvl2": "Passiva > A. Eigenkapital > c) alle",
+    "hierarchicalCategories.lvl1": "Passiva > A. Eigenkapital",
+    "hierarchicalCategories.lvl0": "Passiva",
     "placeholder": false,
     "parent": "b3dead9027abe209e92e83b2ff7bac25"
 }

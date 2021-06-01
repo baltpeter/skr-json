@@ -1,21 +1,16 @@
 {
-    "objectID": "b8c9ceaed02d972645e5486f808c8df9",
+    "id": "b8c9ceaed02d972645e5486f808c8df9",
     "name": "Offene Posten aus 2005",
     "type": "Aktiva",
     "code": "9075",
+    "sort-code": 9075,
     "description": "Offene Posten aus 2005",
     "categories": [
         "9000-9249 STATISTISCHE KONTEN",
         "9 Statistik- & Vortragskonten"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "9 Statistik- & Vortragskonten > 9000-9249 STATISTISCHE KONTEN"
-        },
-        {
-            "lvl0": "9 Statistik- & Vortragskonten"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl1": "9 Statistik- & Vortragskonten > 9000-9249 STATISTISCHE KONTEN",
+    "hierarchicalCategories.lvl0": "9 Statistik- & Vortragskonten",
     "parent": "ffca2686cb9963bea1089b796763dda0"
 }

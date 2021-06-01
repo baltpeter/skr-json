@@ -1,25 +1,18 @@
 {
-    "objectID": "684bec9dab6819d6d33f67df065c8a1d",
+    "id": "684bec9dab6819d6d33f67df065c8a1d",
     "name": "Sachbez\u00fcge Arbeitnehmer",
     "type": "Aufwand",
     "code": "2557",
+    "sort-code": 2557,
     "description": "Sachzuwendungen und Dienstleistungen an Arbeitnehmer",
     "categories": [
         "2550-2559 Personalkosten",
         "2500-2999 AUSGABEN",
         "2 Erfolgskonten ideeller Bereich"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN > 2550-2559 Personalkosten"
-        },
-        {
-            "lvl1": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN"
-        },
-        {
-            "lvl0": "2 Erfolgskonten ideeller Bereich"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN > 2550-2559 Personalkosten",
+    "hierarchicalCategories.lvl1": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN",
+    "hierarchicalCategories.lvl0": "2 Erfolgskonten ideeller Bereich",
     "parent": "6ccdcab3780ae380541cf6c351785151"
 }

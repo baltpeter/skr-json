@@ -1,26 +1,19 @@
 {
-    "objectID": "8de79e4312296a8f5aa1d8e81d90fff8",
+    "id": "8de79e4312296a8f5aa1d8e81d90fff8",
     "name": "II. Gewinnvortrag/Verlustvortrag vor Verwendung",
     "type": "Fremdkapital",
     "code": -1,
+    "sort-code": 9999,
     "description": "",
     "categories": [
         "c) alle",
         "A. Eigenkapital",
         "Passiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "Passiva > A. Eigenkapital > c) alle"
-        },
-        {
-            "lvl1": "Passiva > A. Eigenkapital"
-        },
-        {
-            "lvl0": "Passiva"
-        }
-    ],
     "leaf": false,
+    "hierarchicalCategories.lvl2": "Passiva > A. Eigenkapital > c) alle",
+    "hierarchicalCategories.lvl1": "Passiva > A. Eigenkapital",
+    "hierarchicalCategories.lvl0": "Passiva",
     "placeholder": true,
     "parent": "03f020a835b1fb5ba5b79c0622007f0c"
 }

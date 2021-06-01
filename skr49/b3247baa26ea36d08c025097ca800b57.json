@@ -1,25 +1,18 @@
 {
-    "objectID": "b3247baa26ea36d08c025097ca800b57",
+    "id": "b3247baa26ea36d08c025097ca800b57",
     "name": "Geleistete Anzahlungen sonstige Sachanlagen",
     "type": "Aktiva",
     "code": "0490",
+    "sort-code": 490,
     "description": "Geleistete Anzahlungen sonstige Sachanlagen",
     "categories": [
         "0480-0499 Geleistete Anzahlungen, Anlagen im Bau",
         "0250-0599 ANDERE ANLAGEN, BETRIEBS- UND GESCH\u00c4FTSAUSSTATTUNG",
         "0 aktive Verm\u00f6gensposten"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "0 aktive Verm\u00f6gensposten > 0250-0599 ANDERE ANLAGEN, BETRIEBS- UND GESCH\u00c4FTSAUSSTATTUNG > 0480-0499 Geleistete Anzahlungen, Anlagen im Bau"
-        },
-        {
-            "lvl1": "0 aktive Verm\u00f6gensposten > 0250-0599 ANDERE ANLAGEN, BETRIEBS- UND GESCH\u00c4FTSAUSSTATTUNG"
-        },
-        {
-            "lvl0": "0 aktive Verm\u00f6gensposten"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "0 aktive Verm\u00f6gensposten > 0250-0599 ANDERE ANLAGEN, BETRIEBS- UND GESCH\u00c4FTSAUSSTATTUNG > 0480-0499 Geleistete Anzahlungen, Anlagen im Bau",
+    "hierarchicalCategories.lvl1": "0 aktive Verm\u00f6gensposten > 0250-0599 ANDERE ANLAGEN, BETRIEBS- UND GESCH\u00c4FTSAUSSTATTUNG",
+    "hierarchicalCategories.lvl0": "0 aktive Verm\u00f6gensposten",
     "parent": "01c43015b964ec1afa1141f9b0abc5f1"
 }

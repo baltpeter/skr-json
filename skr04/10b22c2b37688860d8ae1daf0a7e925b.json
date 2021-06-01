@@ -1,26 +1,19 @@
 {
-    "objectID": "10b22c2b37688860d8ae1daf0a7e925b",
+    "id": "10b22c2b37688860d8ae1daf0a7e925b",
     "name": "Gewerbesteuerr\u00fcckstellung",
     "type": "Fremdkapital",
     "code": "3030",
+    "sort-code": 3030,
     "description": "",
     "categories": [
         "02. Steuerr\u00fcckstellungen",
         "B. R\u00fcckstellungen",
         "Passiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "Passiva > B. R\u00fcckstellungen > 02. Steuerr\u00fcckstellungen"
-        },
-        {
-            "lvl1": "Passiva > B. R\u00fcckstellungen"
-        },
-        {
-            "lvl0": "Passiva"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "Passiva > B. R\u00fcckstellungen > 02. Steuerr\u00fcckstellungen",
+    "hierarchicalCategories.lvl1": "Passiva > B. R\u00fcckstellungen",
+    "hierarchicalCategories.lvl0": "Passiva",
     "placeholder": false,
     "parent": "1ce38539e501a14b6c9f1b6d7724c27b"
 }

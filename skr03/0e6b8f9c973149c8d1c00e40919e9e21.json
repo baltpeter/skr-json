@@ -1,21 +1,16 @@
 {
-    "objectID": "0e6b8f9c973149c8d1c00e40919e9e21",
+    "id": "0e6b8f9c973149c8d1c00e40919e9e21",
     "name": "Privatentnahme allgemein",
     "type": "Eigenkapital",
     "code": "1800",
+    "sort-code": 1800,
     "description": "",
     "categories": [
         "Privatentnahmen/-einlagen",
         "Privatkonten 1"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "Privatkonten 1 > Privatentnahmen/-einlagen"
-        },
-        {
-            "lvl0": "Privatkonten 1"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl1": "Privatkonten 1 > Privatentnahmen/-einlagen",
+    "hierarchicalCategories.lvl0": "Privatkonten 1",
     "parent": "b9ae1b059749ea81c757a9adad39db1b"
 }

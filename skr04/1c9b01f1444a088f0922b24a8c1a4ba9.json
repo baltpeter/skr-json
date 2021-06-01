@@ -1,18 +1,15 @@
 {
-    "objectID": "1c9b01f1444a088f0922b24a8c1a4ba9",
+    "id": "1c9b01f1444a088f0922b24a8c1a4ba9",
     "name": "d) sonstige Aufwendungen im Rahmen der gew\u00f6hnlichen Gesch\u00e4ftst\u00e4tigkeit",
     "type": "Aufwand",
     "code": -1,
+    "sort-code": 9999,
     "description": "",
     "categories": [
         "08. sonstige betriebliche Aufwendungen"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl0": "08. sonstige betriebliche Aufwendungen"
-        }
-    ],
     "leaf": false,
+    "hierarchicalCategories.lvl0": "08. sonstige betriebliche Aufwendungen",
     "placeholder": true,
     "parent": "cf7f94dcdeb53cd3d602ea87d83aba4e"
 }

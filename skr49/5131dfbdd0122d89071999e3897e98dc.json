@@ -1,22 +1,17 @@
 {
-    "objectID": "5131dfbdd0122d89071999e3897e98dc",
+    "id": "5131dfbdd0122d89071999e3897e98dc",
     "name": "10000-69999 Debitoren",
     "type": "Aktiva",
     "code": "10000-69999",
+    "sort-code": 9999,
     "description": "Schuldner",
     "categories": [
         "9999 PERSONENKONTEN",
         "9 Statistik- & Vortragskonten"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "9 Statistik- & Vortragskonten > 9999 PERSONENKONTEN"
-        },
-        {
-            "lvl0": "9 Statistik- & Vortragskonten"
-        }
-    ],
     "leaf": false,
+    "hierarchicalCategories.lvl1": "9 Statistik- & Vortragskonten > 9999 PERSONENKONTEN",
+    "hierarchicalCategories.lvl0": "9 Statistik- & Vortragskonten",
     "notes": "Hier k\u00f6nnen Unterkonten f\u00fcr Forderungen gegen Personen oder Unternehmen angelegt werden.",
     "placeholder": true,
     "parent": "38366dff57df040b9ee0ce65b11722cf"

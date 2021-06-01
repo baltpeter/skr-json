@@ -1,11 +1,11 @@
 {
-    "objectID": "03f629f17206bc63e1f6772baa84ce68",
+    "id": "03f629f17206bc63e1f6772baa84ce68",
     "name": "0 aktive Verm\u00f6gensposten",
     "type": "Aktiva",
     "code": "0",
+    "sort-code": 9999,
     "description": "Bestandskonten Aktiva",
     "categories": [],
-    "hierarchicalCategories": [],
     "leaf": false,
     "notes": "Klasse 0: Verm\u00f6gensposten Aktiva\nUSt-Hinweis: Vorsteuerabzug m\u00f6glich",
     "placeholder": true,

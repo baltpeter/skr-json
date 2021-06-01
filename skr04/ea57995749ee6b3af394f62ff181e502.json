@@ -1,26 +1,19 @@
 {
-    "objectID": "ea57995749ee6b3af394f62ff181e502",
+    "id": "ea57995749ee6b3af394f62ff181e502",
     "name": "Umsatzsteuer 16%",
     "type": "Verbindlichkeit",
     "code": "3805",
+    "sort-code": 3805,
     "description": "Umsatzsteuer, voller Satz",
     "categories": [
         "10. Umsatzsteuer",
         "C. Verbindlichkeiten",
         "Passiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "Passiva > C. Verbindlichkeiten > 10. Umsatzsteuer"
-        },
-        {
-            "lvl1": "Passiva > C. Verbindlichkeiten"
-        },
-        {
-            "lvl0": "Passiva"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "Passiva > C. Verbindlichkeiten > 10. Umsatzsteuer",
+    "hierarchicalCategories.lvl1": "Passiva > C. Verbindlichkeiten",
+    "hierarchicalCategories.lvl0": "Passiva",
     "placeholder": false,
     "parent": "a4ca09669a36f58cc3081d5ecff9cdb6"
 }

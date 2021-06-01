@@ -1,26 +1,19 @@
 {
-    "objectID": "f4c086f3a962ed623c268722789c5040",
+    "id": "f4c086f3a962ed623c268722789c5040",
     "name": "Reparaturen und Instandhaltung von Betriebs- und Gesch\u00e4ftsausstattung",
     "type": "Aufwand",
     "code": "6470",
+    "sort-code": 6470,
     "description": "",
     "categories": [
         "4) Reparaturen und Instandhaltungen",
         "a) ordentliche betriebliche Aufwendungen",
         "08. sonstige betriebliche Aufwendungen"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen > 4) Reparaturen und Instandhaltungen"
-        },
-        {
-            "lvl1": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen"
-        },
-        {
-            "lvl0": "08. sonstige betriebliche Aufwendungen"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen > 4) Reparaturen und Instandhaltungen",
+    "hierarchicalCategories.lvl1": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen",
+    "hierarchicalCategories.lvl0": "08. sonstige betriebliche Aufwendungen",
     "placeholder": false,
     "tax-related": false,
     "parent": "5925fef34d2d43bd1a1fbe06d7cf5515"

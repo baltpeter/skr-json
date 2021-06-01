@@ -1,22 +1,17 @@
 {
-    "objectID": "3ed8139edb0209b9ecccfc8b2e60e90a",
+    "id": "3ed8139edb0209b9ecccfc8b2e60e90a",
     "name": "Erl\u00f6se aus Verk\u00e4ufen Sachanlageverm\u00f6gen steuerfrei \u00a74 Nr. 1a UStG",
     "type": "Aufwand",
     "code": "6884",
+    "sort-code": 6884,
     "description": "bei Buchverlust",
     "categories": [
         "b) Verluste aus dem Abgang von Gegenst\u00e4nden des Anlageverm\u00f6gens",
         "08. sonstige betriebliche Aufwendungen"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "08. sonstige betriebliche Aufwendungen > b) Verluste aus dem Abgang von Gegenst\u00e4nden des Anlageverm\u00f6gens"
-        },
-        {
-            "lvl0": "08. sonstige betriebliche Aufwendungen"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl1": "08. sonstige betriebliche Aufwendungen > b) Verluste aus dem Abgang von Gegenst\u00e4nden des Anlageverm\u00f6gens",
+    "hierarchicalCategories.lvl0": "08. sonstige betriebliche Aufwendungen",
     "placeholder": false,
     "parent": "47767b5fa390ff8a4dbb0fdf05a3ee3b"
 }

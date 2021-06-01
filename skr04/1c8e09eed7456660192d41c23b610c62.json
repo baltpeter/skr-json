@@ -1,18 +1,15 @@
 {
-    "objectID": "1c8e09eed7456660192d41c23b610c62",
+    "id": "1c8e09eed7456660192d41c23b610c62",
     "name": "Erl\u00f6se aus Verk\u00e4ufen Finanzanlagen 100 %/50 % steuerfrei",
     "type": "Ertrag",
     "code": "4852",
+    "sort-code": 4852,
     "description": "(inl\u00e4ndische Kap.Ges.) (bei Buchgewinn)",
     "categories": [
         "04. Sonstige betriebliche Ertr\u00e4ge"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl0": "04. Sonstige betriebliche Ertr\u00e4ge"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl0": "04. Sonstige betriebliche Ertr\u00e4ge",
     "placeholder": false,
     "parent": "4c0c1557fe54e71d7ed717587a0c0b4d"
 }

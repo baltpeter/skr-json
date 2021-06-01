@@ -1,26 +1,19 @@
 {
-    "objectID": "5577d4805c75e241bf0df3d2cb97924b",
+    "id": "5577d4805c75e241bf0df3d2cb97924b",
     "name": "Steuerfreie Ums\u00e4tze \u00a74 Nr. 2-7 UStG",
     "type": "Ertrag",
     "code": "4150",
+    "sort-code": 4150,
     "description": "UstVa Zl. 24, Kz. 43",
     "categories": [
         "Steuerfreie Ums\u00e4tze",
         "a) Umsatzerl\u00f6se",
         "01. Betriebliche Ertr\u00e4ge"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "01. Betriebliche Ertr\u00e4ge > a) Umsatzerl\u00f6se > Steuerfreie Ums\u00e4tze"
-        },
-        {
-            "lvl1": "01. Betriebliche Ertr\u00e4ge > a) Umsatzerl\u00f6se"
-        },
-        {
-            "lvl0": "01. Betriebliche Ertr\u00e4ge"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "01. Betriebliche Ertr\u00e4ge > a) Umsatzerl\u00f6se > Steuerfreie Ums\u00e4tze",
+    "hierarchicalCategories.lvl1": "01. Betriebliche Ertr\u00e4ge > a) Umsatzerl\u00f6se",
+    "hierarchicalCategories.lvl0": "01. Betriebliche Ertr\u00e4ge",
     "notes": "grenz\u00fcberschr. Bef\u00f6rderung, ZB-Gold, ...",
     "placeholder": false,
     "tax-related": false,

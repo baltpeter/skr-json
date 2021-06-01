@@ -1,21 +1,16 @@
 {
-    "objectID": "065ddce2596365d9d9e8f1f31e958a1b",
+    "id": "065ddce2596365d9d9e8f1f31e958a1b",
     "name": "Zusch\u00fcsse",
     "type": "Ertrag",
     "code": "2300",
+    "sort-code": 2300,
     "description": "Erhaltene nicht steuerbare Zusch\u00fcsse",
     "categories": [
         "2000 EINNAHMEN",
         "2 Erfolgskonten ideeller Bereich"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "2 Erfolgskonten ideeller Bereich > 2000 EINNAHMEN"
-        },
-        {
-            "lvl0": "2 Erfolgskonten ideeller Bereich"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl1": "2 Erfolgskonten ideeller Bereich > 2000 EINNAHMEN",
+    "hierarchicalCategories.lvl0": "2 Erfolgskonten ideeller Bereich",
     "parent": "7f9acf479f01b83b7313ab3082f3e64a"
 }

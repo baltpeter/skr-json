@@ -1,26 +1,19 @@
 {
-    "objectID": "2d7915f2db2db1841125523319249233",
+    "id": "2d7915f2db2db1841125523319249233",
     "name": "freie Konten f\u00fcr Menge",
     "type": "Aktiva",
     "code": "9830-9848",
+    "sort-code": 9999,
     "description": "freie Konten f\u00fcr Menge",
     "categories": [
         "9600-9849 Statistische Werte f\u00fcr BWA",
         "9600-9998 WEITERE STATISTIK- UND VORTRAGSKONTEN",
         "9 Statistik- & Vortragskonten"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "9 Statistik- & Vortragskonten > 9600-9998 WEITERE STATISTIK- UND VORTRAGSKONTEN > 9600-9849 Statistische Werte f\u00fcr BWA"
-        },
-        {
-            "lvl1": "9 Statistik- & Vortragskonten > 9600-9998 WEITERE STATISTIK- UND VORTRAGSKONTEN"
-        },
-        {
-            "lvl0": "9 Statistik- & Vortragskonten"
-        }
-    ],
     "leaf": false,
+    "hierarchicalCategories.lvl2": "9 Statistik- & Vortragskonten > 9600-9998 WEITERE STATISTIK- UND VORTRAGSKONTEN > 9600-9849 Statistische Werte f\u00fcr BWA",
+    "hierarchicalCategories.lvl1": "9 Statistik- & Vortragskonten > 9600-9998 WEITERE STATISTIK- UND VORTRAGSKONTEN",
+    "hierarchicalCategories.lvl0": "9 Statistik- & Vortragskonten",
     "placeholder": true,
     "parent": "ce6ef6340d8c65efd124f5950fcbb6a8"
 }

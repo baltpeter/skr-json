@@ -1,8 +1,9 @@
 {
-    "objectID": "240cbd3a22aa9fc4327344b9a9c2cf21",
+    "id": "240cbd3a22aa9fc4327344b9a9c2cf21",
     "name": "Verbindlichkeiten >5 Jahre aus  L&L gegen\u00fcber Gesellschaftern",
     "type": "Verbindlichkeit",
     "code": "1338",
+    "sort-code": 1338,
     "description": "Verbindlichkeiten aus Lieferungen und Leistungen gegen\u00fcber Gesellschaftern \u2013 Restlaufzeit mehr als 5 Jahre",
     "categories": [
         "1335 Verbindlichkeiten aus L&L gegen\u00fcber Gesellschaftern",
@@ -10,20 +11,10 @@
         "1300-1989 VERBINDLICHKEITEN",
         "1 passive Verm\u00f6gensposten"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl3": "1 passive Verm\u00f6gensposten > 1300-1989 VERBINDLICHKEITEN > 1335-1349 Verbindlichkeiten aus L&L > 1335 Verbindlichkeiten aus L&L gegen\u00fcber Gesellschaftern"
-        },
-        {
-            "lvl2": "1 passive Verm\u00f6gensposten > 1300-1989 VERBINDLICHKEITEN > 1335-1349 Verbindlichkeiten aus L&L"
-        },
-        {
-            "lvl1": "1 passive Verm\u00f6gensposten > 1300-1989 VERBINDLICHKEITEN"
-        },
-        {
-            "lvl0": "1 passive Verm\u00f6gensposten"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl3": "1 passive Verm\u00f6gensposten > 1300-1989 VERBINDLICHKEITEN > 1335-1349 Verbindlichkeiten aus L&L > 1335 Verbindlichkeiten aus L&L gegen\u00fcber Gesellschaftern",
+    "hierarchicalCategories.lvl2": "1 passive Verm\u00f6gensposten > 1300-1989 VERBINDLICHKEITEN > 1335-1349 Verbindlichkeiten aus L&L",
+    "hierarchicalCategories.lvl1": "1 passive Verm\u00f6gensposten > 1300-1989 VERBINDLICHKEITEN",
+    "hierarchicalCategories.lvl0": "1 passive Verm\u00f6gensposten",
     "parent": "e1c12e8702483530435f58befacd33b8"
 }

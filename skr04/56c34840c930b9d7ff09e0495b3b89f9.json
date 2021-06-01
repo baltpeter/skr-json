@@ -1,22 +1,17 @@
 {
-    "objectID": "56c34840c930b9d7ff09e0495b3b89f9",
+    "id": "56c34840c930b9d7ff09e0495b3b89f9",
     "name": "Zins\u00e4hnliche Ertr\u00e4ge",
     "type": "Ertrag",
     "code": "7120",
+    "sort-code": 7120,
     "description": "",
     "categories": [
         "Sonstige Zinsen und \u00e4hnliche Ertr\u00e4ge",
         "11. sonstige Zinsen und \u00e4hnliche Ertr\u00e4ge"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "11. sonstige Zinsen und \u00e4hnliche Ertr\u00e4ge > Sonstige Zinsen und \u00e4hnliche Ertr\u00e4ge"
-        },
-        {
-            "lvl0": "11. sonstige Zinsen und \u00e4hnliche Ertr\u00e4ge"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl1": "11. sonstige Zinsen und \u00e4hnliche Ertr\u00e4ge > Sonstige Zinsen und \u00e4hnliche Ertr\u00e4ge",
+    "hierarchicalCategories.lvl0": "11. sonstige Zinsen und \u00e4hnliche Ertr\u00e4ge",
     "placeholder": false,
     "parent": "094e09462e1b0d687aa5beeb3e52e6af"
 }

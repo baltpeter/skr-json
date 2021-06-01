@@ -1,22 +1,17 @@
 {
-    "objectID": "0f5d5512038a1a2360f7d44666820838",
+    "id": "0f5d5512038a1a2360f7d44666820838",
     "name": "Kalkulatorischer Unternehmerlohn",
     "type": "Aufwand",
     "code": "6970",
+    "sort-code": 6970,
     "description": "",
     "categories": [
         "e) Kalkulatorische Kosten",
         "08. sonstige betriebliche Aufwendungen"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "08. sonstige betriebliche Aufwendungen > e) Kalkulatorische Kosten"
-        },
-        {
-            "lvl0": "08. sonstige betriebliche Aufwendungen"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl1": "08. sonstige betriebliche Aufwendungen > e) Kalkulatorische Kosten",
+    "hierarchicalCategories.lvl0": "08. sonstige betriebliche Aufwendungen",
     "placeholder": false,
     "parent": "69ea025cd488b1084c9fed0d584800e2"
 }

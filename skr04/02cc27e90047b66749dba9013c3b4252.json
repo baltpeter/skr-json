@@ -1,8 +1,9 @@
 {
-    "objectID": "02cc27e90047b66749dba9013c3b4252",
+    "id": "02cc27e90047b66749dba9013c3b4252",
     "name": "Verbindlichkeit. gg. verbundene UN (g.5 J)",
     "type": "Verbindlichkeit",
     "code": "3410",
+    "sort-code": 3410,
     "description": "",
     "categories": [
         "Verbindlichk.gegen\u00fcber verbundenen Unternehmen",
@@ -10,21 +11,11 @@
         "C. Verbindlichkeiten",
         "Passiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl3": "Passiva > C. Verbindlichkeiten > 06. Verbindlichkeiten gegen\u00fcber verbundenen Untenehmen > Verbindlichk.gegen\u00fcber verbundenen Unternehmen"
-        },
-        {
-            "lvl2": "Passiva > C. Verbindlichkeiten > 06. Verbindlichkeiten gegen\u00fcber verbundenen Untenehmen"
-        },
-        {
-            "lvl1": "Passiva > C. Verbindlichkeiten"
-        },
-        {
-            "lvl0": "Passiva"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl3": "Passiva > C. Verbindlichkeiten > 06. Verbindlichkeiten gegen\u00fcber verbundenen Untenehmen > Verbindlichk.gegen\u00fcber verbundenen Unternehmen",
+    "hierarchicalCategories.lvl2": "Passiva > C. Verbindlichkeiten > 06. Verbindlichkeiten gegen\u00fcber verbundenen Untenehmen",
+    "hierarchicalCategories.lvl1": "Passiva > C. Verbindlichkeiten",
+    "hierarchicalCategories.lvl0": "Passiva",
     "placeholder": false,
     "parent": "b326baaf2f2f4605872301349800b078"
 }

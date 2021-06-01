@@ -1,25 +1,18 @@
 {
-    "objectID": "ec36a283e2e95169640a489b94cbdd59",
+    "id": "ec36a283e2e95169640a489b94cbdd59",
     "name": "Nicht abziehbare Ausgaben Bereich 5000",
     "type": "Aufwand",
     "code": "3550",
+    "sort-code": 3550,
     "description": "Nicht abziehbare Ausgaben Bereich 5000",
     "categories": [
         "3500-3599 Zweckbetriebe Sport",
         "3200-3899  ERTRAGSNEUTRALE POSTEN",
         "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN > 3500-3599 Zweckbetriebe Sport"
-        },
-        {
-            "lvl1": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN"
-        },
-        {
-            "lvl0": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN > 3500-3599 Zweckbetriebe Sport",
+    "hierarchicalCategories.lvl1": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten > 3200-3899  ERTRAGSNEUTRALE POSTEN",
+    "hierarchicalCategories.lvl0": "3 Erfolgskonten f\u00fcr ertragsteuerneutrale Posten",
     "parent": "7715faf0cb357f6bfbacbfff01bb422a"
 }

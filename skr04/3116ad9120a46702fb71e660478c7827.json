@@ -1,8 +1,9 @@
 {
-    "objectID": "3116ad9120a46702fb71e660478c7827",
+    "id": "3116ad9120a46702fb71e660478c7827",
     "name": "Gesetzliche R\u00fccklage 0% Vorbelastung (EK02)",
     "type": "Fremdkapital",
     "code": "2933",
+    "sort-code": 2933,
     "description": "",
     "categories": [
         "01. Gesetzliche R\u00fccklage",
@@ -11,24 +12,12 @@
         "A. Eigenkapital",
         "Passiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl4": "Passiva > A. Eigenkapital > c) alle > I. Gewinnr\u00fccklagen > 01. Gesetzliche R\u00fccklage"
-        },
-        {
-            "lvl3": "Passiva > A. Eigenkapital > c) alle > I. Gewinnr\u00fccklagen"
-        },
-        {
-            "lvl2": "Passiva > A. Eigenkapital > c) alle"
-        },
-        {
-            "lvl1": "Passiva > A. Eigenkapital"
-        },
-        {
-            "lvl0": "Passiva"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl4": "Passiva > A. Eigenkapital > c) alle > I. Gewinnr\u00fccklagen > 01. Gesetzliche R\u00fccklage",
+    "hierarchicalCategories.lvl3": "Passiva > A. Eigenkapital > c) alle > I. Gewinnr\u00fccklagen",
+    "hierarchicalCategories.lvl2": "Passiva > A. Eigenkapital > c) alle",
+    "hierarchicalCategories.lvl1": "Passiva > A. Eigenkapital",
+    "hierarchicalCategories.lvl0": "Passiva",
     "placeholder": false,
     "parent": "b3dead9027abe209e92e83b2ff7bac25"
 }

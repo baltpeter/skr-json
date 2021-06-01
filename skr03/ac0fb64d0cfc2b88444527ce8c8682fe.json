@@ -1,21 +1,16 @@
 {
-    "objectID": "ac0fb64d0cfc2b88444527ce8c8682fe",
+    "id": "ac0fb64d0cfc2b88444527ce8c8682fe",
     "name": "Abziehbare VStr. nach \u00a713b UStG 19%",
     "type": "Aktiva",
     "code": "1577",
+    "sort-code": 1577,
     "description": "",
     "categories": [
         "Finanzkonten 1",
         "Aktiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "Aktiva > Finanzkonten 1"
-        },
-        {
-            "lvl0": "Aktiva"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl1": "Aktiva > Finanzkonten 1",
+    "hierarchicalCategories.lvl0": "Aktiva",
     "parent": "1b13a7614b5e84b0778963995e20d897"
 }

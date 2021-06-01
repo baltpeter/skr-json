@@ -1,22 +1,17 @@
 {
-    "objectID": "a7613509835f15ac7bf195a1d755a8c6",
+    "id": "a7613509835f15ac7bf195a1d755a8c6",
     "name": "Sofortabschreibungen geringwertiger Wirtschaftsg\u00fcter",
     "type": "Aufwand",
     "code": "6260",
+    "sort-code": 6260,
     "description": "",
     "categories": [
         "a) auf immaterielle Verm\u00f6gensgegenst\u00e4nde des Anlageverm\u00f6gens und Sachanlagen",
         "07. Abschreibungen"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "07. Abschreibungen > a) auf immaterielle Verm\u00f6gensgegenst\u00e4nde des Anlageverm\u00f6gens und Sachanlagen"
-        },
-        {
-            "lvl0": "07. Abschreibungen"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl1": "07. Abschreibungen > a) auf immaterielle Verm\u00f6gensgegenst\u00e4nde des Anlageverm\u00f6gens und Sachanlagen",
+    "hierarchicalCategories.lvl0": "07. Abschreibungen",
     "placeholder": false,
     "parent": "190d32a7a4ab84dd1b8b1ab0ef80434c"
 }

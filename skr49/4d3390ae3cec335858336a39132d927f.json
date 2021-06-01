@@ -1,8 +1,9 @@
 {
-    "objectID": "4d3390ae3cec335858336a39132d927f",
+    "id": "4d3390ae3cec335858336a39132d927f",
     "name": "Sonstige Ergebnisr\u00fccklagen",
     "type": "Fremdkapital",
     "code": "1120",
+    "sort-code": 1120,
     "description": "Sonstige Ergebnisr\u00fccklagen",
     "categories": [
         "1115-1125 Ergebnisr\u00fccklagen",
@@ -10,21 +11,11 @@
         "1000-1179 VERM\u00d6GEN / EIGENKAPITAL",
         "1 passive Verm\u00f6gensposten"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl3": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL > 1100-1125 Stiftungsverm\u00f6gen > 1115-1125 Ergebnisr\u00fccklagen"
-        },
-        {
-            "lvl2": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL > 1100-1125 Stiftungsverm\u00f6gen"
-        },
-        {
-            "lvl1": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL"
-        },
-        {
-            "lvl0": "1 passive Verm\u00f6gensposten"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl3": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL > 1100-1125 Stiftungsverm\u00f6gen > 1115-1125 Ergebnisr\u00fccklagen",
+    "hierarchicalCategories.lvl2": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL > 1100-1125 Stiftungsverm\u00f6gen",
+    "hierarchicalCategories.lvl1": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL",
+    "hierarchicalCategories.lvl0": "1 passive Verm\u00f6gensposten",
     "notes": "Nur f\u00fcr Stiftungen!\nFalls Sie die R\u00fccklagen nach dem Zeitpunkt der Aufl\u00f6sung differenziert ausweisen m\u00f6chten, buchen Sie bitte auf den Konten ab 1000.",
     "parent": "3d43c496e04398c7f3783d1ff22b0198"
 }

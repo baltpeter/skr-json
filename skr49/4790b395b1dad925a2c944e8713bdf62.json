@@ -1,26 +1,19 @@
 {
-    "objectID": "4790b395b1dad925a2c944e8713bdf62",
+    "id": "4790b395b1dad925a2c944e8713bdf62",
     "name": "Ertr\u00e4ge aus Zuschreibungen des Finanzanlageverm\u00f6gens",
     "type": "Ertrag",
     "code": "4488",
+    "sort-code": 4488,
     "description": "Ertr\u00e4ge aus Zuschreibungen des Finanzanlageverm\u00f6gens",
     "categories": [
         "4400 Steuerpflichtige Einnahmen",
         "4400-4499 EINNAHMEN NGV",
         "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4400-4499 EINNAHMEN NGV > 4400 Steuerpflichtige Einnahmen"
-        },
-        {
-            "lvl1": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4400-4499 EINNAHMEN NGV"
-        },
-        {
-            "lvl0": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4400-4499 EINNAHMEN NGV > 4400 Steuerpflichtige Einnahmen",
+    "hierarchicalCategories.lvl1": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4400-4499 EINNAHMEN NGV",
+    "hierarchicalCategories.lvl0": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung",
     "notes": "Konto f\u00fcr das Buchungsjahr 2017 neu eingef\u00fchrt.",
     "parent": "381598618cc0baf4bd0acca9cb0ad79b"
 }

@@ -1,8 +1,9 @@
 {
-    "objectID": "3e9cf1c93dc275864254b2632bc8fc16",
+    "id": "3e9cf1c93dc275864254b2632bc8fc16",
     "name": "K\u00f6rperschaftsteuerguthaben nach \u00a737 KStG >1 Jahr",
     "type": "Forderung",
     "code": "0880",
+    "sort-code": 880,
     "description": "VERALTET!",
     "categories": [
         "0878 K\u00f6rperschaftsteuerr\u00fcckforderung",
@@ -12,27 +13,13 @@
         "0600-0989 UMLAUFVERM\u00d6GEN",
         "0 aktive Verm\u00f6gensposten"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl5": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde > 0700 Sonstige Verm\u00f6gensgegenst\u00e4nde > 0877-0883 Sonstige Forderungen an Finaz\u00e4mter & BA > 0878 K\u00f6rperschaftsteuerr\u00fcckforderung"
-        },
-        {
-            "lvl4": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde > 0700 Sonstige Verm\u00f6gensgegenst\u00e4nde > 0877-0883 Sonstige Forderungen an Finaz\u00e4mter & BA"
-        },
-        {
-            "lvl3": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde > 0700 Sonstige Verm\u00f6gensgegenst\u00e4nde"
-        },
-        {
-            "lvl2": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde"
-        },
-        {
-            "lvl1": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN"
-        },
-        {
-            "lvl0": "0 aktive Verm\u00f6gensposten"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl5": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde > 0700 Sonstige Verm\u00f6gensgegenst\u00e4nde > 0877-0883 Sonstige Forderungen an Finaz\u00e4mter & BA > 0878 K\u00f6rperschaftsteuerr\u00fcckforderung",
+    "hierarchicalCategories.lvl4": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde > 0700 Sonstige Verm\u00f6gensgegenst\u00e4nde > 0877-0883 Sonstige Forderungen an Finaz\u00e4mter & BA",
+    "hierarchicalCategories.lvl3": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde > 0700 Sonstige Verm\u00f6gensgegenst\u00e4nde",
+    "hierarchicalCategories.lvl2": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0650-0899 Forderungen, sonstige Verm\u00f6gensgegenst\u00e4nde",
+    "hierarchicalCategories.lvl1": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN",
+    "hierarchicalCategories.lvl0": "0 aktive Verm\u00f6gensposten",
     "notes": "K\u00f6rperschaftsteuerguthaben nach \u00a737 KStG \u2013 Restlaufzeit mehr als 1 Jahr\n0880 war in der Version 2009 \u201eSonstiges Verrechnungskonto\u201c.\nDas Konto wird nur noch f\u00fcr Auswertungen mit Vorjahresvergleich ben\u00f6tigt und wird im folgenden Jahr gel\u00f6scht.",
     "placeholder": true,
     "parent": "670e6a5e40146479c22dbf23782a3879"

@@ -1,8 +1,9 @@
 {
-    "objectID": "06f7df55cb2fc31c430031fb4475f70f",
+    "id": "06f7df55cb2fc31c430031fb4475f70f",
     "name": "Verbindlichkeiten <1 Jahr gegen\u00fcber Kreditinstituten aus Teilzahlungsvertr\u00e4gen",
     "type": "Verbindlichkeit",
     "code": "1541",
+    "sort-code": 1541,
     "description": "Verbindlichkeiten gegen\u00fcber Kreditinstituten aus Teilzahlungsvertr\u00e4gen \u2013 Restlaufzeit bis 1 Jahr",
     "categories": [
         "1540 Verbindlichkeiten gegen\u00fcber Kreditinstituten aus Teilzahlungsvertr\u00e4gen",
@@ -10,20 +11,10 @@
         "1300-1989 VERBINDLICHKEITEN",
         "1 passive Verm\u00f6gensposten"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl3": "1 passive Verm\u00f6gensposten > 1300-1989 VERBINDLICHKEITEN > 1500 Verbindlichkeiten gegen\u00fcber Kreditinstituten > 1540 Verbindlichkeiten gegen\u00fcber Kreditinstituten aus Teilzahlungsvertr\u00e4gen"
-        },
-        {
-            "lvl2": "1 passive Verm\u00f6gensposten > 1300-1989 VERBINDLICHKEITEN > 1500 Verbindlichkeiten gegen\u00fcber Kreditinstituten"
-        },
-        {
-            "lvl1": "1 passive Verm\u00f6gensposten > 1300-1989 VERBINDLICHKEITEN"
-        },
-        {
-            "lvl0": "1 passive Verm\u00f6gensposten"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl3": "1 passive Verm\u00f6gensposten > 1300-1989 VERBINDLICHKEITEN > 1500 Verbindlichkeiten gegen\u00fcber Kreditinstituten > 1540 Verbindlichkeiten gegen\u00fcber Kreditinstituten aus Teilzahlungsvertr\u00e4gen",
+    "hierarchicalCategories.lvl2": "1 passive Verm\u00f6gensposten > 1300-1989 VERBINDLICHKEITEN > 1500 Verbindlichkeiten gegen\u00fcber Kreditinstituten",
+    "hierarchicalCategories.lvl1": "1 passive Verm\u00f6gensposten > 1300-1989 VERBINDLICHKEITEN",
+    "hierarchicalCategories.lvl0": "1 passive Verm\u00f6gensposten",
     "parent": "64237e2fd55f7a60ab8eb2bcfedcb287"
 }

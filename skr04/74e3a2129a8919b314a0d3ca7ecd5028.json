@@ -1,22 +1,17 @@
 {
-    "objectID": "74e3a2129a8919b314a0d3ca7ecd5028",
+    "id": "74e3a2129a8919b314a0d3ca7ecd5028",
     "name": "b) Kapitalgesellschaft",
     "type": "Fremdkapital",
     "code": -1,
+    "sort-code": 9999,
     "description": "",
     "categories": [
         "A. Eigenkapital",
         "Passiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "Passiva > A. Eigenkapital"
-        },
-        {
-            "lvl0": "Passiva"
-        }
-    ],
     "leaf": false,
+    "hierarchicalCategories.lvl1": "Passiva > A. Eigenkapital",
+    "hierarchicalCategories.lvl0": "Passiva",
     "placeholder": true,
     "parent": "e5cb03707f1435c681379f2924800bd3"
 }

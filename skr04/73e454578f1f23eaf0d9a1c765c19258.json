@@ -1,8 +1,9 @@
 {
-    "objectID": "73e454578f1f23eaf0d9a1c765c19258",
+    "id": "73e454578f1f23eaf0d9a1c765c19258",
     "name": "Ausstehende Einlagen auf das Kommandit-Kapital, eingefordert",
     "type": "Aktiva",
     "code": "0080",
+    "sort-code": 80,
     "description": "",
     "categories": [
         "b) Kommanditgesellschaft",
@@ -10,21 +11,11 @@
         "A. Anlageverm\u00f6gen",
         "Aktiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl3": "Aktiva > A. Anlageverm\u00f6gen > I. Ausstehende Einlagen > b) Kommanditgesellschaft"
-        },
-        {
-            "lvl2": "Aktiva > A. Anlageverm\u00f6gen > I. Ausstehende Einlagen"
-        },
-        {
-            "lvl1": "Aktiva > A. Anlageverm\u00f6gen"
-        },
-        {
-            "lvl0": "Aktiva"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl3": "Aktiva > A. Anlageverm\u00f6gen > I. Ausstehende Einlagen > b) Kommanditgesellschaft",
+    "hierarchicalCategories.lvl2": "Aktiva > A. Anlageverm\u00f6gen > I. Ausstehende Einlagen",
+    "hierarchicalCategories.lvl1": "Aktiva > A. Anlageverm\u00f6gen",
+    "hierarchicalCategories.lvl0": "Aktiva",
     "placeholder": false,
     "parent": "92e0c76cd1716d23684995969a1af341"
 }

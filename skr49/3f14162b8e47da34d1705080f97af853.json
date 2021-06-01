@@ -1,11 +1,11 @@
 {
-    "objectID": "3f14162b8e47da34d1705080f97af853",
+    "id": "3f14162b8e47da34d1705080f97af853",
     "name": "9 Statistik- & Vortragskonten",
     "type": "Aktiva",
     "code": "9",
+    "sort-code": 9999,
     "description": "Statistikkonten und Vortragskonten",
     "categories": [],
-    "hierarchicalCategories": [],
     "leaf": false,
     "notes": "Klasse 9: Vortragskonten \u2013 Statistische Konten \u2013 Umsatzsteuerabgrenzung\nKein Abschluss in EA\u00dc oder in Bestandskontennachw.\nUSt-Hinweis: keine USt",
     "placeholder": true,

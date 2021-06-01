@@ -1,26 +1,19 @@
 {
-    "objectID": "5dfd7ec184965dd94db6891dfc8e66c1",
+    "id": "5dfd7ec184965dd94db6891dfc8e66c1",
     "name": "Zuwendungen Dritter",
     "type": "Ertrag",
     "code": "2412",
+    "sort-code": 2412,
     "description": "Zuwendungen Dritter",
     "categories": [
         "2400 Sonstige Einnahmen ideeller Bereich",
         "2000 EINNAHMEN",
         "2 Erfolgskonten ideeller Bereich"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "2 Erfolgskonten ideeller Bereich > 2000 EINNAHMEN > 2400 Sonstige Einnahmen ideeller Bereich"
-        },
-        {
-            "lvl1": "2 Erfolgskonten ideeller Bereich > 2000 EINNAHMEN"
-        },
-        {
-            "lvl0": "2 Erfolgskonten ideeller Bereich"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "2 Erfolgskonten ideeller Bereich > 2000 EINNAHMEN > 2400 Sonstige Einnahmen ideeller Bereich",
+    "hierarchicalCategories.lvl1": "2 Erfolgskonten ideeller Bereich > 2000 EINNAHMEN",
+    "hierarchicalCategories.lvl0": "2 Erfolgskonten ideeller Bereich",
     "notes": "Sponsoren",
     "parent": "8c605e342aae45f2df00242e3c7ace6c"
 }

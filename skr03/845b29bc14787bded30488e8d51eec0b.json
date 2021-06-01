@@ -1,11 +1,11 @@
 {
-    "objectID": "845b29bc14787bded30488e8d51eec0b",
+    "id": "845b29bc14787bded30488e8d51eec0b",
     "name": "Passiva",
     "type": "Fremdkapital",
     "code": -1,
+    "sort-code": 9999,
     "description": "Passiva",
     "categories": [],
-    "hierarchicalCategories": [],
     "leaf": false,
     "placeholder": true,
     "parent": "1972cce2e2364f95b2b0bc014502661d"

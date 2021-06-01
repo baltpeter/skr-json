@@ -1,26 +1,19 @@
 {
-    "objectID": "c36cd806a8bad4266ed2395be7f90d0c",
+    "id": "c36cd806a8bad4266ed2395be7f90d0c",
     "name": "04. Sonstige Verm\u00f6gensgegenst\u00e4nde",
     "type": "Aktiva",
     "code": "1300",
+    "sort-code": 1300,
     "description": "SKR04 2005: 1300-1499",
     "categories": [
         "II. Forderungen und sonstige Verm\u00f6gensgegenst\u00e4nde",
         "B. Umlaufverm\u00f6gen",
         "Aktiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "Aktiva > B. Umlaufverm\u00f6gen > II. Forderungen und sonstige Verm\u00f6gensgegenst\u00e4nde"
-        },
-        {
-            "lvl1": "Aktiva > B. Umlaufverm\u00f6gen"
-        },
-        {
-            "lvl0": "Aktiva"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "Aktiva > B. Umlaufverm\u00f6gen > II. Forderungen und sonstige Verm\u00f6gensgegenst\u00e4nde",
+    "hierarchicalCategories.lvl1": "Aktiva > B. Umlaufverm\u00f6gen",
+    "hierarchicalCategories.lvl0": "Aktiva",
     "placeholder": true,
     "parent": "045196223f1e151347db1f23d28b3dc5"
 }

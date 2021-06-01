@@ -1,26 +1,19 @@
 {
-    "objectID": "1a70f64456e8fc29a2a24633824f6281",
+    "id": "1a70f64456e8fc29a2a24633824f6281",
     "name": "Unterschiedsbetrag aus der Abzinsung von Altersversorgungsverpflichtungen nach \u00a7253 Abs. 6 HGB",
     "type": "Aktiva",
     "code": "9285-9286",
+    "sort-code": 9999,
     "description": "Unterschiedsbetrag aus der Abzinsung von Altersversorgungsverpflichtungen nach \u00a7253 Abs. 6 HGB",
     "categories": [
         "9280-9286 Statistische Konten f\u00fcr die im Anhang anzugebenden sonstigen finanziellen Verpflichtungen",
         "9270-9485 STATISTISCHE KONTEN F\u00dcR IN DER BILANZ AUSZUWEISENDE HAFTUNGSVERH\u00c4LTNISSE",
         "9 Statistik- & Vortragskonten"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "9 Statistik- & Vortragskonten > 9270-9485 STATISTISCHE KONTEN F\u00dcR IN DER BILANZ AUSZUWEISENDE HAFTUNGSVERH\u00c4LTNISSE > 9280-9286 Statistische Konten f\u00fcr die im Anhang anzugebenden sonstigen finanziellen Verpflichtungen"
-        },
-        {
-            "lvl1": "9 Statistik- & Vortragskonten > 9270-9485 STATISTISCHE KONTEN F\u00dcR IN DER BILANZ AUSZUWEISENDE HAFTUNGSVERH\u00c4LTNISSE"
-        },
-        {
-            "lvl0": "9 Statistik- & Vortragskonten"
-        }
-    ],
     "leaf": false,
+    "hierarchicalCategories.lvl2": "9 Statistik- & Vortragskonten > 9270-9485 STATISTISCHE KONTEN F\u00dcR IN DER BILANZ AUSZUWEISENDE HAFTUNGSVERH\u00c4LTNISSE > 9280-9286 Statistische Konten f\u00fcr die im Anhang anzugebenden sonstigen finanziellen Verpflichtungen",
+    "hierarchicalCategories.lvl1": "9 Statistik- & Vortragskonten > 9270-9485 STATISTISCHE KONTEN F\u00dcR IN DER BILANZ AUSZUWEISENDE HAFTUNGSVERH\u00c4LTNISSE",
+    "hierarchicalCategories.lvl0": "9 Statistik- & Vortragskonten",
     "placeholder": true,
     "parent": "ff48df6cac1f010884501a56f27ff434"
 }

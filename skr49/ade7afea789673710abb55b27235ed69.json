@@ -1,25 +1,18 @@
 {
-    "objectID": "ade7afea789673710abb55b27235ed69",
+    "id": "ade7afea789673710abb55b27235ed69",
     "name": "Aushilfsl\u00f6hne",
     "type": "Aufwand",
     "code": "2556",
+    "sort-code": 2556,
     "description": "Aushilfsl\u00f6hne",
     "categories": [
         "2550-2559 Personalkosten",
         "2500-2999 AUSGABEN",
         "2 Erfolgskonten ideeller Bereich"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN > 2550-2559 Personalkosten"
-        },
-        {
-            "lvl1": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN"
-        },
-        {
-            "lvl0": "2 Erfolgskonten ideeller Bereich"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN > 2550-2559 Personalkosten",
+    "hierarchicalCategories.lvl1": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN",
+    "hierarchicalCategories.lvl0": "2 Erfolgskonten ideeller Bereich",
     "parent": "6ccdcab3780ae380541cf6c351785151"
 }

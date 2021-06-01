@@ -1,18 +1,15 @@
 {
-    "objectID": "330db1de3813d4b598b2646016d5bab4",
+    "id": "330db1de3813d4b598b2646016d5bab4",
     "name": "Abschreibungen auf Finanzanlagen",
     "type": "Aufwand",
     "code": "7200",
+    "sort-code": 7200,
     "description": "",
     "categories": [
         "12. Abschreibungen auf Finanzanlagen und auf Wertpapiere des Umlaufverm\u00f6gens"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl0": "12. Abschreibungen auf Finanzanlagen und auf Wertpapiere des Umlaufverm\u00f6gens"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl0": "12. Abschreibungen auf Finanzanlagen und auf Wertpapiere des Umlaufverm\u00f6gens",
     "placeholder": false,
     "parent": "676de19f4a18cfe6f34d77b99c9c0902"
 }

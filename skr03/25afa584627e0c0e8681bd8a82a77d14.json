@@ -1,21 +1,16 @@
 {
-    "objectID": "25afa584627e0c0e8681bd8a82a77d14",
+    "id": "25afa584627e0c0e8681bd8a82a77d14",
     "name": "Buchf\u00fchrungskosten",
     "type": "Aufwand",
     "code": "4955",
+    "sort-code": 4955,
     "description": "",
     "categories": [
         "verschiedene Kosten",
         "Aufwendungen 2/4"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "Aufwendungen 2/4 > verschiedene Kosten"
-        },
-        {
-            "lvl0": "Aufwendungen 2/4"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl1": "Aufwendungen 2/4 > verschiedene Kosten",
+    "hierarchicalCategories.lvl0": "Aufwendungen 2/4",
     "parent": "d0c00095e4b00f9f25253307be05e885"
 }

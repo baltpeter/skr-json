@@ -1,21 +1,16 @@
 {
-    "objectID": "1bac306450e7bc0619e42c11ab791204",
+    "id": "1bac306450e7bc0619e42c11ab791204",
     "name": "Zeitschriften, B\u00fccher",
     "type": "Aufwand",
     "code": "4940",
+    "sort-code": 4940,
     "description": "",
     "categories": [
         "verschiedene Kosten",
         "Aufwendungen 2/4"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "Aufwendungen 2/4 > verschiedene Kosten"
-        },
-        {
-            "lvl0": "Aufwendungen 2/4"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl1": "Aufwendungen 2/4 > verschiedene Kosten",
+    "hierarchicalCategories.lvl0": "Aufwendungen 2/4",
     "parent": "d0c00095e4b00f9f25253307be05e885"
 }

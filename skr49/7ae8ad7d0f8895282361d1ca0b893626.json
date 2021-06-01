@@ -1,25 +1,18 @@
 {
-    "objectID": "7ae8ad7d0f8895282361d1ca0b893626",
+    "id": "7ae8ad7d0f8895282361d1ca0b893626",
     "name": "Verbindlichkeiten aus der Begebung und \u00dcbertragung von Wechseln gegen\u00fcber verbundenen / assoziierten Unternehmen",
     "type": "Verbindlichkeit",
     "code": "9272",
+    "sort-code": 9272,
     "description": "Verbindlichkeiten aus der Begebung und \u00dcbertragung von Wechseln gegen\u00fcber verbundenen / assoziierten Unternehmen",
     "categories": [
         "9271 Verbindlichkeiten aus der Begebung und \u00dcbertragung von Wechseln",
         "9270-9485 STATISTISCHE KONTEN F\u00dcR IN DER BILANZ AUSZUWEISENDE HAFTUNGSVERH\u00c4LTNISSE",
         "9 Statistik- & Vortragskonten"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "9 Statistik- & Vortragskonten > 9270-9485 STATISTISCHE KONTEN F\u00dcR IN DER BILANZ AUSZUWEISENDE HAFTUNGSVERH\u00c4LTNISSE > 9271 Verbindlichkeiten aus der Begebung und \u00dcbertragung von Wechseln"
-        },
-        {
-            "lvl1": "9 Statistik- & Vortragskonten > 9270-9485 STATISTISCHE KONTEN F\u00dcR IN DER BILANZ AUSZUWEISENDE HAFTUNGSVERH\u00c4LTNISSE"
-        },
-        {
-            "lvl0": "9 Statistik- & Vortragskonten"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "9 Statistik- & Vortragskonten > 9270-9485 STATISTISCHE KONTEN F\u00dcR IN DER BILANZ AUSZUWEISENDE HAFTUNGSVERH\u00c4LTNISSE > 9271 Verbindlichkeiten aus der Begebung und \u00dcbertragung von Wechseln",
+    "hierarchicalCategories.lvl1": "9 Statistik- & Vortragskonten > 9270-9485 STATISTISCHE KONTEN F\u00dcR IN DER BILANZ AUSZUWEISENDE HAFTUNGSVERH\u00c4LTNISSE",
+    "hierarchicalCategories.lvl0": "9 Statistik- & Vortragskonten",
     "parent": "7fab6ff8cb7b4dbbbd88f3cc4732806d"
 }

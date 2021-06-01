@@ -1,22 +1,17 @@
 {
-    "objectID": "c82abc5f3a57deecb2776fb69f483334",
+    "id": "c82abc5f3a57deecb2776fb69f483334",
     "name": "Erl\u00f6sschm\u00e4lerung EG-Lieferung 7% USt",
     "type": "Ertrag",
     "code": "4725",
+    "sort-code": 4725,
     "description": "",
     "categories": [
         "Erl\u00f6sschm\u00e4lerungen",
         "01. Betriebliche Ertr\u00e4ge"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "01. Betriebliche Ertr\u00e4ge > Erl\u00f6sschm\u00e4lerungen"
-        },
-        {
-            "lvl0": "01. Betriebliche Ertr\u00e4ge"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl1": "01. Betriebliche Ertr\u00e4ge > Erl\u00f6sschm\u00e4lerungen",
+    "hierarchicalCategories.lvl0": "01. Betriebliche Ertr\u00e4ge",
     "placeholder": false,
     "parent": "2210f6850f7a649cf982df696a48e4b7"
 }

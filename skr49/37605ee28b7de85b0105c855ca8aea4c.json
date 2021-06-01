@@ -1,18 +1,15 @@
 {
-    "objectID": "37605ee28b7de85b0105c855ca8aea4c",
+    "id": "37605ee28b7de85b0105c855ca8aea4c",
     "name": "EINNAHMEN GV",
     "type": "Ertrag",
     "code": "4000-4399",
+    "sort-code": 9999,
     "description": "Ertragsteuerfreie Einnahmen gemeinn\u00fctziger Vereine (gV)",
     "categories": [
         "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl0": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung"
-        }
-    ],
     "leaf": false,
+    "hierarchicalCategories.lvl0": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung",
     "placeholder": true,
     "parent": "2a7f03fcafd653d38af9386128acd234"
 }

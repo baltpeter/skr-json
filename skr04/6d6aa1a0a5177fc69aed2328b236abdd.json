@@ -1,26 +1,19 @@
 {
-    "objectID": "6d6aa1a0a5177fc69aed2328b236abdd",
+    "id": "6d6aa1a0a5177fc69aed2328b236abdd",
     "name": "Fremdfahrzeugkosten",
     "type": "Aufwand",
     "code": "6595",
+    "sort-code": 6595,
     "description": "",
     "categories": [
         "5) Fahrzeugkosten",
         "a) ordentliche betriebliche Aufwendungen",
         "08. sonstige betriebliche Aufwendungen"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen > 5) Fahrzeugkosten"
-        },
-        {
-            "lvl1": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen"
-        },
-        {
-            "lvl0": "08. sonstige betriebliche Aufwendungen"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen > 5) Fahrzeugkosten",
+    "hierarchicalCategories.lvl1": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen",
+    "hierarchicalCategories.lvl0": "08. sonstige betriebliche Aufwendungen",
     "placeholder": false,
     "parent": "56d46dd3b373b38c30ecf7fe5321a12c"
 }

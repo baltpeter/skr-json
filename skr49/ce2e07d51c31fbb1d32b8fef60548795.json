@@ -1,18 +1,15 @@
 {
-    "objectID": "ce2e07d51c31fbb1d32b8fef60548795",
+    "id": "ce2e07d51c31fbb1d32b8fef60548795",
     "name": "AKTIVE RECHNUNGSABGRENZUNGSPOSTEN",
     "type": "Aktiva",
     "code": "0990",
+    "sort-code": 990,
     "description": "Rechnungsabgrenzungsposten aktiv",
     "categories": [
         "0 aktive Verm\u00f6gensposten"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl0": "0 aktive Verm\u00f6gensposten"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl0": "0 aktive Verm\u00f6gensposten",
     "notes": "Keine \u201eZwischenebene\u201c, da es nur dieses eine Konto gibt \u2013 wie bei den veralteten 0001-0002.",
     "parent": "03f629f17206bc63e1f6772baa84ce68"
 }

@@ -1,8 +1,9 @@
 {
-    "objectID": "14d5b96681770d1705e71be585f1e0c2",
+    "id": "14d5b96681770d1705e71be585f1e0c2",
     "name": "Eingefordertes Nachschusskapital",
     "type": "Fremdkapital",
     "code": "2929",
+    "sort-code": 2929,
     "description": "Gegenkonto 1299",
     "categories": [
         "Kapitalr\u00fccklage",
@@ -11,24 +12,12 @@
         "A. Eigenkapital",
         "Passiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl4": "Passiva > A. Eigenkapital > b) Kapitalgesellschaft > II. Kapitalr\u00fccklage > Kapitalr\u00fccklage"
-        },
-        {
-            "lvl3": "Passiva > A. Eigenkapital > b) Kapitalgesellschaft > II. Kapitalr\u00fccklage"
-        },
-        {
-            "lvl2": "Passiva > A. Eigenkapital > b) Kapitalgesellschaft"
-        },
-        {
-            "lvl1": "Passiva > A. Eigenkapital"
-        },
-        {
-            "lvl0": "Passiva"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl4": "Passiva > A. Eigenkapital > b) Kapitalgesellschaft > II. Kapitalr\u00fccklage > Kapitalr\u00fccklage",
+    "hierarchicalCategories.lvl3": "Passiva > A. Eigenkapital > b) Kapitalgesellschaft > II. Kapitalr\u00fccklage",
+    "hierarchicalCategories.lvl2": "Passiva > A. Eigenkapital > b) Kapitalgesellschaft",
+    "hierarchicalCategories.lvl1": "Passiva > A. Eigenkapital",
+    "hierarchicalCategories.lvl0": "Passiva",
     "placeholder": false,
     "parent": "cb5efff60ddac9ff1f8ce3c4334e118b"
 }

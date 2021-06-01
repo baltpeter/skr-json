@@ -1,22 +1,17 @@
 {
-    "objectID": "dbb3af622ecc7226812396638dd49b5c",
+    "id": "dbb3af622ecc7226812396638dd49b5c",
     "name": "Abgrenzung aktive latente Steuern",
     "type": "Aktiva",
     "code": "1950",
+    "sort-code": 1950,
     "description": "\u00a7274 HGB",
     "categories": [
         "C. Rechnungsabgrenzungsposten Umlaufverm\u00f6gen",
         "Aktiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "Aktiva > C. Rechnungsabgrenzungsposten Umlaufverm\u00f6gen"
-        },
-        {
-            "lvl0": "Aktiva"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl1": "Aktiva > C. Rechnungsabgrenzungsposten Umlaufverm\u00f6gen",
+    "hierarchicalCategories.lvl0": "Aktiva",
     "notes": "WertaufholungsGEBOT in Handelsbilanz - WertaufholungsVERBOT in Steuerbilanz",
     "placeholder": false,
     "parent": "12ee644791faadaee9c46305b8932295"

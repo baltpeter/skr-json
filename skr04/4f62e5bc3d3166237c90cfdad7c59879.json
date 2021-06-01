@@ -1,26 +1,19 @@
 {
-    "objectID": "4f62e5bc3d3166237c90cfdad7c59879",
+    "id": "4f62e5bc3d3166237c90cfdad7c59879",
     "name": "Aufwand f\u00fcr Gew\u00e4hrleistung",
     "type": "Aufwand",
     "code": "6790",
+    "sort-code": 6790,
     "description": "",
     "categories": [
         "7) Kosten der Warenabgabe",
         "a) ordentliche betriebliche Aufwendungen",
         "08. sonstige betriebliche Aufwendungen"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen > 7) Kosten der Warenabgabe"
-        },
-        {
-            "lvl1": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen"
-        },
-        {
-            "lvl0": "08. sonstige betriebliche Aufwendungen"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen > 7) Kosten der Warenabgabe",
+    "hierarchicalCategories.lvl1": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen",
+    "hierarchicalCategories.lvl0": "08. sonstige betriebliche Aufwendungen",
     "placeholder": false,
     "tax-related": false,
     "parent": "f426b343a06164be037f65c82153a874"

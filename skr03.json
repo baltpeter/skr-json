@@ -1,2009 +1,1575 @@
 [
     {
-        "objectID": "1972cce2e2364f95b2b0bc014502661d",
+        "id": "1972cce2e2364f95b2b0bc014502661d",
         "name": "Root Account",
         "type": "Oberkonto",
         "code": -1,
+        "sort-code": 9999,
         "description": "",
         "categories": [],
-        "hierarchicalCategories": [],
         "leaf": false
     },
     {
-        "objectID": "fc3b1f110a6686f3d40bb0c41c0f8de0",
+        "id": "fc3b1f110a6686f3d40bb0c41c0f8de0",
         "name": "Aktiva",
         "type": "Aktiva",
         "code": -1,
+        "sort-code": 9999,
         "description": "Aktiva",
         "categories": [],
-        "hierarchicalCategories": [],
         "leaf": false,
         "parent": "1972cce2e2364f95b2b0bc014502661d"
     },
     {
-        "objectID": "27356188a1963c1dbf943022441d095f",
+        "id": "27356188a1963c1dbf943022441d095f",
         "name": "Anlage- u. Kapitalkonten 0",
         "type": "Aktiva",
         "code": -1,
+        "sort-code": 9999,
         "description": "",
         "categories": [
             "Aktiva"
         ],
-        "hierarchicalCategories": [
-            {
-                "lvl0": "Aktiva"
-            }
-        ],
         "leaf": false,
+        "hierarchicalCategories.lvl0": "Aktiva",
         "placeholder": true,
         "tax-related": false,
         "parent": "fc3b1f110a6686f3d40bb0c41c0f8de0"
     },
     {
-        "objectID": "8275e7a0b489940a2ba993f9019a898f",
+        "id": "8275e7a0b489940a2ba993f9019a898f",
         "name": "EDV-Software",
         "type": "Aktiva",
         "code": "0027",
+        "sort-code": 27,
         "description": "",
         "categories": [
             "Anlage- u. Kapitalkonten 0",
             "Aktiva"
         ],
-        "hierarchicalCategories": [
-            {
-                "lvl1": "Aktiva > Anlage- u. Kapitalkonten 0"
-            },
-            {
-                "lvl0": "Aktiva"
-            }
-        ],
         "leaf": true,
+        "hierarchicalCategories.lvl1": "Aktiva > Anlage- u. Kapitalkonten 0",
+        "hierarchicalCategories.lvl0": "Aktiva",
         "tax-related": false,
         "parent": "27356188a1963c1dbf943022441d095f"
     },
     {
-        "objectID": "a588283077bd935dede66d13b2ee478f",
+        "id": "a588283077bd935dede66d13b2ee478f",
         "name": "Gesch\u00e4ftsausstattung",
         "type": "Aktiva",
         "code": "0410",
+        "sort-code": 410,
         "description": "",
         "categories": [
             "Anlage- u. Kapitalkonten 0",
             "Aktiva"
         ],
-        "hierarchicalCategories": [
-            {
-                "lvl1": "Aktiva > Anlage- u. Kapitalkonten 0"
-            },
-            {
-                "lvl0": "Aktiva"
-            }
-        ],
         "leaf": true,
+        "hierarchicalCategories.lvl1": "Aktiva > Anlage- u. Kapitalkonten 0",
+        "hierarchicalCategories.lvl0": "Aktiva",
         "tax-related": false,
         "parent": "27356188a1963c1dbf943022441d095f"
     },
     {
-        "objectID": "573063d23b81fe3f9917d80fe6cc41e7",
+        "id": "573063d23b81fe3f9917d80fe6cc41e7",
         "name": "B\u00fcroeinrichtung",
         "type": "Aktiva",
         "code": "0420",
+        "sort-code": 420,
         "description": "",
         "categories": [
             "Anlage- u. Kapitalkonten 0",
             "Aktiva"
         ],
-        "hierarchicalCategories": [
-            {
-                "lvl1": "Aktiva > Anlage- u. Kapitalkonten 0"
-            },
-            {
-                "lvl0": "Aktiva"
-            }
-        ],
         "leaf": true,
+        "hierarchicalCategories.lvl1": "Aktiva > Anlage- u. Kapitalkonten 0",
+        "hierarchicalCategories.lvl0": "Aktiva",
         "tax-related": false,
         "parent": "27356188a1963c1dbf943022441d095f"
     },
     {
-        "objectID": "bd74fcb2d15fc7540ecc5ba8f27cbf48",
+        "id": "bd74fcb2d15fc7540ecc5ba8f27cbf48",
         "name": "Darlehen",
         "type": "Aktiva",
         "code": "0565",
+        "sort-code": 565,
         "description": "",
         "categories": [
             "Anlage- u. Kapitalkonten 0",
             "Aktiva"
         ],
-        "hierarchicalCategories": [
-            {
-                "lvl1": "Aktiva > Anlage- u. Kapitalkonten 0"
-            },
-            {
-                "lvl0": "Aktiva"
-            }
-        ],
         "leaf": true,
+        "hierarchicalCategories.lvl1": "Aktiva > Anlage- u. Kapitalkonten 0",
+        "hierarchicalCategories.lvl0": "Aktiva",
         "parent": "27356188a1963c1dbf943022441d095f"
     },
     {
-        "objectID": "904b262e6f84659046267cad87ac5e90",
+        "id": "904b262e6f84659046267cad87ac5e90",
         "name": "Maschinen",
         "type": "Aktiva",
         "code": "0210",
+        "sort-code": 210,
         "description": "",
         "categories": [
             "Anlage- u. Kapitalkonten 0",
             "Aktiva"
         ],
-        "hierarchicalCategories": [
-            {
-                "lvl1": "Aktiva > Anlage- u. Kapitalkonten 0"
-            },
-            {
-                "lvl0": "Aktiva"
-            }
-        ],
         "leaf": true,
+        "hierarchicalCategories.lvl1": "Aktiva > Anlage- u. Kapitalkonten 0",
+        "hierarchicalCategories.lvl0": "Aktiva",
         "parent": "27356188a1963c1dbf943022441d095f"
     },
     {
-        "objectID": "910d6c057660045a9958fb5a57ffc899",
+        "id": "910d6c057660045a9958fb5a57ffc899",
         "name": "Betriebsausstattung",
         "type": "Aktiva",
         "code": "0400",
+        "sort-code": 400,
         "description": "",
         "categories": [
             "Anlage- u. Kapitalkonten 0",
             "Aktiva"
         ],
-        "hierarchicalCategories": [
-            {
-                "lvl1": "Aktiva > Anlage- u. Kapitalkonten 0"
-            },
-            {
-                "lvl0": "Aktiva"
-            }
-        ],
         "leaf": true,
+        "hierarchicalCategories.lvl1": "Aktiva > Anlage- u. Kapitalkonten 0",
+        "hierarchicalCategories.lvl0": "Aktiva",
         "parent": "27356188a1963c1dbf943022441d095f"
     },
     {
-        "objectID": "2876b41c069107076e7a18ec39bf4f9c",
+        "id": "2876b41c069107076e7a18ec39bf4f9c",
         "name": "Ladeneinrichtung",
         "type": "Aktiva",
         "code": "0430",
+        "sort-code": 430,
         "description": "",
         "categories": [
             "Anlage- u. Kapitalkonten 0",
             "Aktiva"
         ],
-        "hierarchicalCategories": [
-            {
-                "lvl1": "Aktiva > Anlage- u. Kapitalkonten 0"
-            },
-            {
-                "lvl0": "Aktiva"
-            }
-        ],
         "leaf": true,
+        "hierarchicalCategories.lvl1": "Aktiva > Anlage- u. Kapitalkonten 0",
+        "hierarchicalCategories.lvl0": "Aktiva",
         "parent": "27356188a1963c1dbf943022441d095f"
     },
     {
-        "objectID": "1b13a7614b5e84b0778963995e20d897",
+        "id": "1b13a7614b5e84b0778963995e20d897",
         "name": "Finanzkonten 1",
         "type": "Aktiva",
         "code": -1,
+        "sort-code": 9999,
         "description": "",
         "categories": [
             "Aktiva"
         ],
-        "hierarchicalCategories": [
-            {
-                "lvl0": "Aktiva"
-            }
-        ],
         "leaf": false,
+        "hierarchicalCategories.lvl0": "Aktiva",
         "placeholder": true,
         "parent": "fc3b1f110a6686f3d40bb0c41c0f8de0"
     },
     {
-        "objectID": "9fe8d61dac9cf62b3f12e6c71a4385b2",
+        "id": "9fe8d61dac9cf62b3f12e6c71a4385b2",
         "name": "Postbank",
         "type": "Bank",
         "code": "1100",
+        "sort-code": 1100,
         "description": "",
         "categories": [
             "Finanzkonten 1",
             "Aktiva"
         ],
-        "hierarchicalCategories": [
-            {
-                "lvl1": "Aktiva > Finanzkonten 1"
-            },
-            {
-                "lvl0": "Aktiva"
-            }
-        ],
         "leaf": true,
+        "hierarchicalCategories.lvl1": "Aktiva > Finanzkonten 1",
+        "hierarchicalCategories.lvl0": "Aktiva",
         "parent": "1b13a7614b5e84b0778963995e20d897"
     },
     {
-        "objectID": "875ec51cd332f3b75c15a2a9ca309ebd",
+        "id": "875ec51cd332f3b75c15a2a9ca309ebd",
         "name": "Bankkonto",
         "type": "Bank",
         "code": "1200",
+        "sort-code": 1200,
         "description": "",
         "categories": [
             "Finanzkonten 1",
             "Aktiva"
         ],
-        "hierarchicalCategories": [
-            {
-                "lvl1": "Aktiva > Finanzkonten 1"
-            },
-            {
-                "lvl0": "Aktiva"
-            }
-        ],
         "leaf": true,
+        "hierarchicalCategories.lvl1": "Aktiva > Finanzkonten 1",
+        "hierarchicalCategories.lvl0": "Aktiva",
         "parent": "1b13a7614b5e84b0778963995e20d897"
     },
     {
-        "objectID": "f048cb49a135a298d5df958a4c63ba22",
+        "id": "f048cb49a135a298d5df958a4c63ba22",
         "name": "Durchlaufende Posten",
         "type": "Aktiva",
         "code": "1590",
+        "sort-code": 1590,
         "description": "",
         "categories": [
             "Finanzkonten 1",
             "Aktiva"
         ],
-        "hierarchicalCategories": [
-            {
-                "lvl1": "Aktiva > Finanzkonten 1"
-            },
-            {
-                "lvl0": "Aktiva"
-            }
-        ],
         "leaf": true,
+        "hierarchicalCategories.lvl1": "Aktiva > Finanzkonten 1",
+        "hierarchicalCategories.lvl0": "Aktiva",
         "parent": "1b13a7614b5e84b0778963995e20d897"
     },
     {
-        "objectID": "58c8b84a785d7feac255d381943076df",
+        "id": "58c8b84a785d7feac255d381943076df",
         "name": "Gewinnermittlung \u00a74/3 nicht Ergebniswirksam",
         "type": "Aktiva",
         "code": "1371",
+        "sort-code": 1371,
         "description": "",
         "categories": [
             "Finanzkonten 1",
             "Aktiva"
         ],
-        "hierarchicalCategories": [
-            {
-                "lvl1": "Aktiva > Finanzkonten 1"
-            },
-            {
-                "lvl0": "Aktiva"
-            }
-        ],
         "leaf": true,
+        "hierarchicalCategories.lvl1": "Aktiva > Finanzkonten 1",
+        "hierarchicalCategories.lvl0": "Aktiva",
         "parent": "1b13a7614b5e84b0778963995e20d897"
     },
     {
-        "objectID": "7edc3c319713c53035b3e439ccec5e2b",
+        "id": "7edc3c319713c53035b3e439ccec5e2b",
         "name": "Abziehbare VSt. 7%",
         "type": "Aktiva",
         "code": "1571",
+        "sort-code": 1571,
         "description": "",
         "categories": [
             "Finanzkonten 1",
             "Aktiva"
         ],
-        "hierarchicalCategories": [
-            {
-                "lvl1": "Aktiva > Finanzkonten 1"
-            },
-            {
-                "lvl0": "Aktiva"
-            }
-        ],
         "leaf": true,
+        "hierarchicalCategories.lvl1": "Aktiva > Finanzkonten 1",
+        "hierarchicalCategories.lvl0": "Aktiva",
         "parent": "1b13a7614b5e84b0778963995e20d897"
     },
     {
-        "objectID": "507b25d5d47d57ba115929b70a32fa5e",
+        "id": "507b25d5d47d57ba115929b70a32fa5e",
         "name": "Abziehbare VSt. 19%",
         "type": "Aktiva",
         "code": "1576",
+        "sort-code": 1576,
         "description": "",
         "categories": [
             "Finanzkonten 1",
             "Aktiva"
         ],
-        "hierarchicalCategories": [
-            {
-                "lvl1": "Aktiva > Finanzkonten 1"
-            },
-            {
-                "lvl0": "Aktiva"
-            }
-        ],
         "leaf": true,
+        "hierarchicalCategories.lvl1": "Aktiva > Finanzkonten 1",
+        "hierarchicalCategories.lvl0": "Aktiva",
         "parent": "1b13a7614b5e84b0778963995e20d897"
     },
     {
-        "objectID": "ac0fb64d0cfc2b88444527ce8c8682fe",
+        "id": "ac0fb64d0cfc2b88444527ce8c8682fe",
         "name": "Abziehbare VStr. nach \u00a713b UStG 19%",
         "type": "Aktiva",
         "code": "1577",
+        "sort-code": 1577,
         "description": "",
         "categories": [
             "Finanzkonten 1",
             "Aktiva"
         ],
-        "hierarchicalCategories": [
-            {
-                "lvl1": "Aktiva > Finanzkonten 1"
-            },
-            {
-                "lvl0": "Aktiva"
-            }
-        ],
         "leaf": true,
+        "hierarchicalCategories.lvl1": "Aktiva > Finanzkonten 1",
+        "hierarchicalCategories.lvl0": "Aktiva",
         "parent": "1b13a7614b5e84b0778963995e20d897"
     },
     {
-        "objectID": "2fe36b4ddde053387e42aa893a94b91b",
+        "id": "2fe36b4ddde053387e42aa893a94b91b",
         "name": "Ford. a. Lieferungen und Leistungen",
         "type": "Forderung",
         "code": "1400",
+        "sort-code": 1400,
         "description": "",
         "categories": [
             "Finanzkonten 1",
             "Aktiva"
         ],
-        "hierarchicalCategories": [
-            {
-                "lvl1": "Aktiva > Finanzkonten 1"
-            },
-            {
-                "lvl0": "Aktiva"
-            }
-        ],
         "leaf": true,
+        "hierarchicalCategories.lvl1": "Aktiva > Finanzkonten 1",
+        "hierarchicalCategories.lvl0": "Aktiva",
         "parent": "1b13a7614b5e84b0778963995e20d897"
     },
     {
-        "objectID": "a26df9927a82bcb58a1facb4cde6f221",
+        "id": "a26df9927a82bcb58a1facb4cde6f221",
         "name": "Wareneingangs- u. Bestandskonten 3",
         "type": "Aktiva",
         "code": -1,
+        "sort-code": 9999,
         "description": "",
         "categories": [
             "Aktiva"
         ],
-        "hierarchicalCategories": [
-            {
-                "lvl0": "Aktiva"
-            }
-        ],
         "leaf": false,
+        "hierarchicalCategories.lvl0": "Aktiva",
         "placeholder": true,
         "parent": "fc3b1f110a6686f3d40bb0c41c0f8de0"
     },
     {
-        "objectID": "39c180a4e3647d347ebc3e16e984372b",
+        "id": "39c180a4e3647d347ebc3e16e984372b",
         "name": "Leistungen \u00a713b UStG 19% Vorsteuer, 19% Umsatzsteuer",
         "type": "Aktiva",
         "code": "3120",
+        "sort-code": 3120,
         "description": "",
         "categories": [
             "Wareneingangs- u. Bestandskonten 3",
             "Aktiva"
         ],
-        "hierarchicalCategories": [
-            {
-                "lvl1": "Aktiva > Wareneingangs- u. Bestandskonten 3"
-            },
-            {
-                "lvl0": "Aktiva"
-            }
-        ],
         "leaf": true,
+        "hierarchicalCategories.lvl1": "Aktiva > Wareneingangs- u. Bestandskonten 3",
+        "hierarchicalCategories.lvl0": "Aktiva",
         "parent": "a26df9927a82bcb58a1facb4cde6f221"
     },
     {
-        "objectID": "01e4b246665a54d40466ba88f5d1d34e",
+        "id": "01e4b246665a54d40466ba88f5d1d34e",
         "name": "Wareneingang VSt. 19%",
         "type": "Aktiva",
         "code": "3400",
+        "sort-code": 3400,
         "description": "",
         "categories": [
             "Wareneingangs- u. Bestandskonten 3",
             "Aktiva"
         ],
-        "hierarchicalCategories": [
-            {
-                "lvl1": "Aktiva > Wareneingangs- u. Bestandskonten 3"
-            },
-            {
-                "lvl0": "Aktiva"
-            }
-        ],
         "leaf": true,
+        "hierarchicalCategories.lvl1": "Aktiva > Wareneingangs- u. Bestandskonten 3",
+        "hierarchicalCategories.lvl0": "Aktiva",
         "tax-related": false,
         "parent": "a26df9927a82bcb58a1facb4cde6f221"
     },
     {
-        "objectID": "845b29bc14787bded30488e8d51eec0b",
+        "id": "845b29bc14787bded30488e8d51eec0b",
         "name": "Passiva",
         "type": "Fremdkapital",
         "code": -1,
+        "sort-code": 9999,
         "description": "Passiva",
         "categories": [],
-        "hierarchicalCategories": [],
         "leaf": false,
         "placeholder": true,
         "parent": "1972cce2e2364f95b2b0bc014502661d"
     },
     {
-        "objectID": "dea7f32e6a447d2d1cd7048932c98265",
+        "id": "dea7f32e6a447d2d1cd7048932c98265",
         "name": "Umsatzsteuer",
         "type": "Fremdkapital",
         "code": -1,
+        "sort-code": 9999,
         "description": "",
         "categories": [
             "Passiva"
         ],
-        "hierarchicalCategories": [
-            {
-                "lvl0": "Passiva"
-            }
-        ],
         "leaf": false,
+        "hierarchicalCategories.lvl0": "Passiva",
         "placeholder": true,
         "parent": "845b29bc14787bded30488e8d51eec0b"
     },
     {
-        "objectID": "d699c440f7817339d2fe60dd875520b6",
+        "id": "d699c440f7817339d2fe60dd875520b6",
         "name": "Umsatzsteuer 7%",
         "type": "Fremdkapital",
         "code": "1771",
+        "sort-code": 1771,
         "description": "",
         "categories": [
             "Umsatzsteuer",
             "Passiva"
         ],
-        "hierarchicalCategories": [
-            {
-                "lvl1": "Passiva > Umsatzsteuer"
-            },
-            {
-                "lvl0": "Passiva"
-            }
-        ],
         "leaf": true,
+        "hierarchicalCategories.lvl1": "Passiva > Umsatzsteuer",
+        "hierarchicalCategories.lvl0": "Passiva",
         "parent": "dea7f32e6a447d2d1cd7048932c98265"
     },
     {
-        "objectID": "55a2876edef147ed7631486de4af558c",
+        "id": "55a2876edef147ed7631486de4af558c",
         "name": "Umsatzsteuer 19%",
         "type": "Fremdkapital",
         "code": "1776",
+        "sort-code": 1776,
         "description": "",
         "categories": [
             "Umsatzsteuer",
             "Passiva"
         ],
-        "hierarchicalCategories": [
-            {
-                "lvl1": "Passiva > Umsatzsteuer"
-            },
-            {
-                "lvl0": "Passiva"
-            }
-        ],
         "leaf": true,
+        "hierarchicalCategories.lvl1": "Passiva > Umsatzsteuer",
+        "hierarchicalCategories.lvl0": "Passiva",
         "parent": "dea7f32e6a447d2d1cd7048932c98265"
     },
     {
-        "objectID": "4b5e1c2b17024a7721d0955c9f140dd6",
+        "id": "4b5e1c2b17024a7721d0955c9f140dd6",
         "name": "Umsatzsteuer-Vorauszahlung",
         "type": "Fremdkapital",
         "code": "1780",
+        "sort-code": 1780,
         "description": "",
         "categories": [
             "Umsatzsteuer",
             "Passiva"
         ],
-        "hierarchicalCategories": [
-            {
-                "lvl1": "Passiva > Umsatzsteuer"
-            },
-            {
-                "lvl0": "Passiva"
-            }
-        ],
         "leaf": true,
+        "hierarchicalCategories.lvl1": "Passiva > Umsatzsteuer",
+        "hierarchicalCategories.lvl0": "Passiva",
         "parent": "dea7f32e6a447d2d1cd7048932c98265"
     },
     {
-        "objectID": "08793cd11dfca23d7b435a7338db02da",
+        "id": "08793cd11dfca23d7b435a7338db02da",
         "name": "Umsatzsteuer-Vorauszahlung 1/11",
         "type": "Fremdkapital",
         "code": "1781",
+        "sort-code": 1781,
         "description": "",
         "categories": [
             "Umsatzsteuer",
             "Passiva"
         ],
-        "hierarchicalCategories": [
-            {
-                "lvl1": "Passiva > Umsatzsteuer"
-            },
-            {
-                "lvl0": "Passiva"
-            }
-        ],
         "leaf": true,
+        "hierarchicalCategories.lvl1": "Passiva > Umsatzsteuer",
+        "hierarchicalCategories.lvl0": "Passiva",
         "parent": "dea7f32e6a447d2d1cd7048932c98265"
     },
     {
-        "objectID": "8e1583dfe60365b756f5365741250001",
+        "id": "8e1583dfe60365b756f5365741250001",
         "name": "Umsatzsteuer \u00a7 13b UStG 19%",
         "type": "Fremdkapital",
         "code": "1787",
+        "sort-code": 1787,
         "description": "",
         "categories": [
             "Umsatzsteuer",
             "Passiva"
         ],
-        "hierarchicalCategories": [
-            {
-                "lvl1": "Passiva > Umsatzsteuer"
-            },
-            {
-                "lvl0": "Passiva"
-            }
-        ],
         "leaf": true,
+        "hierarchicalCategories.lvl1": "Passiva > Umsatzsteuer",
+        "hierarchicalCategories.lvl0": "Passiva",
         "parent": "dea7f32e6a447d2d1cd7048932c98265"
     },
     {
-        "objectID": "635fe36261db8b9beda522420f564028",
+        "id": "635fe36261db8b9beda522420f564028",
         "name": "Umsatzsteuer Vorjahr",
         "type": "Fremdkapital",
         "code": "1790",
+        "sort-code": 1790,
         "description": "",
         "categories": [
             "Umsatzsteuer",
             "Passiva"
         ],
-        "hierarchicalCategories": [
-            {
-                "lvl1": "Passiva > Umsatzsteuer"
-            },
-            {
-                "lvl0": "Passiva"
-            }
-        ],
         "leaf": true,
+        "hierarchicalCategories.lvl1": "Passiva > Umsatzsteuer",
+        "hierarchicalCategories.lvl0": "Passiva",
         "parent": "dea7f32e6a447d2d1cd7048932c98265"
     },
     {
-        "objectID": "b2d79b416fee27d4d6a38643f6ad0d45",
+        "id": "b2d79b416fee27d4d6a38643f6ad0d45",
         "name": "Umsatzsteuer fr\u00fchere Jahre",
         "type": "Fremdkapital",
         "code": "1791",
+        "sort-code": 1791,
         "description": "",
         "categories": [
             "Umsatzsteuer",
             "Passiva"
         ],
-        "hierarchicalCategories": [
-            {
-                "lvl1": "Passiva > Umsatzsteuer"
-            },
-            {
-                "lvl0": "Passiva"
-            }
-        ],
         "leaf": true,
+        "hierarchicalCategories.lvl1": "Passiva > Umsatzsteuer",
+        "hierarchicalCategories.lvl0": "Passiva",
         "parent": "dea7f32e6a447d2d1cd7048932c98265"
     },
     {
-        "objectID": "a31fca8b7c5eb2cb0111f1f97696ac93",
+        "id": "a31fca8b7c5eb2cb0111f1f97696ac93",
         "name": "Verbindlichkeiten",
         "type": "Fremdkapital",
         "code": -1,
+        "sort-code": 9999,
         "description": "",
         "categories": [
             "Passiva"
         ],
-        "hierarchicalCategories": [
-            {
-                "lvl0": "Passiva"
-            }
-        ],
         "leaf": false,
+        "hierarchicalCategories.lvl0": "Passiva",
         "placeholder": true,
         "parent": "845b29bc14787bded30488e8d51eec0b"
     },
     {
-        "objectID": "1bf9f2675a36b278adcf6da68a7e4cbe",
+        "id": "1bf9f2675a36b278adcf6da68a7e4cbe",
         "name": "Verblk. aus Lieferungen u. Leistungen",
         "type": "Verbindlichkeit",
         "code": "1600",
+        "sort-code": 1600,
         "description": "",
         "categories": [
             "Verbindlichkeiten",
             "Passiva"
         ],
-        "hierarchicalCategories": [
-            {
-                "lvl1": "Passiva > Verbindlichkeiten"
-            },
-            {
-                "lvl0": "Passiva"
-            }
-        ],
         "leaf": true,
+        "hierarchicalCategories.lvl1": "Passiva > Verbindlichkeiten",
+        "hierarchicalCategories.lvl0": "Passiva",
         "parent": "a31fca8b7c5eb2cb0111f1f97696ac93"
     },
     {
-        "objectID": "3f31fc649f19b5201f22f7648c3f7107",
+        "id": "3f31fc649f19b5201f22f7648c3f7107",
         "name": "Erl\u00f6se u. Ertr\u00e4ge 2/8",
         "type": "Ertrag",
         "code": -1,
+        "sort-code": 9999,
         "description": "",
         "categories": [],
-        "hierarchicalCategories": [],
         "leaf": false,
         "placeholder": true,
         "parent": "1972cce2e2364f95b2b0bc014502661d"
     },
     {
-        "objectID": "fd04e181ab83b37b80a4609b0806e954",
+        "id": "fd04e181ab83b37b80a4609b0806e954",
         "name": "Erl\u00f6skonten 8",
         "type": "Ertrag",
         "code": -1,
+        "sort-code": 9999,
         "description": "",
         "categories": [
             "Erl\u00f6se u. Ertr\u00e4ge 2/8"
         ],
-        "hierarchicalCategories": [
-            {
-                "lvl0": "Erl\u00f6se u. Ertr\u00e4ge 2/8"
-            }
-        ],
         "leaf": false,
+        "hierarchicalCategories.lvl0": "Erl\u00f6se u. Ertr\u00e4ge 2/8",
         "placeholder": true,
         "parent": "3f31fc649f19b5201f22f7648c3f7107"
     },
     {
-        "objectID": "d75d796e879b0ad9b2732d698ae9e838",
+        "id": "d75d796e879b0ad9b2732d698ae9e838",
         "name": "Erl\u00f6se USt. 19%",
         "type": "Ertrag",
         "code": "8400",
+        "sort-code": 8400,
         "description": "",
         "categories": [
             "Erl\u00f6skonten 8",
             "Erl\u00f6se u. Ertr\u00e4ge 2/8"
         ],
-        "hierarchicalCategories": [
-            {
-                "lvl1": "Erl\u00f6se u. Ertr\u00e4ge 2/8 > Erl\u00f6skonten 8"
-            },
-            {
-                "lvl0": "Erl\u00f6se u. Ertr\u00e4ge 2/8"
-            }
-        ],
         "leaf": true,
+        "hierarchicalCategories.lvl1": "Erl\u00f6se u. Ertr\u00e4ge 2/8 > Erl\u00f6skonten 8",
+        "hierarchicalCategories.lvl0": "Erl\u00f6se u. Ertr\u00e4ge 2/8",
         "tax-related": false,
         "parent": "fd04e181ab83b37b80a4609b0806e954"
     },
     {
-        "objectID": "0c82316c2aecaa02ce1b4ecb223f6f5d",
+        "id": "0c82316c2aecaa02ce1b4ecb223f6f5d",
         "name": "Erl\u00f6se USt. 7%",
         "type": "Ertrag",
         "code": "8300",
+        "sort-code": 8300,
         "description": "",
         "categories": [
             "Erl\u00f6skonten 8",
             "Erl\u00f6se u. Ertr\u00e4ge 2/8"
         ],
-        "hierarchicalCategories": [
-            {
-                "lvl1": "Erl\u00f6se u. Ertr\u00e4ge 2/8 > Erl\u00f6skonten 8"
-            },
-            {
-                "lvl0": "Erl\u00f6se u. Ertr\u00e4ge 2/8"
-            }
-        ],
         "leaf": true,
+        "hierarchicalCategories.lvl1": "Erl\u00f6se u. Ertr\u00e4ge 2/8 > Erl\u00f6skonten 8",
+        "hierarchicalCategories.lvl0": "Erl\u00f6se u. Ertr\u00e4ge 2/8",
         "parent": "fd04e181ab83b37b80a4609b0806e954"
     },
     {
-        "objectID": "4f552b822559c82eaa816d0049f70064",
+        "id": "4f552b822559c82eaa816d0049f70064",
         "name": "Ertragskonten 2",
         "type": "Ertrag",
         "code": -1,
+        "sort-code": 9999,
         "description": "",
         "categories": [
             "Erl\u00f6se u. Ertr\u00e4ge 2/8"
         ],
-        "hierarchicalCategories": [
-            {
-                "lvl0": "Erl\u00f6se u. Ertr\u00e4ge 2/8"
-            }
-        ],
         "leaf": false,
+        "hierarchicalCategories.lvl0": "Erl\u00f6se u. Ertr\u00e4ge 2/8",
         "placeholder": true,
         "parent": "3f31fc649f19b5201f22f7648c3f7107"
     },
     {
-        "objectID": "cc08ab7c747853f5f7ea6b384fdd8b4d",
+        "id": "cc08ab7c747853f5f7ea6b384fdd8b4d",
         "name": "sonstige Zinsen und \u00e4hnliche Ertr\u00e4ge",
         "type": "Ertrag",
         "code": "2650",
+        "sort-code": 2650,
         "description": "",
         "categories": [
             "Ertragskonten 2",
             "Erl\u00f6se u. Ertr\u00e4ge 2/8"
         ],
-        "hierarchicalCategories": [
-            {
-                "lvl1": "Erl\u00f6se u. Ertr\u00e4ge 2/8 > Ertragskonten 2"
-            },
-            {
-                "lvl0": "Erl\u00f6se u. Ertr\u00e4ge 2/8"
-            }
-        ],
         "leaf": true,
+        "hierarchicalCategories.lvl1": "Erl\u00f6se u. Ertr\u00e4ge 2/8 > Ertragskonten 2",
+        "hierarchicalCategories.lvl0": "Erl\u00f6se u. Ertr\u00e4ge 2/8",
         "parent": "4f552b822559c82eaa816d0049f70064"
     },
     {
-        "objectID": "5634359999c43ba58697553d1d905c4c",
+        "id": "5634359999c43ba58697553d1d905c4c",
         "name": "Au\u00dferordentliche Ertr\u00e4ge",
         "type": "Ertrag",
         "code": "2500",
+        "sort-code": 2500,
         "description": "",
         "categories": [
             "Ertragskonten 2",
             "Erl\u00f6se u. Ertr\u00e4ge 2/8"
         ],
-        "hierarchicalCategories": [
-            {
-                "lvl1": "Erl\u00f6se u. Ertr\u00e4ge 2/8 > Ertragskonten 2"
-            },
-            {
-                "lvl0": "Erl\u00f6se u. Ertr\u00e4ge 2/8"
-            }
-        ],
         "leaf": true,
+        "hierarchicalCategories.lvl1": "Erl\u00f6se u. Ertr\u00e4ge 2/8 > Ertragskonten 2",
+        "hierarchicalCategories.lvl0": "Erl\u00f6se u. Ertr\u00e4ge 2/8",
         "parent": "4f552b822559c82eaa816d0049f70064"
     },
     {
-        "objectID": "067716095fef7e694a2e0c40f1eaaefd",
+        "id": "067716095fef7e694a2e0c40f1eaaefd",
         "name": "Sonstige Ertr\u00e4ge",
         "type": "Ertrag",
         "code": "2700",
+        "sort-code": 2700,
         "description": "",
         "categories": [
             "Ertragskonten 2",
             "Erl\u00f6se u. Ertr\u00e4ge 2/8"
         ],
-        "hierarchicalCategories": [
-            {
-                "lvl1": "Erl\u00f6se u. Ertr\u00e4ge 2/8 > Ertragskonten 2"
-            },
-            {
-                "lvl0": "Erl\u00f6se u. Ertr\u00e4ge 2/8"
-            }
-        ],
         "leaf": true,
+        "hierarchicalCategories.lvl1": "Erl\u00f6se u. Ertr\u00e4ge 2/8 > Ertragskonten 2",
+        "hierarchicalCategories.lvl0": "Erl\u00f6se u. Ertr\u00e4ge 2/8",
         "parent": "4f552b822559c82eaa816d0049f70064"
     },
     {
-        "objectID": "be324e400d3b67510f89afd18de776e3",
+        "id": "be324e400d3b67510f89afd18de776e3",
         "name": "Aufwendungen 2/4",
         "type": "Aufwand",
         "code": -1,
+        "sort-code": 9999,
         "description": "",
         "categories": [],
-        "hierarchicalCategories": [],
         "leaf": false,
         "placeholder": true,
         "parent": "1972cce2e2364f95b2b0bc014502661d"
     },
     {
-        "objectID": "ad3f063a8200c1faa0331e2d9eb3ae04",
+        "id": "ad3f063a8200c1faa0331e2d9eb3ae04",
         "name": "Abschreibungen",
         "type": "Aufwand",
         "code": -1,
+        "sort-code": 9999,
         "description": "",
         "categories": [
             "Aufwendungen 2/4"
         ],
-        "hierarchicalCategories": [
-            {
-                "lvl0": "Aufwendungen 2/4"
-            }
-        ],
         "leaf": false,
+        "hierarchicalCategories.lvl0": "Aufwendungen 2/4",
         "placeholder": true,
         "parent": "be324e400d3b67510f89afd18de776e3"
     },
     {
-        "objectID": "cf214c888424ce036704bd526650a4c1",
+        "id": "cf214c888424ce036704bd526650a4c1",
         "name": "Sofortabschreibung GWG",
         "type": "Aufwand",
         "code": "4855",
+        "sort-code": 4855,
         "description": "",
         "categories": [
             "Abschreibungen",
             "Aufwendungen 2/4"
         ],
-        "hierarchicalCategories": [
-            {
-                "lvl1": "Aufwendungen 2/4 > Abschreibungen"
-            },
-            {
-                "lvl0": "Aufwendungen 2/4"
-            }
-        ],
         "leaf": true,
+        "hierarchicalCategories.lvl1": "Aufwendungen 2/4 > Abschreibungen",
+        "hierarchicalCategories.lvl0": "Aufwendungen 2/4",
         "parent": "ad3f063a8200c1faa0331e2d9eb3ae04"
     },
     {
-        "objectID": "8488954a5834d5484ed57439a0d43305",
+        "id": "8488954a5834d5484ed57439a0d43305",
         "name": "Kfz-Kosten",
         "type": "Aufwand",
         "code": -1,
+        "sort-code": 9999,
         "description": "",
         "categories": [
             "Aufwendungen 2/4"
         ],
-        "hierarchicalCategories": [
-            {
-                "lvl0": "Aufwendungen 2/4"
-            }
-        ],
         "leaf": false,
+        "hierarchicalCategories.lvl0": "Aufwendungen 2/4",
         "placeholder": true,
         "parent": "be324e400d3b67510f89afd18de776e3"
     },
     {
-        "objectID": "4355e4bceaa024b71efb3223ac6576c0",
+        "id": "4355e4bceaa024b71efb3223ac6576c0",
         "name": "Kfz-Steuer",
         "type": "Aufwand",
         "code": "4510",
+        "sort-code": 4510,
         "description": "",
         "categories": [
             "Kfz-Kosten",
             "Aufwendungen 2/4"
         ],
-        "hierarchicalCategories": [
-            {
-                "lvl1": "Aufwendungen 2/4 > Kfz-Kosten"
-            },
-            {
-                "lvl0": "Aufwendungen 2/4"
-            }
-        ],
         "leaf": true,
+        "hierarchicalCategories.lvl1": "Aufwendungen 2/4 > Kfz-Kosten",
+        "hierarchicalCategories.lvl0": "Aufwendungen 2/4",
         "parent": "8488954a5834d5484ed57439a0d43305"
     },
     {
-        "objectID": "4395e7b49fc7d34db620e6249836d747",
+        "id": "4395e7b49fc7d34db620e6249836d747",
         "name": "Kfz-Versicherungen",
         "type": "Aufwand",
         "code": "4520",
+        "sort-code": 4520,
         "description": "",
         "categories": [
             "Kfz-Kosten",
             "Aufwendungen 2/4"
         ],
-        "hierarchicalCategories": [
-            {
-                "lvl1": "Aufwendungen 2/4 > Kfz-Kosten"
-            },
-            {
-                "lvl0": "Aufwendungen 2/4"
-            }
-        ],
         "leaf": true,
+        "hierarchicalCategories.lvl1": "Aufwendungen 2/4 > Kfz-Kosten",
+        "hierarchicalCategories.lvl0": "Aufwendungen 2/4",
         "parent": "8488954a5834d5484ed57439a0d43305"
     },
     {
-        "objectID": "9bcbd663916f135d81b8eff6dc8b8819",
+        "id": "9bcbd663916f135d81b8eff6dc8b8819",
         "name": "laufende Kfz-Betriebskosten",
         "type": "Aufwand",
         "code": "4530",
+        "sort-code": 4530,
         "description": "",
         "categories": [
             "Kfz-Kosten",
             "Aufwendungen 2/4"
         ],
-        "hierarchicalCategories": [
-            {
-                "lvl1": "Aufwendungen 2/4 > Kfz-Kosten"
-            },
-            {
-                "lvl0": "Aufwendungen 2/4"
-            }
-        ],
         "leaf": true,
+        "hierarchicalCategories.lvl1": "Aufwendungen 2/4 > Kfz-Kosten",
+        "hierarchicalCategories.lvl0": "Aufwendungen 2/4",
         "parent": "8488954a5834d5484ed57439a0d43305"
     },
     {
-        "objectID": "5359164e661dd33c4bdb98b5149b07d1",
+        "id": "5359164e661dd33c4bdb98b5149b07d1",
         "name": "Kfz-Reparaturen",
         "type": "Aufwand",
         "code": "4540",
+        "sort-code": 4540,
         "description": "",
         "categories": [
             "Kfz-Kosten",
             "Aufwendungen 2/4"
         ],
-        "hierarchicalCategories": [
-            {
-                "lvl1": "Aufwendungen 2/4 > Kfz-Kosten"
-            },
-            {
-                "lvl0": "Aufwendungen 2/4"
-            }
-        ],
         "leaf": true,
+        "hierarchicalCategories.lvl1": "Aufwendungen 2/4 > Kfz-Kosten",
+        "hierarchicalCategories.lvl0": "Aufwendungen 2/4",
         "parent": "8488954a5834d5484ed57439a0d43305"
     },
     {
-        "objectID": "3b92417001893aa765edaa7109b2d48a",
+        "id": "3b92417001893aa765edaa7109b2d48a",
         "name": "Fremdfahrzeuge",
         "type": "Aufwand",
         "code": "4570",
+        "sort-code": 4570,
         "description": "",
         "categories": [
             "Kfz-Kosten",
             "Aufwendungen 2/4"
         ],
-        "hierarchicalCategories": [
-            {
-                "lvl1": "Aufwendungen 2/4 > Kfz-Kosten"
-            },
-            {
-                "lvl0": "Aufwendungen 2/4"
-            }
-        ],
         "leaf": true,
+        "hierarchicalCategories.lvl1": "Aufwendungen 2/4 > Kfz-Kosten",
+        "hierarchicalCategories.lvl0": "Aufwendungen 2/4",
         "parent": "8488954a5834d5484ed57439a0d43305"
     },
     {
-        "objectID": "e4c3ff3a921558869191a648aeb9b0e3",
+        "id": "e4c3ff3a921558869191a648aeb9b0e3",
         "name": "sonstige Kfz-Kosten",
         "type": "Aufwand",
         "code": "4580",
+        "sort-code": 4580,
         "description": "",
         "categories": [
             "Kfz-Kosten",
             "Aufwendungen 2/4"
         ],
-        "hierarchicalCategories": [
-            {
-                "lvl1": "Aufwendungen 2/4 > Kfz-Kosten"
-            },
-            {
-                "lvl0": "Aufwendungen 2/4"
-            }
-        ],
         "leaf": true,
+        "hierarchicalCategories.lvl1": "Aufwendungen 2/4 > Kfz-Kosten",
+        "hierarchicalCategories.lvl0": "Aufwendungen 2/4",
         "parent": "8488954a5834d5484ed57439a0d43305"
     },
     {
-        "objectID": "43953979cf408743814cb6887d5ec022",
+        "id": "43953979cf408743814cb6887d5ec022",
         "name": "Personalkosten",
         "type": "Aufwand",
         "code": -1,
+        "sort-code": 9999,
         "description": "",
         "categories": [
             "Aufwendungen 2/4"
         ],
-        "hierarchicalCategories": [
-            {
-                "lvl0": "Aufwendungen 2/4"
-            }
-        ],
         "leaf": false,
+        "hierarchicalCategories.lvl0": "Aufwendungen 2/4",
         "placeholder": true,
         "parent": "be324e400d3b67510f89afd18de776e3"
     },
     {
-        "objectID": "8f21199517fcfd70ad2ad6aaa3e714b6",
+        "id": "8f21199517fcfd70ad2ad6aaa3e714b6",
         "name": "Geh\u00e4lter",
         "type": "Aufwand",
         "code": "4120",
+        "sort-code": 4120,
         "description": "",
         "categories": [
             "Personalkosten",
             "Aufwendungen 2/4"
         ],
-        "hierarchicalCategories": [
-            {
-                "lvl1": "Aufwendungen 2/4 > Personalkosten"
-            },
-            {
-                "lvl0": "Aufwendungen 2/4"
-            }
-        ],
         "leaf": true,
+        "hierarchicalCategories.lvl1": "Aufwendungen 2/4 > Personalkosten",
+        "hierarchicalCategories.lvl0": "Aufwendungen 2/4",
         "parent": "43953979cf408743814cb6887d5ec022"
     },
     {
-        "objectID": "46ba645d075b6a1f3a38824d812f8818",
+        "id": "46ba645d075b6a1f3a38824d812f8818",
         "name": "gesetzliche soziale Aufwendungen",
         "type": "Aufwand",
         "code": "4130",
+        "sort-code": 4130,
         "description": "",
         "categories": [
             "Personalkosten",
             "Aufwendungen 2/4"
         ],
-        "hierarchicalCategories": [
-            {
-                "lvl1": "Aufwendungen 2/4 > Personalkosten"
-            },
-            {
-                "lvl0": "Aufwendungen 2/4"
-            }
-        ],
         "leaf": true,
+        "hierarchicalCategories.lvl1": "Aufwendungen 2/4 > Personalkosten",
+        "hierarchicalCategories.lvl0": "Aufwendungen 2/4",
         "parent": "43953979cf408743814cb6887d5ec022"
     },
     {
-        "objectID": "e89eafba1acc736a7ba74882a7f8c836",
+        "id": "e89eafba1acc736a7ba74882a7f8c836",
         "name": "Aufwendungen f\u00fcr Altersvorsorge",
         "type": "Aufwand",
         "code": "4165",
+        "sort-code": 4165,
         "description": "",
         "categories": [
             "Personalkosten",
             "Aufwendungen 2/4"
         ],
-        "hierarchicalCategories": [
-            {
-                "lvl1": "Aufwendungen 2/4 > Personalkosten"
-            },
-            {
-                "lvl0": "Aufwendungen 2/4"
-            }
-        ],
         "leaf": true,
+        "hierarchicalCategories.lvl1": "Aufwendungen 2/4 > Personalkosten",
+        "hierarchicalCategories.lvl0": "Aufwendungen 2/4",
         "parent": "43953979cf408743814cb6887d5ec022"
     },
     {
-        "objectID": "88bc69e1ff8977cd70c52567dde8107d",
+        "id": "88bc69e1ff8977cd70c52567dde8107d",
         "name": "Verm\u00f6genswirksame Leistungen",
         "type": "Aufwand",
         "code": "4170",
+        "sort-code": 4170,
         "description": "",
         "categories": [
             "Personalkosten",
             "Aufwendungen 2/4"
         ],
-        "hierarchicalCategories": [
-            {
-                "lvl1": "Aufwendungen 2/4 > Personalkosten"
-            },
-            {
-                "lvl0": "Aufwendungen 2/4"
-            }
-        ],
         "leaf": true,
+        "hierarchicalCategories.lvl1": "Aufwendungen 2/4 > Personalkosten",
+        "hierarchicalCategories.lvl0": "Aufwendungen 2/4",
         "parent": "43953979cf408743814cb6887d5ec022"
     },
     {
-        "objectID": "d74350b9ad5583b533fd906ec837d9fe",
+        "id": "d74350b9ad5583b533fd906ec837d9fe",
         "name": "Aushilfsl\u00f6hne",
         "type": "Aufwand",
         "code": "4190",
+        "sort-code": 4190,
         "description": "",
         "categories": [
             "Personalkosten",
             "Aufwendungen 2/4"
         ],
-        "hierarchicalCategories": [
-            {
-                "lvl1": "Aufwendungen 2/4 > Personalkosten"
-            },
-            {
-                "lvl0": "Aufwendungen 2/4"
-            }
-        ],
         "leaf": true,
+        "hierarchicalCategories.lvl1": "Aufwendungen 2/4 > Personalkosten",
+        "hierarchicalCategories.lvl0": "Aufwendungen 2/4",
         "parent": "43953979cf408743814cb6887d5ec022"
     },
     {
-        "objectID": "9adef6f318a931fbb8519a823e2c20e8",
+        "id": "9adef6f318a931fbb8519a823e2c20e8",
         "name": "Raumkosten",
         "type": "Aufwand",
         "code": -1,
+        "sort-code": 9999,
         "description": "",
         "categories": [
             "Aufwendungen 2/4"
         ],
-        "hierarchicalCategories": [
-            {
-                "lvl0": "Aufwendungen 2/4"
-            }
-        ],
         "leaf": false,
+        "hierarchicalCategories.lvl0": "Aufwendungen 2/4",
         "placeholder": true,
         "parent": "be324e400d3b67510f89afd18de776e3"
     },
     {
-        "objectID": "b6e84a2fcf1754f1f6f1f71913f03a1d",
+        "id": "b6e84a2fcf1754f1f6f1f71913f03a1d",
         "name": "Miete und Nebenkosten",
         "type": "Aufwand",
         "code": "4210",
+        "sort-code": 4210,
         "description": "",
         "categories": [
             "Raumkosten",
             "Aufwendungen 2/4"
         ],
-        "hierarchicalCategories": [
-            {
-                "lvl1": "Aufwendungen 2/4 > Raumkosten"
-            },
-            {
-                "lvl0": "Aufwendungen 2/4"
-            }
-        ],
         "leaf": true,
+        "hierarchicalCategories.lvl1": "Aufwendungen 2/4 > Raumkosten",
+        "hierarchicalCategories.lvl0": "Aufwendungen 2/4",
         "parent": "9adef6f318a931fbb8519a823e2c20e8"
     },
     {
-        "objectID": "d41823e7c279286dd74c6ec757dcb305",
+        "id": "d41823e7c279286dd74c6ec757dcb305",
         "name": "Gas, Wasser, Strom (Verwaltung, Vertrieb)",
         "type": "Aufwand",
         "code": "4240",
+        "sort-code": 4240,
         "description": "",
         "categories": [
             "Raumkosten",
             "Aufwendungen 2/4"
         ],
-        "hierarchicalCategories": [
-            {
-                "lvl1": "Aufwendungen 2/4 > Raumkosten"
-            },
-            {
-                "lvl0": "Aufwendungen 2/4"
-            }
-        ],
         "leaf": true,
+        "hierarchicalCategories.lvl1": "Aufwendungen 2/4 > Raumkosten",
+        "hierarchicalCategories.lvl0": "Aufwendungen 2/4",
         "parent": "9adef6f318a931fbb8519a823e2c20e8"
     },
     {
-        "objectID": "db313359a146b610ce80a36dde18bf01",
+        "id": "db313359a146b610ce80a36dde18bf01",
         "name": "Reinigung",
         "type": "Aufwand",
         "code": "4250",
+        "sort-code": 4250,
         "description": "",
         "categories": [
             "Raumkosten",
             "Aufwendungen 2/4"
         ],
-        "hierarchicalCategories": [
-            {
-                "lvl1": "Aufwendungen 2/4 > Raumkosten"
-            },
-            {
-                "lvl0": "Aufwendungen 2/4"
-            }
-        ],
         "leaf": true,
+        "hierarchicalCategories.lvl1": "Aufwendungen 2/4 > Raumkosten",
+        "hierarchicalCategories.lvl0": "Aufwendungen 2/4",
         "parent": "9adef6f318a931fbb8519a823e2c20e8"
     },
     {
-        "objectID": "accaec28a4afcf3c82570da4c9343c2d",
+        "id": "accaec28a4afcf3c82570da4c9343c2d",
         "name": "Reparatur/Instandhaltung",
         "type": "Aufwand",
         "code": -1,
+        "sort-code": 9999,
         "description": "",
         "categories": [
             "Aufwendungen 2/4"
         ],
-        "hierarchicalCategories": [
-            {
-                "lvl0": "Aufwendungen 2/4"
-            }
-        ],
         "leaf": false,
+        "hierarchicalCategories.lvl0": "Aufwendungen 2/4",
         "placeholder": true,
         "parent": "be324e400d3b67510f89afd18de776e3"
     },
     {
-        "objectID": "b5d6461bb3028d13faa8bee2981925a1",
+        "id": "b5d6461bb3028d13faa8bee2981925a1",
         "name": "Reparatur u. Instandh. von Anlagen/Maschinen u. Betriebs- u. Gesch\u00e4ftsausst.",
         "type": "Aufwand",
         "code": "4805",
+        "sort-code": 4805,
         "description": "",
         "categories": [
             "Reparatur/Instandhaltung",
             "Aufwendungen 2/4"
         ],
-        "hierarchicalCategories": [
-            {
-                "lvl1": "Aufwendungen 2/4 > Reparatur/Instandhaltung"
-            },
-            {
-                "lvl0": "Aufwendungen 2/4"
-            }
-        ],
         "leaf": true,
+        "hierarchicalCategories.lvl1": "Aufwendungen 2/4 > Reparatur/Instandhaltung",
+        "hierarchicalCategories.lvl0": "Aufwendungen 2/4",
         "parent": "accaec28a4afcf3c82570da4c9343c2d"
     },
     {
-        "objectID": "709bf14d69164a6c2a48e6c0e13ece37",
+        "id": "709bf14d69164a6c2a48e6c0e13ece37",
         "name": "Versicherungsbeitr\u00e4ge",
         "type": "Aufwand",
         "code": -1,
+        "sort-code": 9999,
         "description": "",
         "categories": [
             "Aufwendungen 2/4"
         ],
-        "hierarchicalCategories": [
-            {
-                "lvl0": "Aufwendungen 2/4"
-            }
-        ],
         "leaf": false,
+        "hierarchicalCategories.lvl0": "Aufwendungen 2/4",
         "placeholder": true,
         "parent": "be324e400d3b67510f89afd18de776e3"
     },
     {
-        "objectID": "7484251f3d5fc7ec71419b2fba733a78",
+        "id": "7484251f3d5fc7ec71419b2fba733a78",
         "name": "Versicherungen",
         "type": "Aufwand",
         "code": "4360",
+        "sort-code": 4360,
         "description": "",
         "categories": [
             "Versicherungsbeitr\u00e4ge",
             "Aufwendungen 2/4"
         ],
-        "hierarchicalCategories": [
-            {
-                "lvl1": "Aufwendungen 2/4 > Versicherungsbeitr\u00e4ge"
-            },
-            {
-                "lvl0": "Aufwendungen 2/4"
-            }
-        ],
         "leaf": true,
+        "hierarchicalCategories.lvl1": "Aufwendungen 2/4 > Versicherungsbeitr\u00e4ge",
+        "hierarchicalCategories.lvl0": "Aufwendungen 2/4",
         "parent": "709bf14d69164a6c2a48e6c0e13ece37"
     },
     {
-        "objectID": "f2b1ad75fd3b7fc4473972a9c2675cbf",
+        "id": "f2b1ad75fd3b7fc4473972a9c2675cbf",
         "name": "Beitr\u00e4ge",
         "type": "Aufwand",
         "code": "4380",
+        "sort-code": 4380,
         "description": "",
         "categories": [
             "Versicherungsbeitr\u00e4ge",
             "Aufwendungen 2/4"
         ],
-        "hierarchicalCategories": [
-            {
-                "lvl1": "Aufwendungen 2/4 > Versicherungsbeitr\u00e4ge"
-            },
-            {
-                "lvl0": "Aufwendungen 2/4"
-            }
-        ],
         "leaf": true,
+        "hierarchicalCategories.lvl1": "Aufwendungen 2/4 > Versicherungsbeitr\u00e4ge",
+        "hierarchicalCategories.lvl0": "Aufwendungen 2/4",
         "parent": "709bf14d69164a6c2a48e6c0e13ece37"
     },
     {
-        "objectID": "a2d552e480b95123e90be434b3ac9653",
+        "id": "a2d552e480b95123e90be434b3ac9653",
         "name": "sonstige Ausgaben",
         "type": "Aufwand",
         "code": "4390",
+        "sort-code": 4390,
         "description": "",
         "categories": [
             "Versicherungsbeitr\u00e4ge",
             "Aufwendungen 2/4"
         ],
-        "hierarchicalCategories": [
-            {
-                "lvl1": "Aufwendungen 2/4 > Versicherungsbeitr\u00e4ge"
-            },
-            {
-                "lvl0": "Aufwendungen 2/4"
-            }
-        ],
         "leaf": true,
+        "hierarchicalCategories.lvl1": "Aufwendungen 2/4 > Versicherungsbeitr\u00e4ge",
+        "hierarchicalCategories.lvl0": "Aufwendungen 2/4",
         "parent": "709bf14d69164a6c2a48e6c0e13ece37"
     },
     {
-        "objectID": "0c73c5dc5e72bb4962b83ddc85991101",
+        "id": "0c73c5dc5e72bb4962b83ddc85991101",
         "name": "steuerlich abzugsf\u00e4hige Versp\u00e4tungszuschl\u00e4ge und Zwangsgelder",
         "type": "Aufwand",
         "code": "4396",
+        "sort-code": 4396,
         "description": "",
         "categories": [
             "Versicherungsbeitr\u00e4ge",
             "Aufwendungen 2/4"
         ],
-        "hierarchicalCategories": [
-            {
-                "lvl1": "Aufwendungen 2/4 > Versicherungsbeitr\u00e4ge"
-            },
-            {
-                "lvl0": "Aufwendungen 2/4"
-            }
-        ],
         "leaf": true,
+        "hierarchicalCategories.lvl1": "Aufwendungen 2/4 > Versicherungsbeitr\u00e4ge",
+        "hierarchicalCategories.lvl0": "Aufwendungen 2/4",
         "parent": "709bf14d69164a6c2a48e6c0e13ece37"
     },
     {
-        "objectID": "a657ade965a1429d44d830d3832bf9aa",
+        "id": "a657ade965a1429d44d830d3832bf9aa",
         "name": "Werbe-/Reisekosten",
         "type": "Aufwand",
         "code": -1,
+        "sort-code": 9999,
         "description": "",
         "categories": [
             "Aufwendungen 2/4"
         ],
-        "hierarchicalCategories": [
-            {
-                "lvl0": "Aufwendungen 2/4"
-            }
-        ],
         "leaf": false,
+        "hierarchicalCategories.lvl0": "Aufwendungen 2/4",
         "placeholder": true,
         "parent": "be324e400d3b67510f89afd18de776e3"
     },
     {
-        "objectID": "2d90f835fcb74d7a77b4a2a2b40c777a",
+        "id": "2d90f835fcb74d7a77b4a2a2b40c777a",
         "name": "Werbekosten",
         "type": "Aufwand",
         "code": "4610",
+        "sort-code": 4610,
         "description": "",
         "categories": [
             "Werbe-/Reisekosten",
             "Aufwendungen 2/4"
         ],
-        "hierarchicalCategories": [
-            {
-                "lvl1": "Aufwendungen 2/4 > Werbe-/Reisekosten"
-            },
-            {
-                "lvl0": "Aufwendungen 2/4"
-            }
-        ],
         "leaf": true,
+        "hierarchicalCategories.lvl1": "Aufwendungen 2/4 > Werbe-/Reisekosten",
+        "hierarchicalCategories.lvl0": "Aufwendungen 2/4",
         "parent": "a657ade965a1429d44d830d3832bf9aa"
     },
     {
-        "objectID": "790770c5f93cff7d585bca1627446716",
+        "id": "790770c5f93cff7d585bca1627446716",
         "name": "Aufmerksamkeiten",
         "type": "Aufwand",
         "code": "4653",
+        "sort-code": 4653,
         "description": "",
         "categories": [
             "Werbe-/Reisekosten",
             "Aufwendungen 2/4"
         ],
-        "hierarchicalCategories": [
-            {
-                "lvl1": "Aufwendungen 2/4 > Werbe-/Reisekosten"
-            },
-            {
-                "lvl0": "Aufwendungen 2/4"
-            }
-        ],
         "leaf": true,
+        "hierarchicalCategories.lvl1": "Aufwendungen 2/4 > Werbe-/Reisekosten",
+        "hierarchicalCategories.lvl0": "Aufwendungen 2/4",
         "parent": "a657ade965a1429d44d830d3832bf9aa"
     },
     {
-        "objectID": "235a6225c2c7d2ffa865345e78cae283",
+        "id": "235a6225c2c7d2ffa865345e78cae283",
         "name": "nicht abzugsf\u00e4hige Betriebsausg. aus Werbe-, Repr\u00e4s.- u. Reisekosten",
         "type": "Aufwand",
         "code": "4665",
+        "sort-code": 4665,
         "description": "",
         "categories": [
             "Werbe-/Reisekosten",
             "Aufwendungen 2/4"
         ],
-        "hierarchicalCategories": [
-            {
-                "lvl1": "Aufwendungen 2/4 > Werbe-/Reisekosten"
-            },
-            {
-                "lvl0": "Aufwendungen 2/4"
-            }
-        ],
         "leaf": true,
+        "hierarchicalCategories.lvl1": "Aufwendungen 2/4 > Werbe-/Reisekosten",
+        "hierarchicalCategories.lvl0": "Aufwendungen 2/4",
         "parent": "a657ade965a1429d44d830d3832bf9aa"
     },
     {
-        "objectID": "dda3ae53573975cd05fab1d3cdf40806",
+        "id": "dda3ae53573975cd05fab1d3cdf40806",
         "name": "Reisekosten Unternehmer",
         "type": "Aufwand",
         "code": "4670",
+        "sort-code": 4670,
         "description": "",
         "categories": [
             "Werbe-/Reisekosten",
             "Aufwendungen 2/4"
         ],
-        "hierarchicalCategories": [
-            {
-                "lvl1": "Aufwendungen 2/4 > Werbe-/Reisekosten"
-            },
-            {
-                "lvl0": "Aufwendungen 2/4"
-            }
-        ],
         "leaf": true,
+        "hierarchicalCategories.lvl1": "Aufwendungen 2/4 > Werbe-/Reisekosten",
+        "hierarchicalCategories.lvl0": "Aufwendungen 2/4",
         "parent": "a657ade965a1429d44d830d3832bf9aa"
     },
     {
-        "objectID": "d0c00095e4b00f9f25253307be05e885",
+        "id": "d0c00095e4b00f9f25253307be05e885",
         "name": "verschiedene Kosten",
         "type": "Aufwand",
         "code": -1,
+        "sort-code": 9999,
         "description": "",
         "categories": [
             "Aufwendungen 2/4"
         ],
-        "hierarchicalCategories": [
-            {
-                "lvl0": "Aufwendungen 2/4"
-            }
-        ],
         "leaf": false,
+        "hierarchicalCategories.lvl0": "Aufwendungen 2/4",
         "placeholder": true,
         "parent": "be324e400d3b67510f89afd18de776e3"
     },
     {
-        "objectID": "b84666b6b2d17f4be4a2cc15e595b30d",
+        "id": "b84666b6b2d17f4be4a2cc15e595b30d",
         "name": "Porto",
         "type": "Aufwand",
         "code": "4910",
+        "sort-code": 4910,
         "description": "",
         "categories": [
             "verschiedene Kosten",
             "Aufwendungen 2/4"
         ],
-        "hierarchicalCategories": [
-            {
-                "lvl1": "Aufwendungen 2/4 > verschiedene Kosten"
-            },
-            {
-                "lvl0": "Aufwendungen 2/4"
-            }
-        ],
         "leaf": true,
+        "hierarchicalCategories.lvl1": "Aufwendungen 2/4 > verschiedene Kosten",
+        "hierarchicalCategories.lvl0": "Aufwendungen 2/4",
         "parent": "d0c00095e4b00f9f25253307be05e885"
     },
     {
-        "objectID": "892bb0974aa6c422f63b5df5354e8f7f",
+        "id": "892bb0974aa6c422f63b5df5354e8f7f",
         "name": "Telekom",
         "type": "Aufwand",
         "code": "4920",
+        "sort-code": 4920,
         "description": "",
         "categories": [
             "verschiedene Kosten",
             "Aufwendungen 2/4"
         ],
-        "hierarchicalCategories": [
-            {
-                "lvl1": "Aufwendungen 2/4 > verschiedene Kosten"
-            },
-            {
-                "lvl0": "Aufwendungen 2/4"
-            }
-        ],
         "leaf": true,
+        "hierarchicalCategories.lvl1": "Aufwendungen 2/4 > verschiedene Kosten",
+        "hierarchicalCategories.lvl0": "Aufwendungen 2/4",
         "parent": "d0c00095e4b00f9f25253307be05e885"
     },
     {
-        "objectID": "20a13b07d90c5b385e78190525439aa2",
+        "id": "20a13b07d90c5b385e78190525439aa2",
         "name": "Mobilfunk D2",
         "type": "Aufwand",
         "code": "4921",
+        "sort-code": 4921,
         "description": "",
         "categories": [
             "verschiedene Kosten",
             "Aufwendungen 2/4"
         ],
-        "hierarchicalCategories": [
-            {
-                "lvl1": "Aufwendungen 2/4 > verschiedene Kosten"
-            },
-            {
-                "lvl0": "Aufwendungen 2/4"
-            }
-        ],
         "leaf": true,
+        "hierarchicalCategories.lvl1": "Aufwendungen 2/4 > verschiedene Kosten",
+        "hierarchicalCategories.lvl0": "Aufwendungen 2/4",
         "parent": "d0c00095e4b00f9f25253307be05e885"
     },
     {
-        "objectID": "4d57d9103ab150ad4f01bc7a918fd0cc",
+        "id": "4d57d9103ab150ad4f01bc7a918fd0cc",
         "name": "Internet",
         "type": "Aufwand",
         "code": "4922",
+        "sort-code": 4922,
         "description": "",
         "categories": [
             "verschiedene Kosten",
             "Aufwendungen 2/4"
         ],
-        "hierarchicalCategories": [
-            {
-                "lvl1": "Aufwendungen 2/4 > verschiedene Kosten"
-            },
-            {
-                "lvl0": "Aufwendungen 2/4"
-            }
-        ],
         "leaf": true,
+        "hierarchicalCategories.lvl1": "Aufwendungen 2/4 > verschiedene Kosten",
+        "hierarchicalCategories.lvl0": "Aufwendungen 2/4",
         "parent": "d0c00095e4b00f9f25253307be05e885"
     },
     {
-        "objectID": "ac4d7c452835096c373f1a94dc3104f4",
+        "id": "ac4d7c452835096c373f1a94dc3104f4",
         "name": "B\u00fcrobedarf",
         "type": "Aufwand",
         "code": "4930",
+        "sort-code": 4930,
         "description": "",
         "categories": [
             "verschiedene Kosten",
             "Aufwendungen 2/4"
         ],
-        "hierarchicalCategories": [
-            {
-                "lvl1": "Aufwendungen 2/4 > verschiedene Kosten"
-            },
-            {
-                "lvl0": "Aufwendungen 2/4"
-            }
-        ],
         "leaf": true,
+        "hierarchicalCategories.lvl1": "Aufwendungen 2/4 > verschiedene Kosten",
+        "hierarchicalCategories.lvl0": "Aufwendungen 2/4",
         "parent": "d0c00095e4b00f9f25253307be05e885"
     },
     {
-        "objectID": "1bac306450e7bc0619e42c11ab791204",
+        "id": "1bac306450e7bc0619e42c11ab791204",
         "name": "Zeitschriften, B\u00fccher",
         "type": "Aufwand",
         "code": "4940",
+        "sort-code": 4940,
         "description": "",
         "categories": [
             "verschiedene Kosten",
             "Aufwendungen 2/4"
         ],
-        "hierarchicalCategories": [
-            {
-                "lvl1": "Aufwendungen 2/4 > verschiedene Kosten"
-            },
-            {
-                "lvl0": "Aufwendungen 2/4"
-            }
-        ],
         "leaf": true,
+        "hierarchicalCategories.lvl1": "Aufwendungen 2/4 > verschiedene Kosten",
+        "hierarchicalCategories.lvl0": "Aufwendungen 2/4",
         "parent": "d0c00095e4b00f9f25253307be05e885"
     },
     {
-        "objectID": "6be35acc206b144ee23c07086bc7a856",
+        "id": "6be35acc206b144ee23c07086bc7a856",
         "name": "Fortbildungskosten",
         "type": "Aufwand",
         "code": "4945",
+        "sort-code": 4945,
         "description": "",
         "categories": [
             "verschiedene Kosten",
             "Aufwendungen 2/4"
         ],
-        "hierarchicalCategories": [
-            {
-                "lvl1": "Aufwendungen 2/4 > verschiedene Kosten"
-            },
-            {
-                "lvl0": "Aufwendungen 2/4"
-            }
-        ],
         "leaf": true,
+        "hierarchicalCategories.lvl1": "Aufwendungen 2/4 > verschiedene Kosten",
+        "hierarchicalCategories.lvl0": "Aufwendungen 2/4",
         "parent": "d0c00095e4b00f9f25253307be05e885"
     },
     {
-        "objectID": "25afa584627e0c0e8681bd8a82a77d14",
+        "id": "25afa584627e0c0e8681bd8a82a77d14",
         "name": "Buchf\u00fchrungskosten",
         "type": "Aufwand",
         "code": "4955",
+        "sort-code": 4955,
         "description": "",
         "categories": [
             "verschiedene Kosten",
             "Aufwendungen 2/4"
         ],
-        "hierarchicalCategories": [
-            {
-                "lvl1": "Aufwendungen 2/4 > verschiedene Kosten"
-            },
-            {
-                "lvl0": "Aufwendungen 2/4"
-            }
-        ],
         "leaf": true,
+        "hierarchicalCategories.lvl1": "Aufwendungen 2/4 > verschiedene Kosten",
+        "hierarchicalCategories.lvl0": "Aufwendungen 2/4",
         "parent": "d0c00095e4b00f9f25253307be05e885"
     },
     {
-        "objectID": "bf093094a55c036a193357ebcafcab67",
+        "id": "bf093094a55c036a193357ebcafcab67",
         "name": "Abschlu\u00df- u. Pr\u00fcfungskosten",
         "type": "Aufwand",
         "code": "4957",
+        "sort-code": 4957,
         "description": "",
         "categories": [
             "verschiedene Kosten",
             "Aufwendungen 2/4"
         ],
-        "hierarchicalCategories": [
-            {
-                "lvl1": "Aufwendungen 2/4 > verschiedene Kosten"
-            },
-            {
-                "lvl0": "Aufwendungen 2/4"
-            }
-        ],
         "leaf": true,
+        "hierarchicalCategories.lvl1": "Aufwendungen 2/4 > verschiedene Kosten",
+        "hierarchicalCategories.lvl0": "Aufwendungen 2/4",
         "parent": "d0c00095e4b00f9f25253307be05e885"
     },
     {
-        "objectID": "4f476c9b65684d56630db45690b9d4fc",
+        "id": "4f476c9b65684d56630db45690b9d4fc",
         "name": "Nebenkosten des Geldverkehrs",
         "type": "Aufwand",
         "code": "4970",
+        "sort-code": 4970,
         "description": "",
         "categories": [
             "verschiedene Kosten",
             "Aufwendungen 2/4"
         ],
-        "hierarchicalCategories": [
-            {
-                "lvl1": "Aufwendungen 2/4 > verschiedene Kosten"
-            },
-            {
-                "lvl0": "Aufwendungen 2/4"
-            }
-        ],
         "leaf": true,
+        "hierarchicalCategories.lvl1": "Aufwendungen 2/4 > verschiedene Kosten",
+        "hierarchicalCategories.lvl0": "Aufwendungen 2/4",
         "parent": "d0c00095e4b00f9f25253307be05e885"
     },
     {
-        "objectID": "a5b36148c3fc06080973a5d25f28225b",
+        "id": "a5b36148c3fc06080973a5d25f28225b",
         "name": "Werkzeuge und Kleinger\u00e4te",
         "type": "Aufwand",
         "code": "4985",
+        "sort-code": 4985,
         "description": "",
         "categories": [
             "verschiedene Kosten",
             "Aufwendungen 2/4"
         ],
-        "hierarchicalCategories": [
-            {
-                "lvl1": "Aufwendungen 2/4 > verschiedene Kosten"
-            },
-            {
-                "lvl0": "Aufwendungen 2/4"
-            }
-        ],
         "leaf": true,
+        "hierarchicalCategories.lvl1": "Aufwendungen 2/4 > verschiedene Kosten",
+        "hierarchicalCategories.lvl0": "Aufwendungen 2/4",
         "parent": "d0c00095e4b00f9f25253307be05e885"
     },
     {
-        "objectID": "8d2641f8bbc41aa863274bb496002f3e",
+        "id": "8d2641f8bbc41aa863274bb496002f3e",
         "name": "Zinsaufwendungen",
         "type": "Aufwand",
         "code": -1,
+        "sort-code": 9999,
         "description": "",
         "categories": [
             "Aufwendungen 2/4"
         ],
-        "hierarchicalCategories": [
-            {
-                "lvl0": "Aufwendungen 2/4"
-            }
-        ],
         "leaf": false,
+        "hierarchicalCategories.lvl0": "Aufwendungen 2/4",
         "placeholder": true,
         "parent": "be324e400d3b67510f89afd18de776e3"
     },
     {
-        "objectID": "2d20e36f8abb4e366c8e3e2783bdafab",
+        "id": "2d20e36f8abb4e366c8e3e2783bdafab",
         "name": "Zinsaufwendungen f\u00fcr kurzfristige Verbindlichkeiten",
         "type": "Aufwand",
         "code": "2110",
+        "sort-code": 2110,
         "description": "",
         "categories": [
             "Zinsaufwendungen",
             "Aufwendungen 2/4"
         ],
-        "hierarchicalCategories": [
-            {
-                "lvl1": "Aufwendungen 2/4 > Zinsaufwendungen"
-            },
-            {
-                "lvl0": "Aufwendungen 2/4"
-            }
-        ],
         "leaf": true,
+        "hierarchicalCategories.lvl1": "Aufwendungen 2/4 > Zinsaufwendungen",
+        "hierarchicalCategories.lvl0": "Aufwendungen 2/4",
         "parent": "8d2641f8bbc41aa863274bb496002f3e"
     },
     {
-        "objectID": "17651501792b93b06832634462ddddae",
+        "id": "17651501792b93b06832634462ddddae",
         "name": "Zinsaufwendungen f\u00fcr KFZ Finanzierung",
         "type": "Aufwand",
         "code": "2121",
+        "sort-code": 2121,
         "description": "",
         "categories": [
             "Zinsaufwendungen",
             "Aufwendungen 2/4"
         ],
-        "hierarchicalCategories": [
-            {
-                "lvl1": "Aufwendungen 2/4 > Zinsaufwendungen"
-            },
-            {
-                "lvl0": "Aufwendungen 2/4"
-            }
-        ],
         "leaf": true,
+        "hierarchicalCategories.lvl1": "Aufwendungen 2/4 > Zinsaufwendungen",
+        "hierarchicalCategories.lvl0": "Aufwendungen 2/4",
         "parent": "8d2641f8bbc41aa863274bb496002f3e"
     },
     {
-        "objectID": "2d4eb2e0ef3bab0ac50b87c84babcf5d",
+        "id": "2d4eb2e0ef3bab0ac50b87c84babcf5d",
         "name": "Anfangsbestand 9",
         "type": "Eigenkapital",
         "code": -1,
+        "sort-code": 9999,
         "description": "Saldenvortragskonten",
         "categories": [],
-        "hierarchicalCategories": [],
         "leaf": false,
         "placeholder": true,
         "parent": "1972cce2e2364f95b2b0bc014502661d"
     },
     {
-        "objectID": "26c3f10c1c7621661c1b813d6141280d",
+        "id": "26c3f10c1c7621661c1b813d6141280d",
         "name": "Saldenvortragskonten",
         "type": "Eigenkapital",
         "code": -1,
+        "sort-code": 9999,
         "description": "",
         "categories": [
             "Anfangsbestand 9"
         ],
-        "hierarchicalCategories": [
-            {
-                "lvl0": "Anfangsbestand 9"
-            }
-        ],
         "leaf": false,
+        "hierarchicalCategories.lvl0": "Anfangsbestand 9",
         "placeholder": true,
         "parent": "2d4eb2e0ef3bab0ac50b87c84babcf5d"
     },
     {
-        "objectID": "fa346eee1add66248bff420aafeebebb",
+        "id": "fa346eee1add66248bff420aafeebebb",
         "name": "Saldenvortrag Sachkonten",
         "type": "Eigenkapital",
         "code": "9000",
+        "sort-code": 9000,
         "description": "",
         "categories": [
             "Saldenvortragskonten",
             "Anfangsbestand 9"
         ],
-        "hierarchicalCategories": [
-            {
-                "lvl1": "Anfangsbestand 9 > Saldenvortragskonten"
-            },
-            {
-                "lvl0": "Anfangsbestand 9"
-            }
-        ],
         "leaf": true,
+        "hierarchicalCategories.lvl1": "Anfangsbestand 9 > Saldenvortragskonten",
+        "hierarchicalCategories.lvl0": "Anfangsbestand 9",
         "parent": "26c3f10c1c7621661c1b813d6141280d"
     },
     {
-        "objectID": "1f36ecbf065faa2b25a0749ceee72efa",
+        "id": "1f36ecbf065faa2b25a0749ceee72efa",
         "name": "Saldenvortr\u00e4ge Debitoren",
         "type": "Eigenkapital",
         "code": "9008",
+        "sort-code": 9008,
         "description": "",
         "categories": [
             "Saldenvortragskonten",
             "Anfangsbestand 9"
         ],
-        "hierarchicalCategories": [
-            {
-                "lvl1": "Anfangsbestand 9 > Saldenvortragskonten"
-            },
-            {
-                "lvl0": "Anfangsbestand 9"
-            }
-        ],
         "leaf": true,
+        "hierarchicalCategories.lvl1": "Anfangsbestand 9 > Saldenvortragskonten",
+        "hierarchicalCategories.lvl0": "Anfangsbestand 9",
         "parent": "26c3f10c1c7621661c1b813d6141280d"
     },
     {
-        "objectID": "a6c754f12d0b9129790d9f52c5361778",
+        "id": "a6c754f12d0b9129790d9f52c5361778",
         "name": "Saldenvortr\u00e4ge Kreditoren",
         "type": "Eigenkapital",
         "code": "9009",
+        "sort-code": 9009,
         "description": "",
         "categories": [
             "Saldenvortragskonten",
             "Anfangsbestand 9"
         ],
-        "hierarchicalCategories": [
-            {
-                "lvl1": "Anfangsbestand 9 > Saldenvortragskonten"
-            },
-            {
-                "lvl0": "Anfangsbestand 9"
-            }
-        ],
         "leaf": true,
+        "hierarchicalCategories.lvl1": "Anfangsbestand 9 > Saldenvortragskonten",
+        "hierarchicalCategories.lvl0": "Anfangsbestand 9",
         "parent": "26c3f10c1c7621661c1b813d6141280d"
     },
     {
-        "objectID": "1888a7d2fbbdede8446090a31651565f",
+        "id": "1888a7d2fbbdede8446090a31651565f",
         "name": "Privatkonten 1",
         "type": "Eigenkapital",
         "code": -1,
+        "sort-code": 9999,
         "description": "",
         "categories": [],
-        "hierarchicalCategories": [],
         "leaf": false,
         "placeholder": true,
         "parent": "1972cce2e2364f95b2b0bc014502661d"
     },
     {
-        "objectID": "b9ae1b059749ea81c757a9adad39db1b",
+        "id": "b9ae1b059749ea81c757a9adad39db1b",
         "name": "Privatentnahmen/-einlagen",
         "type": "Eigenkapital",
         "code": -1,
+        "sort-code": 9999,
         "description": "",
         "categories": [
             "Privatkonten 1"
         ],
-        "hierarchicalCategories": [
-            {
-                "lvl0": "Privatkonten 1"
-            }
-        ],
         "leaf": false,
+        "hierarchicalCategories.lvl0": "Privatkonten 1",
         "placeholder": true,
         "parent": "1888a7d2fbbdede8446090a31651565f"
     },
     {
-        "objectID": "0e6b8f9c973149c8d1c00e40919e9e21",
+        "id": "0e6b8f9c973149c8d1c00e40919e9e21",
         "name": "Privatentnahme allgemein",
         "type": "Eigenkapital",
         "code": "1800",
+        "sort-code": 1800,
         "description": "",
         "categories": [
             "Privatentnahmen/-einlagen",
             "Privatkonten 1"
         ],
-        "hierarchicalCategories": [
-            {
-                "lvl1": "Privatkonten 1 > Privatentnahmen/-einlagen"
-            },
-            {
-                "lvl0": "Privatkonten 1"
-            }
-        ],
         "leaf": true,
+        "hierarchicalCategories.lvl1": "Privatkonten 1 > Privatentnahmen/-einlagen",
+        "hierarchicalCategories.lvl0": "Privatkonten 1",
         "parent": "b9ae1b059749ea81c757a9adad39db1b"
     },
     {
-        "objectID": "fff2b92b43dc9d9690a7e5c365d2baf6",
+        "id": "fff2b92b43dc9d9690a7e5c365d2baf6",
         "name": "Privatsteuern",
         "type": "Eigenkapital",
         "code": "1810",
+        "sort-code": 1810,
         "description": "",
         "categories": [
             "Privatentnahmen/-einlagen",
             "Privatkonten 1"
         ],
-        "hierarchicalCategories": [
-            {
-                "lvl1": "Privatkonten 1 > Privatentnahmen/-einlagen"
-            },
-            {
-                "lvl0": "Privatkonten 1"
-            }
-        ],
         "leaf": true,
+        "hierarchicalCategories.lvl1": "Privatkonten 1 > Privatentnahmen/-einlagen",
+        "hierarchicalCategories.lvl0": "Privatkonten 1",
         "parent": "b9ae1b059749ea81c757a9adad39db1b"
     },
     {
-        "objectID": "5c008564ba99d0dfe6f20166adde5e6c",
+        "id": "5c008564ba99d0dfe6f20166adde5e6c",
         "name": "Sonderausgaben beschr\u00e4nkt abzugsf\u00e4hig",
         "type": "Eigenkapital",
         "code": "1820",
+        "sort-code": 1820,
         "description": "",
         "categories": [
             "Privatentnahmen/-einlagen",
             "Privatkonten 1"
         ],
-        "hierarchicalCategories": [
-            {
-                "lvl1": "Privatkonten 1 > Privatentnahmen/-einlagen"
-            },
-            {
-                "lvl0": "Privatkonten 1"
-            }
-        ],
         "leaf": true,
+        "hierarchicalCategories.lvl1": "Privatkonten 1 > Privatentnahmen/-einlagen",
+        "hierarchicalCategories.lvl0": "Privatkonten 1",
         "parent": "b9ae1b059749ea81c757a9adad39db1b"
     },
     {
-        "objectID": "d89a53718b4753ac5407b38ab43f1339",
+        "id": "d89a53718b4753ac5407b38ab43f1339",
         "name": "Sonderausgaben unbeschr\u00e4nkt abzugsf\u00e4hig",
         "type": "Eigenkapital",
         "code": "1830",
+        "sort-code": 1830,
         "description": "",
         "categories": [
             "Privatentnahmen/-einlagen",
             "Privatkonten 1"
         ],
-        "hierarchicalCategories": [
-            {
-                "lvl1": "Privatkonten 1 > Privatentnahmen/-einlagen"
-            },
-            {
-                "lvl0": "Privatkonten 1"
-            }
-        ],
         "leaf": true,
+        "hierarchicalCategories.lvl1": "Privatkonten 1 > Privatentnahmen/-einlagen",
+        "hierarchicalCategories.lvl0": "Privatkonten 1",
         "parent": "b9ae1b059749ea81c757a9adad39db1b"
     },
     {
-        "objectID": "ab2c3c1b68e9c21ca3bce32c729c5cdc",
+        "id": "ab2c3c1b68e9c21ca3bce32c729c5cdc",
         "name": "Au\u00dfergew\u00f6hnliche Belastungen",
         "type": "Eigenkapital",
         "code": "1850",
+        "sort-code": 1850,
         "description": "",
         "categories": [
             "Privatentnahmen/-einlagen",
             "Privatkonten 1"
         ],
-        "hierarchicalCategories": [
-            {
-                "lvl1": "Privatkonten 1 > Privatentnahmen/-einlagen"
-            },
-            {
-                "lvl0": "Privatkonten 1"
-            }
-        ],
         "leaf": true,
+        "hierarchicalCategories.lvl1": "Privatkonten 1 > Privatentnahmen/-einlagen",
+        "hierarchicalCategories.lvl0": "Privatkonten 1",
         "parent": "b9ae1b059749ea81c757a9adad39db1b"
     },
     {
-        "objectID": "4057a69542c170211849f7705354aadb",
+        "id": "4057a69542c170211849f7705354aadb",
         "name": "Privateinlagen",
         "type": "Eigenkapital",
         "code": "1890",
+        "sort-code": 1890,
         "description": "",
         "categories": [
             "Privatentnahmen/-einlagen",
             "Privatkonten 1"
         ],
-        "hierarchicalCategories": [
-            {
-                "lvl1": "Privatkonten 1 > Privatentnahmen/-einlagen"
-            },
-            {
-                "lvl0": "Privatkonten 1"
-            }
-        ],
         "leaf": true,
+        "hierarchicalCategories.lvl1": "Privatkonten 1 > Privatentnahmen/-einlagen",
+        "hierarchicalCategories.lvl0": "Privatkonten 1",
         "parent": "b9ae1b059749ea81c757a9adad39db1b"
     }
 ]

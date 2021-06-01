@@ -1,22 +1,17 @@
 {
-    "objectID": "6bd0dc20b49fcb6e9608e6d5ef832625",
+    "id": "6bd0dc20b49fcb6e9608e6d5ef832625",
     "name": "Ertr\u00e4ge aus anderen Wertpapieren und Ausleihungen des Finanzanlageverm\u00f6gens aus Finanzverbundenen Unternehmen",
     "type": "Ertrag",
     "code": "7019",
+    "sort-code": 7019,
     "description": "",
     "categories": [
         "- davon aus verbundenen Unternehmen",
         "10. Ertr\u00e4ge aus anderen Wertpapieren und Ausleihungen des Finanzanlageverm\u00f6gens"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "10. Ertr\u00e4ge aus anderen Wertpapieren und Ausleihungen des Finanzanlageverm\u00f6gens > - davon aus verbundenen Unternehmen"
-        },
-        {
-            "lvl0": "10. Ertr\u00e4ge aus anderen Wertpapieren und Ausleihungen des Finanzanlageverm\u00f6gens"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl1": "10. Ertr\u00e4ge aus anderen Wertpapieren und Ausleihungen des Finanzanlageverm\u00f6gens > - davon aus verbundenen Unternehmen",
+    "hierarchicalCategories.lvl0": "10. Ertr\u00e4ge aus anderen Wertpapieren und Ausleihungen des Finanzanlageverm\u00f6gens",
     "placeholder": false,
     "parent": "f7d84101e46d2de0acc3394b1ecdf2f7"
 }

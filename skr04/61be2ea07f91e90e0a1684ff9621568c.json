@@ -1,22 +1,17 @@
 {
-    "objectID": "61be2ea07f91e90e0a1684ff9621568c",
+    "id": "61be2ea07f91e90e0a1684ff9621568c",
     "name": "Laufende Ertr\u00e4ge aus Anteilen Wertpapiean Kapitalgesellschaften (verbundene Unternehmen) 100 %/50 % steuerfrei",
     "type": "Ertrag",
     "code": "7015",
+    "sort-code": 7015,
     "description": "inl\u00e4ndische Kap.Ges.",
     "categories": [
         "- davon aus verbundenen Unternehmen",
         "10. Ertr\u00e4ge aus anderen Wertpapieren und Ausleihungen des Finanzanlageverm\u00f6gens"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "10. Ertr\u00e4ge aus anderen Wertpapieren und Ausleihungen des Finanzanlageverm\u00f6gens > - davon aus verbundenen Unternehmen"
-        },
-        {
-            "lvl0": "10. Ertr\u00e4ge aus anderen Wertpapieren und Ausleihungen des Finanzanlageverm\u00f6gens"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl1": "10. Ertr\u00e4ge aus anderen Wertpapieren und Ausleihungen des Finanzanlageverm\u00f6gens > - davon aus verbundenen Unternehmen",
+    "hierarchicalCategories.lvl0": "10. Ertr\u00e4ge aus anderen Wertpapieren und Ausleihungen des Finanzanlageverm\u00f6gens",
     "placeholder": false,
     "parent": "f7d84101e46d2de0acc3394b1ecdf2f7"
 }

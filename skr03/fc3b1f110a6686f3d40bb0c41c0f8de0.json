@@ -1,11 +1,11 @@
 {
-    "objectID": "fc3b1f110a6686f3d40bb0c41c0f8de0",
+    "id": "fc3b1f110a6686f3d40bb0c41c0f8de0",
     "name": "Aktiva",
     "type": "Aktiva",
     "code": -1,
+    "sort-code": 9999,
     "description": "Aktiva",
     "categories": [],
-    "hierarchicalCategories": [],
     "leaf": false,
     "parent": "1972cce2e2364f95b2b0bc014502661d"
 }

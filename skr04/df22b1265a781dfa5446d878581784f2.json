@@ -1,26 +1,19 @@
 {
-    "objectID": "df22b1265a781dfa5446d878581784f2",
+    "id": "df22b1265a781dfa5446d878581784f2",
     "name": "Absetzung f\u00fcr au\u00dfergew\u00f6hnliche technische und wirtschaftliche Abnutzung der Geb\u00e4ude",
     "type": "Aufwand",
     "code": "6231",
+    "sort-code": 6231,
     "description": "",
     "categories": [
         "Abschreibungen auf das Anlageverm\u00f6gen",
         "a) auf immaterielle Verm\u00f6gensgegenst\u00e4nde des Anlageverm\u00f6gens und Sachanlagen",
         "07. Abschreibungen"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "07. Abschreibungen > a) auf immaterielle Verm\u00f6gensgegenst\u00e4nde des Anlageverm\u00f6gens und Sachanlagen > Abschreibungen auf das Anlageverm\u00f6gen"
-        },
-        {
-            "lvl1": "07. Abschreibungen > a) auf immaterielle Verm\u00f6gensgegenst\u00e4nde des Anlageverm\u00f6gens und Sachanlagen"
-        },
-        {
-            "lvl0": "07. Abschreibungen"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "07. Abschreibungen > a) auf immaterielle Verm\u00f6gensgegenst\u00e4nde des Anlageverm\u00f6gens und Sachanlagen > Abschreibungen auf das Anlageverm\u00f6gen",
+    "hierarchicalCategories.lvl1": "07. Abschreibungen > a) auf immaterielle Verm\u00f6gensgegenst\u00e4nde des Anlageverm\u00f6gens und Sachanlagen",
+    "hierarchicalCategories.lvl0": "07. Abschreibungen",
     "placeholder": false,
     "parent": "135aeefb7cce9adb6f4b62a86a81385a"
 }

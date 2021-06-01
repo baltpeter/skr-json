@@ -1,18 +1,15 @@
 {
-    "objectID": "71a9174e0b5d1b37537fbaae957435e9",
+    "id": "71a9174e0b5d1b37537fbaae957435e9",
     "name": "Zinsaufwendungen f\u00fcr kurzfristige Verbindlichkeiten",
     "type": "Aufwand",
     "code": "7310",
+    "sort-code": 7310,
     "description": "",
     "categories": [
         "13. Zinsen und \u00e4hnliche Aufwendungen"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl0": "13. Zinsen und \u00e4hnliche Aufwendungen"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl0": "13. Zinsen und \u00e4hnliche Aufwendungen",
     "placeholder": false,
     "parent": "1848323dfe915f8ed2a24bc00fef1e16"
 }

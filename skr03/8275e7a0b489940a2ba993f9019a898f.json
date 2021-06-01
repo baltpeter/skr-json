@@ -1,22 +1,17 @@
 {
-    "objectID": "8275e7a0b489940a2ba993f9019a898f",
+    "id": "8275e7a0b489940a2ba993f9019a898f",
     "name": "EDV-Software",
     "type": "Aktiva",
     "code": "0027",
+    "sort-code": 27,
     "description": "",
     "categories": [
         "Anlage- u. Kapitalkonten 0",
         "Aktiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "Aktiva > Anlage- u. Kapitalkonten 0"
-        },
-        {
-            "lvl0": "Aktiva"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl1": "Aktiva > Anlage- u. Kapitalkonten 0",
+    "hierarchicalCategories.lvl0": "Aktiva",
     "tax-related": false,
     "parent": "27356188a1963c1dbf943022441d095f"
 }

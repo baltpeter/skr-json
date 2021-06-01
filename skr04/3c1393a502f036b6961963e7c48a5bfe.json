@@ -1,26 +1,19 @@
 {
-    "objectID": "3c1393a502f036b6961963e7c48a5bfe",
+    "id": "3c1393a502f036b6961963e7c48a5bfe",
     "name": "Verbindlichkeiten gegen\u00fcber Kreditinstituten",
     "type": "Verbindlichkeit",
     "code": "3150",
+    "sort-code": 3150,
     "description": "",
     "categories": [
         "02. Verbindlichkeiten gegen\u00fcber Kreditinstituten",
         "C. Verbindlichkeiten",
         "Passiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "Passiva > C. Verbindlichkeiten > 02. Verbindlichkeiten gegen\u00fcber Kreditinstituten"
-        },
-        {
-            "lvl1": "Passiva > C. Verbindlichkeiten"
-        },
-        {
-            "lvl0": "Passiva"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "Passiva > C. Verbindlichkeiten > 02. Verbindlichkeiten gegen\u00fcber Kreditinstituten",
+    "hierarchicalCategories.lvl1": "Passiva > C. Verbindlichkeiten",
+    "hierarchicalCategories.lvl0": "Passiva",
     "placeholder": true,
     "parent": "815036103fbfcdc67d0fcee3c4bd7279"
 }

@@ -1,22 +1,17 @@
 {
-    "objectID": "710b7adeff6481d64884ea80eb5b6f02",
+    "id": "710b7adeff6481d64884ea80eb5b6f02",
     "name": "Ergebnisvortr\u00e4ge",
     "type": "Fremdkapital",
     "code": "1080-1090",
+    "sort-code": 9999,
     "description": "Ergebnisvortr\u00e4ge",
     "categories": [
         "1000-1179 VERM\u00d6GEN / EIGENKAPITAL",
         "1 passive Verm\u00f6gensposten"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL"
-        },
-        {
-            "lvl0": "1 passive Verm\u00f6gensposten"
-        }
-    ],
     "leaf": false,
+    "hierarchicalCategories.lvl1": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL",
+    "hierarchicalCategories.lvl0": "1 passive Verm\u00f6gensposten",
     "placeholder": true,
     "parent": "9025c2c9b2d259fc8b195e1a7b57e6f7"
 }

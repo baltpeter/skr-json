@@ -1,8 +1,9 @@
 {
-    "objectID": "3067cb5b2dbe8e93df51cb22d68f9c36",
+    "id": "3067cb5b2dbe8e93df51cb22d68f9c36",
     "name": "Anleihen konvertibel(gr\u00f6\u00dfer 5 Jahre)",
     "type": "Verbindlichkeit",
     "code": "3130",
+    "sort-code": 3130,
     "description": "",
     "categories": [
         "b) Anleihen konvertibel",
@@ -10,21 +11,11 @@
         "C. Verbindlichkeiten",
         "Passiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl3": "Passiva > C. Verbindlichkeiten > 01. Anleihen > b) Anleihen konvertibel"
-        },
-        {
-            "lvl2": "Passiva > C. Verbindlichkeiten > 01. Anleihen"
-        },
-        {
-            "lvl1": "Passiva > C. Verbindlichkeiten"
-        },
-        {
-            "lvl0": "Passiva"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl3": "Passiva > C. Verbindlichkeiten > 01. Anleihen > b) Anleihen konvertibel",
+    "hierarchicalCategories.lvl2": "Passiva > C. Verbindlichkeiten > 01. Anleihen",
+    "hierarchicalCategories.lvl1": "Passiva > C. Verbindlichkeiten",
+    "hierarchicalCategories.lvl0": "Passiva",
     "placeholder": false,
     "parent": "aeacb8efbecfd61776b68ceaabbd1a8e"
 }

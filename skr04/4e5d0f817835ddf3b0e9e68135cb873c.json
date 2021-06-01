@@ -1,22 +1,17 @@
 {
-    "objectID": "4e5d0f817835ddf3b0e9e68135cb873c",
+    "id": "4e5d0f817835ddf3b0e9e68135cb873c",
     "name": "Aktive Rechnungsabgrenzung",
     "type": "Aktiva",
     "code": "1900",
+    "sort-code": 1900,
     "description": "",
     "categories": [
         "C. Rechnungsabgrenzungsposten Umlaufverm\u00f6gen",
         "Aktiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "Aktiva > C. Rechnungsabgrenzungsposten Umlaufverm\u00f6gen"
-        },
-        {
-            "lvl0": "Aktiva"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl1": "Aktiva > C. Rechnungsabgrenzungsposten Umlaufverm\u00f6gen",
+    "hierarchicalCategories.lvl0": "Aktiva",
     "placeholder": true,
     "parent": "12ee644791faadaee9c46305b8932295"
 }

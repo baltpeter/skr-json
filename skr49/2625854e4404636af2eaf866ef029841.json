@@ -1,22 +1,17 @@
 {
-    "objectID": "2625854e4404636af2eaf866ef029841",
+    "id": "2625854e4404636af2eaf866ef029841",
     "name": "Absetzung f\u00fcr au\u00dfergew\u00f6hnliche technische und wirtschaftliche Abnutzung sonstiger Wirtschaftsg\u00fcter",
     "type": "Aktiva",
     "code": "9527",
+    "sort-code": 9527,
     "description": "Absetzung f\u00fcr au\u00dfergew\u00f6hnliche technische und wirtschaftliche Abnutzung sonstiger Wirtschaftsg\u00fcter",
     "categories": [
         "9500-9599 STATISTISCHE WERTE F\u00dcR ANLAGE E\u00dcR",
         "9 Statistik- & Vortragskonten"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "9 Statistik- & Vortragskonten > 9500-9599 STATISTISCHE WERTE F\u00dcR ANLAGE E\u00dcR"
-        },
-        {
-            "lvl0": "9 Statistik- & Vortragskonten"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl1": "9 Statistik- & Vortragskonten > 9500-9599 STATISTISCHE WERTE F\u00dcR ANLAGE E\u00dcR",
+    "hierarchicalCategories.lvl0": "9 Statistik- & Vortragskonten",
     "notes": "Veraltet, in der Version 2017 nicht mehr enthalten!",
     "placeholder": true,
     "parent": "baac2841267ad2422440263668815280"

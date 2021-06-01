@@ -1,26 +1,19 @@
 {
-    "objectID": "9c897b2b8563220f6ba863b5d7bcb0aa",
+    "id": "9c897b2b8563220f6ba863b5d7bcb0aa",
     "name": "03. Andere Anlagen, Betriebs- und Gesch\u00e4ftsausstattung",
     "type": "Aktiva",
     "code": "0500",
+    "sort-code": 500,
     "description": "",
     "categories": [
         "IV. Sachanlagen",
         "A. Anlageverm\u00f6gen",
         "Aktiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "Aktiva > A. Anlageverm\u00f6gen > IV. Sachanlagen"
-        },
-        {
-            "lvl1": "Aktiva > A. Anlageverm\u00f6gen"
-        },
-        {
-            "lvl0": "Aktiva"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "Aktiva > A. Anlageverm\u00f6gen > IV. Sachanlagen",
+    "hierarchicalCategories.lvl1": "Aktiva > A. Anlageverm\u00f6gen",
+    "hierarchicalCategories.lvl0": "Aktiva",
     "placeholder": true,
     "parent": "4240cda2d91992e2202a40b0bf36a8b2"
 }

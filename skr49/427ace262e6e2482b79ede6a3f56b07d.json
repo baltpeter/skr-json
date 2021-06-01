@@ -1,22 +1,17 @@
 {
-    "objectID": "427ace262e6e2482b79ede6a3f56b07d",
+    "id": "427ace262e6e2482b79ede6a3f56b07d",
     "name": "Ergebnisvortr\u00e4ge des laufenden Jahres",
     "type": "Aktiva",
     "code": "9850-9889",
+    "sort-code": 9999,
     "description": "Ergebnisvortr\u00e4ge des laufenden Jahres",
     "categories": [
         "9600-9998 WEITERE STATISTIK- UND VORTRAGSKONTEN",
         "9 Statistik- & Vortragskonten"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "9 Statistik- & Vortragskonten > 9600-9998 WEITERE STATISTIK- UND VORTRAGSKONTEN"
-        },
-        {
-            "lvl0": "9 Statistik- & Vortragskonten"
-        }
-    ],
     "leaf": false,
+    "hierarchicalCategories.lvl1": "9 Statistik- & Vortragskonten > 9600-9998 WEITERE STATISTIK- UND VORTRAGSKONTEN",
+    "hierarchicalCategories.lvl0": "9 Statistik- & Vortragskonten",
     "placeholder": true,
     "parent": "cafd8ada4152cfeb9eb49cdeff92764e"
 }

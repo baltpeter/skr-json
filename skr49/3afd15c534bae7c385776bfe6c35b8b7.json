@@ -1,21 +1,16 @@
 {
-    "objectID": "3afd15c534bae7c385776bfe6c35b8b7",
+    "id": "3afd15c534bae7c385776bfe6c35b8b7",
     "name": "Umgebuchte Ausgaben B 6000",
     "type": "Aufwand",
     "code": "6992",
+    "sort-code": 6992,
     "description": "Umgebuchte Ausgaben B 6000 (Gegenkonto 8990)",
     "categories": [
         "6990-6999 ERGEBNISUMBUCHUNG NACH 8980",
         "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6990-6999 ERGEBNISUMBUCHUNG NACH 8980"
-        },
-        {
-            "lvl0": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl1": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe > 6990-6999 ERGEBNISUMBUCHUNG NACH 8980",
+    "hierarchicalCategories.lvl0": "6 Erfolgskonten f\u00fcr andere ertragssteuerfreie Zweckbetriebe",
     "parent": "bf4eff8eec48c2bb0359d5bb8a4c2ca0"
 }

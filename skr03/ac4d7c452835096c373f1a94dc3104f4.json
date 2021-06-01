@@ -1,21 +1,16 @@
 {
-    "objectID": "ac4d7c452835096c373f1a94dc3104f4",
+    "id": "ac4d7c452835096c373f1a94dc3104f4",
     "name": "B\u00fcrobedarf",
     "type": "Aufwand",
     "code": "4930",
+    "sort-code": 4930,
     "description": "",
     "categories": [
         "verschiedene Kosten",
         "Aufwendungen 2/4"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "Aufwendungen 2/4 > verschiedene Kosten"
-        },
-        {
-            "lvl0": "Aufwendungen 2/4"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl1": "Aufwendungen 2/4 > verschiedene Kosten",
+    "hierarchicalCategories.lvl0": "Aufwendungen 2/4",
     "parent": "d0c00095e4b00f9f25253307be05e885"
 }

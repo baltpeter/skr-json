@@ -1,21 +1,16 @@
 {
-    "objectID": "cc08ab7c747853f5f7ea6b384fdd8b4d",
+    "id": "cc08ab7c747853f5f7ea6b384fdd8b4d",
     "name": "sonstige Zinsen und \u00e4hnliche Ertr\u00e4ge",
     "type": "Ertrag",
     "code": "2650",
+    "sort-code": 2650,
     "description": "",
     "categories": [
         "Ertragskonten 2",
         "Erl\u00f6se u. Ertr\u00e4ge 2/8"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "Erl\u00f6se u. Ertr\u00e4ge 2/8 > Ertragskonten 2"
-        },
-        {
-            "lvl0": "Erl\u00f6se u. Ertr\u00e4ge 2/8"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl1": "Erl\u00f6se u. Ertr\u00e4ge 2/8 > Ertragskonten 2",
+    "hierarchicalCategories.lvl0": "Erl\u00f6se u. Ertr\u00e4ge 2/8",
     "parent": "4f552b822559c82eaa816d0049f70064"
 }

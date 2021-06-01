@@ -1,8 +1,9 @@
 {
-    "objectID": "4b6e5c8c72f315625425a3f818582469",
+    "id": "4b6e5c8c72f315625425a3f818582469",
     "name": "Reisekosten Arbeitnehmer Verpflegungsmehraufwand",
     "type": "Aufwand",
     "code": "2560",
+    "sort-code": 2560,
     "description": "Reisekosten Arbeitnehmer Verpflegungsmehraufwand",
     "categories": [
         "2561 Reisekosten Arbeitnehmer",
@@ -10,21 +11,11 @@
         "2500-2999 AUSGABEN",
         "2 Erfolgskonten ideeller Bereich"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl3": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN > 2560-2564 Reisekosten > 2561 Reisekosten Arbeitnehmer"
-        },
-        {
-            "lvl2": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN > 2560-2564 Reisekosten"
-        },
-        {
-            "lvl1": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN"
-        },
-        {
-            "lvl0": "2 Erfolgskonten ideeller Bereich"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl3": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN > 2560-2564 Reisekosten > 2561 Reisekosten Arbeitnehmer",
+    "hierarchicalCategories.lvl2": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN > 2560-2564 Reisekosten",
+    "hierarchicalCategories.lvl1": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN",
+    "hierarchicalCategories.lvl0": "2 Erfolgskonten ideeller Bereich",
     "notes": "Ehemals allgemein \u201eReisekostenerstattungen\u201c.",
     "parent": "bcecff6d25f7d197b75e072b175c15bf"
 }

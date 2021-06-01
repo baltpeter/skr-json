@@ -1,22 +1,17 @@
 {
-    "objectID": "fa7e2262a96d9e5b4553cc596cf8a20e",
+    "id": "fa7e2262a96d9e5b4553cc596cf8a20e",
     "name": "Aufwendungen aus der W\u00e4hrungsumstellung auf den Euro (Art. 43 Abs. 1 EGHGB)",
     "type": "Aufwand",
     "code": "6882",
+    "sort-code": 6882,
     "description": "",
     "categories": [
         "a) ordentliche betriebliche Aufwendungen",
         "08. sonstige betriebliche Aufwendungen"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen"
-        },
-        {
-            "lvl0": "08. sonstige betriebliche Aufwendungen"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl1": "08. sonstige betriebliche Aufwendungen > a) ordentliche betriebliche Aufwendungen",
+    "hierarchicalCategories.lvl0": "08. sonstige betriebliche Aufwendungen",
     "placeholder": false,
     "parent": "02bf19f7916e6dc15c403335dd274ccb"
 }

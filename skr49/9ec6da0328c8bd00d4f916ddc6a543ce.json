@@ -1,22 +1,17 @@
 {
-    "objectID": "9ec6da0328c8bd00d4f916ddc6a543ce",
+    "id": "9ec6da0328c8bd00d4f916ddc6a543ce",
     "name": "Gewinnr\u00fccklagen",
     "type": "Fremdkapital",
     "code": "1150-1159",
+    "sort-code": 9999,
     "description": "Gewinnr\u00fccklagen",
     "categories": [
         "1000-1179 VERM\u00d6GEN / EIGENKAPITAL",
         "1 passive Verm\u00f6gensposten"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL"
-        },
-        {
-            "lvl0": "1 passive Verm\u00f6gensposten"
-        }
-    ],
     "leaf": false,
+    "hierarchicalCategories.lvl1": "1 passive Verm\u00f6gensposten > 1000-1179 VERM\u00d6GEN / EIGENKAPITAL",
+    "hierarchicalCategories.lvl0": "1 passive Verm\u00f6gensposten",
     "notes": "Nur GmbH!",
     "placeholder": true,
     "parent": "9025c2c9b2d259fc8b195e1a7b57e6f7"

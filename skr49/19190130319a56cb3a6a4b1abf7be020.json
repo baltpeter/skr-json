@@ -1,8 +1,9 @@
 {
-    "objectID": "19190130319a56cb3a6a4b1abf7be020",
+    "id": "19190130319a56cb3a6a4b1abf7be020",
     "name": "Innergemeinschaftlicher Erwerb ohne Vorsteuerabzug 16% USt",
     "type": "Aufwand",
     "code": "2945",
+    "sort-code": 2945,
     "description": "VERALTET!",
     "categories": [
         "2930-2945 Innergemeinschaftlicher Erwerb",
@@ -11,24 +12,12 @@
         "2500-2999 AUSGABEN",
         "2 Erfolgskonten ideeller Bereich"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl4": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN > 2510 \u00dcbrige Ausgaben > 2903-2945 Umsatzsteuer-Konten > 2930-2945 Innergemeinschaftlicher Erwerb"
-        },
-        {
-            "lvl3": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN > 2510 \u00dcbrige Ausgaben > 2903-2945 Umsatzsteuer-Konten"
-        },
-        {
-            "lvl2": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN > 2510 \u00dcbrige Ausgaben"
-        },
-        {
-            "lvl1": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN"
-        },
-        {
-            "lvl0": "2 Erfolgskonten ideeller Bereich"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl4": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN > 2510 \u00dcbrige Ausgaben > 2903-2945 Umsatzsteuer-Konten > 2930-2945 Innergemeinschaftlicher Erwerb",
+    "hierarchicalCategories.lvl3": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN > 2510 \u00dcbrige Ausgaben > 2903-2945 Umsatzsteuer-Konten",
+    "hierarchicalCategories.lvl2": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN > 2510 \u00dcbrige Ausgaben",
+    "hierarchicalCategories.lvl1": "2 Erfolgskonten ideeller Bereich > 2500-2999 AUSGABEN",
+    "hierarchicalCategories.lvl0": "2 Erfolgskonten ideeller Bereich",
     "notes": "F\u00fcr den \u00dcbergang von 16% auf 19% MwSt.",
     "placeholder": true,
     "parent": "61971a78c1376fead9b9bc03a73ae410"

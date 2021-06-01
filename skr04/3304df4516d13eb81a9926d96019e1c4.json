@@ -1,18 +1,15 @@
 {
-    "objectID": "3304df4516d13eb81a9926d96019e1c4",
+    "id": "3304df4516d13eb81a9926d96019e1c4",
     "name": "Au\u00dferordentliche Ertr\u00e4ge",
     "type": "Ertrag",
     "code": "7400",
+    "sort-code": 7400,
     "description": "",
     "categories": [
         "15. au\u00dferordentliche Ertr\u00e4ge"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl0": "15. au\u00dferordentliche Ertr\u00e4ge"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl0": "15. au\u00dferordentliche Ertr\u00e4ge",
     "placeholder": false,
     "tax-related": false,
     "parent": "7c2d0fdbe09af95d2a055c399fafea81"

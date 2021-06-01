@@ -1,8 +1,9 @@
 {
-    "objectID": "511112f3ac55f88ab568dfecd03d90fb",
+    "id": "511112f3ac55f88ab568dfecd03d90fb",
     "name": "Verbindlichkeiten aus an das Finanzamt abzuf\u00fchrendem Bauabzugsbetrag",
     "type": "Verbindlichkeit",
     "code": "3726",
+    "sort-code": 3726,
     "description": "",
     "categories": [
         "Verbindlichkeiten aus Lohn und Gehalt",
@@ -10,21 +11,11 @@
         "C. Verbindlichkeiten",
         "Passiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl3": "Passiva > C. Verbindlichkeiten > 08. sonstige Verbindlichkeiten > Verbindlichkeiten aus Lohn und Gehalt"
-        },
-        {
-            "lvl2": "Passiva > C. Verbindlichkeiten > 08. sonstige Verbindlichkeiten"
-        },
-        {
-            "lvl1": "Passiva > C. Verbindlichkeiten"
-        },
-        {
-            "lvl0": "Passiva"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl3": "Passiva > C. Verbindlichkeiten > 08. sonstige Verbindlichkeiten > Verbindlichkeiten aus Lohn und Gehalt",
+    "hierarchicalCategories.lvl2": "Passiva > C. Verbindlichkeiten > 08. sonstige Verbindlichkeiten",
+    "hierarchicalCategories.lvl1": "Passiva > C. Verbindlichkeiten",
+    "hierarchicalCategories.lvl0": "Passiva",
     "placeholder": false,
     "parent": "dfe419d26acef7e1ab26d3a8a8b7233e"
 }

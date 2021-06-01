@@ -1,8 +1,9 @@
 {
-    "objectID": "c0fa201dc751c2dd353dcaeb5619af65",
+    "id": "c0fa201dc751c2dd353dcaeb5619af65",
     "name": "Anleihen, nicht konvertibel (1-5 Jahre)",
     "type": "Verbindlichkeit",
     "code": "3105",
+    "sort-code": 3105,
     "description": "",
     "categories": [
         "a) Anleihen, nicht konvertibel",
@@ -10,21 +11,11 @@
         "C. Verbindlichkeiten",
         "Passiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl3": "Passiva > C. Verbindlichkeiten > 01. Anleihen > a) Anleihen, nicht konvertibel"
-        },
-        {
-            "lvl2": "Passiva > C. Verbindlichkeiten > 01. Anleihen"
-        },
-        {
-            "lvl1": "Passiva > C. Verbindlichkeiten"
-        },
-        {
-            "lvl0": "Passiva"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl3": "Passiva > C. Verbindlichkeiten > 01. Anleihen > a) Anleihen, nicht konvertibel",
+    "hierarchicalCategories.lvl2": "Passiva > C. Verbindlichkeiten > 01. Anleihen",
+    "hierarchicalCategories.lvl1": "Passiva > C. Verbindlichkeiten",
+    "hierarchicalCategories.lvl0": "Passiva",
     "placeholder": false,
     "parent": "5915a4522e747674c7831a0d5edc376d"
 }

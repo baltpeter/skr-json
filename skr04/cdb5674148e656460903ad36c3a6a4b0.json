@@ -1,18 +1,15 @@
 {
-    "objectID": "cdb5674148e656460903ad36c3a6a4b0",
+    "id": "cdb5674148e656460903ad36c3a6a4b0",
     "name": "Ertr\u00e4ge aus der steuerlich niedrigeren Bewertung von R\u00fcckstellungen",
     "type": "Ertrag",
     "code": "4932",
+    "sort-code": 4932,
     "description": "",
     "categories": [
         "04. Sonstige betriebliche Ertr\u00e4ge"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl0": "04. Sonstige betriebliche Ertr\u00e4ge"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl0": "04. Sonstige betriebliche Ertr\u00e4ge",
     "placeholder": false,
     "parent": "4c0c1557fe54e71d7ed717587a0c0b4d"
 }

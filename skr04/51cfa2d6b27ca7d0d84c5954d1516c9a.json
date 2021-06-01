@@ -1,22 +1,17 @@
 {
-    "objectID": "51cfa2d6b27ca7d0d84c5954d1516c9a",
+    "id": "51cfa2d6b27ca7d0d84c5954d1516c9a",
     "name": "Entnahmen aus der gesetzlichen R\u00fccklage",
     "type": "Eigenkapital",
     "code": "7735",
+    "sort-code": 7735,
     "description": "",
     "categories": [
         "02. Entnahmen aus Gewinnr\u00fccklagen",
         "21. Ver\u00e4nderungen Vortr\u00e4ge und R\u00fccklagen"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "21. Ver\u00e4nderungen Vortr\u00e4ge und R\u00fccklagen > 02. Entnahmen aus Gewinnr\u00fccklagen"
-        },
-        {
-            "lvl0": "21. Ver\u00e4nderungen Vortr\u00e4ge und R\u00fccklagen"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl1": "21. Ver\u00e4nderungen Vortr\u00e4ge und R\u00fccklagen > 02. Entnahmen aus Gewinnr\u00fccklagen",
+    "hierarchicalCategories.lvl0": "21. Ver\u00e4nderungen Vortr\u00e4ge und R\u00fccklagen",
     "notes": "Aufwandskonten?",
     "placeholder": false,
     "parent": "e250efca9681cba74a7eb7f31361d9af"

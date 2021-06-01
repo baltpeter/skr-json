@@ -1,25 +1,18 @@
 {
-    "objectID": "cd054a0056aa8a1e799d284b95d8306f",
+    "id": "cd054a0056aa8a1e799d284b95d8306f",
     "name": "Hinzuzurechnende Einnahmen Klassen 7 & 8",
     "type": "Aktiva",
     "code": "9632",
+    "sort-code": 9632,
     "description": "Hinzuzurechnende Einnahmen Klassen 7 und 8 (\u00a764 III AO)",
     "categories": [
         "9600-9849 Statistische Werte f\u00fcr BWA",
         "9600-9998 WEITERE STATISTIK- UND VORTRAGSKONTEN",
         "9 Statistik- & Vortragskonten"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "9 Statistik- & Vortragskonten > 9600-9998 WEITERE STATISTIK- UND VORTRAGSKONTEN > 9600-9849 Statistische Werte f\u00fcr BWA"
-        },
-        {
-            "lvl1": "9 Statistik- & Vortragskonten > 9600-9998 WEITERE STATISTIK- UND VORTRAGSKONTEN"
-        },
-        {
-            "lvl0": "9 Statistik- & Vortragskonten"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "9 Statistik- & Vortragskonten > 9600-9998 WEITERE STATISTIK- UND VORTRAGSKONTEN > 9600-9849 Statistische Werte f\u00fcr BWA",
+    "hierarchicalCategories.lvl1": "9 Statistik- & Vortragskonten > 9600-9998 WEITERE STATISTIK- UND VORTRAGSKONTEN",
+    "hierarchicalCategories.lvl0": "9 Statistik- & Vortragskonten",
     "parent": "ce6ef6340d8c65efd124f5950fcbb6a8"
 }

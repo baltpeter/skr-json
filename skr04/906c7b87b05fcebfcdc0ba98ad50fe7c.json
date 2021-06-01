@@ -1,18 +1,15 @@
 {
-    "objectID": "906c7b87b05fcebfcdc0ba98ad50fe7c",
+    "id": "906c7b87b05fcebfcdc0ba98ad50fe7c",
     "name": "Ertr\u00e4ge aus Zuschreibungen des immateriellen Anlageverm\u00f6g.",
     "type": "Ertrag",
     "code": "4911",
+    "sort-code": 4911,
     "description": "",
     "categories": [
         "04. Sonstige betriebliche Ertr\u00e4ge"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl0": "04. Sonstige betriebliche Ertr\u00e4ge"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl0": "04. Sonstige betriebliche Ertr\u00e4ge",
     "placeholder": false,
     "parent": "4c0c1557fe54e71d7ed717587a0c0b4d"
 }

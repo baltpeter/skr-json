@@ -1,26 +1,19 @@
 {
-    "objectID": "dbd9ab580fa1fb60a45c477e3b7fa0f1",
+    "id": "dbd9ab580fa1fb60a45c477e3b7fa0f1",
     "name": "Wareneingang 5% Vorsteuer",
     "type": "Aufwand",
     "code": "5500",
+    "sort-code": 5500,
     "description": "Landw. Durchschnitt?",
     "categories": [
         "02. Wareneingang",
         "a) Aufwendungen f\u00fcr Roh-, Hilfs- und Betriebsstoffe und f\u00fcr bezogene Waren",
         "05. Materialaufwand"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "05. Materialaufwand > a) Aufwendungen f\u00fcr Roh-, Hilfs- und Betriebsstoffe und f\u00fcr bezogene Waren > 02. Wareneingang"
-        },
-        {
-            "lvl1": "05. Materialaufwand > a) Aufwendungen f\u00fcr Roh-, Hilfs- und Betriebsstoffe und f\u00fcr bezogene Waren"
-        },
-        {
-            "lvl0": "05. Materialaufwand"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "05. Materialaufwand > a) Aufwendungen f\u00fcr Roh-, Hilfs- und Betriebsstoffe und f\u00fcr bezogene Waren > 02. Wareneingang",
+    "hierarchicalCategories.lvl1": "05. Materialaufwand > a) Aufwendungen f\u00fcr Roh-, Hilfs- und Betriebsstoffe und f\u00fcr bezogene Waren",
+    "hierarchicalCategories.lvl0": "05. Materialaufwand",
     "placeholder": false,
     "parent": "59bf2e65d45938c741124bcadeaec5d7"
 }

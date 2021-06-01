@@ -1,8 +1,9 @@
 {
-    "objectID": "05140533502d0be13e2a07b5b78f826d",
+    "id": "05140533502d0be13e2a07b5b78f826d",
     "name": "Konzessionen und gewerbl.Schutzrechte",
     "type": "Aktiva",
     "code": "0100",
+    "sort-code": 100,
     "description": "",
     "categories": [
         "01. Konzessionen, gewerbliche Schutzrechte und \u00e4hnliche Rechte und Werte sowie Lizenzen an solchen Rechten und Werten",
@@ -10,21 +11,11 @@
         "A. Anlageverm\u00f6gen",
         "Aktiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl3": "Aktiva > A. Anlageverm\u00f6gen > III. Immaterielle Verm\u00f6gensgegenst\u00e4nde > 01. Konzessionen, gewerbliche Schutzrechte und \u00e4hnliche Rechte und Werte sowie Lizenzen an solchen Rechten und Werten"
-        },
-        {
-            "lvl2": "Aktiva > A. Anlageverm\u00f6gen > III. Immaterielle Verm\u00f6gensgegenst\u00e4nde"
-        },
-        {
-            "lvl1": "Aktiva > A. Anlageverm\u00f6gen"
-        },
-        {
-            "lvl0": "Aktiva"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl3": "Aktiva > A. Anlageverm\u00f6gen > III. Immaterielle Verm\u00f6gensgegenst\u00e4nde > 01. Konzessionen, gewerbliche Schutzrechte und \u00e4hnliche Rechte und Werte sowie Lizenzen an solchen Rechten und Werten",
+    "hierarchicalCategories.lvl2": "Aktiva > A. Anlageverm\u00f6gen > III. Immaterielle Verm\u00f6gensgegenst\u00e4nde",
+    "hierarchicalCategories.lvl1": "Aktiva > A. Anlageverm\u00f6gen",
+    "hierarchicalCategories.lvl0": "Aktiva",
     "placeholder": true,
     "parent": "accd83b772d8921a4fa697291ad04e2c"
 }

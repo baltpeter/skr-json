@@ -1,8 +1,9 @@
 {
-    "objectID": "7fe6fc15e30d8dc01cf399cda75d4bc9",
+    "id": "7fe6fc15e30d8dc01cf399cda75d4bc9",
     "name": "Verbindl. aus L+L gg. Gesellsch. 1-5 J",
     "type": "Verbindlichkeit",
     "code": "3345",
+    "sort-code": 3345,
     "description": "",
     "categories": [
         "Verbindlichkeiten aus Lieferungen und Leistungen gegen\u00fcber Gesellschaftern",
@@ -10,21 +11,11 @@
         "C. Verbindlichkeiten",
         "Passiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl3": "Passiva > C. Verbindlichkeiten > 04. Verbindlichkeiten aus Lieferungen und Leistungen > Verbindlichkeiten aus Lieferungen und Leistungen gegen\u00fcber Gesellschaftern"
-        },
-        {
-            "lvl2": "Passiva > C. Verbindlichkeiten > 04. Verbindlichkeiten aus Lieferungen und Leistungen"
-        },
-        {
-            "lvl1": "Passiva > C. Verbindlichkeiten"
-        },
-        {
-            "lvl0": "Passiva"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl3": "Passiva > C. Verbindlichkeiten > 04. Verbindlichkeiten aus Lieferungen und Leistungen > Verbindlichkeiten aus Lieferungen und Leistungen gegen\u00fcber Gesellschaftern",
+    "hierarchicalCategories.lvl2": "Passiva > C. Verbindlichkeiten > 04. Verbindlichkeiten aus Lieferungen und Leistungen",
+    "hierarchicalCategories.lvl1": "Passiva > C. Verbindlichkeiten",
+    "hierarchicalCategories.lvl0": "Passiva",
     "placeholder": false,
     "parent": "3d9c9c78c393e8a808e2e585fac0d4d5"
 }

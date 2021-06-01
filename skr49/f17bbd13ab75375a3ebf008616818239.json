@@ -1,22 +1,17 @@
 {
-    "objectID": "f17bbd13ab75375a3ebf008616818239",
+    "id": "f17bbd13ab75375a3ebf008616818239",
     "name": "Wareneinkauf ohne Vorsteuerabzug",
     "type": "Aktiva",
     "code": "9517",
+    "sort-code": 9517,
     "description": "Wareneinkauf ohne Vorsteuerabzug",
     "categories": [
         "9500-9599 STATISTISCHE WERTE F\u00dcR ANLAGE E\u00dcR",
         "9 Statistik- & Vortragskonten"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "9 Statistik- & Vortragskonten > 9500-9599 STATISTISCHE WERTE F\u00dcR ANLAGE E\u00dcR"
-        },
-        {
-            "lvl0": "9 Statistik- & Vortragskonten"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl1": "9 Statistik- & Vortragskonten > 9500-9599 STATISTISCHE WERTE F\u00dcR ANLAGE E\u00dcR",
+    "hierarchicalCategories.lvl0": "9 Statistik- & Vortragskonten",
     "notes": "Veraltet, in der Version 2017 nicht mehr enthalten!",
     "placeholder": true,
     "parent": "baac2841267ad2422440263668815280"

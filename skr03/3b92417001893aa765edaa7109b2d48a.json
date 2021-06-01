@@ -1,21 +1,16 @@
 {
-    "objectID": "3b92417001893aa765edaa7109b2d48a",
+    "id": "3b92417001893aa765edaa7109b2d48a",
     "name": "Fremdfahrzeuge",
     "type": "Aufwand",
     "code": "4570",
+    "sort-code": 4570,
     "description": "",
     "categories": [
         "Kfz-Kosten",
         "Aufwendungen 2/4"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "Aufwendungen 2/4 > Kfz-Kosten"
-        },
-        {
-            "lvl0": "Aufwendungen 2/4"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl1": "Aufwendungen 2/4 > Kfz-Kosten",
+    "hierarchicalCategories.lvl0": "Aufwendungen 2/4",
     "parent": "8488954a5834d5484ed57439a0d43305"
 }

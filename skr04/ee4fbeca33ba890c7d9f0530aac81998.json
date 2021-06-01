@@ -1,26 +1,19 @@
 {
-    "objectID": "ee4fbeca33ba890c7d9f0530aac81998",
+    "id": "ee4fbeca33ba890c7d9f0530aac81998",
     "name": "Waren aus einem Umsatzsteuerlager, 13a UStG 16% Vorsteuer und 16% Umsatzsteuer",
     "type": "Aufwand",
     "code": "5565",
+    "sort-code": 5565,
     "description": "",
     "categories": [
         "02. Wareneingang",
         "a) Aufwendungen f\u00fcr Roh-, Hilfs- und Betriebsstoffe und f\u00fcr bezogene Waren",
         "05. Materialaufwand"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "05. Materialaufwand > a) Aufwendungen f\u00fcr Roh-, Hilfs- und Betriebsstoffe und f\u00fcr bezogene Waren > 02. Wareneingang"
-        },
-        {
-            "lvl1": "05. Materialaufwand > a) Aufwendungen f\u00fcr Roh-, Hilfs- und Betriebsstoffe und f\u00fcr bezogene Waren"
-        },
-        {
-            "lvl0": "05. Materialaufwand"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "05. Materialaufwand > a) Aufwendungen f\u00fcr Roh-, Hilfs- und Betriebsstoffe und f\u00fcr bezogene Waren > 02. Wareneingang",
+    "hierarchicalCategories.lvl1": "05. Materialaufwand > a) Aufwendungen f\u00fcr Roh-, Hilfs- und Betriebsstoffe und f\u00fcr bezogene Waren",
+    "hierarchicalCategories.lvl0": "05. Materialaufwand",
     "placeholder": false,
     "parent": "59bf2e65d45938c741124bcadeaec5d7"
 }

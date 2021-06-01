@@ -1,25 +1,18 @@
 {
-    "objectID": "447357e39b9f0d69304e98ec2d773616",
+    "id": "447357e39b9f0d69304e98ec2d773616",
     "name": "Faktor pauschale Vorsteuer 7%",
     "type": "Aktiva",
     "code": "9600",
+    "sort-code": 9600,
     "description": "Faktor pauschale Vorsteuer 7%",
     "categories": [
         "9600-9849 Statistische Werte f\u00fcr BWA",
         "9600-9998 WEITERE STATISTIK- UND VORTRAGSKONTEN",
         "9 Statistik- & Vortragskonten"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "9 Statistik- & Vortragskonten > 9600-9998 WEITERE STATISTIK- UND VORTRAGSKONTEN > 9600-9849 Statistische Werte f\u00fcr BWA"
-        },
-        {
-            "lvl1": "9 Statistik- & Vortragskonten > 9600-9998 WEITERE STATISTIK- UND VORTRAGSKONTEN"
-        },
-        {
-            "lvl0": "9 Statistik- & Vortragskonten"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "9 Statistik- & Vortragskonten > 9600-9998 WEITERE STATISTIK- UND VORTRAGSKONTEN > 9600-9849 Statistische Werte f\u00fcr BWA",
+    "hierarchicalCategories.lvl1": "9 Statistik- & Vortragskonten > 9600-9998 WEITERE STATISTIK- UND VORTRAGSKONTEN",
+    "hierarchicalCategories.lvl0": "9 Statistik- & Vortragskonten",
     "parent": "ce6ef6340d8c65efd124f5950fcbb6a8"
 }

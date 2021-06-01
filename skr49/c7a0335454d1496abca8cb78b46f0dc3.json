@@ -1,22 +1,17 @@
 {
-    "objectID": "c7a0335454d1496abca8cb78b46f0dc3",
+    "id": "c7a0335454d1496abca8cb78b46f0dc3",
     "name": "Forderungen aus Lieferungen und Leistungen zum allgemeinen Umsatzsteuersatz oder eines Kleinunternehmers",
     "type": "Forderung",
     "code": "9500",
+    "sort-code": 9500,
     "description": "Forderungen aus Lieferungen und Leistungen zum allgemeinen Umsatzsteuersatz oder eines Kleinunternehmers",
     "categories": [
         "9500-9599 STATISTISCHE WERTE F\u00dcR ANLAGE E\u00dcR",
         "9 Statistik- & Vortragskonten"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "9 Statistik- & Vortragskonten > 9500-9599 STATISTISCHE WERTE F\u00dcR ANLAGE E\u00dcR"
-        },
-        {
-            "lvl0": "9 Statistik- & Vortragskonten"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl1": "9 Statistik- & Vortragskonten > 9500-9599 STATISTISCHE WERTE F\u00dcR ANLAGE E\u00dcR",
+    "hierarchicalCategories.lvl0": "9 Statistik- & Vortragskonten",
     "notes": "Veraltet, in der Version 2017 nicht mehr enthalten!",
     "placeholder": true,
     "parent": "baac2841267ad2422440263668815280"

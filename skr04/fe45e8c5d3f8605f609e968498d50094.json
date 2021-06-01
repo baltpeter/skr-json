@@ -1,22 +1,17 @@
 {
-    "objectID": "fe45e8c5d3f8605f609e968498d50094",
+    "id": "fe45e8c5d3f8605f609e968498d50094",
     "name": "Anlagenabg\u00e4nge Sachanlagen",
     "type": "Aufwand",
     "code": "6895",
+    "sort-code": 6895,
     "description": "Restbuchwert bei Buchverlust",
     "categories": [
         "b) Verluste aus dem Abgang von Gegenst\u00e4nden des Anlageverm\u00f6gens",
         "08. sonstige betriebliche Aufwendungen"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "08. sonstige betriebliche Aufwendungen > b) Verluste aus dem Abgang von Gegenst\u00e4nden des Anlageverm\u00f6gens"
-        },
-        {
-            "lvl0": "08. sonstige betriebliche Aufwendungen"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl1": "08. sonstige betriebliche Aufwendungen > b) Verluste aus dem Abgang von Gegenst\u00e4nden des Anlageverm\u00f6gens",
+    "hierarchicalCategories.lvl0": "08. sonstige betriebliche Aufwendungen",
     "placeholder": false,
     "parent": "47767b5fa390ff8a4dbb0fdf05a3ee3b"
 }

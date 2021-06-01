@@ -1,21 +1,16 @@
 {
-    "objectID": "7484251f3d5fc7ec71419b2fba733a78",
+    "id": "7484251f3d5fc7ec71419b2fba733a78",
     "name": "Versicherungen",
     "type": "Aufwand",
     "code": "4360",
+    "sort-code": 4360,
     "description": "",
     "categories": [
         "Versicherungsbeitr\u00e4ge",
         "Aufwendungen 2/4"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "Aufwendungen 2/4 > Versicherungsbeitr\u00e4ge"
-        },
-        {
-            "lvl0": "Aufwendungen 2/4"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl1": "Aufwendungen 2/4 > Versicherungsbeitr\u00e4ge",
+    "hierarchicalCategories.lvl0": "Aufwendungen 2/4",
     "parent": "709bf14d69164a6c2a48e6c0e13ece37"
 }

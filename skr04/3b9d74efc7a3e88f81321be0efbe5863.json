@@ -1,26 +1,19 @@
 {
-    "objectID": "3b9d74efc7a3e88f81321be0efbe5863",
+    "id": "3b9d74efc7a3e88f81321be0efbe5863",
     "name": "Darlehen atypisch stiller Gesellschafter",
     "type": "Verbindlichkeit",
     "code": "3530",
+    "sort-code": 3530,
     "description": "",
     "categories": [
         "08. sonstige Verbindlichkeiten",
         "C. Verbindlichkeiten",
         "Passiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "Passiva > C. Verbindlichkeiten > 08. sonstige Verbindlichkeiten"
-        },
-        {
-            "lvl1": "Passiva > C. Verbindlichkeiten"
-        },
-        {
-            "lvl0": "Passiva"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "Passiva > C. Verbindlichkeiten > 08. sonstige Verbindlichkeiten",
+    "hierarchicalCategories.lvl1": "Passiva > C. Verbindlichkeiten",
+    "hierarchicalCategories.lvl0": "Passiva",
     "placeholder": true,
     "parent": "3f6c684bfaa3d0fc8b94368847566df3"
 }

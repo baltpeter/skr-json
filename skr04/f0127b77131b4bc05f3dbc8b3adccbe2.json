@@ -1,18 +1,15 @@
 {
-    "objectID": "f0127b77131b4bc05f3dbc8b3adccbe2",
+    "id": "f0127b77131b4bc05f3dbc8b3adccbe2",
     "name": "Zinsen und \u00e4hnliche Aufwendungen 100 %/50 % nicht abzugsf\u00e4hig",
     "type": "Aufwand",
     "code": "7350",
+    "sort-code": 7350,
     "description": "inl\u00e4ndische Kap.Ges.",
     "categories": [
         "13. Zinsen und \u00e4hnliche Aufwendungen"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl0": "13. Zinsen und \u00e4hnliche Aufwendungen"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl0": "13. Zinsen und \u00e4hnliche Aufwendungen",
     "placeholder": false,
     "parent": "1848323dfe915f8ed2a24bc00fef1e16"
 }

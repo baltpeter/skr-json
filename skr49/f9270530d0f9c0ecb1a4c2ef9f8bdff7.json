@@ -1,8 +1,9 @@
 {
-    "objectID": "f9270530d0f9c0ecb1a4c2ef9f8bdff7",
+    "id": "f9270530d0f9c0ecb1a4c2ef9f8bdff7",
     "name": "Maschinen",
     "type": "Aktiva",
     "code": "0205",
+    "sort-code": 205,
     "description": "Maschinen",
     "categories": [
         "0200-0249 Technische Anlagen und Maschinen",
@@ -10,20 +11,10 @@
         "0010-0249 ANLAGEVERM\u00d6GEN",
         "0 aktive Verm\u00f6gensposten"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl3": "0 aktive Verm\u00f6gensposten > 0010-0249 ANLAGEVERM\u00d6GEN > 0050-0249 Sachanlagen > 0200-0249 Technische Anlagen und Maschinen"
-        },
-        {
-            "lvl2": "0 aktive Verm\u00f6gensposten > 0010-0249 ANLAGEVERM\u00d6GEN > 0050-0249 Sachanlagen"
-        },
-        {
-            "lvl1": "0 aktive Verm\u00f6gensposten > 0010-0249 ANLAGEVERM\u00d6GEN"
-        },
-        {
-            "lvl0": "0 aktive Verm\u00f6gensposten"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl3": "0 aktive Verm\u00f6gensposten > 0010-0249 ANLAGEVERM\u00d6GEN > 0050-0249 Sachanlagen > 0200-0249 Technische Anlagen und Maschinen",
+    "hierarchicalCategories.lvl2": "0 aktive Verm\u00f6gensposten > 0010-0249 ANLAGEVERM\u00d6GEN > 0050-0249 Sachanlagen",
+    "hierarchicalCategories.lvl1": "0 aktive Verm\u00f6gensposten > 0010-0249 ANLAGEVERM\u00d6GEN",
+    "hierarchicalCategories.lvl0": "0 aktive Verm\u00f6gensposten",
     "parent": "46ffb83de61205686c1ccc5a000f8a65"
 }

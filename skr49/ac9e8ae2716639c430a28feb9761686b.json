@@ -1,26 +1,19 @@
 {
-    "objectID": "ac9e8ae2716639c430a28feb9761686b",
+    "id": "ac9e8ae2716639c430a28feb9761686b",
     "name": "Geringwertige Wirtschaftsg\u00fcter",
     "type": "Aktiva",
     "code": "0340",
+    "sort-code": 340,
     "description": "Geringwertige Wirtschaftsg\u00fcter",
     "categories": [
         "0300 Vereinsausstattung",
         "0250-0599 ANDERE ANLAGEN, BETRIEBS- UND GESCH\u00c4FTSAUSSTATTUNG",
         "0 aktive Verm\u00f6gensposten"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "0 aktive Verm\u00f6gensposten > 0250-0599 ANDERE ANLAGEN, BETRIEBS- UND GESCH\u00c4FTSAUSSTATTUNG > 0300 Vereinsausstattung"
-        },
-        {
-            "lvl1": "0 aktive Verm\u00f6gensposten > 0250-0599 ANDERE ANLAGEN, BETRIEBS- UND GESCH\u00c4FTSAUSSTATTUNG"
-        },
-        {
-            "lvl0": "0 aktive Verm\u00f6gensposten"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "0 aktive Verm\u00f6gensposten > 0250-0599 ANDERE ANLAGEN, BETRIEBS- UND GESCH\u00c4FTSAUSSTATTUNG > 0300 Vereinsausstattung",
+    "hierarchicalCategories.lvl1": "0 aktive Verm\u00f6gensposten > 0250-0599 ANDERE ANLAGEN, BETRIEBS- UND GESCH\u00c4FTSAUSSTATTUNG",
+    "hierarchicalCategories.lvl0": "0 aktive Verm\u00f6gensposten",
     "notes": "bis 410\u20ac",
     "parent": "3fbd54ad3e051bfe7ab9ae141ffa21f8"
 }

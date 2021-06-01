@@ -1,11 +1,11 @@
 {
-    "objectID": "17d4b5a4b578ad6b4b9c1ba56a4822bd",
+    "id": "17d4b5a4b578ad6b4b9c1ba56a4822bd",
     "name": "16. au\u00dferordentliche Aufwendungen",
     "type": "Aufwand",
     "code": -1,
+    "sort-code": 9999,
     "description": "",
     "categories": [],
-    "hierarchicalCategories": [],
     "leaf": false,
     "placeholder": false,
     "parent": "1972cce2e2364f95b2b0bc014502661d"

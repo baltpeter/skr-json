@@ -1,22 +1,17 @@
 {
-    "objectID": "a4ca09669a36f58cc3081d5ecff9cdb6",
+    "id": "a4ca09669a36f58cc3081d5ecff9cdb6",
     "name": "10. Umsatzsteuer",
     "type": "Verbindlichkeit",
     "code": "3800",
+    "sort-code": 3800,
     "description": "",
     "categories": [
         "C. Verbindlichkeiten",
         "Passiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "Passiva > C. Verbindlichkeiten"
-        },
-        {
-            "lvl0": "Passiva"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl1": "Passiva > C. Verbindlichkeiten",
+    "hierarchicalCategories.lvl0": "Passiva",
     "placeholder": true,
     "parent": "8755bf4081c942798c5ac5f34c5b1aac"
 }

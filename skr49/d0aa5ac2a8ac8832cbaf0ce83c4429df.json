@@ -1,11 +1,11 @@
 {
-    "objectID": "d0aa5ac2a8ac8832cbaf0ce83c4429df",
+    "id": "d0aa5ac2a8ac8832cbaf0ce83c4429df",
     "name": "7 Erfolgskonten f\u00fcr ertragssteuerpflichtige Gesch\u00e4ftsbetriebe Sport",
     "type": "Ertrag",
     "code": "7",
+    "sort-code": 9999,
     "description": "Betriebseinnahmen und -Ausgaben aus nicht steuerbeg\u00fcnstigten sportlichen Bet\u00e4tigungen von Vereinen",
     "categories": [],
-    "hierarchicalCategories": [],
     "leaf": false,
     "notes": "Klasse 7: Ergebnisposten (T\u00e4tigkeitsbereich 7000)\nBetriebseinnahmen und Betriebsausgaben aus nicht steuerbeg\u00fcnstigten sportlichen Bet\u00e4tigungen gemeinn\u00fctziger Vereine und nicht gemeinn\u00fctziger Vereine \nUSt-Hinweis: 0%/7%/19%; USt-Vorsteuerabzug m\u00f6glich",
     "placeholder": true,

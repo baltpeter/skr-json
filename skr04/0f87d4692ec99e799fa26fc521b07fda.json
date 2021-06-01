@@ -1,8 +1,9 @@
 {
-    "objectID": "0f87d4692ec99e799fa26fc521b07fda",
+    "id": "0f87d4692ec99e799fa26fc521b07fda",
     "name": "Kapitalr\u00fccklage durch Ausgabe von Schuldverschreibungen f\u00fcr Wandlungsrechte und Optionsrechte zum Erwerb von Anteilen",
     "type": "Fremdkapital",
     "code": "2926",
+    "sort-code": 2926,
     "description": "",
     "categories": [
         "Kapitalr\u00fccklage",
@@ -11,24 +12,12 @@
         "A. Eigenkapital",
         "Passiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl4": "Passiva > A. Eigenkapital > b) Kapitalgesellschaft > II. Kapitalr\u00fccklage > Kapitalr\u00fccklage"
-        },
-        {
-            "lvl3": "Passiva > A. Eigenkapital > b) Kapitalgesellschaft > II. Kapitalr\u00fccklage"
-        },
-        {
-            "lvl2": "Passiva > A. Eigenkapital > b) Kapitalgesellschaft"
-        },
-        {
-            "lvl1": "Passiva > A. Eigenkapital"
-        },
-        {
-            "lvl0": "Passiva"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl4": "Passiva > A. Eigenkapital > b) Kapitalgesellschaft > II. Kapitalr\u00fccklage > Kapitalr\u00fccklage",
+    "hierarchicalCategories.lvl3": "Passiva > A. Eigenkapital > b) Kapitalgesellschaft > II. Kapitalr\u00fccklage",
+    "hierarchicalCategories.lvl2": "Passiva > A. Eigenkapital > b) Kapitalgesellschaft",
+    "hierarchicalCategories.lvl1": "Passiva > A. Eigenkapital",
+    "hierarchicalCategories.lvl0": "Passiva",
     "placeholder": false,
     "parent": "cb5efff60ddac9ff1f8ce3c4334e118b"
 }

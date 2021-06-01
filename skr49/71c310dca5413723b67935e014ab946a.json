@@ -1,22 +1,17 @@
 {
-    "objectID": "71c310dca5413723b67935e014ab946a",
+    "id": "71c310dca5413723b67935e014ab946a",
     "name": "Mitgliedsbeitr\u00e4ge",
     "type": "Ertrag",
     "code": "2110+2120",
+    "sort-code": 9999,
     "description": "Mitgliedsbeitr\u00e4ge",
     "categories": [
         "2000 EINNAHMEN",
         "2 Erfolgskonten ideeller Bereich"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "2 Erfolgskonten ideeller Bereich > 2000 EINNAHMEN"
-        },
-        {
-            "lvl0": "2 Erfolgskonten ideeller Bereich"
-        }
-    ],
     "leaf": false,
+    "hierarchicalCategories.lvl1": "2 Erfolgskonten ideeller Bereich > 2000 EINNAHMEN",
+    "hierarchicalCategories.lvl0": "2 Erfolgskonten ideeller Bereich",
     "placeholder": true,
     "parent": "7f9acf479f01b83b7313ab3082f3e64a"
 }

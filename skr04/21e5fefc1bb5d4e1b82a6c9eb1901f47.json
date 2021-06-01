@@ -1,18 +1,15 @@
 {
-    "objectID": "21e5fefc1bb5d4e1b82a6c9eb1901f47",
+    "id": "21e5fefc1bb5d4e1b82a6c9eb1901f47",
     "name": "Verrechnete sonstige Sachbez\u00fcge 16% USt",
     "type": "Ertrag",
     "code": "4947",
+    "sort-code": 4947,
     "description": "(z.B. Kfz-Gestellung)",
     "categories": [
         "04. Sonstige betriebliche Ertr\u00e4ge"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl0": "04. Sonstige betriebliche Ertr\u00e4ge"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl0": "04. Sonstige betriebliche Ertr\u00e4ge",
     "placeholder": false,
     "parent": "4c0c1557fe54e71d7ed717587a0c0b4d"
 }

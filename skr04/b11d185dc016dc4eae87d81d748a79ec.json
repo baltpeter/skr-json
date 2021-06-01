@@ -1,8 +1,9 @@
 {
-    "objectID": "b11d185dc016dc4eae87d81d748a79ec",
+    "id": "b11d185dc016dc4eae87d81d748a79ec",
     "name": "Verbindlichkeiten Kreditinstitut (g.5J)",
     "type": "Verbindlichkeit",
     "code": "3170",
+    "sort-code": 3170,
     "description": "",
     "categories": [
         "Verbindlichkeiten gegen\u00fcber Kreditinstituten",
@@ -10,21 +11,11 @@
         "C. Verbindlichkeiten",
         "Passiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl3": "Passiva > C. Verbindlichkeiten > 02. Verbindlichkeiten gegen\u00fcber Kreditinstituten > Verbindlichkeiten gegen\u00fcber Kreditinstituten"
-        },
-        {
-            "lvl2": "Passiva > C. Verbindlichkeiten > 02. Verbindlichkeiten gegen\u00fcber Kreditinstituten"
-        },
-        {
-            "lvl1": "Passiva > C. Verbindlichkeiten"
-        },
-        {
-            "lvl0": "Passiva"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl3": "Passiva > C. Verbindlichkeiten > 02. Verbindlichkeiten gegen\u00fcber Kreditinstituten > Verbindlichkeiten gegen\u00fcber Kreditinstituten",
+    "hierarchicalCategories.lvl2": "Passiva > C. Verbindlichkeiten > 02. Verbindlichkeiten gegen\u00fcber Kreditinstituten",
+    "hierarchicalCategories.lvl1": "Passiva > C. Verbindlichkeiten",
+    "hierarchicalCategories.lvl0": "Passiva",
     "placeholder": false,
     "parent": "3c1393a502f036b6961963e7c48a5bfe"
 }

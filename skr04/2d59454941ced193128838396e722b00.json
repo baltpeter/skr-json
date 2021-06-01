@@ -1,22 +1,17 @@
 {
-    "objectID": "2d59454941ced193128838396e722b00",
+    "id": "2d59454941ced193128838396e722b00",
     "name": "Gewinnvortrag 0% Vorbelastung (EK02)",
     "type": "Eigenkapital",
     "code": "7715",
+    "sort-code": 7715,
     "description": "",
     "categories": [
         "01. Gewinn-/Verlustvortrag nach Verwendung",
         "21. Ver\u00e4nderungen Vortr\u00e4ge und R\u00fccklagen"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "21. Ver\u00e4nderungen Vortr\u00e4ge und R\u00fccklagen > 01. Gewinn-/Verlustvortrag nach Verwendung"
-        },
-        {
-            "lvl0": "21. Ver\u00e4nderungen Vortr\u00e4ge und R\u00fccklagen"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl1": "21. Ver\u00e4nderungen Vortr\u00e4ge und R\u00fccklagen > 01. Gewinn-/Verlustvortrag nach Verwendung",
+    "hierarchicalCategories.lvl0": "21. Ver\u00e4nderungen Vortr\u00e4ge und R\u00fccklagen",
     "placeholder": false,
     "parent": "644e496fc6f9e01e389755e3bd69d80d"
 }

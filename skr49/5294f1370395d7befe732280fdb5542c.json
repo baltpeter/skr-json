@@ -1,26 +1,19 @@
 {
-    "objectID": "5294f1370395d7befe732280fdb5542c",
+    "id": "5294f1370395d7befe732280fdb5542c",
     "name": "Wirtschaftsg\u00fcter",
     "type": "Aktiva",
     "code": "0476",
+    "sort-code": 476,
     "description": "Wirtschaftsg\u00fcter",
     "categories": [
         "0400 Sonstige Anlagen und Ausstattung",
         "0250-0599 ANDERE ANLAGEN, BETRIEBS- UND GESCH\u00c4FTSAUSSTATTUNG",
         "0 aktive Verm\u00f6gensposten"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "0 aktive Verm\u00f6gensposten > 0250-0599 ANDERE ANLAGEN, BETRIEBS- UND GESCH\u00c4FTSAUSSTATTUNG > 0400 Sonstige Anlagen und Ausstattung"
-        },
-        {
-            "lvl1": "0 aktive Verm\u00f6gensposten > 0250-0599 ANDERE ANLAGEN, BETRIEBS- UND GESCH\u00c4FTSAUSSTATTUNG"
-        },
-        {
-            "lvl0": "0 aktive Verm\u00f6gensposten"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "0 aktive Verm\u00f6gensposten > 0250-0599 ANDERE ANLAGEN, BETRIEBS- UND GESCH\u00c4FTSAUSSTATTUNG > 0400 Sonstige Anlagen und Ausstattung",
+    "hierarchicalCategories.lvl1": "0 aktive Verm\u00f6gensposten > 0250-0599 ANDERE ANLAGEN, BETRIEBS- UND GESCH\u00c4FTSAUSSTATTUNG",
+    "hierarchicalCategories.lvl0": "0 aktive Verm\u00f6gensposten",
     "notes": "ehemals \u201eWirtschaftsg\u00fcter gr\u00f6\u00dfer 150 Euro bis 1000 Euro\u201c\nSammelposten\nKontenbeschriftung in 2018 ge\u00e4ndert.",
     "parent": "b60afedd03609c1848b6081702030ae1"
 }

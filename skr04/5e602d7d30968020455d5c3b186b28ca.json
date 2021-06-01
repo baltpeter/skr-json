@@ -1,18 +1,15 @@
 {
-    "objectID": "5e602d7d30968020455d5c3b186b28ca",
+    "id": "5e602d7d30968020455d5c3b186b28ca",
     "name": "Kapitalertragsteuer 25%",
     "type": "Aufwand",
     "code": "7630",
+    "sort-code": 7630,
     "description": "veraltet?",
     "categories": [
         "18. Steuern vom Einkommen und vom Ertrag"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl0": "18. Steuern vom Einkommen und vom Ertrag"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl0": "18. Steuern vom Einkommen und vom Ertrag",
     "placeholder": false,
     "parent": "b1f254106f1e487b31aad762ad1cca11"
 }

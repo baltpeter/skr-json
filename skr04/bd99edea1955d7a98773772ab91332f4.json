@@ -1,22 +1,17 @@
 {
-    "objectID": "bd99edea1955d7a98773772ab91332f4",
+    "id": "bd99edea1955d7a98773772ab91332f4",
     "name": "Abschreibungen aufgrund von Verlustanteilen an Mitunternehmerschaften \u00a78 GewStG",
     "type": "Aufwand",
     "code": "7208",
+    "sort-code": 7208,
     "description": "",
     "categories": [
         "Abschreibungen auf Finanzanlagen",
         "12. Abschreibungen auf Finanzanlagen und auf Wertpapiere des Umlaufverm\u00f6gens"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "12. Abschreibungen auf Finanzanlagen und auf Wertpapiere des Umlaufverm\u00f6gens > Abschreibungen auf Finanzanlagen"
-        },
-        {
-            "lvl0": "12. Abschreibungen auf Finanzanlagen und auf Wertpapiere des Umlaufverm\u00f6gens"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl1": "12. Abschreibungen auf Finanzanlagen und auf Wertpapiere des Umlaufverm\u00f6gens > Abschreibungen auf Finanzanlagen",
+    "hierarchicalCategories.lvl0": "12. Abschreibungen auf Finanzanlagen und auf Wertpapiere des Umlaufverm\u00f6gens",
     "placeholder": false,
     "parent": "330db1de3813d4b598b2646016d5bab4"
 }

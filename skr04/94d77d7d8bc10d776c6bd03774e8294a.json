@@ -1,22 +1,17 @@
 {
-    "objectID": "94d77d7d8bc10d776c6bd03774e8294a",
+    "id": "94d77d7d8bc10d776c6bd03774e8294a",
     "name": "Nicht abzugsf\u00e4hige Schuldzinsen (langfristig) gem\u00e4\u00df \u00a74 Abs. 4a EStG",
     "type": "Aufwand",
     "code": "7313",
+    "sort-code": 7313,
     "description": "Hinzurechnungsbetrag",
     "categories": [
         "Zinsaufwendungen f\u00fcr kurzfristige Verbindlichkeiten",
         "13. Zinsen und \u00e4hnliche Aufwendungen"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "13. Zinsen und \u00e4hnliche Aufwendungen > Zinsaufwendungen f\u00fcr kurzfristige Verbindlichkeiten"
-        },
-        {
-            "lvl0": "13. Zinsen und \u00e4hnliche Aufwendungen"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl1": "13. Zinsen und \u00e4hnliche Aufwendungen > Zinsaufwendungen f\u00fcr kurzfristige Verbindlichkeiten",
+    "hierarchicalCategories.lvl0": "13. Zinsen und \u00e4hnliche Aufwendungen",
     "placeholder": false,
     "parent": "71a9174e0b5d1b37537fbaae957435e9"
 }

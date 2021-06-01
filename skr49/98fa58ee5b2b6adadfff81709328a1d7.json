@@ -1,26 +1,19 @@
 {
-    "objectID": "98fa58ee5b2b6adadfff81709328a1d7",
+    "id": "98fa58ee5b2b6adadfff81709328a1d7",
     "name": "Fertige Erzeugnisse, Waren",
     "type": "Aktiva",
     "code": "0620-0629",
+    "sort-code": 9999,
     "description": "Fertige Erzeugnisse, Waren, Material",
     "categories": [
         "0600-0629 Vorr\u00e4te",
         "0600-0989 UMLAUFVERM\u00d6GEN",
         "0 aktive Verm\u00f6gensposten"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0600-0629 Vorr\u00e4te"
-        },
-        {
-            "lvl1": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN"
-        },
-        {
-            "lvl0": "0 aktive Verm\u00f6gensposten"
-        }
-    ],
     "leaf": false,
+    "hierarchicalCategories.lvl2": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN > 0600-0629 Vorr\u00e4te",
+    "hierarchicalCategories.lvl1": "0 aktive Verm\u00f6gensposten > 0600-0989 UMLAUFVERM\u00d6GEN",
+    "hierarchicalCategories.lvl0": "0 aktive Verm\u00f6gensposten",
     "placeholder": true,
     "parent": "6819284684797a0e73fdf3c7d3070c4c"
 }

@@ -1,21 +1,16 @@
 {
-    "objectID": "0b7c7a25fa6aa00ce4cce01ad3ceaa63",
+    "id": "0b7c7a25fa6aa00ce4cce01ad3ceaa63",
     "name": "Haftung aus der Bestellung von Sicherheiten f\u00fcr fremde Verbindlichkeiten",
     "type": "Verbindlichkeit",
     "code": "9277",
+    "sort-code": 9277,
     "description": "Haftung aus der Bestellung von Sicherheiten f\u00fcr fremde Verbindlichkeiten",
     "categories": [
         "9270-9485 STATISTISCHE KONTEN F\u00dcR IN DER BILANZ AUSZUWEISENDE HAFTUNGSVERH\u00c4LTNISSE",
         "9 Statistik- & Vortragskonten"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "9 Statistik- & Vortragskonten > 9270-9485 STATISTISCHE KONTEN F\u00dcR IN DER BILANZ AUSZUWEISENDE HAFTUNGSVERH\u00c4LTNISSE"
-        },
-        {
-            "lvl0": "9 Statistik- & Vortragskonten"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl1": "9 Statistik- & Vortragskonten > 9270-9485 STATISTISCHE KONTEN F\u00dcR IN DER BILANZ AUSZUWEISENDE HAFTUNGSVERH\u00c4LTNISSE",
+    "hierarchicalCategories.lvl0": "9 Statistik- & Vortragskonten",
     "parent": "4a4977a3aea7f63adea0e6188330d4a1"
 }

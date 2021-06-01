@@ -1,22 +1,17 @@
 {
-    "objectID": "175898858541f5e2e9076eced4e27fb7",
+    "id": "175898858541f5e2e9076eced4e27fb7",
     "name": "Zinsaufwendungen \u00a7233a AO betriebliche Steuern",
     "type": "Aufwand",
     "code": "7305",
+    "sort-code": 7305,
     "description": "",
     "categories": [
         "Zinsen und \u00e4hnliche Aufwendungen",
         "13. Zinsen und \u00e4hnliche Aufwendungen"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "13. Zinsen und \u00e4hnliche Aufwendungen > Zinsen und \u00e4hnliche Aufwendungen"
-        },
-        {
-            "lvl0": "13. Zinsen und \u00e4hnliche Aufwendungen"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl1": "13. Zinsen und \u00e4hnliche Aufwendungen > Zinsen und \u00e4hnliche Aufwendungen",
+    "hierarchicalCategories.lvl0": "13. Zinsen und \u00e4hnliche Aufwendungen",
     "placeholder": false,
     "parent": "8077a61128333def2454214ea7b6df5c"
 }

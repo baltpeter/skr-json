@@ -1,25 +1,18 @@
 {
-    "objectID": "87b293e2c0e31f042dc4c2a397e9a350",
+    "id": "87b293e2c0e31f042dc4c2a397e9a350",
     "name": "Investitionsverbindlichkeiten bei den Leistungsverbindlichkeiten",
     "type": "Aktiva",
     "code": "9240",
+    "sort-code": 9240,
     "description": "Investitionsverbindlichkeiten bei den Leistungsverbindlichkeiten",
     "categories": [
         "9240-9249 Statistische Konten f\u00fcr die Kapitalflussrechnung",
         "9000-9249 STATISTISCHE KONTEN",
         "9 Statistik- & Vortragskonten"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "9 Statistik- & Vortragskonten > 9000-9249 STATISTISCHE KONTEN > 9240-9249 Statistische Konten f\u00fcr die Kapitalflussrechnung"
-        },
-        {
-            "lvl1": "9 Statistik- & Vortragskonten > 9000-9249 STATISTISCHE KONTEN"
-        },
-        {
-            "lvl0": "9 Statistik- & Vortragskonten"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "9 Statistik- & Vortragskonten > 9000-9249 STATISTISCHE KONTEN > 9240-9249 Statistische Konten f\u00fcr die Kapitalflussrechnung",
+    "hierarchicalCategories.lvl1": "9 Statistik- & Vortragskonten > 9000-9249 STATISTISCHE KONTEN",
+    "hierarchicalCategories.lvl0": "9 Statistik- & Vortragskonten",
     "parent": "05b05f4c0b474b47b4cced5499251116"
 }

@@ -1,22 +1,17 @@
 {
-    "objectID": "324a639123395bf6c062e8926a037ff4",
+    "id": "324a639123395bf6c062e8926a037ff4",
     "name": "Forderungen aus Lieferungen und Leistungen zum erm\u00e4\u00dfigten Umsatzsteuersatz",
     "type": "Forderung",
     "code": "9501",
+    "sort-code": 9501,
     "description": "Forderungen aus Lieferungen und Leistungen zum erm\u00e4\u00dfigten Umsatzsteuersatz",
     "categories": [
         "9500-9599 STATISTISCHE WERTE F\u00dcR ANLAGE E\u00dcR",
         "9 Statistik- & Vortragskonten"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "9 Statistik- & Vortragskonten > 9500-9599 STATISTISCHE WERTE F\u00dcR ANLAGE E\u00dcR"
-        },
-        {
-            "lvl0": "9 Statistik- & Vortragskonten"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl1": "9 Statistik- & Vortragskonten > 9500-9599 STATISTISCHE WERTE F\u00dcR ANLAGE E\u00dcR",
+    "hierarchicalCategories.lvl0": "9 Statistik- & Vortragskonten",
     "notes": "Veraltet, in der Version 2017 nicht mehr enthalten!",
     "placeholder": true,
     "parent": "baac2841267ad2422440263668815280"

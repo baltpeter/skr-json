@@ -1,26 +1,19 @@
 {
-    "objectID": "75777d83ac55056e68458f94f0526bbf",
+    "id": "75777d83ac55056e68458f94f0526bbf",
     "name": "Ertr\u00e4ge aus der Aufl\u00f6sung einer steuerlichen R\u00fccklage",
     "type": "Ertrag",
     "code": "4493",
+    "sort-code": 4493,
     "description": "Ertr\u00e4ge aus der Aufl\u00f6sung einer steuerlichen R\u00fccklage",
     "categories": [
         "4400 Steuerpflichtige Einnahmen",
         "4400-4499 EINNAHMEN NGV",
         "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl2": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4400-4499 EINNAHMEN NGV > 4400 Steuerpflichtige Einnahmen"
-        },
-        {
-            "lvl1": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4400-4499 EINNAHMEN NGV"
-        },
-        {
-            "lvl0": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl2": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4400-4499 EINNAHMEN NGV > 4400 Steuerpflichtige Einnahmen",
+    "hierarchicalCategories.lvl1": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung > 4400-4499 EINNAHMEN NGV",
+    "hierarchicalCategories.lvl0": "4 Erfolgskonten f\u00fcr Verm\u00f6gensverwaltung",
     "notes": "ehemals \u201eErtr\u00e4ge aus der Aufl\u00f6sung von Sonderposten mit R\u00fccklageanteil\u201c",
     "parent": "381598618cc0baf4bd0acca9cb0ad79b"
 }

@@ -1,21 +1,16 @@
 {
-    "objectID": "20a13b07d90c5b385e78190525439aa2",
+    "id": "20a13b07d90c5b385e78190525439aa2",
     "name": "Mobilfunk D2",
     "type": "Aufwand",
     "code": "4921",
+    "sort-code": 4921,
     "description": "",
     "categories": [
         "verschiedene Kosten",
         "Aufwendungen 2/4"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "Aufwendungen 2/4 > verschiedene Kosten"
-        },
-        {
-            "lvl0": "Aufwendungen 2/4"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl1": "Aufwendungen 2/4 > verschiedene Kosten",
+    "hierarchicalCategories.lvl0": "Aufwendungen 2/4",
     "parent": "d0c00095e4b00f9f25253307be05e885"
 }

@@ -1,11 +1,11 @@
 {
-    "objectID": "ef9980b6277cc8f46bc1b1411ea65c87",
+    "id": "ef9980b6277cc8f46bc1b1411ea65c87",
     "name": "01. Betriebliche Ertr\u00e4ge",
     "type": "Ertrag",
     "code": -1,
+    "sort-code": 9999,
     "description": "",
     "categories": [],
-    "hierarchicalCategories": [],
     "leaf": false,
     "placeholder": false,
     "tax-related": false,

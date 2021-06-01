@@ -1,22 +1,17 @@
 {
-    "objectID": "a4d96f9f3cf84a6f9d356bb79305d1c3",
+    "id": "a4d96f9f3cf84a6f9d356bb79305d1c3",
     "name": "Zinsaufwendungen an Mitunternehmer f\u00fcr die Hingabe von Kapital \u00a715 EStG",
     "type": "Aufwand",
     "code": "7328",
+    "sort-code": 7328,
     "description": "",
     "categories": [
         "Zinsaufwendungen f\u00fcr langfristige Verbindlichkeiten",
         "13. Zinsen und \u00e4hnliche Aufwendungen"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "13. Zinsen und \u00e4hnliche Aufwendungen > Zinsaufwendungen f\u00fcr langfristige Verbindlichkeiten"
-        },
-        {
-            "lvl0": "13. Zinsen und \u00e4hnliche Aufwendungen"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl1": "13. Zinsen und \u00e4hnliche Aufwendungen > Zinsaufwendungen f\u00fcr langfristige Verbindlichkeiten",
+    "hierarchicalCategories.lvl0": "13. Zinsen und \u00e4hnliche Aufwendungen",
     "placeholder": false,
     "parent": "40bbf2cc46016fd17529264fd27c534d"
 }

@@ -1,21 +1,16 @@
 {
-    "objectID": "86f888de9893496fcfcdfe7636f9748d",
+    "id": "86f888de9893496fcfcdfe7636f9748d",
     "name": "Verpflichtungen aus Treuhandverm\u00f6gen",
     "type": "Verbindlichkeit",
     "code": "9279",
+    "sort-code": 9279,
     "description": "Verpflichtungen aus Treuhandverm\u00f6gen",
     "categories": [
         "9270-9485 STATISTISCHE KONTEN F\u00dcR IN DER BILANZ AUSZUWEISENDE HAFTUNGSVERH\u00c4LTNISSE",
         "9 Statistik- & Vortragskonten"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "9 Statistik- & Vortragskonten > 9270-9485 STATISTISCHE KONTEN F\u00dcR IN DER BILANZ AUSZUWEISENDE HAFTUNGSVERH\u00c4LTNISSE"
-        },
-        {
-            "lvl0": "9 Statistik- & Vortragskonten"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl1": "9 Statistik- & Vortragskonten > 9270-9485 STATISTISCHE KONTEN F\u00dcR IN DER BILANZ AUSZUWEISENDE HAFTUNGSVERH\u00c4LTNISSE",
+    "hierarchicalCategories.lvl0": "9 Statistik- & Vortragskonten",
     "parent": "4a4977a3aea7f63adea0e6188330d4a1"
 }

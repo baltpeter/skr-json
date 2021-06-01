@@ -1,22 +1,17 @@
 {
-    "objectID": "1411997e25e0110f4a3202a4ccdd692f",
+    "id": "1411997e25e0110f4a3202a4ccdd692f",
     "name": "Vorabaussch\u00fcttung",
     "type": "Eigenkapital",
     "code": "7790",
+    "sort-code": 7790,
     "description": "",
     "categories": [
         "03. Einstellungen in Gewinnr\u00fccklagen",
         "21. Ver\u00e4nderungen Vortr\u00e4ge und R\u00fccklagen"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "21. Ver\u00e4nderungen Vortr\u00e4ge und R\u00fccklagen > 03. Einstellungen in Gewinnr\u00fccklagen"
-        },
-        {
-            "lvl0": "21. Ver\u00e4nderungen Vortr\u00e4ge und R\u00fccklagen"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl1": "21. Ver\u00e4nderungen Vortr\u00e4ge und R\u00fccklagen > 03. Einstellungen in Gewinnr\u00fccklagen",
+    "hierarchicalCategories.lvl0": "21. Ver\u00e4nderungen Vortr\u00e4ge und R\u00fccklagen",
     "placeholder": false,
     "parent": "f14569e730ac327e0d442683013d415a"
 }

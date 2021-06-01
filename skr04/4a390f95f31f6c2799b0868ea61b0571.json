@@ -1,8 +1,9 @@
 {
-    "objectID": "4a390f95f31f6c2799b0868ea61b0571",
+    "id": "4a390f95f31f6c2799b0868ea61b0571",
     "name": "Umsatzsteuer EG-Lieferungen 15%/16%",
     "type": "Verbindlichkeit",
     "code": "3808",
+    "sort-code": 3808,
     "description": "",
     "categories": [
         "Umsatzsteuer aus im Inland steuerpflichtigen EG-Lieferungen",
@@ -10,21 +11,11 @@
         "C. Verbindlichkeiten",
         "Passiva"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl3": "Passiva > C. Verbindlichkeiten > 10. Umsatzsteuer > Umsatzsteuer aus im Inland steuerpflichtigen EG-Lieferungen"
-        },
-        {
-            "lvl2": "Passiva > C. Verbindlichkeiten > 10. Umsatzsteuer"
-        },
-        {
-            "lvl1": "Passiva > C. Verbindlichkeiten"
-        },
-        {
-            "lvl0": "Passiva"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl3": "Passiva > C. Verbindlichkeiten > 10. Umsatzsteuer > Umsatzsteuer aus im Inland steuerpflichtigen EG-Lieferungen",
+    "hierarchicalCategories.lvl2": "Passiva > C. Verbindlichkeiten > 10. Umsatzsteuer",
+    "hierarchicalCategories.lvl1": "Passiva > C. Verbindlichkeiten",
+    "hierarchicalCategories.lvl0": "Passiva",
     "placeholder": false,
     "parent": "1ac3610bf6825ca16c1dd555cb44940d"
 }

@@ -1,21 +1,16 @@
 {
-    "objectID": "8c605e342aae45f2df00242e3c7ace6c",
+    "id": "8c605e342aae45f2df00242e3c7ace6c",
     "name": "Sonstige Einnahmen ideeller Bereich",
     "type": "Ertrag",
     "code": "2400",
+    "sort-code": 2400,
     "description": "Sonstige nicht steuerbare Einnahmen Bereich 2000",
     "categories": [
         "2000 EINNAHMEN",
         "2 Erfolgskonten ideeller Bereich"
     ],
-    "hierarchicalCategories": [
-        {
-            "lvl1": "2 Erfolgskonten ideeller Bereich > 2000 EINNAHMEN"
-        },
-        {
-            "lvl0": "2 Erfolgskonten ideeller Bereich"
-        }
-    ],
     "leaf": true,
+    "hierarchicalCategories.lvl1": "2 Erfolgskonten ideeller Bereich > 2000 EINNAHMEN",
+    "hierarchicalCategories.lvl0": "2 Erfolgskonten ideeller Bereich",
     "parent": "7f9acf479f01b83b7313ab3082f3e64a"
 }
